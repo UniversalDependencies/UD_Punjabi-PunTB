@@ -1,0 +1,1910 @@
+# sent_id = indiccorp_1
+# text = ਰਾਸ਼ਟਰਪਤੀ ਰਿਟਾਇਰਮੈਂਟ ਨੂੰ ਘਟਾਉਣ ਲਈ ਅਸਫਲ ਕੋਸ਼ਿਸ਼
+1	ਰਾਸ਼ਟਰਪਤੀ	_	NOUN	_	_	2	nmod	_	_
+2	ਰਿਟਾਇਰਮੈਂਟ	_	NOUN	_	_	4	obj	_	_
+3	ਨੂੰ	_	ADP	_	_	2	case	_	_
+4	ਘਟਾਉਣ	_	VERB	_	_	7	acl	_	_
+5	ਲਈ	_	ADP	_	_	4	mark	_	_
+6	ਅਸਫਲ	_	ADJ	_	_	7	amod	_	_
+7	ਕੋਸ਼ਿਸ਼	_	NOUN	_	_	0	root	_	_
+
+# sent_id = indiccorp_2
+# text = ਸਿਕੰਦਰ ਸਿੰਘ ਮਲੂਕਾ ਅਤੇ ਖੇਡ ਵਿਭਾਗ ਦੇ ਉਚ ਅਧਿਕਾਰੀਆਂ ਦਾ ਤਹਿ ਦਿਲੋਂ ਧੰਨਵਾਦ ਕੀਤਾ ਹੈ ਜਿਨ੍ਹਾਂ ਦੇ ਸਹਿਯੋਗ ਸਦਕਾ ਨਿਊਜ਼ੀਲੈਂਡ ਦੀਆਂ ਖਿਡਾਰਨਾਂ ਪਹਿਲੀ ਵਾਰ ਪੰਜਾਬੀਆਂ ਦੀ ਮਾਂ ਖੇਡ ਕਬੱਡੀ ਨੂੰ ਖੇਡ ਕੇ ਇਕ ਨਵਾਂ ਇਤਿਹਾਸ ਰਚਣਗੀਆਂ।
+1	ਸਿਕੰਦਰ	_	PROPN	_	_	13	nmod	_	_
+2	ਸਿੰਘ	_	PROPN	_	_	1	flat	_	_
+3	ਮਲੂਕਾ	_	PROPN	_	_	1	flat	_	_
+4	ਅਤੇ	_	CCONJ	_	_	9	cc	_	_
+5	ਖੇਡ	_	NOUN	_	_	6	nmod	_	_
+6	ਵਿਭਾਗ	_	NOUN	_	_	9	nmod	_	_
+7	ਦੇ	_	ADP	_	_	6	case	_	_
+8	ਉਚ	_	ADJ	_	_	9	amod	_	_
+9	ਅਧਿਕਾਰੀਆਂ	_	NOUN	_	_	1	conj	_	_
+10	ਦਾ	_	ADP	_	_	1	case	_	_
+11	ਤਹਿ	_	ADJ	_	_	12	amod	_	_
+12	ਦਿਲੋਂ	_	NOUN	_	_	13	obl	_	_
+13	ਧੰਨਵਾਦ	_	NOUN	_	_	14	compound:lvc	_	_
+14	ਕੀਤਾ	_	VERB	_	_	0	root	_	_
+15	ਹੈ	_	AUX	_	_	14	aux	_	_
+16	ਜਿਨ੍ਹਾਂ	_	PRON	_	_	18	nmod	_	_
+17	ਦੇ	_	ADP	_	_	16	case	_	_
+18	ਸਹਿਯੋਗ	_	NOUN	_	_	36	obl	_	_
+19	ਸਦਕਾ	_	ADP	_	_	18	case	_	_
+20	ਨਿਊਜ਼ੀਲੈਂਡ	_	PROPN	_	_	22	nmod	_	_
+21	ਦੀਆਂ	_	ADP	_	_	20	case	_	_
+22	ਖਿਡਾਰਨਾਂ	_	NOUN	_	_	36	nsubj	_	_
+23	ਪਹਿਲੀ	_	ADJ	_	_	24	amod	_	_
+24	ਵਾਰ	_	NOUN	_	_	31	obl:tmod	_	_
+25	ਪੰਜਾਬੀਆਂ	_	PROPN	_	_	28	nmod	_	_
+26	ਦੀ	_	ADP	_	_	25	case	_	_
+27	ਮਾਂ	_	NOUN	_	_	28	compound	_	_
+28	ਖੇਡ	_	NOUN	_	_	29	appos	_	_
+29	ਕਬੱਡੀ	_	NOUN	_	_	31	obj	_	_
+30	ਨੂੰ	_	ADP	_	_	29	case	_	_
+31	ਖੇਡ	_	VERB	_	_	36	advcl	_	_
+32	ਕੇ	_	AUX	_	_	31	aux	_	_
+33	ਇਕ	_	NUM	_	_	35	nummod	_	_
+34	ਨਵਾਂ	_	ADJ	_	_	35	amod	_	_
+35	ਇਤਿਹਾਸ	_	NOUN	_	_	36	obj	_	_
+36	ਰਚਣਗੀਆਂ	_	VERB	_	_	1	acl:relcl	_	_
+37	।	_	PUNCT	_	_	14	punct	_	_
+
+# sent_id = indiccorp_4
+# text = ਉਨਾਂ ਨੇ ਮਾਤਾ ਚੰਦ ਕੌਰ ਅਤੇ ਖੰਨਾ ਦੇ ਸ਼ਿਵ ਸੈਨਾ ਆਗੂ ਦੇ ਕਤਲਾਂ ਨੂੰ ਕਵਰ ਅਪ ਕਰਨ ਵਿੱਚ ਸਹਾਇਤਾ ਕੀਤੀ।
+1	ਉਨਾਂ	_	PRON	_	_	19	nsubj	_	_
+2	ਨੇ	_	ADP	_	_	1	case	_	_
+3	ਮਾਤਾ	_	PROPN	_	_	13	nmod	_	_
+4	ਚੰਦ	_	PROPN	_	_	3	flat	_	_
+5	ਕੌਰ	_	PROPN	_	_	3	flat	_	_
+6	ਅਤੇ	_	CCONJ	_	_	7	cc	_	_
+7	ਖੰਨਾ	_	PROPN	_	_	3	conj	_	_
+8	ਦੇ	_	ADP	_	_	3	case	_	_
+9	ਸ਼ਿਵ	_	PROPN	_	_	10	compound	_	_
+10	ਸੈਨਾ	_	PROPN	_	_	11	nmod	_	_
+11	ਆਗੂ	_	NOUN	_	_	13	nmod	_	_
+12	ਦੇ	_	ADP	_	_	11	case	_	_
+13	ਕਤਲਾਂ	_	NOUN	_	_	17	obj	_	_
+14	ਨੂੰ	_	ADP	_	_	13	case	_	_
+15	ਕਵਰ	_	X	_	_	17	compound:lvc	_	_
+16	ਅਪ	_	X	_	_	15	flat	_	_
+17	ਕਰਨ	_	VERB	_	_	19	advcl	_	_
+18	ਵਿੱਚ	_	ADP	_	_	17	mark	_	_
+19	ਸਹਾਇਤਾ	_	NOUN	_	_	20	compound:lvc	_	_
+20	ਕੀਤੀ	_	VERB	_	_	0	root	_	_
+21	।	_	PUNCT	_	_	20	punct	_	_
+
+# sent_id = indiccorp_5
+# text = ਰਾਹੁਲ ਗਾਂਧੀ ਲੋਕ ਸਭਾ ਚੋਣਾਂ ਨੂੰ ਧਿਆਨ ਵਿੱਚ ਰੱਖਦੇ ਹੋਏ ਆਪਣੇ ਆਪ ਨੂੰ ਕਿਸਾਨਾਂ ਦਾ ਵੱਡਾ ਹਮਦਰਦ ਦੱਸ ਰਹੇ ਹਨ।
+1	ਰਾਹੁਲ	_	PROPN	_	_	18	nsubj	_	_
+2	ਗਾਂਧੀ	_	PROPN	_	_	1	flat	_	_
+3	ਲੋਕ	_	PROPN	_	_	4	compound	_	_
+4	ਸਭਾ	_	PROPN	_	_	5	compound	_	_
+5	ਚੋਣਾਂ	_	NOUN	_	_	9	obj	_	_
+6	ਨੂੰ	_	ADP	_	_	5	case	_	_
+7	ਧਿਆਨ	_	NOUN	_	_	9	obl	_	_
+8	ਵਿੱਚ	_	ADP	_	_	7	case	_	_
+9	ਰੱਖਦੇ	_	VERB	_	_	18	advcl	_	_
+10	ਹੋਏ	_	AUX	_	_	9	aux	_	_
+11	ਆਪਣੇ	_	PRON	_	_	12	fixed	_	_
+12	ਆਪ	_	PRON	_	_	18	obj	_	_
+13	ਨੂੰ	_	ADP	_	_	12	case	_	_
+14	ਕਿਸਾਨਾਂ	_	NOUN	_	_	17	nmod	_	_
+15	ਦਾ	_	ADP	_	_	14	case	_	_
+16	ਵੱਡਾ	_	ADJ	_	_	17	amod	_	_
+17	ਹਮਦਰਦ	_	NOUN	_	_	18	xcomp	_	_
+18	ਦੱਸ	_	VERB	_	_	0	root	_	_
+19	ਰਹੇ	_	AUX	_	_	18	aux	_	_
+20	ਹਨ	_	AUX	_	_	18	aux	_	_
+21	।	_	PUNCT	_	_	18	punct	_	_
+
+# sent_id = indiccorp_6
+# text = ਗਰਮੀਆਂ ਵਿੱਚ ਤਾਂ ਇਹ ਕੀੜੇ-ਮਕੌੜੇ, ਸੁੰਡੀਆਂ ਅਤੇ ਕੀੜਿਆਂ ਦੇ ਅੰਡੇ ਪੱਤਿਆਂ ਉਪਰੋਂ ਜਾਂ ਫੁੱਲਾਂ ਦੇ ਗੁੱਛਿਆਂ ਵਿੱਚੋਂ ਫੜ ਕੇ ਖਾਂਦੇ ਹਨ, ਪਰ ਸਰਦੀਆਂ ਵਿੱਚ ਇਹ ਛੋਟੇ ਫਲ਼ ਅਤੇ ਗਿਰੀਆਂ ਵੀ ਖਾਂਦੇ ਹਨ।
+1	ਗਰਮੀਆਂ	_	NOUN	_	_	22	obl	_	_
+2	ਵਿੱਚ	_	ADP	_	_	1	case	_	_
+3	ਤਾਂ	_	PART	_	_	1	discourse	_	_
+4	ਇਹ	_	DET	_	_	22	nsubj	_	_
+5-6	ਕੀੜੇ-ਮਕੌੜੇ	_	_	_	_	_	_	_	_
+5	ਕੀੜੇ	_	NOUN	_	_	20	obj	_	_
+6	ਮਕੌੜੇ	_	NOUN	_	_	5	conj	_	_
+7	,	_	PUNCT	_	_	8	punct	_	_
+8	ਸੁੰਡੀਆਂ	_	NOUN	_	_	5	conj	_	_
+9	ਅਤੇ	_	CCONJ	_	_	12	cc	_	_
+10	ਕੀੜਿਆਂ	_	NOUN	_	_	12	nmod	_	_
+11	ਦੇ	_	ADP	_	_	10	case	_	_
+12	ਅੰਡੇ	_	NOUN	_	_	5	conj	_	_
+13	ਪੱਤਿਆਂ	_	NUM	_	_	20	obl	_	_
+14	ਉਪਰੋਂ	_	ADP	_	_	13	case	_	_
+15	ਜਾਂ	_	CCONJ	_	_	18	cc	_	_
+16	ਫੁੱਲਾਂ	_	NOUN	_	_	18	nmod	_	_
+17	ਦੇ	_	ADP	_	_	16	case	_	_
+18	ਗੁੱਛਿਆਂ	_	NOUN	_	_	13	conj	_	_
+19	ਵਿੱਚੋਂ	_	ADP	_	_	18	case	_	_
+20	ਫੜ	_	VERB	_	_	22	advcl	_	_
+21	ਕੇ	_	AUX	_	_	20	aux	_	_
+22	ਖਾਂਦੇ	_	VERB	_	_	0	root	_	_
+23	ਹਨ	_	AUX	_	_	22	aux	_	_
+24	,	_	PUNCT	_	_	34	punct	_	_
+25	ਪਰ	_	CCONJ	_	_	34	cc	_	_
+26	ਸਰਦੀਆਂ	_	NOUN	_	_	34	obl	_	_
+27	ਵਿੱਚ	_	ADP	_	_	26	case	_	_
+28	ਇਹ	_	DET	_	_	34	nsubj	_	_
+29	ਛੋਟੇ	_	ADJ	_	_	30	amod	_	_
+30	ਫਲ਼	_	NOUN	_	_	34	obj	_	_
+31	ਅਤੇ	_	CCONJ	_	_	32	cc	_	_
+32	ਗਿਰੀਆਂ	_	NOUN	_	_	30	conj	_	_
+33	ਵੀ	_	PART	_	_	32	discourse	_	_
+34	ਖਾਂਦੇ	_	VERB	_	_	22	conj	_	_
+35	ਹਨ	_	AUX	_	_	34	aux	_	_
+36	।	_	PUNCT	_	_	22	punct	_	_
+
+# sent_id = indiccorp_7
+# text = ਕਾਂਸ਼ਰਾਮ ਨੇ ਦਲਿਤਾਂ ਨਾਲ ਜੁੜੇ ਸਵਾਲ ਅਤੇ ਅੰਬੇਡਕਰ ਜਯੰਤੀ ਵਾਲੇ ਦਿਨ ਛੁੱਟੀ ਐਲਾਨਣ ਦੀ ਮੰਗ ਚੁੱਕੀ।
+1	ਕਾਂਸ਼ਰਾਮ	_	PROPN	_	_	16	nsubj	_	_
+2	ਨੇ	_	ADP	_	_	1	case	_	_
+3	ਦਲਿਤਾਂ	_	NOUN	_	_	5	obj	_	_
+4	ਨਾਲ	_	ADP	_	_	3	case	_	_
+5	ਜੁੜੇ	_	VERB	_	_	6	acl	_	_
+6	ਸਵਾਲ	_	NOUN	_	_	15	nmod	_	_
+7	ਅਤੇ	_	CCONJ	_	_	13	cc	_	_
+8	ਅੰਬੇਡਕਰ	_	PROPN	_	_	11	nmod	_	_
+9	ਜਯੰਤੀ	_	PROPN	_	_	8	flat	_	_
+10	ਵਾਲੇ	_	ADP	_	_	8	case	_	_
+11	ਦਿਨ	_	NOUN	_	_	13	obl	_	_
+12	ਛੁੱਟੀ	_	NOUN	_	_	13	obj	_	_
+13	ਐਲਾਨਣ	_	VERB	_	_	6	conj	_	_
+14	ਦੀ	_	ADP	_	_	6	cc	_	_
+15	ਮੰਗ	_	NOUN	_	_	16	compound:lvc	_	_
+16	ਚੁੱਕੀ	_	VERB	_	_	0	root	_	_
+17	।	_	PUNCT	_	_	16	punct	_	_
+
+# sent_id = indiccorp_8
+# text = ਉਨ੍ਹਾਂ ਕਿਹਾ ਕਿ ਕੈਬਨਿਟ ਮੰਤਰੀ ਬਾਜਵਾ ਤਾਂ ਬਿਕਰਮ ਸਿੰਘ ਮਜੀਠੀਆ ਤੋਂ ਪੁੱਛ-ਪੁੱਛ ਕੇ ਕੰਮ ਕਰ ਰਹੇ ਹਨ।
+1	ਉਨ੍ਹਾਂ	_	PRON	_	_	2	nsubj	_	_
+2	ਕਿਹਾ	_	VERB	_	_	0	root	_	_
+3	ਕਿ	_	SCONJ	_	_	15	mark	_	_
+4	ਕੈਬਨਿਟ	_	NOUN	_	_	5	compound	_	_
+5	ਮੰਤਰੀ	_	NOUN	_	_	15	nsubj	_	_
+6	ਬਾਜਵਾ	_	PROPN	_	_	5	flat	_	_
+7	ਤਾਂ	_	PART	_	_	5	discourse	_	_
+8	ਬਿਕਰਮ	_	PROPN	_	_	12	obl	_	_
+9	ਸਿੰਘ	_	PROPN	_	_	8	flat	_	_
+10	ਮਜੀਠੀਆ	_	PRON	_	_	8	flat	_	_
+11	ਤੋਂ	_	ADP	_	_	8	case	_	_
+12	ਪੁੱਛ-ਪੁੱਛ	_	VERB	_	_	15	advcl	_	_
+13	ਕੇ	_	AUX	_	_	12	aux	_	_
+14	ਕੰਮ	_	NOUN	_	_	15	obj	_	_
+15	ਕਰ	_	VERB	_	_	2	ccomp	_	_
+16	ਰਹੇ	_	AUX	_	_	15	aux	_	_
+17	ਹਨ	_	AUX	_	_	15	aux	_	_
+18	।	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = indiccorp_9
+# text = ਆਪਣੇ ਆਪ ਨੂੰ ਚੈੱਕ ਕਰੋ: ਪੇਟ ਦੇ ਅੰਦਰ ਪੱਟੀ ਨੂੰ ਸਹੀ ਢੰਗ ਨਾਲ ਪਾਓ, ਪੱਬਾਂ ਦੀ ਹੱਡੀ ਫੜੋ, ਅਤੇ ਕੁੜੀਆਂ 'ਤੇ ਝੁਕੋ.
+1	ਆਪਣੇ	_	PRON	_	_	2	fixed	_	_
+2	ਆਪ	_	PRON	_	_	5	obj	_	_
+3	ਨੂੰ	_	ADP	_	_	2	case	_	_
+4	ਚੈੱਕ	_	X	_	_	5	compound:lvc	_	_
+5	ਕਰੋ	_	VERB	_	_	_	_	_	_
+6	:	_	PUNCT	_	_	15	punct	_	_
+7	ਪੇਟ	_	NOUN	_	_	15	obl	_	_
+8	ਦੇ	_	ADP	_	_	7	case	_	_
+9	ਅੰਦਰ	_	ADP	_	_	8	fixed	_	_
+10	ਪੱਟੀ	_	NOUN	_	_	15	obj	_	_
+11	ਨੂੰ	_	ADP	_	_	10	case	_	_
+12	ਸਹੀ	_	ADJ	_	_	13	amod	_	_
+13	ਢੰਗ	_	NOUN	_	_	15	obl	_	_
+14	ਨਾਲ	_	ADP	_	_	13	case	_	_
+15	ਪਾਓ	_	VERB	_	_	5	parataxis	_	_
+16	,	_	PUNCT	_	_	20	punct	_	_
+17	ਪੱਬਾਂ	_	NOUN	_	_	19	nmod	_	_
+18	ਦੀ	_	ADP	_	_	17	case	_	_
+19	ਹੱਡੀ	_	NOUN	_	_	20	obj	_	_
+20	ਫੜੋ	_	VERB	_	_	15	conj	_	_
+21	,	_	PUNCT	_	_	25	punct	_	_
+22	ਅਤੇ	_	CCONJ	_	_	25	cc	_	_
+23	ਕੁੜੀਆਂ	_	NOUN	_	_	25	obl	_	_
+24	'ਤੇ	_	ADP	_	_	23	case	_	_
+25	ਝੁਕੋ	_	VERB	_	_	15	conj	_	_
+26	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = indiccorp_10
+# text = ਆਪਰੇਸ਼ਨ ਦੇ ਬਾਅਦ ਹੁਣ ਲੀ ਸਿੱਧਾ ਖੜ੍ਹਾ ਹੋ ਸਕਿਆ ਹੈ।
+1	ਆਪਰੇਸ਼ਨ	_	NOUN	_	_	8	obl	_	_
+2	ਦੇ	_	ADP	_	_	1	case	_	_
+3	ਬਾਅਦ	_	ADP	_	_	2	fixed	_	_
+4	ਹੁਣ	_	ADV	_	_	8	advmod	_	_
+5	ਲੀ	_	PROPN	_	_	8	nsubj	_	_
+6	ਸਿੱਧਾ	_	ADJ	_	_	7	advmod	_	_
+7	ਖੜ੍ਹਾ	_	ADJ	_	_	8	compound:lvc	_	_
+8	ਹੋ	_	VERB	_	_	0	root	_	_
+9	ਸਕਿਆ	_	VERB	_	_	8	compound:svc	_	_
+10	ਹੈ	_	AUX	_	_	8	aux	_	_
+11	।	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = indiccorp_11
+# text = ਇਸ ਦੇ ਨਾਲ ਹੀ ਉਹ ਆਪਣੇ ਫੈਨਜ਼ ਵਿਚਕਾਰ ਕੁਝ ਤਸਵੀਰਾਂ ਨੂੰ ਵੀ ਸੋਸ਼ਲ ਮੀਡੀਆ 'ਤੇ ਪੋਸਟ ਕਰ ਰਹੀ ਹੈ।
+1	ਇਸ	_	PRON	_	_	17	obl	_	_
+2	ਦੇ	_	ADP	_	_	1	case	_	_
+3	ਨਾਲ	_	ADP	_	_	2	fixed	_	_
+4	ਹੀ	_	PART	_	_	1	discourse	_	_
+5	ਉਹ	_	PRON	_	_	17	nsubj	_	_
+6	ਆਪਣੇ	_	PRON	_	_	7	nmod	_	_
+7	ਫੈਨਜ਼	_	NOUN	_	_	17	obl	_	_
+8	ਵਿਚਕਾਰ	_	ADP	_	_	7	case	_	_
+9	ਕੁਝ	_	DET	_	_	10	det	_	_
+10	ਤਸਵੀਰਾਂ	_	NOUN	_	_	17	obj	_	_
+11	ਨੂੰ	_	ADP	_	_	10	case	_	_
+12	ਵੀ	_	PART	_	_	10	discourse	_	_
+13	ਸੋਸ਼ਲ	_	ADJ	_	_	14	amod	_	_
+14	ਮੀਡੀਆ	_	NOUN	_	_	17	obl	_	_
+15	'ਤੇ	_	ADP	_	_	14	case	_	_
+16	ਪੋਸਟ	_	NOUN	_	_	17	compound:lvc	_	_
+17	ਕਰ	_	VERB	_	_	0	root	_	_
+18	ਰਹੀ	_	AUX	_	_	17	aux	_	_
+19	ਹੈ	_	AUX	_	_	17	aux	_	_
+20	।	_	PUNCT	_	_	17	punct	_	_
+
+# sent_id = indiccorp_12
+# text = -ਦੋਸਤ ਦੀ ਉਡੀਕ ਕਰ ਰਿਹਾ ਸੀ ਚੌਕੀਦਾਰ ਦਾ ਇਕਲੌਤਾ ਪੁੱਤਰ
+1	-	_	PUNCT	_	_	5	punct	_	_
+2	ਦੋਸਤ	_	NOUN	_	_	4	nmod	_	_
+3	ਦੀ	_	ADP	_	_	2	case	_	_
+4	ਉਡੀਕ	_	NOUN	_	_	5	compound:lvc	_	_
+5	ਕਰ	_	VERB	_	_	0	root	_	_
+6	ਰਿਹਾ	_	AUX	_	_	5	aux	_	_
+7	ਸੀ	_	AUX	_	_	5	aux	_	_
+8	ਚੌਕੀਦਾਰ	_	NOUN	_	_	11	nmod	_	_
+9	ਦਾ	_	ADP	_	_	8	case	_	_
+10	ਇਕਲੌਤਾ	_	ADJ	_	_	11	amod	_	_
+11	ਪੁੱਤਰ	_	NOUN	_	_	5	nsubj	_	_
+
+# sent_id = indiccorp_13
+# text = ਇਹ ਐਕਟ ਲਾਗੂ ਕਰਨ ਦੀ ਮੰਗ 1909 ਵਿੱਚ ਪਹਿਲੀ ਵਾਰ ਉੱਠੀ ਸੀ।
+1	ਇਹ	_	DET	_	_	2	det	_	_
+2	ਐਕਟ	_	NOUN	_	_	4	obj	_	_
+3	ਲਾਗੂ	_	ADJ	_	_	4	compound:lvc	_	_
+4	ਕਰਨ	_	VERB	_	_	6	acl	_	_
+5	ਦੀ	_	ADP	_	_	4	mark	_	_
+6	ਮੰਗ	_	NOUN	_	_	11	nsubj	_	_
+7	1909	_	NUM	_	_	11	obl	_	_
+8	ਵਿੱਚ	_	ADP	_	_	7	case	_	_
+9	ਪਹਿਲੀ	_	ADJ	_	_	10	amod	_	_
+10	ਵਾਰ	_	NOUN	_	_	11	obl	_	_
+11	ਉੱਠੀ	_	VERB	_	_	0	root	_	_
+12	ਸੀ	_	AUX	_	_	11	aux	_	_
+13	।	_	PUNCT	_	_	11	punct	_	_
+
+# sent_id = indiccorp_14_1
+# text = ਕਰਨਾਲ, 29 ਜਨਵਰੀ (ਗੁਰਮੀਤ ਸਿੰਘ ਸੱਗੂ)-
+1	ਕਰਨਾਲ	_	PROPN	_	_	0	root	_	_
+2	,	_	PUNCT	_	_	4	punct	_	_
+3	29	_	NUM	_	_	4	nummod	_	_
+4	ਜਨਵਰੀ	_	PROPN	_	_	1	parataxis	_	_
+5	(	_	PUNCT	_	_	6	punct	_	_
+6	ਗੁਰਮੀਤ	_	PROPN	_	_	1	parataxis	_	_
+7	ਸਿੰਘ	_	PROPN	_	_	6	flat	_	_
+8	ਸੱਗੂ	_	PROPN	_	_	6	flat	_	_
+9	)	_	PUNCT	_	_	6	punct	_	_
+10	-	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = indiccorp_14_2
+# text = ਪ੍ਰਤਿਮਾ ਸਨਮਾਨ ਸਮਿਤੀ ਦੇ ਕੌਮੀ ਪ੍ਰਧਾਨ ਨੇ ਸਮਾਜਸੇਵੀ ਪੰਕਜ ਗਾਬਾ ਨੂੰ  ਸਮਿਤੀ ਦੀ ਯੂਥ ਇਕਾਈ ਦਾ ਕੌਮੀ ਪ੍ਰਧਾਨ ਨਿਯੁਕਤ ਕੀਤਾ ਹੈ |
+1	ਪ੍ਰਤਿਮਾ	_	PROPN	_	_	2	compound	_	_
+2	ਸਨਮਾਨ	_	PROPN	_	_	3	compound	_	_
+3	ਸਮਿਤੀ	_	PROPN	_	_	6	nmod	_	_
+4	ਦੇ	_	ADP	_	_	3	case	_	_
+5	ਕੌਮੀ	_	ADJ	_	_	6	amod	_	_
+6	ਪ੍ਰਧਾਨ	_	NOUN	_	_	20	nsubj	_	_
+7	ਨੇ	_	ADP	_	_	6	case	_	_
+8	ਸਮਾਜਸੇਵੀ	_	PROPN	_	_	20	obj	_	_
+9	ਪੰਕਜ	_	PROPN	_	_	8	flat	_	_
+10	ਗਾਬਾ	_	PROPN	_	_	8	flat	_	_
+11	ਨੂੰ	_	ADP	_	_	8	case	_	_
+12	ਸਮਿਤੀ	_	NOUN	_	_	15	nmod	_	_
+13	ਦੀ	_	ADP	_	_	12	case	_	_
+14	ਯੂਥ	_	NOUN	_	_	15	compound	_	_
+15	ਇਕਾਈ	_	NOUN	_	_	18	nmod	_	_
+16	ਦਾ	_	ADP	_	_	15	case	_	_
+17	ਕੌਮੀ	_	ADJ	_	_	18	amod	_	_
+18	ਪ੍ਰਧਾਨ	_	NOUN	_	_	20	xcomp	_	_
+19	ਨਿਯੁਕਤ	_	ADJ	_	_	20	compound:lvc	_	_
+20	ਕੀਤਾ	_	VERB	_	_	0	root	_	_
+21	ਹੈ	_	AUX	_	_	20	aux	_	_
+22	।	_	PUNCT	_	_	20	punct	_	_
+
+# sent_id = indiccorp_14_3
+# text = ਇਸ ਮੌਕੇ ਕੌਮੀ ਪ੍ਰਧਾਨ ਨਰੇਂਦਰ ਅਰੋੜਾ ਨੇ ਨਿਯੁਕਤੀ ਪਤਰ ਦਿੰਦੇ ਹੋਏ ਸ਼੍ਰੀ .
+1	ਇਸ	_	DET	_	_	2	det	_	_
+2	ਮੌਕੇ	_	NOUN	_	_	10	obl	_	_
+3	ਕੌਮੀ	_	ADJ	_	_	4	amod	_	_
+4	ਪ੍ਰਧਾਨ	_	NOUN	_	_	10	nsubj	_	_
+5	ਨਰੇਂਦਰ	_	PROPN	_	_	4	flat	_	_
+6	ਅਰੋੜਾ	_	PROPN	_	_	4	flat	_	_
+7	ਨੇ	_	ADP	_	_	4	case	_	_
+8	ਨਿਯੁਕਤੀ	_	NOUN	_	_	9	compound	_	_
+9	ਪਤਰ	_	NOUN	_	_	10	obj	_	_
+10	ਦਿੰਦੇ	_	VERB	_	_	0	root	_	_
+11	ਹੋਏ	_	AUX	_	_	10	aux	_	_
+12	ਸ਼੍ਰੀ	_	NOUN	_	_	10	orphan	_	_
+13	.	_	PUNCT	_	_	12	punct	_	_
+
+# sent_id = indiccorp_16
+# text =  . . . ਉਨ੍ਹਾਂ ਦੱਸਿਆ ਕਿ ਮੁੰਡੇ ਦੀ ਪ੍ਰੇਮਿਕਾ ਵਲੋਂ ਮੁੰਡੇ 'ਤੇ ਬਲਾਤਕਾਰ ਦਾ ਪਰਚਾ ਦਰਜ ਕਰਵਾਇਆ ਗਿਆ ਤੇ ਮਾਮਲਾ ਰਫਾ-ਦਫਾ ਕਰਨ ਲਈ 10 ਲੱਖ 'ਚ ਸੌਦਾ ਤੈਅ ਹੋਇਆ.
+1	...	_	PUNCT	_	_	3	punct	_	_
+2	ਉਨ੍ਹਾਂ	_	PRON	_	_	3	nsubj	_	_
+3	ਦੱਸਿਆ	_	VERB	_	_	0	root	_	_
+4	ਕਿ	_	SCONJ	_	_	15	mark	_	_
+5	ਮੁੰਡੇ	_	NOUN	_	_	7	nmod	_	_
+6	ਦੀ	_	ADP	_	_	5	case	_	_
+7	ਪ੍ਰੇਮਿਕਾ	_	NOUN	_	_	15	obl	_	_
+8	ਵਲੋਂ	_	ADP	_	_	7	case	_	_
+9	ਮੁੰਡੇ	_	NOUN	_	_	15	obl	_	_
+10	'ਤੇ	_	ADP	_	_	9	case	_	_
+11	ਬਲਾਤਕਾਰ	_	NOUN	_	_	13	nmod	_	_
+12	ਦਾ	_	ADP	_	_	11	case	_	_
+13	ਪਰਚਾ	_	NOUN	_	_	15	obj	_	_
+14	ਦਰਜ	_	ADJ	_	_	15	compound:lvc	_	_
+15	ਕਰਵਾਇਆ	_	VERB	_	_	3	ccomp	_	_
+16	ਗਿਆ	_	AUX	_	_	15	aux:pass	_	_
+17	ਤੇ	_	CCONJ	_	_	27	cc	_	_
+18	ਮਾਮਲਾ	_	NOUN	_	_	20	obj	_	_
+19	ਰਫਾ-ਦਫਾ	_	ADJ	_	_	20	compound:lvc	_	_
+20	ਕਰਨ	_	VERB	_	_	27	advcl	_	_
+21	ਲਈ	_	ADP	_	_	20	mark	_	_
+22	10	_	NUM	_	_	23	compound	_	_
+23	ਲੱਖ	_	NUM	_	_	27	obl	_	_
+24	'ਚ	_	ADP	_	_	23	case	_	_
+25	ਸੌਦਾ	_	NOUN	_	_	27	obj	_	_
+26	ਤੈਅ	_	ADJ	_	_	27	compound:lvc	_	_
+27	ਹੋਇਆ	_	VERB	_	_	15	conj	_	_
+28	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = indiccorp_17
+# text = ਰਵਿੰਦਰ ਤਰੈਂ ਨੇ ਕਿਹਾ ਕਿ ਸਿੱਖਿਆ ਪੋ੍ਰਵਾਈਡਰ ਅਧਿਆਪਕ ਬਹੁਤ ਹੀ ਥੋੜੀਆਂ ਤਨਖਾਹਾਂ 'ਤੇ ਆਪਣੀ ਸੇਵਾ ਬਾਖੂਬੀ ਨਿਭਾਅ ਰਹੇ ਹਨ, ਜਿਸ ਕਾਰਨ ਉਨ੍ਹਾਂ ਨੂੰ ਕਾਫੀ ਆਰਥਿਕ ਤੰਗੀ ਦਾ ਸਾਹਮਣਾ ਕਰਨਾ ਪੈ ਰਿਹਾ ਹੈ।
+1	ਰਵਿੰਦਰ	_	PROPN	_	_	4	nsubj	_	_
+2	ਤਰੈਂ	_	PROPN	_	_	1	flat	_	_
+3	ਨੇ	_	ADP	_	_	1	case	_	_
+4	ਕਿਹਾ	_	VERB	_	_	0	root	_	_
+5	ਕਿ	_	SCONJ	_	_	17	mark	_	_
+6	ਸਿੱਖਿਆ	_	NOUN	_	_	7	compound	_	_
+7	ਪੋ੍ਰਵਾਈਡਰ	_	NOUN	_	_	8	compound	_	_
+8	ਅਧਿਆਪਕ	_	NOUN	_	_	17	nsubj	_	_
+9	ਬਹੁਤ	_	ADV	_	_	11	advmod	_	_
+10	ਹੀ	_	PART	_	_	9	discourse	_	_
+11	ਥੋੜੀਆਂ	_	ADJ	_	_	12	amod	_	_
+12	ਤਨਖਾਹਾਂ	_	NOUN	_	_	17	obl	_	_
+13	'ਤੇ	_	ADP	_	_	12	case	_	_
+14	ਆਪਣੀ	_	PRON	_	_	15	nmod	_	_
+15	ਸੇਵਾ	_	NOUN	_	_	17	obj	_	_
+16	ਬਾਖੂਬੀ	_	ADV	_	_	17	advmod	_	_
+17	ਨਿਭਾਅ	_	VERB	_	_	4	ccomp	_	_
+18	ਰਹੇ	_	AUX	_	_	17	aux	_	_
+19	ਹਨ	_	AUX	_	_	17	aux	_	_
+20	,	_	PUNCT	_	_	30	punct	_	_
+21	ਜਿਸ	_	PRON	_	_	30	obl	_	_
+22	ਕਾਰਨ	_	NOUN	_	_	21	case	_	_
+23	ਉਨ੍ਹਾਂ	_	PRON	_	_	30	obl	_	_
+24	ਨੂੰ	_	ADP	_	_	23	case	_	_
+25	ਕਾਫੀ	_	DET	_	_	27	det	_	_
+26	ਆਰਥਿਕ	_	ADJ	_	_	27	amod	_	_
+27	ਤੰਗੀ	_	NOUN	_	_	29	nmod	_	_
+28	ਦਾ	_	ADP	_	_	27	case	_	_
+29	ਸਾਹਮਣਾ	_	ADP	_	_	30	compound:lvc	_	_
+30	ਕਰਨਾ	_	VERB	_	_	12	acl:relcl	_	_
+31	ਪੈ	_	VERB	_	_	30	compound:svc	_	_
+32	ਰਿਹਾ	_	AUX	_	_	30	aux	_	_
+33	ਹੈ	_	AUX	_	_	30	aux	_	_
+34	।	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = indiccorp_18
+# text = ਹਮਲਾਵਰਾਂ ਨੇ ਅੌਰਤ ੳਪਰ ਹਾਕੀ ਨਾਲ ਐਨੀ ਬੁਰੀ ਤਰ੍ਹਾਂ ਵਾਰ ਕੀਤਾ ਕਿ ਉਸ ਦੇ ਪੈਰ ਦੀ ਹੱਡੀ ਟੁੱਟ ਗਈ।
+1	ਹਮਲਾਵਰਾਂ	_	NOUN	_	_	11	nsubj	_	_
+2	ਨੇ	_	ADP	_	_	1	case	_	_
+3	ਅੌਰਤ	_	NOUN	_	_	11	obl	_	_
+4	ੳਪਰ	_	ADP	_	_	3	case	_	_
+5	ਹਾਕੀ	_	NOUN	_	_	11	obl	_	_
+6	ਨਾਲ	_	ADP	_	_	5	case	_	_
+7	ਐਨੀ	_	DET	_	_	9	det	_	_
+8	ਬੁਰੀ	_	ADP	_	_	9	amod	_	_
+9	ਤਰ੍ਹਾਂ	_	NOUN	_	_	11	obl	_	_
+10	ਵਾਰ	_	NOUN	_	_	11	compound:lvc	_	_
+11	ਕੀਤਾ	_	VERB	_	_	0	root	_	_
+12	ਕਿ	_	SCONJ	_	_	18	mark	_	_
+13	ਉਸ	_	PRON	_	_	15	nmod	_	_
+14	ਦੇ	_	ADP	_	_	13	case	_	_
+15	ਪੈਰ	_	NOUN	_	_	17	nmod	_	_
+16	ਦੀ	_	ADP	_	_	15	case	_	_
+17	ਹੱਡੀ	_	NOUN	_	_	18	nsubj	_	_
+18	ਟੁੱਟ	_	VERB	_	_	7	advcl	_	_
+19	ਗਈ	_	AUX	_	_	18	aux:pass	_	_
+20	।	_	PUNCT	_	_	11	punct	_	_
+
+# sent_id = indiccorp_19
+# text = ਪ੍ਰਿੰਸੀਪਲ ਕਮਲਜੀਤ ਕੌਰ ਅਤੇ ਅਧਿਆਪਕ ਗੁਰਮੇਲ ਸਿੰਘ ਨੇ ਬੱਚਿਆਂ ਨੂੰ ਪਾਣੀ ਦੀ ਸੰਭਾਲ ਅਤੇ ਸੱਵਛਤਾ ਬਾਰੇ ਜਾਗਰੂਕ ਕੀਤਾ।
+1	ਪ੍ਰਿੰਸੀਪਲ	_	PROPN	_	_	18	nsubj	_	_
+2	ਕਮਲਜੀਤ	_	PROPN	_	_	1	flat	_	_
+3	ਕੌਰ	_	PROPN	_	_	1	flat	_	_
+4	ਅਤੇ	_	CCONJ	_	_	5	cc	_	_
+5	ਅਧਿਆਪਕ	_	PROPN	_	_	1	conj	_	_
+6	ਗੁਰਮੇਲ	_	PROPN	_	_	5	flat	_	_
+7	ਸਿੰਘ	_	PROPN	_	_	5	flat	_	_
+8	ਨੇ	_	ADP	_	_	1	case	_	_
+9	ਬੱਚਿਆਂ	_	NOUN	_	_	18	obj	_	_
+10	ਨੂੰ	_	ADP	_	_	9	case	_	_
+11	ਪਾਣੀ	_	NOUN	_	_	13	nmod	_	_
+12	ਦੀ	_	ADP	_	_	11	case	_	_
+13	ਸੰਭਾਲ	_	NOUN	_	_	18	obl	_	_
+14	ਅਤੇ	_	CCONJ	_	_	15	cc	_	_
+15	ਸੱਵਛਤਾ	_	NOUN	_	_	13	conj	_	_
+16	ਬਾਰੇ	_	ADP	_	_	13	case	_	_
+17	ਜਾਗਰੂਕ	_	ADJ	_	_	18	compound:lvc	_	_
+18	ਕੀਤਾ	_	VERB	_	_	0	root	_	_
+19	।	_	PUNCT	_	_	18	punct	_	_
+
+# sent_id = indiccorp_20
+# text = ਜਪਾਨ ਵਿਚ, ਕਲਾਸੀਕਲ ਚੀਨੀ ਤੱਤਾਂ, ਵੁ ਜ਼ਿੰਗ, ਪ੍ਰਮੁੱਖ ਹਨ.
+1	ਜਪਾਨ	_	PROPN	_	_	11	obl	_	_
+2	ਵਿਚ	_	ADJ	_	_	1	case	_	_
+3	,	_	PUNCT	_	_	11	punct	_	_
+4	ਕਲਾਸੀਕਲ	_	ADJ	_	_	6	amod	_	_
+5	ਚੀਨੀ	_	ADJ	_	_	6	amod	_	_
+6	ਤੱਤਾਂ	_	NOUN	_	_	11	nsubj	_	_
+7	,	_	PUNCT	_	_	6	punct	_	_
+8	ਵੁ	_	X	_	_	6	appos	_	_
+9	ਜ਼ਿੰਗ	_	X	_	_	8	fixed	_	_
+10	,	_	PUNCT	_	_	11	punct	_	_
+11	ਪ੍ਰਮੁੱਖ	_	ADJ	_	_	0	root	_	_
+12	ਹਨ	_	VERB	_	_	11	cop	_	_
+13	.	_	PUNCT	_	_	11	punct	_	_
+
+# sent_id = indiccorp_23
+# text = ਸੰਯੁਕਤ ਰਾਸ਼ਟਰ ਮਨੁੱਖੀ ਅਧਿਕਾਰ ਕਮਿਸ਼ਨ ਸਮੇਤ ਦੁਨੀਆ ਦੇ ਕਈ ਸੰਗਠਨਾਂ ਅਤੇ ਆਸਟ੫ੇਲੀਆ ਸਰਕਾਰ ਨੇ ਚੀਨ ਤੋਂ ਲਿਊ ਸ਼ੀਆ ਨੂੰ ਆਜ਼ਾਦ ਕਰਨ ਦੀ ਮੰਗ ਕੀਤੀ ਹੈ।
+1	ਸੰਯੁਕਤ	_	ADJ	_	_	2	amod	_	_
+2	ਰਾਸ਼ਟਰ	_	PROPN	_	_	5	compound	_	_
+3	ਮਨੁੱਖੀ	_	ADJ	_	_	4	amod	_	_
+4	ਅਧਿਕਾਰ	_	PROPN	_	_	5	compound	_	_
+5	ਕਮਿਸ਼ਨ	_	PROPN	_	_	10	nmod	_	_
+6	ਸਮੇਤ	_	ADP	_	_	5	case	_	_
+7	ਦੁਨੀਆ	_	NOUN	_	_	10	nmod	_	_
+8	ਦੇ	_	ADP	_	_	7	case	_	_
+9	ਕਈ	_	DET	_	_	10	det	_	_
+10	ਸੰਗਠਨਾਂ	_	NOUN	_	_	24	nsubj	_	_
+11	ਅਤੇ	_	CCONJ	_	_	13	cc	_	_
+12	ਆਸਟ੍ਰੇਲੀਆ	_	PROPN	_	_	13	compound	_	_
+13	ਸਰਕਾਰ	_	NOUN	_	_	10	conj	_	_
+14	ਨੇ	_	ADP	_	_	13	case	_	_
+15	ਚੀਨ	_	PROPN	_	_	24	obl	_	_
+16	ਤੋਂ	_	ADP	_	_	15	case	_	_
+17	ਲਿਊ	_	PROPN	_	_	21	obj	_	_
+18	ਸ਼ੀਆ	_	PROPN	_	_	17	flat	_	_
+19	ਨੂੰ	_	ADP	_	_	17	case	_	_
+20	ਆਜ਼ਾਦ	_	ADJ	_	_	21	compound:lvc	_	_
+21	ਕਰਨ	_	VERB	_	_	23	acl	_	_
+22	ਦੀ	_	ADP	_	_	21	mark	_	_
+23	ਮੰਗ	_	NOUN	_	_	24	compound:lvc	_	_
+24	ਕੀਤੀ	_	VERB	_	_	0	root	_	_
+25	ਹੈ	_	AUX	_	_	24	aux	_	_
+26	।	_	PUNCT	_	_	24	punct	_	_
+
+# sent_id = indiccorp_24
+# text = ਇਸ ਵਿਚ ਕੈਲਸ਼ੀਅਮ, ਪੋਟਾਸ਼ੀਅਮ, ਫਾਇਬਰ ਭਰਪੂਰ ਮਾਤਰਾ ਵਿਚ…
+1	ਇਸ	_	PRON	_	_	9	orphan	_	_
+2	ਵਿਚ	_	ADP	_	_	1	case	_	_
+3	ਕੈਲਸ਼ੀਅਮ	_	NOUN	_	_	9	orphan	_	_
+4	,	_	PUNCT	_	_	5	punct	_	_
+5	ਪੋਟਾਸ਼ੀਅਮ	_	NOUN	_	_	3	conj	_	_
+6	,	_	PUNCT	_	_	7	punct	_	_
+7	ਫਾਇਬਰ	_	NOUN	_	_	3	conj	_	_
+8	ਭਰਪੂਰ	_	ADJ	_	_	9	amod	_	_
+9	ਮਾਤਰਾ	_	NOUN	_	_	0	root	_	_
+10	ਵਿਚ	_	ADP	_	_	9	case	_	_
+11	…	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = indiccorp_25
+# text = ਮਾਨ ਨੇ ਕਿਹਾ ਕਿ ਵਿਧਾਨ ਸਭਾ ਵਿਚ ਮੁੱਖ ਮੰਤਰੀ ਦੀ ਹਾਜ਼ਰੀ 'ਚ ਹੀ ਬਿਕਰਮ ਮਜੀਠੀਆ ਅਤੇ ਨਵਜੋਤ ਸਿੱਧੂ ਵਿਚਾਲੇ ਤਿੱਖੀ ਬਹਿਸ ਹੋਈ।
+1	ਮਾਨ	_	PROPN	_	_	3	nsubj	_	_
+2	ਨੇ	_	ADP	_	_	1	case	_	_
+3	ਕਿਹਾ	_	VERB	_	_	0	root	_	_
+4	ਕਿ	_	SCONJ	_	_	22	mark	_	_
+5	ਵਿਧਾਨ	_	PROPN	_	_	6	compound	_	_
+6	ਸਭਾ	_	PROPN	_	_	22	obl	_	_
+7	ਵਿਚ	_	ADP	_	_	6	case	_	_
+8	ਮੁੱਖ	_	ADJ	_	_	9	amod	_	_
+9	ਮੰਤਰੀ	_	PROPN	_	_	11	nmod	_	_
+10	ਦੀ	_	ADP	_	_	9	case	_	_
+11	ਹਾਜ਼ਰੀ	_	NOUN	_	_	22	obl	_	_
+12	'ਚ	_	ADP	_	_	11	case	_	_
+13	ਹੀ	_	PART	_	_	11	discourse	_	_
+14	ਬਿਕਰਮ	_	PROPN	_	_	22	obl	_	_
+15	ਮਜੀਠੀਆ	_	PROPN	_	_	14	flat	_	_
+16	ਅਤੇ	_	CCONJ	_	_	17	cc	_	_
+17	ਨਵਜੋਤ	_	PROPN	_	_	14	conj	_	_
+18	ਸਿੱਧੂ	_	PROPN	_	_	17	flat	_	_
+19	ਵਿਚਾਲੇ	_	ADP	_	_	14	case	_	_
+20	ਤਿੱਖੀ	_	ADJ	_	_	21	amod	_	_
+21	ਬਹਿਸ	_	NOUN	_	_	22	compound:lvc	_	_
+22	ਹੋਈ	_	VERB	_	_	3	ccomp	_	_
+23	।	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = indiccorp_27
+# text = ਉਨ੍ਹਾਂ ਨੂੰ ਪੱਕੇ ਬਿਆਨ ਹੀ ਦੇਣੇ ਚਾਹੀਦੇ ਹਨ।
+1	ਉਨ੍ਹਾਂ	_	PRON	_	_	6	obl	_	_
+2	ਨੂੰ	_	ADP	_	_	1	case	_	_
+3	ਪੱਕੇ	_	ADJ	_	_	4	amod	_	_
+4	ਬਿਆਨ	_	NOUN	_	_	6	obj	_	_
+5	ਹੀ	_	PART	_	_	4	discourse	_	_
+6	ਦੇਣੇ	_	VERB	_	_	0	root	_	_
+7	ਚਾਹੀਦੇ	_	AUX	_	_	6	aux	_	_
+8	ਹਨ	_	AUX	_	_	6	aux	_	_
+9	।	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = indiccorp_30_1
+# text = ਮੱਲ੍ਹੀਆਂ ਕਲਾਂ, 20 ਸਤੰਬਰ (ਮਨਜੀਤ ਮਾਨ)-
+1	ਮੱਲ੍ਹੀਆਂ	_	PROPN	_	_	2	compound	_	_
+2	ਕਲਾਂ	_	PROPN	_	_	0	root	_	_
+3	,	_	PUNCT	_	_	5	punct	_	_
+4	20	_	NUM	_	_	5	nummod	_	_
+5	ਸਤੰਬਰ	_	PROPN	_	_	2	parataxis	_	_
+6	(	_	PUNCT	_	_	7	punct	_	_
+7	ਮਨਜੀਤ	_	PROPN	_	_	2	parataxis	_	_
+8	ਮਾਨ	_	PROPN	_	_	7	flat	_	_
+9	)	_	PUNCT	_	_	7	punct	_	_
+10	-	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = indiccorp_30_2
+# text = ਟੈਕਸੀ ਯੂਨੀਅਨ ਤੇ ਦੁਕਾਨਦਾਰਾਂ ਵਲੋਂ ਸਾਂਝੇ ਤੌਰ 'ਤੇ ਪਿੰਡ ਟੁੱਟ ਕਲਾਂ ਜਲੰਧਰ ਵਿਖੇ ਸਰਬੱਤ ਦੇ ਭਲੇ ਵਾਸਤੇ ਧਾਰਮਿਕ ਸਮਾਗਮ ਮਿਤੀ 21 ਸਤੰਬਰ ਨੰੂ ਬਹੁਤ ਹੀ ਸ਼ਰਧਾ ਭਾਵਨਾ ਨਾਲ ਮਨਾਇਆ ਜਾ ਰਿਹਾ ਹੈ |
+1	ਟੈਕਸੀ	_	NOUN	_	_	2	compound	_	_
+2	ਯੂਨੀਅਨ	_	NOUN	_	_	29	obl	_	_
+3	ਤੇ	_	ADP	_	_	4	cc	_	_
+4	ਦੁਕਾਨਦਾਰਾਂ	_	NOUN	_	_	2	conj	_	_
+5	ਵਲੋਂ	_	ADP	_	_	2	case	_	_
+6	ਸਾਂਝੇ	_	ADJ	_	_	7	amod	_	_
+7	ਤੌਰ	_	NOUN	_	_	29	obl	_	_
+8	'ਤੇ	_	ADP	_	_	7	case	_	_
+9	ਪਿੰਡ	_	NOUN	_	_	29	obl	_	_
+10	ਟੁੱਟ	_	PROPN	_	_	11	compound	_	_
+11	ਕਲਾਂ	_	PROPN	_	_	9	appos	_	_
+12	ਜਲੰਧਰ	_	PROPN	_	_	9	appos	_	_
+13	ਵਿਖੇ	_	ADP	_	_	9	case	_	_
+14	ਸਰਬੱਤ	_	PRON	_	_	16	nmod	_	_
+15	ਦੇ	_	ADP	_	_	14	case	_	_
+16	ਭਲੇ	_	NOUN	_	_	29	obl	_	_
+17	ਵਾਸਤੇ	_	ADP	_	_	16	case	_	_
+18	ਧਾਰਮਿਕ	_	ADJ	_	_	19	amod	_	_
+19	ਸਮਾਗਮ	_	NOUN	_	_	29	nsubj	_	_
+20	ਮਿਤੀ	_	NOUN	_	_	29	obl	_	_
+21	21	_	NUM	_	_	22	nummod	_	_
+22	ਸਤੰਬਰ	_	PROPN	_	_	20	appos	_	_
+23	ਨੂੰ	_	ADP	_	_	20	case	_	_
+24	ਬਹੁਤ	_	DET	_	_	27	det	_	_
+25	ਹੀ	_	PART	_	_	24	discourse	_	_
+26	ਸ਼ਰਧਾ	_	NOUN	_	_	27	nmod	_	_
+27	ਭਾਵਨਾ	_	NOUN	_	_	29	obl	_	_
+28	ਨਾਲ	_	ADP	_	_	27	case	_	_
+29	ਮਨਾਇਆ	_	VERB	_	_	0	root	_	_
+30	ਜਾ	_	AUX	_	_	29	aux:pass	_	_
+31	ਰਿਹਾ	_	AUX	_	_	29	aux	_	_
+32	ਹੈ	_	AUX	_	_	29	aux	_	_
+33	|	_	PUNCT	_	_	29	punct	_	_
+
+# sent_id = indiccorp_30_3
+# text = ਟੈਕਸੀ ਯੂਨੀਅਨ ਦੇ ਪ੍ਰਧਾਨ ਅਵਤਾਰ ਸਿੰਘ ਹੈਨਰੀ ਤੇ ਮੀਤ ਪ੍ਰਧਾਨ ਲਖੀਵਰ ਸਿੰਘ ਲੱਖਾ ਨੇ ਸਾਂਝੇ ਤੌਰ 'ਤੇ ਦੱਸਿਆ ਕਿ ਅੱਜ ਸਵੇਰੇ 10 ਵਜੇ ਸ੍ਰੀ ਅਖੰਡ ਪਾਠ ਸਾਹਿਬ ਜੀ ਦੇ ਪਾਠ ਦੇ ਭੋਗ ਪਾਏ ਜਾਣਗੇ |
+1	ਟੈਕਸੀ	_	PROPN	_	_	2	compound	_	_
+2	ਯੂਨੀਅਨ	_	PROPN	_	_	4	nmod	_	_
+3	ਦੇ	_	ADP	_	_	2	case	_	_
+4	ਪ੍ਰਧਾਨ	_	PROPN	_	_	18	nsubj	_	_
+5	ਅਵਤਾਰ	_	PROPN	_	_	4	appos	_	_
+6	ਸਿੰਘ	_	PROPN	_	_	5	flat	_	_
+7	ਹੈਨਰੀ	_	PROPN	_	_	5	flat	_	_
+8	ਤੇ	_	CCONJ	_	_	10	cc	_	_
+9	ਮੀਤ	_	ADJ	_	_	10	amod	_	_
+10	ਪ੍ਰਧਾਨ	_	PROPN	_	_	4	conj	_	_
+11	ਲਖੀਵਰ	_	PROPN	_	_	10	appos	_	_
+12	ਸਿੰਘ	_	PROPN	_	_	11	flat	_	_
+13	ਲੱਖਾ	_	PROPN	_	_	11	flat	_	_
+14	ਨੇ	_	ADP	_	_	4	case	_	_
+15	ਸਾਂਝੇ	_	ADJ	_	_	16	amod	_	_
+16	ਤੌਰ	_	NOUN	_	_	18	obl	_	_
+17	'ਤੇ	_	ADP	_	_	16	case	_	_
+18	ਦੱਸਿਆ	_	VERB	_	_	0	root	_	_
+19	ਕਿ	_	SCONJ	_	_	33	mark	_	_
+20	ਅੱਜ	_	NOUN	_	_	33	obl:tmod	_	_
+21	ਸਵੇਰੇ	_	NOUN	_	_	20	nmod	_	_
+22	10	_	NUM	_	_	23	nummod	_	_
+23	ਵਜੇ	_	NOUN	_	_	21	nmod	_	_
+24	ਸ੍ਰੀ	_	PROPN	_	_	30	nmod	_	_
+25	ਅਖੰਡ	_	PROPN	_	_	24	flat	_	_
+26	ਪਾਠ	_	PROPN	_	_	24	flat	_	_
+27	ਸਾਹਿਬ	_	PROPN	_	_	24	flat	_	_
+28	ਜੀ	_	PART	_	_	24	flat	_	_
+29	ਦੇ	_	ADP	_	_	24	case	_	_
+30	ਪਾਠ	_	NOUN	_	_	32	nmod	_	_
+31	ਦੇ	_	ADP	_	_	30	case	_	_
+32	ਭੋਗ	_	NOUN	_	_	33	nsubj	_	_
+33	ਪਾਏ	_	VERB	_	_	18	ccomp	_	_
+34	ਜਾਣਗੇ	_	AUX	_	_	33	aux	_	_
+35	|	_	PUNCT	_	_	18	punct	_	_
+
+# sent_id = indiccorp_30_4
+# text = ਉਪਰੰਤ ਪੰਥਕ ਢਾਡੀ ਗਿਆਨੀ ਸੂਬਾ ਸਿੰਘ ਸਾਗਰ ਤੇ ਜੰਡਿਆਲੇ ਵਾਲੀਆਂ ਬੀਬੀਆਂ ਦੇ ਜਥੇ ਸੰਗਤਾਂ ਨੰੂ ਪੰਥਕ ਇਤਿਹਾਸਕ ਵਾਰਾਂ ਰਾਹੀਂ ਨਿਹਾਲ ਕਰਨਗੇ |
+1	ਉਪਰੰਤ	_	ADV	_	_	21	advmod	_	_
+2	ਪੰਥਕ	_	ADJ	_	_	3	amod	_	_
+3	ਢਾਡੀ	_	NOUN	_	_	21	nsubj	_	_
+4	ਗਿਆਨੀ	_	PROPN	_	_	3	appos	_	_
+5	ਸੂਬਾ	_	PROPN	_	_	4	flat	_	_
+6	ਸਿੰਘ	_	PROPN	_	_	4	flat	_	_
+7	ਸਾਗਰ	_	PROPN	_	_	4	flat	_	_
+8	ਤੇ	_	CCONJ	_	_	13	cc	_	_
+9	ਜੰਡਿਆਲੇ	_	PROPN	_	_	11	nmod	_	_
+10	ਵਾਲੀਆਂ	_	ADP	_	_	9	case	_	_
+11	ਬੀਬੀਆਂ	_	NOUN	_	_	13	nmod	_	_
+12	ਦੇ	_	ADP	_	_	11	case	_	_
+13	ਜਥੇ	_	NOUN	_	_	3	conj	_	_
+14	ਸੰਗਤਾਂ	_	NOUN	_	_	21	obj	_	_
+15	ਨੂੰ	_	ADP	_	_	14	case	_	_
+16	ਪੰਥਕ	_	ADJ	_	_	18	amod	_	_
+17	ਇਤਿਹਾਸਕ	_	ADJ	_	_	18	amod	_	_
+18	ਵਾਰਾਂ	_	NOUN	_	_	21	obl	_	_
+19	ਰਾਹੀਂ	_	ADP	_	_	18	case	_	_
+20	ਨਿਹਾਲ	_	ADJ	_	_	21	compound:lvc	_	_
+21	ਕਰਨਗੇ	_	VERB	_	_	0	root	_	_
+22	|	_	PUNCT	_	_	21	punct	_	_
+
+# sent_id = indiccorp_31_1
+# text = ਬਲਦੇਵ ਸਿੰਘ ਭੰਮ, ਸ੫ੀ ਮੁਕਤਸਰ ਸਾਹਿਬ :
+1	ਬਲਦੇਵ	_	PROPN	_	_	0	root	_	_
+2	ਸਿੰਘ	_	PROPN	_	_	1	flat	_	_
+3	ਭੰਮ	_	PROPN	_	_	1	flat	_	_
+4	,	_	PUNCT	_	_	5	punct	_	_
+5	ਸ੍ਰੀ	_	PROPN	_	_	1	parataxis	_	_
+6	ਮੁਕਤਸਰ	_	PROPN	_	_	5	flat	_	_
+7	ਸਾਹਿਬ	_	PROPN	_	_	5	flat	_	_
+8	:	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = indiccorp_31_2
+# text = ਗੁਰੂ ਨਾਨਕ ਕਾਲਜ ਫ਼ਾਰ ਗਰਲਜ਼ ਤੇ ਗੁਰੂ ਨਾਨਕ ਕਾਲਜੀਏਟ ਸ. ਸ. ਸਕੂਲ ਫ਼ਾਰ ਗਰਲਜ਼, ਸ੫ੀ ਮੁਕਤਸਰ ਸਾਹਿਬ ਵਿਖੇ ਕਾਲਜ ਦੀ ਲੋਕਲ ਮੈਨੇਜਿੰਗ ਕਮੇਟੀ ਦੇ ਵਧੀਕ ਸਕੱਤਰ ਸ.
+1	ਗੁਰੂ	_	PROPN	_	_	0	root	_	_
+2	ਨਾਨਕ	_	PROPN	_	_	1	flat	_	_
+3	ਕਾਲਜ	_	PROPN	_	_	1	flat	_	_
+4	ਫ਼ਾਰ	_	PROPN	_	_	1	flat	_	_
+5	ਗਰਲਜ਼	_	PROPN	_	_	1	flat	_	_
+6	ਤੇ	_	CCONJ	_	_	7	cc	_	_
+7	ਗੁਰੂ	_	PROPN	_	_	1	conj	_	_
+8	ਨਾਨਕ	_	PROPN	_	_	7	flat	_	_
+9	ਕਾਲਜੀਏਟ	_	PROPN	_	_	7	flat	_	_
+10	ਸ.	_	PROPN	_	_	7	flat	_	_
+11	ਸ.	_	PROPN	_	_	7	flat	_	_
+12	ਸਕੂਲ	_	PROPN	_	_	7	flat	_	_
+13	ਫ਼ਾਰ	_	PROPN	_	_	7	flat	_	_
+14	ਗਰਲਜ਼	_	PROPN	_	_	7	flat	_	_
+15	,	_	PUNCT	_	_	27	punct	_	_
+16	ਸ੍ਰੀ	_	PROPN	_	_	20	nmod	_	_
+17	ਮੁਕਤਸਰ	_	PROPN	_	_	16	flat	_	_
+18	ਸਾਹਿਬ	_	PROPN	_	_	16	flat	_	_
+19	ਵਿਖੇ	_	ADP	_	_	16	case	_	_
+20	ਕਾਲਜ	_	NOUN	_	_	24	nmod	_	_
+21	ਦੀ	_	ADP	_	_	20	case	_	_
+22	ਲੋਕਲ	_	ADJ	_	_	24	amod	_	_
+23	ਮੈਨੇਜਿੰਗ	_	NOUN	_	_	24	compound	_	_
+24	ਕਮੇਟੀ	_	NOUN	_	_	27	nmod	_	_
+25	ਦੇ	_	ADP	_	_	24	case	_	_
+26	ਵਧੀਕ	_	ADJ	_	_	27	amod	_	_
+27	ਸਕੱਤਰ	_	NOUN	_	_	1	parataxis	_	_
+28	ਸ.	_	PROPN	_	_	27	appos	_	_
+
+# sent_id = indiccorp_33_1
+# text = ਜਲਾਲਾਬਾਦ (ਨਿਖੰਜ,ਜਤਿੰਦਰ)-
+1	ਜਲਾਲਾਬਾਦ	_	PROPN	_	_	0	root	_	_
+2	(	_	PUNCT	_	_	3	punct	_	_
+3	ਨਿਖੰਜ	_	PROPN	_	_	1	parataxis	_	_
+4	,	_	PUNCT	_	_	3	punct	_	_
+5	ਜਤਿੰਦਰ	_	PROPN	_	_	3	flat	_	_
+6	)	_	PUNCT	_	_	3	punct	_	_
+7	-	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = indiccorp_33_2
+# text = ਪੰਜਾਬ ਦੇ ਪਾਣੀਆਂ ਨੂੰ ਬਚਾਉਣ ਲਈ ਸ਼ੁਰੂ ਕੀਤੀ ਗਈ ਸਾਡਾ ਹੱਕ ਜਨ ਅੰਦੋਲਨ ਮੁਹਿੰਮ ਦੇ ਤਹਿਤ ਪੰਜਾਬ ਭਰ 'ਚ ਹਸਤਾਖਰ ਮੁਹਿੰਮ ਚੱਲਾ ਰਹੇ ਸਿਮਰਜੀਤ ਸਿੰਘ ਬੈਂਸ ਨੇ ਅੱਜ ਜਲਾਲਾਬਾਦ ਵਿਖੇ ਪੁੱਜ ਕੇ ਲੋਕਾਂ ਨੂੰ ਅੰਦੋਲਨ 'ਚ ਸ਼ਾਮਲ ਹੋਣ ਲਾਮਬੰਦ ਕੀਤਾ।
+1	ਪੰਜਾਬ	_	PROPN	_	_	3	nmod	_	_
+2	ਦੇ	_	ADP	_	_	1	case	_	_
+3	ਪਾਣੀਆਂ	_	NOUN	_	_	5	obj	_	_
+4	ਨੂੰ	_	ADP	_	_	3	case	_	_
+5	ਬਚਾਉਣ	_	VERB	_	_	8	advcl	_	_
+6	ਲਈ	_	ADP	_	_	5	mark	_	_
+7	ਸ਼ੁਰੂ	_	NOUN	_	_	8	compound:lvc	_	_
+8	ਕੀਤੀ	_	VERB	_	_	13	acl	_	_
+9	ਗਈ	_	AUX	_	_	8	aux:pass	_	_
+10	ਸਾਡਾ	_	PRON	_	_	11	nmod	_	_
+11	ਹੱਕ	_	PROPN	_	_	13	compound	_	_
+12	ਜਨ	_	PROPN	_	_	13	compound	_	_
+13	ਅੰਦੋਲਨ	_	PROPN	_	_	14	compound	_	_
+14	ਮੁਹਿੰਮ	_	PROPN	_	_	22	obl	_	_
+15	ਦੇ	_	ADP	_	_	14	case	_	_
+16	ਤਹਿਤ	_	ADP	_	_	15	fixed	_	_
+17	ਪੰਜਾਬ	_	PROPN	_	_	22	obl	_	_
+18	ਭਰ	_	ADJ	_	_	17	amod	_	_
+19	'ਚ	_	ADP	_	_	17	case	_	_
+20	ਹਸਤਾਖਰ	_	ADJ	_	_	21	amod	_	_
+21	ਮੁਹਿੰਮ	_	NOUN	_	_	22	obj	_	_
+22	ਚੱਲਾ	_	VERB	_	_	24	acl	_	_
+23	ਰਹੇ	_	AUX	_	_	22	aux	_	_
+24	ਸਿਮਰਜੀਤ	_	PROPN	_	_	40	nsubj	_	_
+25	ਸਿੰਘ	_	PROPN	_	_	24	flat	_	_
+26	ਬੈਂਸ	_	PROPN	_	_	24	flat	_	_
+27	ਨੇ	_	ADP	_	_	24	case	_	_
+28	ਅੱਜ	_	NOUN	_	_	40	obl	_	_
+29	ਜਲਾਲਾਬਾਦ	_	PROPN	_	_	31	obl	_	_
+30	ਵਿਖੇ	_	ADP	_	_	29	case	_	_
+31	ਪੁੱਜ	_	VERB	_	_	40	advcl	_	_
+32	ਕੇ	_	AUX	_	_	31	aux	_	_
+33	ਲੋਕਾਂ	_	NOUN	_	_	40	obj	_	_
+34	ਨੂੰ	_	ADP	_	_	33	case	_	_
+35	ਅੰਦੋਲਨ	_	NOUN	_	_	38	obl	_	_
+36	'ਚ	_	ADP	_	_	35	case	_	_
+37	ਸ਼ਾਮਲ	_	ADJ	_	_	38	compound:lvc	_	_
+38	ਹੋਣ	_	VERB	_	_	40	xcomp	_	_
+39	ਲਾਮਬੰਦ	_	ADJ	_	_	40	compound:lvc	_	_
+40	ਕੀਤਾ	_	VERB	_	_	0	root	_	_
+41	।	_	PUNCT	_	_	40	punct	_	_
+
+# sent_id = indiccorp_35
+# text = ਸਰਕਾਰ ਦਾ ਮੰਨਣਾ ਹੈ ਕਿ ਇਸ ਪਰੋਗਰਾਮ ਨਾਲ ਉਹ ਪਰਿਵਾਰਿਕ ਮੈਂਬਰ ਕੈਨੇਡਾ ਆ ਸਕਣਗੇ ਜਿਨ੍ਹਾਂ ਦਾ ਨਾਂ ਅਣਜਾਣੇ ਵਿੱਚ ਐਪਲੀਕੇਸ਼ਨ ਵਿੱਚ ਨਹੀਂ ਲਿਖਿਆ ਗਿਆ ਹਲਾਂਕਿ ਕਿ ਉਨ੍ਹਾਂ ਦੀ ਇਸ ਵਿੱਚ ਕੋਈ ਗ਼ਲਤੀ ਨਹੀ ਹੈ।
+1	ਸਰਕਾਰ	_	NOUN	_	_	3	nmod	_	_
+2	ਦਾ	_	ADP	_	_	1	case	_	_
+3	ਮੰਨਣਾ	_	VERB	_	_	4	nsubj	_	_
+4	ਹੈ	_	VERB	_	_	0	root	_	_
+5	ਕਿ	_	SCONJ	_	_	13	mark	_	_
+6	ਇਸ	_	DET	_	_	7	det	_	_
+7	ਪਰੋਗਰਾਮ	_	NOUN	_	_	13	obl	_	_
+8	ਨਾਲ	_	ADP	_	_	7	case	_	_
+9	ਉਹ	_	DET	_	_	11	det	_	_
+10	ਪਰਿਵਾਰਿਕ	_	ADJ	_	_	11	amod	_	_
+11	ਮੈਂਬਰ	_	NOUN	_	_	13	nsubj	_	_
+12	ਕੈਨੇਡਾ	_	PROPN	_	_	13	obl	_	_
+13	ਆ	_	VERB	_	_	4	ccomp	_	_
+14	ਸਕਣਗੇ	_	VERB	_	_	13	compound:svc	_	_
+15	ਜਿਨ੍ਹਾਂ	_	PRON	_	_	17	nmod	_	_
+16	ਦਾ	_	ADP	_	_	15	case	_	_
+17	ਨਾਂ	_	NOUN	_	_	23	obj	_	_
+18	ਅਣਜਾਣੇ	_	NOUN	_	_	23	obl	_	_
+19	ਵਿੱਚ	_	ADP	_	_	18	case	_	_
+20	ਐਪਲੀਕੇਸ਼ਨ	_	NOUN	_	_	23	obl	_	_
+21	ਵਿੱਚ	_	ADP	_	_	20	case	_	_
+22	ਨਹੀਂ	_	ADV	_	_	23	advmod	_	_
+23	ਲਿਖਿਆ	_	VERB	_	_	11	acl:relcl	_	_
+24	ਗਿਆ	_	AUX	_	_	23	aux:pass	_	_
+25	ਹਲਾਂਕਿ	_	SCONJ	_	_	29	mark	_	_
+26	ਕਿ	_	SCONJ	_	_	29	mark	_	_
+27	ਉਨ੍ਹਾਂ	_	PRON	_	_	32	nmod	_	_
+28	ਦੀ	_	ADP	_	_	27	case	_	_
+29	ਇਸ	_	PRON	_	_	23	advcl	_	_
+30	ਵਿੱਚ	_	ADP	_	_	29	case	_	_
+31	ਕੋਈ	_	DET	_	_	32	det	_	_
+32	ਗ਼ਲਤੀ	_	NOUN	_	_	29	nsubj	_	_
+33	ਨਹੀ	_	ADV	_	_	34	advmod	_	_
+34	ਹੈ	_	VERB	_	_	29	cop	_	_
+35	।	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = indiccorp_36
+# text = ਇਸ ਤੋਂ ਇਲਾਵਾ ਕਰੀਨਾ ਕੋਲ 'ਤਖਤ' ਤੇ ਅਕਸ਼ੈ ਕੁਮਾਰ ਨਾਲ ਫਿਲਮ 'ਗੁੱਡ ਨਿਊਜ਼' ਹੈ।
+1	ਇਸ	_	PRON	_	_	7	obl	_	_
+2	ਤੋਂ	_	ADP	_	_	1	case	_	_
+3	ਇਲਾਵਾ	_	ADP	_	_	2	fixed	_	_
+4	ਕਰੀਨਾ	_	PROPN	_	_	7	nsubj	_	_
+5	ਕੋਲ	_	ADP	_	_	4	case	_	_
+6	'	_	PUNCT	_	_	7	punct	_	_
+7	ਤਖਤ	_	PROPN	_	_	_	_	_	_
+8	'	_	PUNCT	_	_	7	punct	_	_
+9	ਤੇ	_	CCONJ	_	_	13	cc	_	_
+10	ਅਕਸ਼ੈ	_	PROPN	_	_	13	nmod	_	_
+11	ਕੁਮਾਰ	_	PROPN	_	_	10	flat	_	_
+12	ਨਾਲ	_	ADP	_	_	10	case	_	_
+13	ਫਿਲਮ	_	NOUN	_	_	7	conj	_	_
+14	'	_	PUNCT	_	_	15	punct	_	_
+15	ਗੁੱਡ	_	PROPN	_	_	13	appos	_	_
+16	ਨਿਊਜ਼	_	PROPN	_	_	15	flat	_	_
+17	'	_	PUNCT	_	_	15	punct	_	_
+18	ਹੈ	_	VERB	_	_	7	cop	_	_
+19	।	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = indiccorp_38
+# text = ਰੋਹਿਤ ਸ਼ਰਮਾ (ਕਪਤਾਨ), ਸਿ਼ਖਰ ਧਵਨ (ਉਪ ਕਪਤਾਨ), ਕੇ ਐਨ ਰਾਹੁਲ, ਅੰਬਾਤੀ ਰਾਇਡੂ, ਮਨੀਸ਼ ਪਾਂਡੇ, ਕੇਦਾਰ ਜਾਧਵ, ਐਮ ਐਸ ਧੌਨੀ, ਦਿਨੇਸ਼ ਕਾਰਤਿਕ, ਕੁਲਦੀਪ ਯਾਦਵ, ਹਾਰਦਿਕ ਪਾਂਡੇ, ਯੁਜਵਿੰਦਰ ਚਹਿਲ, ਅਕਸ਼ਰ ਪਟੇਲ, ਭੁਵਨੇਸ਼ਵਰ ਕੁਮਾਰ, ਜਸਪ੍ਰੀਤ ਬੁਮਰਾਹ, ਸ਼ਾਰਦੁਲ ਠਾਕੁਰ ਅਤੇ ਖਲੀਲ ਅਹਿਮਦ।
+1	ਰੋਹਿਤ	_	PROPN	_	_	0	root	_	_
+2	ਸ਼ਰਮਾ	_	PROPN	_	_	1	flat	_	_
+3	(	_	PUNCT	_	_	4	punct	_	_
+4	ਕਪਤਾਨ	_	PROPN	_	_	1	appos	_	_
+5	)	_	PUNCT	_	_	4	punct	_	_
+6	,	_	PUNCT	_	_	7	punct	_	_
+7	ਸਿ਼ਖਰ	_	PROPN	_	_	1	conj	_	_
+8	ਧਵਨ	_	PROPN	_	_	7	flat	_	_
+9	(	_	PUNCT	_	_	11	punct	_	_
+10	ਉਪ	_	ADJ	_	_	11	amod	_	_
+11	ਕਪਤਾਨ	_	PROPN	_	_	7	appos	_	_
+12	)	_	PUNCT	_	_	11	punct	_	_
+13	,	_	PUNCT	_	_	14	punct	_	_
+14	ਕੇ	_	PROPN	_	_	1	conj	_	_
+15	ਐਨ	_	PROPN	_	_	14	flat	_	_
+16	ਰਾਹੁਲ	_	PROPN	_	_	14	flat	_	_
+17	,	_	PUNCT	_	_	18	punct	_	_
+18	ਅੰਬਾਤੀ	_	PROPN	_	_	1	conj	_	_
+19	ਰਾਇਡੂ	_	PROPN	_	_	18	flat	_	_
+20	,	_	PUNCT	_	_	21	punct	_	_
+21	ਮਨੀਸ਼	_	PROPN	_	_	1	conj	_	_
+22	ਪਾਂਡੇ	_	PROPN	_	_	21	flat	_	_
+23	,	_	PUNCT	_	_	24	punct	_	_
+24	ਕੇਦਾਰ	_	PROPN	_	_	1	conj	_	_
+25	ਜਾਧਵ	_	PROPN	_	_	24	flat	_	_
+26	,	_	PUNCT	_	_	27	punct	_	_
+27	ਐਮ	_	PROPN	_	_	1	conj	_	_
+28	ਐਸ	_	PROPN	_	_	27	flat	_	_
+29	ਧੌਨੀ	_	PROPN	_	_	27	flat	_	_
+30	,	_	PUNCT	_	_	31	punct	_	_
+31	ਦਿਨੇਸ਼	_	PROPN	_	_	1	conj	_	_
+32	ਕਾਰਤਿਕ	_	PROPN	_	_	31	flat	_	_
+33	,	_	PUNCT	_	_	34	punct	_	_
+34	ਕੁਲਦੀਪ	_	PROPN	_	_	1	conj	_	_
+35	ਯਾਦਵ	_	PROPN	_	_	34	flat	_	_
+36	,	_	PUNCT	_	_	37	punct	_	_
+37	ਹਾਰਦਿਕ	_	PROPN	_	_	1	conj	_	_
+38	ਪਾਂਡੇ	_	PROPN	_	_	37	flat	_	_
+39	,	_	PUNCT	_	_	40	punct	_	_
+40	ਯੁਜਵਿੰਦਰ	_	PROPN	_	_	1	conj	_	_
+41	ਚਹਿਲ	_	PROPN	_	_	40	flat	_	_
+42	,	_	PUNCT	_	_	43	punct	_	_
+43	ਅਕਸ਼ਰ	_	PROPN	_	_	1	conj	_	_
+44	ਪਟੇਲ	_	PROPN	_	_	43	flat	_	_
+45	,	_	PUNCT	_	_	46	punct	_	_
+46	ਭੁਵਨੇਸ਼ਵਰ	_	PROPN	_	_	1	conj	_	_
+47	ਕੁਮਾਰ	_	PROPN	_	_	46	flat	_	_
+48	,	_	PUNCT	_	_	49	punct	_	_
+49	ਜਸਪ੍ਰੀਤ	_	PROPN	_	_	1	conj	_	_
+50	ਬੁਮਰਾਹ	_	PROPN	_	_	49	flat	_	_
+51	,	_	PUNCT	_	_	52	punct	_	_
+52	ਸ਼ਾਰਦੁਲ	_	PROPN	_	_	1	conj	_	_
+53	ਠਾਕੁਰ	_	PROPN	_	_	52	flat	_	_
+54	ਅਤੇ	_	CCONJ	_	_	55	cc	_	_
+55	ਖਲੀਲ	_	PROPN	_	_	1	conj	_	_
+56	ਅਹਿਮਦ	_	PROPN	_	_	55	flat	_	_
+57	।	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = indiccorp_39
+# text = ਦੱਸ ਦੇਈਏ ਕਿ ਸੋਨਮ ਦੀ ਲੈਟੇਸਟ ਤਸਵੀਰਾਂ ਦਿੱਲੀ ਤੋਂ ਆਈਆਂ ਹਨ , ਜਿਸ ਵਿੱਚ ਉਹ ਦੁਲਹਨ ਦੇ ਅਵਤਾਰ ਵਿੱਚ ਦਿਖਾਈ ਦੇ ਰਹੀ ਹੈ। 
+1	ਦੱਸ	_	VERB	_	_	0	root	_	_
+2	ਦੇਈਏ	_	VERB	_	_	1	compound:svc	_	_
+3	ਕਿ	_	SCONJ	_	_	10	mark	_	_
+4	ਸੋਨਮ	_	PROPN	_	_	7	nmod	_	_
+5	ਦੀ	_	ADP	_	_	4	case	_	_
+6	ਲੈਟੇਸਟ	_	ADJ	_	_	7	amod	_	_
+7	ਤਸਵੀਰਾਂ	_	NOUN	_	_	10	nsubj	_	_
+8	ਦਿੱਲੀ	_	PROPN	_	_	10	obl	_	_
+9	ਤੋਂ	_	ADP	_	_	8	case	_	_
+10	ਆਈਆਂ	_	VERB	_	_	1	ccomp	_	_
+11	ਹਨ	_	AUX	_	_	10	aux	_	_
+12	,	_	PUNCT	_	_	21	punct	_	_
+13	ਜਿਸ	_	PRON	_	_	21	obl	_	_
+14	ਵਿੱਚ	_	ADP	_	_	13	case	_	_
+15	ਉਹ	_	PRON	_	_	21	nsubj	_	_
+16	ਦੁਲਹਨ	_	NOUN	_	_	18	nmod	_	_
+17	ਦੇ	_	ADP	_	_	16	case	_	_
+18	ਅਵਤਾਰ	_	NOUN	_	_	21	obl	_	_
+19	ਵਿੱਚ	_	ADP	_	_	18	case	_	_
+20	ਦਿਖਾਈ	_	NOUN	_	_	21	compound:lvc	_	_
+21	ਦੇ	_	VERB	_	_	7	acl:relcl	_	_
+22	ਰਹੀ	_	AUX	_	_	21	aux	_	_
+23	ਹੈ	_	AUX	_	_	21	aux	_	_
+24	।	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = indiccorp_40
+# text = ਮੁਸਲਿਮ ਵੋਟਰਾਂ ਨੂੰ ਸ਼ਾਦੀ ਮੁਬਾਰਕ ਯੋਜਨਾ ਅਤੇ ਕਲਿਆਣ ਲਕਸ਼ਮੀ ਯੋਜਨਾ ਨੇ ਉਸ ਨੂੰ ਭਾਰੀ ਬਹੁਮਤ ਦਿਵਾ ਦਿੱਤਾ।
+1	ਮੁਸਲਿਮ	_	ADJ	_	_	2	amod	_	_
+2	ਵੋਟਰਾਂ	_	NOUN	_	_	16	obl	_	_
+3	ਨੂੰ	_	ADP	_	_	2	case	_	_
+4	ਸ਼ਾਦੀ	_	PROPN	_	_	5	compound	_	_
+5	ਮੁਬਾਰਕ	_	PROPN	_	_	6	compound	_	_
+6	ਯੋਜਨਾ	_	PROPN	_	_	16	nsubj	_	_
+7	ਅਤੇ	_	CCONJ	_	_	10	cc	_	_
+8	ਕਲਿਆਣ	_	PROPN	_	_	9	compound	_	_
+9	ਲਕਸ਼ਮੀ	_	PROPN	_	_	10	compound	_	_
+10	ਯੋਜਨਾ	_	PROPN	_	_	6	conj	_	_
+11	ਨੇ	_	ADP	_	_	6	case	_	_
+12	ਉਸ	_	PRON	_	_	16	obl	_	_
+13	ਨੂੰ	_	ADP	_	_	12	case	_	_
+14	ਭਾਰੀ	_	ADJ	_	_	15	amod	_	_
+15	ਬਹੁਮਤ	_	NOUN	_	_	16	obj	_	_
+16	ਦਿਵਾ	_	VERB	_	_	0	root	_	_
+17	ਦਿੱਤਾ	_	VERB	_	_	16	compound:svc	_	_
+18	।	_	PUNCT	_	_	16	punct	_	_
+
+# sent_id = indiccorp_44
+# text = ਬੁਲਾਰਿਆਂ ਨੇ ਮੰਗ ਕੀਤੀ ਕਿ ਵੱਖ-ਵੱਖ ਵਿਭਾਗਾਂ ਵਿੱਚ ਖਾਲੀ ਅਸਾਮੀਆਂ ਤੁਰੰਤ ਭਰੀਆ ਜਾਣ, ਕੱਚੇ ਮੁਲਾਜ਼ਮਾਂ ਨੂੰ ਪੱਕਾ ਕੀਤਾ ਜਾਵੇ, ਪੁਰਾਣੀ ਪੈਨਸ਼ਨ ਸਕੀਮ ਲਾਗੂ ਕੀਤੀ ਜਾਵੇ, ਮਹਿੰਗਾਈ ਭੱਤੇ ਦੀ ਬਕਾਇਆ ਕਿਸ਼ਤਾਂ ਦੀ ਅਦਾਇਗੀ ਯਕੀਨੀ ਬਣਾਈ ਜਾਵੇ, ਪੇਅ ਕਮਿਸ਼ਨ ਦੀ ਰਿਪੋਰਟ ਨੂੰ ਸਮਾਂਬੱਧ ਕਰਕੇ ਤੁਰੰਤ ਲਾਗੂ ਕੀਤਾ ਜਾਵੇ।
+1	ਬੁਲਾਰਿਆਂ	_	NOUN	_	_	4	nsubj	_	_
+2	ਨੇ	_	ADP	_	_	1	case	_	_
+3	ਮੰਗ	_	NOUN	_	_	4	compound:lvc	_	_
+4	ਕੀਤੀ	_	VERB	_	_	0	root	_	_
+5	ਕਿ	_	SCONJ	_	_	12	mark	_	_
+6	ਵੱਖ-ਵੱਖ	_	DET	_	_	7	det	_	_
+7	ਵਿਭਾਗਾਂ	_	NOUN	_	_	12	obl	_	_
+8	ਵਿੱਚ	_	ADP	_	_	7	case	_	_
+9	ਖਾਲੀ	_	ADJ	_	_	10	amod	_	_
+10	ਅਸਾਮੀਆਂ	_	NOUN	_	_	12	obj	_	_
+11	ਤੁਰੰਤ	_	ADV	_	_	12	advmod	_	_
+12	ਭਰੀਆ	_	VERB	_	_	3	acl:relcl	_	_
+13	ਜਾਣ	_	AUX	_	_	12	aux:pass	_	_
+14	,	_	PUNCT	_	_	19	punct	_	_
+15	ਕੱਚੇ	_	ADJ	_	_	16	amod	_	_
+16	ਮੁਲਾਜ਼ਮਾਂ	_	NOUN	_	_	19	obj	_	_
+17	ਨੂੰ	_	ADP	_	_	16	case	_	_
+18	ਪੱਕਾ	_	ADJ	_	_	19	compound:lvc	_	_
+19	ਕੀਤਾ	_	VERB	_	_	12	conj	_	_
+20	ਜਾਵੇ	_	AUX	_	_	19	aux:pass	_	_
+21	,	_	PUNCT	_	_	26	punct	_	_
+22	ਪੁਰਾਣੀ	_	ADJ	_	_	24	amod	_	_
+23	ਪੈਨਸ਼ਨ	_	NOUN	_	_	24	compound	_	_
+24	ਸਕੀਮ	_	NOUN	_	_	26	obj	_	_
+25	ਲਾਗੂ	_	ADJ	_	_	26	compound:lvc	_	_
+26	ਕੀਤੀ	_	VERB	_	_	12	conj	_	_
+27	ਜਾਵੇ	_	AUX	_	_	26	aux:pass	_	_
+28	,	_	PUNCT	_	_	37	punct	_	_
+29	ਮਹਿੰਗਾਈ	_	NOUN	_	_	30	compound	_	_
+30	ਭੱਤੇ	_	NOUN	_	_	33	nmod	_	_
+31	ਦੀ	_	ADP	_	_	30	case	_	_
+32	ਬਕਾਇਆ	_	ADJ	_	_	33	amod	_	_
+33	ਕਿਸ਼ਤਾਂ	_	NOUN	_	_	35	nmod	_	_
+34	ਦੀ	_	ADP	_	_	33	case	_	_
+35	ਅਦਾਇਗੀ	_	NOUN	_	_	37	obj	_	_
+36	ਯਕੀਨੀ	_	ADJ	_	_	37	compound:lvc	_	_
+37	ਬਣਾਈ	_	VERB	_	_	12	conj	_	_
+38	ਜਾਵੇ	_	AUX	_	_	37	aux:pass	_	_
+39	,	_	PUNCT	_	_	49	punct	_	_
+40	ਪੇਅ	_	NOUN	_	_	41	compound	_	_
+41	ਕਮਿਸ਼ਨ	_	NOUN	_	_	43	nmod	_	_
+42	ਦੀ	_	ADP	_	_	41	case	_	_
+43	ਰਿਪੋਰਟ	_	NOUN	_	_	46	obj	_	_
+44	ਨੂੰ	_	ADP	_	_	43	case	_	_
+45	ਸਮਾਂਬੱਧ	_	ADJ	_	_	46	compound:lvc	_	_
+46	ਕਰਕੇ	_	VERB	_	_	49	advcl	_	_
+47	ਤੁਰੰਤ	_	ADV	_	_	49	advmod	_	_
+48	ਲਾਗੂ	_	ADJ	_	_	49	compound:lvc	_	_
+49	ਕੀਤਾ	_	VERB	_	_	12	conj	_	_
+50	ਜਾਵੇ	_	AUX	_	_	49	aux:pass	_	_
+51	।	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = indiccorp_45_1
+# text = ਜੀ. ਕੇ. ਨੇ ਕਿਹਾ ਕਿ ਜੇਕਰ ਅੱਜ ਹਿੰਦੂਸਤਾਨ ’ਚ ਹਿੰਦੂ ਧਰਮ ਦੀ ਹੋਂਦ ਹੈ ਤਾਂ ਉਸ ਪਿੱਛੇ ਸਿੱਖ ਗੁਰੂਆਂ ਦੀਆਂ ਕੁਰਬਾਨੀਆਂ ਦੀ ਵੱਡੀ ਭੂਮਿਕਾ ਹੈ।
+1	ਜੀ.	_	PROPN	_	_	4	nsubj	_	_
+2	ਕੇ.	_	PROPN	_	_	1	flat	_	_
+3	ਨੇ	_	ADP	_	_	1	case	_	_
+4	ਕਿਹਾ	_	VERB	_	_	0	root	_	_
+5	ਕਿ	_	SCONJ	_	_	16	mark	_	_
+6	ਜੇਕਰ	_	SCONJ	_	_	8	mark	_	_
+7	ਅੱਜ	_	NOUN	_	_	8	obl	_	_
+8	ਹਿੰਦੂਸਤਾਨ	_	PROPN	_	_	16	advcl	_	_
+9	’ਚ	_	ADP	_	_	8	case	_	_
+10	ਹਿੰਦੂ	_	ADJ	_	_	11	amod	_	_
+11	ਧਰਮ	_	NOUN	_	_	13	nmod	_	_
+12	ਦੀ	_	ADP	_	_	11	case	_	_
+13	ਹੋਂਦ	_	NOUN	_	_	8	nsubj	_	_
+14	ਹੈ	_	VERB	_	_	8	cop	_	_
+15	ਤਾਂ	_	ADV	_	_	16	advcl	_	_
+16	ਉਸ	_	PRON	_	_	4	ccomp	_	_
+17	ਪਿੱਛੇ	_	ADP	_	_	16	case	_	_
+18	ਸਿੱਖ	_	ADJ	_	_	19	amod	_	_
+19	ਗੁਰੂਆਂ	_	NOUN	_	_	21	nmod	_	_
+20	ਦੀਆਂ	_	ADP	_	_	19	case	_	_
+21	ਕੁਰਬਾਨੀਆਂ	_	NOUN	_	_	24	nmod	_	_
+22	ਦੀ	_	ADP	_	_	21	case	_	_
+23	ਵੱਡੀ	_	ADJ	_	_	24	amod	_	_
+24	ਭੂਮਿਕਾ	_	NOUN	_	_	16	nsubj	_	_
+25	ਹੈ	_	AUX	_	_	16	cop	_	_
+26	।	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = indiccorp_45_2
+# text = ਆਰ. ਐਸ. ਐਸ. ਅਤੇ ਉਸਦੇ ਸਹਿਯੋਗੀ ਸੰਗਠਨਾਂ ਨੂੰ ਸਿੱਖਾਂ ਦਾ ਇਤਿਹਾਸ ਪ੍ਰਦੂਸ਼ਿਤ ਕਰਨ ਦੀ ਥਾਂ ਹਿੰਦੂ ਦੇਵੀ-ਦੇਵਤਿਆਂ ਦੇ ਉਸਾਰੂ ਇਤਿਹਾਸ ਨੂੰ ਚੰਗੀ ਤਰੀਕੇ ਨਾਲ ਪੇਸ਼ ਕਰਕੇ ਨੌਜਵਾਨਾਂ ਨੂੰ ਪ੍ਰੇਰ ਕੇ ਧਰਮੀ ਬਣਾਉਣਾ ਚਾਹੀਦਾ ਹੈ, ਨਾ ਕਿ ਦੂਜਿਆ ਦੇ ਦੁੱਧ ਨੂੰ ਆਪਣਾ ਖ਼ੱਟਾ ਲਗਾ ਕੇ ਆਪਣੀ ਦਹੀ ਦੱਸਣ ਵੱਲ ਤੁਰਨਾ ਚਾਹੀਦਾ ਹੈ।
+1	ਆਰ.	_	PRON	_	_	34	obl	_	_
+2	ਐਸ.	_	PROPN	_	_	1	flat	_	_
+3	ਐਸ.	_	PROPN	_	_	1	flat	_	_
+4	ਅਤੇ	_	CCONJ	_	_	7	cc	_	_
+5	ਉਸਦੇ	_	PRON	_	_	7	nmod	_	_
+6	ਸਹਿਯੋਗੀ	_	ADJ	_	_	7	amod	_	_
+7	ਸੰਗਠਨਾਂ	_	NOUN	_	_	3	conj	_	_
+8	ਨੂੰ	_	ADP	_	_	1	case	_	_
+9	ਸਿੱਖਾਂ	_	NOUN	_	_	11	nmod	_	_
+10	ਦਾ	_	ADP	_	_	9	case	_	_
+11	ਇਤਿਹਾਸ	_	NOUN	_	_	13	obj	_	_
+12	ਪ੍ਰਦੂਸ਼ਿਤ	_	ADJ	_	_	13	compound:lvc	_	_
+13	ਕਰਨ	_	VERB	_	_	34	advcl	_	_
+14	ਦੀ	_	ADP	_	_	13	mark	_	_
+15	ਥਾਂ	_	ADP	_	_	13	mark	_	_
+16	ਹਿੰਦੂ	_	ADJ	_	_	19	amod	_	_
+17-19	ਦੇਵੀ-ਦੇਵਤਿਆਂ	_	_	_	_	_	_	_	_
+17	ਦੇਵੀ	_	NOUN	_	_	19	compound	_	_
+18	-	_	PUNCT	_	_	19	punct	_	_
+19	ਦੇਵਤਿਆਂ	_	NOUN	_	_	22	nmod	_	_
+20	ਦੇ	_	ADP	_	_	19	case	_	_
+21	ਉਸਾਰੂ	_	ADJ	_	_	22	amod	_	_
+22	ਇਤਿਹਾਸ	_	NOUN	_	_	28	obj	_	_
+23	ਨੂੰ	_	ADP	_	_	22	case	_	_
+24	ਚੰਗੀ	_	ADJ	_	_	25	amod	_	_
+25	ਤਰੀਕੇ	_	NOUN	_	_	28	obl	_	_
+26	ਨਾਲ	_	ADP	_	_	25	case	_	_
+27	ਪੇਸ਼	_	ADJ	_	_	28	compound:lvc	_	_
+28	ਕਰਕੇ	_	VERB	_	_	34	advcl	_	_
+29	ਨੌਜਵਾਨਾਂ	_	NOUN	_	_	34	obj	_	_
+30	ਨੂੰ	_	ADP	_	_	29	case	_	_
+31	ਪ੍ਰੇਰ	_	VERB	_	_	34	advcl	_	_
+32	ਕੇ	_	AUX	_	_	31	aux	_	_
+33	ਧਰਮੀ	_	ADJ	_	_	34	compound:lvc	_	_
+34	ਬਣਾਉਣਾ	_	VERB	_	_	0	root	_	_
+35	ਚਾਹੀਦਾ	_	AUX	_	_	34	aux	_	_
+36	ਹੈ	_	AUX	_	_	34	aux	_	_
+37	,	_	PUNCT	_	_	52	punct	_	_
+38	ਨਾ	_	ADV	_	_	52	advmod	_	_
+39	ਕਿ	_	SCONJ	_	_	38	fixed	_	_
+40	ਦੂਜਿਆ	_	NOUN	_	_	42	nmod	_	_
+41	ਦੇ	_	ADP	_	_	40	case	_	_
+42	ਦੁੱਧ	_	NOUN	_	_	50	obj	_	_
+43	ਨੂੰ	_	ADP	_	_	42	case	_	_
+44	ਆਪਣਾ	_	PRON	_	_	45	nmod	_	_
+45	ਖ਼ੱਟਾ	_	NOUN	_	_	46	obj	_	_
+46	ਲਗਾ	_	VERB	_	_	50	advcl	_	_
+47	ਕੇ	_	AUX	_	_	46	aux	_	_
+48	ਆਪਣੀ	_	PRON	_	_	49	nmod	_	_
+49	ਦਹੀ	_	NOUN	_	_	50	xcomp	_	_
+50	ਦੱਸਣ	_	VERB	_	_	52	advcl	_	_
+51	ਵੱਲ	_	ADP	_	_	50	mark	_	_
+52	ਤੁਰਨਾ	_	VERB	_	_	34	parataxis	_	_
+53	ਚਾਹੀਦਾ	_	AUX	_	_	52	aux	_	_
+54	ਹੈ	_	AUX	_	_	52	aux	_	_
+55	।	_	PUNCT	_	_	34	punct	_	_
+
+# sent_id = indiccorp_46
+# text = ਪੰਚਾਇਤੀ ਚੋਣਾਂ ਦੀ ਰੰਜਿਸ਼ ਕਾਰਨ ਮੈਰਿਜ ਪੈਲੇਸ 'ਚ ਚੱਲੀਆਂ ਗੋਲੀਆਂ ਨੇ ਲਈ ਚਾਚੇ-ਭਤੀਜੇ ਦੀ ਜਾਨ
+1	ਪੰਚਾਇਤੀ	_	ADJ	_	_	2	amod	_	_
+2	ਚੋਣਾਂ	_	NOUN	_	_	4	nmod	_	_
+3	ਦੀ	_	ADP	_	_	2	case	_	_
+4	ਰੰਜਿਸ਼	_	NOUN	_	_	9	obl	_	_
+5	ਕਾਰਨ	_	ADP	_	_	4	case	_	_
+6	ਮੈਰਿਜ	_	PROPN	_	_	7	compound	_	_
+7	ਪੈਲੇਸ	_	PROPN	_	_	9	obl	_	_
+8	'ਚ	_	ADP	_	_	7	case	_	_
+9	ਚੱਲੀਆਂ	_	VERB	_	_	10	acl	_	_
+10	ਗੋਲੀਆਂ	_	NOUN	_	_	12	nsubj	_	_
+11	ਨੇ	_	ADP	_	_	10	case	_	_
+12	ਲਈ	_	VERB	_	_	0	root	_	_
+13	ਚਾਚੇ-ਭਤੀਜੇ	_	NOUN	_	_	15	nmod	_	_
+14	ਦੀ	_	ADP	_	_	13	case	_	_
+15	ਜਾਨ	_	NOUN	_	_	12	obj	_	_
+
+# sent_id = indiccorp_47
+# text = ਥਾਣਾ ਮੁਖੀ ਸਾਧੂ ਰਾਮ ਨੇ ਦੱਸਿਆ ਕਿ ਪੁਲੀਸ ਨੇ ਮਾਮਲੇ ਵਿੱਚ ਧਾਰਾ 174 ਤਹਿਤ ਕਾਰਵਾਈ ਕੀਤੀ ਹੈ। 
+1	ਥਾਣਾ	_	PROPN	_	_	2	compound	_	_
+2	ਮੁਖੀ	_	PROPN	_	_	3	compound	_	_
+3	ਸਾਧੂ	_	PROPN	_	_	6	nsubj	_	_
+4	ਰਾਮ	_	PROPN	_	_	3	flat	_	_
+5	ਨੇ	_	ADP	_	_	3	case	_	_
+6	ਦੱਸਿਆ	_	VERB	_	_	0	root	_	_
+7	ਕਿ	_	SCONJ	_	_	16	mark	_	_
+8	ਪੁਲੀਸ	_	NOUN	_	_	15	nsubj	_	_
+9	ਨੇ	_	ADP	_	_	8	case	_	_
+10	ਮਾਮਲੇ	_	NOUN	_	_	15	obl	_	_
+11	ਵਿੱਚ	_	ADP	_	_	10	case	_	_
+12	ਧਾਰਾ	_	NOUN	_	_	15	obl	_	_
+13	174	_	NUM	_	_	12	nummod	_	_
+14	ਤਹਿਤ	_	ADP	_	_	12	case	_	_
+15	ਕਾਰਵਾਈ	_	NOUN	_	_	16	compound:lvc	_	_
+16	ਕੀਤੀ	_	VERB	_	_	6	ccomp	_	_
+17	ਹੈ	_	AUX	_	_	16	aux	_	_
+18	।	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = indiccorp_53
+# text = ਜਵਾਬ ਲਈ ਸਰਕਾਰ ਤਿੰਨ ਵਾਰ ਸਮਾਂ ਮੰਗ ਚੁੱਕੀ ਹੈ, ਪਰ ਫਿਰ ਵੀ ਜਵਾਬ ਪੇਸ਼ ਨਹੀਂ ਕੀਤਾ ਗਿਆ।
+1	ਜਵਾਬ	_	NOUN	_	_	7	obl	_	_
+2	ਲਈ	_	ADP	_	_	1	case	_	_
+3	ਸਰਕਾਰ	_	NOUN	_	_	7	nsubj	_	_
+4	ਤਿੰਨ	_	NUM	_	_	5	nummod	_	_
+5	ਵਾਰ	_	NOUN	_	_	7	obl	_	_
+6	ਸਮਾਂ	_	NOUN	_	_	7	obj	_	_
+7	ਮੰਗ	_	VERB	_	_	0	root	_	_
+8	ਚੁੱਕੀ	_	VERB	_	_	7	compound:svc	_	_
+9	ਹੈ	_	AUX	_	_	7	aux	_	_
+10	,	_	PUNCT	_	_	17	punct	_	_
+11	ਪਰ	_	CCONJ	_	_	17	cc	_	_
+12	ਫਿਰ	_	ADV	_	_	17	advmod	_	_
+13	ਵੀ	_	PART	_	_	12	discourse	_	_
+14	ਜਵਾਬ	_	NOUN	_	_	17	obj	_	_
+15	ਪੇਸ਼	_	ADJ	_	_	17	compound:lvc	_	_
+16	ਨਹੀਂ	_	ADV	_	_	17	advmod	_	_
+17	ਕੀਤਾ	_	VERB	_	_	7	conj	_	_
+18	ਗਿਆ	_	AUX	_	_	17	aux:pass	_	_
+19	।	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = flores_1_1
+# text = ਸੋਮਵਾਰ ਨੂੰ, ਸਟੈਨਫੋਰਡ ਯੂਨੀਵਰਸਿਟੀ ਸਕੂਲ ਆਫ਼ ਮੈਡੀਸਿਨ ਦੇ ਵਿਗਿਆਨੀਆਂ ਨੇ ਇੱਕ ਨਵੇਂ ਡਾਇਗਨੋਸਟਿਕ ਟੂਲ ਦੇ ਅਵਿਸ਼ਕਾਰ ਬਾਰੇ ਘੋਸ਼ਣਾ ਕੀਤੀ ਜੋ ਕਿਸਮ ਮੁਤਾਬਕ ਸੈੱਲਾਂ ਦੀ ਛਾਂਟੀ ਕਰ ਸਕਦਾ ਹੈ:
+# trans = On Monday, scientists from the Stanford University School of Medicine announced the invention of a new diagnostic tool that can sort cells by type:
+1	ਸੋਮਵਾਰ	_	PROPN	_	_	20	obl	_	_
+2	ਨੂੰ	_	ADP	_	_	1	case	_	_
+3	,	_	PUNCT	_	_	20	punct	_	_
+4	ਸਟੈਨਫੋਰਡ	_	PROPN	_	_	6	compound	_	_
+5	ਯੂਨੀਵਰਸਿਟੀ	_	PROPN	_	_	4	flat	_	_
+6	ਸਕੂਲ	_	PROPN	_	_	10	nmod	_	_
+7	ਆਫ਼	_	PROPN	_	_	6	flat	_	_
+8	ਮੈਡੀਸਿਨ	_	PROPN	_	_	6	flat	_	_
+9	ਦੇ	_	ADP	_	_	6	case	_	_
+10	ਵਿਗਿਆਨੀਆਂ	_	NOUN	_	_	20	nsubj	_	_
+11	ਨੇ	_	ADP	_	_	10	case	_	_
+12	ਇੱਕ	_	NUM	_	_	15	nummod	_	_
+13	ਨਵੇਂ	_	ADJ	_	_	15	amod	_	_
+14	ਡਾਇਗਨੋਸਟਿਕ	_	ADJ	_	_	15	amod	_	_
+15	ਟੂਲ	_	NOUN	_	_	17	nmod	_	_
+16	ਦੇ	_	ADP	_	_	15	case	_	_
+17	ਅਵਿਸ਼ਕਾਰ	_	NOUN	_	_	20	obl	_	_
+18	ਬਾਰੇ	_	ADP	_	_	17	case	_	_
+19	ਘੋਸ਼ਣਾ	_	NOUN	_	_	20	compound:lvc	_	_
+20	ਕੀਤੀ	_	VERB	_	_	0	root	_	_
+21	ਜੋ	_	PRON	_	_	27	nsubj	_	_
+22	ਕਿਸਮ	_	NOUN	_	_	27	obl	_	_
+23	ਮੁਤਾਬਕ	_	ADP	_	_	22	case	_	_
+24	ਸੈੱਲਾਂ	_	NOUN	_	_	26	nmod	_	_
+25	ਦੀ	_	ADP	_	_	24	case	_	_
+26	ਛਾਂਟੀ	_	NOUN	_	_	27	compound:lvc	_	_
+27	ਕਰ	_	VERB	_	_	15	acl:relcl	_	_
+28	ਸਕਦਾ	_	VERB	_	_	27	compound:svc	_	_
+29	ਹੈ	_	AUX	_	_	27	aux	_	_
+30	:	_	PUNCT	_	_	20	punct	_	_
+
+# sent_id = flores_1_2
+# text = ਇੱਕ ਬਹੁਤ ਛੋਟੀ ਪ੍ਰਿੰਟ ਕਰਨਯੋਗ ਚਿੱਪ ਜਿਸਦਾ ਨਿਰਮਾਣ ਸਟੈਂਡਰਡ ਇੰਕਜੈੱਟ ਪ੍ਰਿੰਟਰਾਂ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਸੰਭਾਵੀ ਤੌਰ ‘ਤੇ ਲਗਭਗ ਇੱਕ ਯੂ.ਐਸ. ਸੈਂਟ ਦੇ ਖ਼ਰਚੇ ਵਿੱਚ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
+# trans = a tiny printable chip that can be manufactured using standard inkjet printers for possibly about one U.S. cent each.
+1	ਇੱਕ	_	NOUN	_	_	7	nummod	_	_
+2	ਬਹੁਤ	_	ADV	_	_	3	advcl	_	_
+3	ਛੋਟੀ	_	ADJ	_	_	7	amod	_	_
+4	ਪ੍ਰਿੰਟ	_	NOUN	_	_	5	compound:lvc	_	_
+5-6	ਕਰਨਯੋਗ	_	_	_	_	_	_	_	_
+5	ਕਰਨ	_	VERB	_	_	7	acl	_	_
+6	ਯੋਗ	_	ADP	_	_	5	mark	_	_
+7	ਚਿੱਪ	_	NOUN	_	_	0	root	_	_
+8	ਜਿਸਦਾ	_	PRON	_	_	9	nmod	_	_
+9	ਨਿਰਮਾਣ	_	NOUN	_	_	27	obj	_	_
+10	ਸਟੈਂਡਰਡ	_	ADJ	_	_	12	amod	_	_
+11	ਇੰਕਜੈੱਟ	_	NOUN	_	_	12	compound	_	_
+12	ਪ੍ਰਿੰਟਰਾਂ	_	NOUN	_	_	14	nmod	_	_
+13	ਦੀ	_	ADP	_	_	12	case	_	_
+14	ਵਰਤੋਂ	_	NOUN	_	_	15	compound:lvc	_	_
+15	ਕਰਕੇ	_	VERB	_	_	27	advcl	_	_
+16	ਸੰਭਾਵੀ	_	ADJ	_	_	17	amod	_	_
+17	ਤੌਰ	_	NOUN	_	_	27	obl	_	_
+18	‘ਤੇ	_	ADP	_	_	17	case	_	_
+19	ਲਗਭਗ	_	ADV	_	_	20	advmod	_	_
+20	ਇੱਕ	_	NUM	_	_	23	nummod	_	_
+21	ਯੂ.	_	PROPN	_	_	23	compound	_	_
+22	ਐਸ.	_	PROPN	_	_	21	flat	_	_
+23	ਸੈਂਟ	_	NOUN	_	_	25	nmod	_	_
+24	ਦੇ	_	ADP	_	_	23	case	_	_
+25	ਖ਼ਰਚੇ	_	NOUN	_	_	27	obl	_	_
+26	ਵਿੱਚ	_	ADP	_	_	25	case	_	_
+27	ਕੀਤਾ	_	VERB	_	_	7	acl:relcl	_	_
+28	ਜਾ	_	AUX	_	_	27	aux:pass	_	_
+29	ਸਕਦਾ	_	VERB	_	_	27	compound:svc	_	_
+30	ਹੈ	_	AUX	_	_	27	aux	_	_
+31	।	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = flores_2
+# text = ਮੁੱਖ ਖੋਜ ਕਰਤਾ ਦਾ ਕਹਿਣਾ ਹੈ ਕਿ ਇਸ ਨਾਲ ਘੱਟ ਆਮਦਨੀ ਵਾਲੇ ਦੇਸ਼ਾਂ ਵਿੱਚ ਰੋਗੀਆਂ ਵਿੱਚ ਕੈਂਸਰ, ਤਪਦਿਕ, ਐਚਆਈਵੀ ਅਤੇ ਮਲੇਰੀਆ ਦਾ ਜਲਦੀ ਪਤਾ ਲਗ ਸਕਦਾ ਹੈ, ਜਿੱਥੇ ਛਾਤੀ ਦੇ ਕੈਂਸਰ ਵਰਗੀਆਂ ਬਿਮਾਰੀਆਂ ਹੋਣ ਬਾਅਦ ਜਿੰਦਾ ਰਹਿਣ ਵਾਲਿਆ ਦੀ ਦਰ ਅਮੀਰ ਦੇਸ਼ਾਂ ਨਾਲੋਂ ਅੱਧੀ ਹੈ।
+# trans = Lead researchers say this may bring early detection of cancer, tuberculosis, HIV and malaria to patients in low-income countries, where the survival rates for illnesses such as breast cancer can be half those of richer countries.
+1	ਮੁੱਖ	_	ADJ	_	_	3	amod	_	_
+2	ਖੋਜ	_	NOUN	_	_	3	compound	_	_
+3	ਕਰਤਾ	_	NOUN	_	_	5	nmod	_	_
+4	ਦਾ	_	ADP	_	_	3	case	_	_
+5	ਕਹਿਣਾ	_	NOUN	_	_	6	nsubj	_	_
+6	ਹੈ	_	VERB	_	_	0	root	_	_
+7	ਕਿ	_	SCONJ	_	_	27	mark	_	_
+8	ਇਸ	_	PRON	_	_	27	obl	_	_
+9	ਨਾਲ	_	ADP	_	_	8	case	_	_
+10	ਘੱਟ	_	ADJ	_	_	11	amod	_	_
+11	ਆਮਦਨੀ	_	NOUN	_	_	13	nmod	_	_
+12	ਵਾਲੇ	_	ADP	_	_	11	case	_	_
+13	ਦੇਸ਼ਾਂ	_	NOUN	_	_	27	obl	_	_
+14	ਵਿੱਚ	_	ADP	_	_	13	case	_	_
+15	ਰੋਗੀਆਂ	_	NOUN	_	_	27	obl	_	_
+16	ਵਿੱਚ	_	ADP	_	_	15	case	_	_
+17	ਕੈਂਸਰ	_	NOUN	_	_	26	nmod	_	_
+18	,	_	PUNCT	_	_	19	punct	_	_
+19	ਤਪਦਿਕ	_	NOUN	_	_	17	conj	_	_
+20	,	_	PUNCT	_	_	21	punct	_	_
+21	ਐਚਆਈਵੀ	_	PROPN	_	_	17	conj	_	_
+22	ਅਤੇ	_	CCONJ	_	_	23	cc	_	_
+23	ਮਲੇਰੀਆ	_	NOUN	_	_	17	conj	_	_
+24	ਦਾ	_	ADP	_	_	17	case	_	_
+25	ਜਲਦੀ	_	ADV	_	_	27	advmod	_	_
+26	ਪਤਾ	_	NOUN	_	_	27	compound:lvc	_	_
+27	ਲਗ	_	VERB	_	_	6	ccomp	_	_
+28	ਸਕਦਾ	_	VERB	_	_	27	compound:svc	_	_
+29	ਹੈ	_	AUX	_	_	27	aux	_	_
+30	,	_	PUNCT	_	_	47	punct	_	_
+31	ਜਿੱਥੇ	_	ADV	_	_	47	advmod	_	_
+32	ਛਾਤੀ	_	NOUN	_	_	34	nmod	_	_
+33	ਦੇ	_	ADP	_	_	32	case	_	_
+34	ਕੈਂਸਰ	_	NOUN	_	_	36	nmod	_	_
+35	ਵਰਗੀਆਂ	_	ADP	_	_	34	case	_	_
+36	ਬਿਮਾਰੀਆਂ	_	NOUN	_	_	37	nsubj	_	_
+37	ਹੋਣ	_	VERB	_	_	40	advcl	_	_
+38	ਬਾਅਦ	_	ADP	_	_	37	mark	_	_
+39	ਜਿੰਦਾ	_	ADJ	_	_	40	compound:lvc	_	_
+40	ਰਹਿਣ	_	VERB	_	_	41	acl	_	_
+41	ਵਾਲਿਆ	_	NOUN	_	_	43	nmod	_	_
+42	ਦੀ	_	ADP	_	_	41	case	_	_
+43	ਦਰ	_	NOUN	_	_	47	nsubj	_	_
+44	ਅਮੀਰ	_	ADJ	_	_	45	amod	_	_
+45	ਦੇਸ਼ਾਂ	_	NOUN	_	_	47	obl	_	_
+46	ਨਾਲੋਂ	_	ADP	_	_	45	case	_	_
+47	ਅੱਧੀ	_	ADJ	_	_	13	acl:relcl	_	_
+48	ਹੈ	_	VERB	_	_	47	cop	_	_
+49	।	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = flores_3
+# text = JAS 39C ਗ੍ਰਿਪਨ ਦਾ ਸਥਾਨਕ ਸਮੇਂ ਮੁਤਾਬਕ ਸਵੇਰੇ 9:30 (0230 UTC) ਵਜੇ ਰਨਵੇ 'ਤੇ ਹਾਦਸਾ ਹੋ ਗਿਆ ਅਤੇ ਇਸ ਵਿੱਚ ਵਿਸਫੋਟ ਹੋਇਆ, ਵਪਾਰਕ ਉਡਾਣਾਂ ਲਈ ਹਵਾਈ ਅੱਡੇ ਨੂੰ ਬੰਦ ਕਰ ਦਿੱਤਾ ਗਿਆ।
+# trans = The JAS 39C Gripen crashed onto a runway at around 9:30 am local time (0230 UTC) and exploded, closing the airport to commercial flights.
+1	JAS	_	PROPN	_	_	17	nmod	_	_
+2	39C	_	PROPN	_	_	1	flat	_	_
+3	ਗ੍ਰਿਪਨ	_	PROPN	_	_	1	flat	_	_
+4	ਦਾ	_	ADP	_	_	1	case	_	_
+5	ਸਥਾਨਕ	_	ADP	_	_	6	amod	_	_
+6	ਸਮੇਂ	_	NOUN	_	_	14	nmod	_	_
+7	ਮੁਤਾਬਕ	_	ADP	_	_	6	case	_	_
+8	ਸਵੇਰੇ	_	NOUN	_	_	14	nmod	_	_
+9	9:30	_	NUM	_	_	14	nummod	_	_
+10	(	_	PUNCT	_	_	11	punct	_	_
+11	0230	_	NUM	_	_	9	appos	_	_
+12	UTC	_	PROPN	_	_	11	nmod	_	_
+13	)	_	PUNCT	_	_	11	punct	_	_
+14	ਵਜੇ	_	NOUN	_	_	18	obl	_	_
+15	ਰਨਵੇ	_	NOUN	_	_	18	obl	_	_
+16	'ਤੇ	_	ADP	_	_	15	case	_	_
+17	ਹਾਦਸਾ	_	NOUN	_	_	18	nsubj	_	_
+18	ਹੋ	_	VERB	_	_	0	root	_	_
+19	ਗਿਆ	_	AUX	_	_	18	aux:pass	_	_
+20	ਅਤੇ	_	CCONJ	_	_	24	cc	_	_
+21	ਇਸ	_	PRON	_	_	24	obl	_	_
+22	ਵਿੱਚ	_	ADP	_	_	21	case	_	_
+23	ਵਿਸਫੋਟ	_	NOUN	_	_	24	nsubj	_	_
+24	ਹੋਇਆ	_	VERB	_	_	18	conj	_	_
+25	,	_	PUNCT	_	_	33	punct	_	_
+26	ਵਪਾਰਕ	_	ADJ	_	_	27	amod	_	_
+27	ਉਡਾਣਾਂ	_	NOUN	_	_	33	obl	_	_
+28	ਲਈ	_	ADP	_	_	27	case	_	_
+29	ਹਵਾਈ	_	ADJ	_	_	30	amod	_	_
+30	ਅੱਡੇ	_	NOUN	_	_	33	obj	_	_
+31	ਨੂੰ	_	ADP	_	_	30	case	_	_
+32	ਬੰਦ	_	ADJ	_	_	33	compound:lvc	_	_
+33	ਕਰ	_	VERB	_	_	18	parataxis	_	_
+34	ਦਿੱਤਾ	_	VERB	_	_	33	compound:svc	_	_
+35	ਗਿਆ	_	AUX	_	_	33	aux:pass	_	_
+36	।	_	PUNCT	_	_	18	punct	_	_
+
+# sent_id = flores_4
+# text = ਪਾਇਲਟ ਦੀ ਪਛਾਣ ਸਕੁਐਡਰੋਨ ਲੀਡਰ ਦਿਲੋਕ੍ਰਿਤ ਪੱਤਵੀ ਵਜੋਂ ਕੀਤੀ ਗਈ।
+# trans = The pilot was identified as Squadron Leader Dilokrit Pattavee.
+1	ਪਾਇਲਟ	_	NOUN	_	_	3	nmod	_	_
+2	ਦੀ	_	ADP	_	_	1	case	_	_
+3	ਪਛਾਣ	_	NOUN	_	_	9	obj	_	_
+4	ਸਕੁਐਡਰੋਨ	_	PROPN	_	_	5	compound	_	_
+5	ਲੀਡਰ	_	PROPN	_	_	6	compound	_	_
+6	ਦਿਲੋਕ੍ਰਿਤ	_	PROPN	_	_	9	obl	_	_
+7	ਪੱਤਵੀ	_	PROPN	_	_	6	flat	_	_
+8	ਵਜੋਂ	_	ADP	_	_	6	case	_	_
+9	ਕੀਤੀ	_	VERB	_	_	0	root	_	_
+10	ਗਈ	_	AUX	_	_	9	aux:pass	_	_
+11	।	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = flores_5
+# text = ਸਥਾਨਕ ਮੀਡੀਆ ਨੇ ਰਿਪੋਰਟ ਕੀਤਾ ਕਿ ਏਅਰਪੋਰਟ ਦਾ ਇੱਕ ਅੱਗ ਬੁਝਾਊ ਵਾਹਨ ਦੁਰਘਟਨਾ ਵਾਲੀ ਥਾਂ ‘ਤੇ ਜਾਂਦਾ ਹੋਇਆ ਪਲਟ ਗਿਆ।
+# trans = Local media reports an airport fire vehicle rolled over while responding.
+1	ਸਥਾਨਕ	_	ADJ	_	_	2	amod	_	_
+2	ਮੀਡੀਆ	_	NOUN	_	_	5	nsubj	_	_
+3	ਨੇ	_	ADP	_	_	2	case	_	_
+4	ਰਿਪੋਰਟ	_	NOUN	_	_	5	compound:lvc	_	_
+5	ਕੀਤਾ	_	VERB	_	_	0	root	_	_
+6	ਕਿ	_	SCONJ	_	_	19	mark	_	_
+7	ਏਅਰਪੋਰਟ	_	NOUN	_	_	12	nmod	_	_
+8	ਦਾ	_	ADP	_	_	7	case	_	_
+9	ਇੱਕ	_	NUM	_	_	12	nummod	_	_
+10	ਅੱਗ	_	NOUN	_	_	11	compound	_	_
+11	ਬੁਝਾਊ	_	ADJ	_	_	12	amod	_	_
+12	ਵਾਹਨ	_	NOUN	_	_	19	nsubj	_	_
+13	ਦੁਰਘਟਨਾ	_	NOUN	_	_	15	nmod	_	_
+14	ਵਾਲੀ	_	ADP	_	_	13	case	_	_
+15	ਥਾਂ	_	NOUN	_	_	19	obl	_	_
+16	‘ਤੇ	_	ADP	_	_	15	case	_	_
+17	ਜਾਂਦਾ	_	VERB	_	_	19	advcl	_	_
+18	ਹੋਇਆ	_	AUX	_	_	17	aux	_	_
+19	ਪਲਟ	_	VERB	_	_	5	ccomp	_	_
+20	ਗਿਆ	_	AUX	_	_	19	aux:pass	_	_
+21	।	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = flores_6
+# text = 28 ਸਾਲਾ ਵਿਡਾਲ, ਸੇਵਿਲਾ ਤੋਂ ਤਿੰਨ ਸੀਜ਼ਨ ਪਹਿਲਾਂ ਬਰਾਕਾ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਈ।
+# trans = 28-year-old Vidal had joined Barça three seasons ago, from Sevilla.
+1	28	_	NUM	_	_	2	nummod	_	_
+2	ਸਾਲਾ	_	NOUN	_	_	3	nmod	_	_
+3	ਵਿਡਾਲ	_	PROPN	_	_	13	nsubj	_	_
+4	,	_	PUNCT	_	_	13	punct	_	_
+5	ਸੇਵਿਲਾ	_	PROPN	_	_	13	obl	_	_
+6	ਤੋਂ	_	ADP	_	_	5	case	_	_
+7	ਤਿੰਨ	_	NUM	_	_	8	nummod	_	_
+8	ਸੀਜ਼ਨ	_	NOUN	_	_	13	obl:tmod	_	_
+9	ਪਹਿਲਾਂ	_	ADP	_	_	8	case	_	_
+10	ਬਰਾਕਾ	_	PROPN	_	_	13	obl	_	_
+11	ਵਿੱਚ	_	ADP	_	_	10	case	_	_
+12	ਸ਼ਾਮਲ	_	ADJ	_	_	13	compound:lvc	_	_
+13	ਹੋਈ	_	VERB	_	_	0	root	_	_
+14	।	_	PUNCT	_	_	13	punct	_	_
+
+# sent_id = flores_7
+# text = ਕੈਟਲਾਨ-ਰਾਜਧਾਨੀ ਜਾਣ ਤੋਂ ਬਾਅਦ, ਵਿਡਲ ਨੇ ਕਲੱਬ ਲਈ 49 ਗੇਮਾਂ ਖੇਡੀਆਂ।
+# trans = Since moving to the Catalan-capital, Vidal had played 49 games for the club.
+1-3	ਕੈਟਲਾਨ-ਰਾਜਧਾਨੀ	_	_	_	_	_	_	_	_
+1	ਕੈਟਲਾਨ	_	ADJ	_	_	3	amod	_	_
+2	-	_	PUNCT	_	_	1	punct	_	_
+3	ਰਾਜਧਾਨੀ	_	NOUN	_	_	4	obl:lmod	_	_
+4	ਜਾਣ	_	VERB	_	_	14	advcl	_	_
+5	ਤੋਂ	_	ADP	_	_	4	mark	_	_
+6	ਬਾਅਦ	_	ADP	_	_	5	fixed	_	_
+7	,	_	PUNCT	_	_	14	punct	_	_
+8	ਵਿਡਲ	_	PROPN	_	_	14	nsubj	_	_
+9	ਨੇ	_	ADP	_	_	8	nsubj	_	_
+10	ਕਲੱਬ	_	NOUN	_	_	14	obl	_	_
+11	ਲਈ	_	ADP	_	_	10	case	_	_
+12	49	_	NUM	_	_	13	nummod	_	_
+13	ਗੇਮਾਂ	_	NOUN	_	_	14	obj	_	_
+14	ਖੇਡੀਆਂ	_	VERB	_	_	0	root	_	_
+15	।	_	PUNCT	_	_	14	punct	_	_
+
+# sent_id = flores_8
+# text = ਵਿਰੋਧ ਲਗਭਗ 11:00 ਵਜੇ ਸਥਾਨਕ ਸਮੇਂ (UTC+1) 'ਤੇ, ਡਾਊਨਿੰਗ ਸਟ੍ਰੀਟ ਨੂੰ ਜਾਣ ਵਾਲੇ ਪੁਲਿਸ-ਸੁਰੱਖਿਅਤ ਪ੍ਰਵੇਸ਼ ਦੇ ਸਾਹਮਣੇ ਵ੍ਹਾਈਟਹਾਲ, ਪ੍ਰਧਾਨ ਮੰਤਰੀ ਦੇ ਅਧਿਕਾਰਕ ਆਵਾਸ 'ਤੇ ਹੋਇਆ।
+# trans = The protest started around 11:00 local time (UTC+1) on Whitehall opposite the police-guarded entrance to Downing Street, the Prime Minister's official residence.
+1	ਵਿਰੋਧ	_	NOUN	_	_	31	nsubj	_	_
+2	ਲਗਭਗ	_	ADV	_	_	3	advmod	_	_
+3	11:00	_	NUM	_	_	4	nummod	_	_
+4	ਵਜੇ	_	NOUN	_	_	31	obl:tmod	_	_
+5	ਸਥਾਨਕ	_	ADJ	_	_	6	amod	_	_
+6	ਸਮੇਂ	_	NOUN	_	_	4	nmod	_	_
+7	(	_	PUNCT	_	_	8	punct	_	_
+8	UTC+1	_	PROPN	_	_	6	nmod	_	_
+9	)	_	PUNCT	_	_	8	punct	_	_
+10	'ਤੇ	_	ADP	_	_	4	case	_	_
+11	,	_	PUNCT	_	_	31	punct	_	_
+12	ਡਾਊਨਿੰਗ	_	PROPN	_	_	15	obl:lmod	_	_
+13	ਸਟ੍ਰੀਟ	_	PROPN	_	_	12	flat	_	_
+14	ਨੂੰ	_	ADP	_	_	12	case	_	_
+15	ਜਾਣ	_	VERB	_	_	20	acl	_	_
+16	ਵਾਲੇ	_	ADP	_	_	15	mark	_	_
+17	ਪੁਲਿਸ	_	NOUN	_	_	19	obl	_	_
+18	-	_	PUNCT	_	_	19	punct	_	_
+19	ਸੁਰੱਖਿਅਤ	_	ADJ	_	_	20	amod	_	_
+20	ਪ੍ਰਵੇਸ਼	_	NOUN	_	_	23	nmod	_	_
+21	ਦੇ	_	ADP	_	_	20	case	_	_
+22	ਸਾਹਮਣੇ	_	ADP	_	_	21	fixed	_	_
+23	ਵ੍ਹਾਈਟਹਾਲ	_	PROPN	_	_	31	obl	_	_
+24	,	_	PUNCT	_	_	23	punct	_	_
+25	ਪ੍ਰਧਾਨ	_	ADJ	_	_	26	amod	_	_
+26	ਮੰਤਰੀ	_	PROPN	_	_	29	nmod	_	_
+27	ਦੇ	_	ADP	_	_	26	case	_	_
+28	ਅਧਿਕਾਰਕ	_	ADJ	_	_	29	amod	_	_
+29	ਆਵਾਸ	_	NOUN	_	_	23	appos	_	_
+30	'ਤੇ	_	ADP	_	_	23	case	_	_
+31	ਹੋਇਆ	_	VERB	_	_	0	root	_	_
+32	।	_	PUNCT	_	_	31	punct	_	_
+
+# sent_id = flores_9
+# text = 11 ਵਜੇ ਤੋਂ ਬਾਅਦ ਹੀ, ਪ੍ਰਦਰਸ਼ਨਕਾਰੀਆਂ ਨੇ ਵ੍ਹਾਈਟਹਾਲ ਵਿੱਚ ਉੱਤਰ ਵੱਲ ਜਾਣ ਵਾਲੀਆਂ ਗੱਡੀਆਂ ਦੀ ਆਵਾਜਾਈ ਬੰਦ ਕਰ ਦਿੱਤੀ।
+# trans = Just after 11:00, protesters blocked traffic on the northbound carriage in Whitehall.
+1	11	_	NUM	_	_	2	nummod	_	_
+2	ਵਜੇ	_	NOUN	_	_	19	obl:tmod	_	_
+3	ਤੋਂ	_	ADP	_	_	2	case	_	_
+4	ਬਾਅਦ	_	ADP	_	_	3	fixed	_	_
+5	ਹੀ	_	PART	_	_	2	discourse	_	_
+6	,	_	PUNCT	_	_	19	punct	_	_
+7	ਪ੍ਰਦਰਸ਼ਨਕਾਰੀਆਂ	_	NOUN	_	_	19	nsubj	_	_
+8	ਨੇ	_	ADP	_	_	7	case	_	_
+9	ਵ੍ਹਾਈਟਹਾਲ	_	PROPN	_	_	19	obl:lmod	_	_
+10	ਵਿੱਚ	_	ADP	_	_	9	case	_	_
+11	ਉੱਤਰ	_	NOUN	_	_	13	obl:lmod	_	_
+12	ਵੱਲ	_	ADP	_	_	11	case	_	_
+13	ਜਾਣ	_	VERB	_	_	15	acl	_	_
+14	ਵਾਲੀਆਂ	_	ADP	_	_	13	mark	_	_
+15	ਗੱਡੀਆਂ	_	NOUN	_	_	17	nmod	_	_
+16	ਦੀ	_	ADP	_	_	15	case	_	_
+17	ਆਵਾਜਾਈ	_	NOUN	_	_	19	obj	_	_
+18	ਬੰਦ	_	ADJ	_	_	19	compound:lvc	_	_
+19	ਕਰ	_	VERB	_	_	0	root	_	_
+20	ਦਿੱਤੀ	_	VERB	_	_	19	compound:svc	_	_
+21	।	_	PUNCT	_	_	19	punct	_	_
+
+# sent_id = flores_10
+# text = 11:20 ਵਜੇ, ਪੁਲਿਸ ਨੇ ਪ੍ਰਦਰਸ਼ਨਕਾਰੀਆਂ ਨੂੰ ਵਿਰੋਧ ਕਰਨ ਦੇ ਅਧਿਕਾਰ ਦੇ ਨਾਲ ਟ੍ਰੈਫਿਕ ਵਿਚਕਾਰ ਸੰਤੁਲਨ ਬਣਾਈ ਰੱਖਣ ਲਈ ਕਹਿੰਦੇ ਹੋਏ, ਉਹਨਾਂ ਨੂੰ ਵਾਪਸ ਫੁੱਟਪਾਥ ‘ਤੇ ਜਾਣ ਲਈ ਕਿਹਾ।
+# trans = At 11:20, the police asked the protesters to move back on to the pavement, stating that they needed to balance the right to protest with the traffic building up.
+1	11:20	_	NUM	_	_	2	nummod	_	_
+2	ਵਜੇ	_	NOUN	_	_	30	obl:tmod	_	_
+3	,	_	PUNCT	_	_	30	punct	_	_
+4	ਪੁਲਿਸ	_	NOUN	_	_	30	nsubj	_	_
+5	ਨੇ	_	ADP	_	_	4	case	_	_
+6	ਪ੍ਰਦਰਸ਼ਨਕਾਰੀਆਂ	_	NOUN	_	_	11	nmod	_	_
+7	ਨੂੰ	_	ADP	_	_	6	case	_	_
+8	ਵਿਰੋਧ	_	NOUN	_	_	9	obj	_	_
+9	ਕਰਨ	_	VERB	_	_	11	acl	_	_
+10	ਦੇ	_	ADP	_	_	9	mark	_	_
+11	ਅਧਿਕਾਰ	_	NOUN	_	_	18	obl	_	_
+12	ਦੇ	_	ADP	_	_	11	case	_	_
+13	ਨਾਲ	_	ADP	_	_	12	fixed	_	_
+14	ਟ੍ਰੈਫਿਕ	_	NOUN	_	_	16	nmod	_	_
+15	ਵਿਚਕਾਰ	_	ADP	_	_	14	case	_	_
+16	ਸੰਤੁਲਨ	_	NOUN	_	_	18	obj	_	_
+17	ਬਣਾਈ	_	VERB	_	_	18	compound:lvc	_	_
+18	ਰੱਖਣ	_	VERB	_	_	20	xcomp	_	_
+19	ਲਈ	_	ADP	_	_	18	mark	_	_
+20	ਕਹਿੰਦੇ	_	VERB	_	_	30	advcl	_	_
+21	ਹੋਏ	_	AUX	_	_	20	aux	_	_
+22	,	_	PUNCT	_	_	30	punct	_	_
+23	ਉਹਨਾਂ	_	PRON	_	_	30	iobj	_	_
+24	ਨੂੰ	_	ADP	_	_	23	case	_	_
+25	ਵਾਪਸ	_	ADV	_	_	28	advmod	_	_
+26	ਫੁੱਟਪਾਥ	_	NOUN	_	_	28	obl:lmod	_	_
+27	‘ਤੇ	_	ADP	_	_	26	case	_	_
+28	ਜਾਣ	_	VERB	_	_	30	xcomp	_	_
+29	ਲਈ	_	ADP	_	_	28	mark	_	_
+30	ਕਿਹਾ	_	VERB	_	_	0	root	_	_
+31	।	_	PUNCT	_	_	30	punct	_	_
+
+# sent_id = flores_11
+# text = ਲਗਭਗ 11:29 ਵਜੇ, ਪ੍ਰਦਰਸ਼ਨ ਵ੍ਹਾਈਟਹਾਲ ਤੋਂ, ਸਟ੍ਰੈਂਡ ਦੇ ਨਾਲ ਲੱਗਦੇ ਟ੍ਰੈਫਲਗਰ ਸਕੁਏਰ ਤੋਂ ਹੁੰਦੇ ਹੋਏ, ਐਲਡਵਿਚ ਤੋਂ ਲੰਘਿਆ ਅਤੇ ਕਿੰਗਜ਼ਵੇ ਤੋਂ ਹੋਲੋਬਰਨ ਵੱਲ ਗਿਆ ਜਿੱਥੇ ਕੰਜ਼ਰਵੇਟਿਵ ਪਾਰਟੀ ਗ੍ਰੈਂਡ ਕਨੌਟ ਹੋਟਲ ਦੇ ਕਮਰਿਆਂ ਵਿੱਚ ਆਪਣੇ ਸਪਰਿੰਗ ਫੋਰਮ ਦਾ ਆਯੋਜਨ ਕਰ ਰਹੀ ਸੀ।
+# trans = Around 11:29, the protest moved up Whitehall, past Trafalgar Square, along the Strand, passing by Aldwych and up Kingsway towards Holborn where the Conservative Party were holding their Spring Forum in the Grand Connaught Rooms hotel.
+1	ਲਗਭਗ	_	ADV	_	_	2	advcl	_	_
+2	11:29	_	NUM	_	_	3	nummod	_	_
+3	ਵਜੇ	_	NOUN	_	_	21	obl:tmod	_	_
+4	,	_	PUNCT	_	_	21	punct	_	_
+5	ਪ੍ਰਦਰਸ਼ਨ	_	NOUN	_	_	21	nsubj	_	_
+6	ਵ੍ਹਾਈਟਹਾਲ	_	PROPN	_	_	21	obl:lmod	_	_
+7	ਤੋਂ	_	ADP	_	_	6	case	_	_
+8	,	_	PUNCT	_	_	21	punct	_	_
+9	ਸਟ੍ਰੈਂਡ	_	PROPN	_	_	12	obl:lmod	_	_
+10	ਦੇ	_	ADP	_	_	9	case	_	_
+11	ਨਾਲ	_	ADP	_	_	10	fixed	_	_
+12	ਲੱਗਦੇ	_	VERB	_	_	21	advcl	_	_
+13	ਟ੍ਰੈਫਲਗਰ	_	PROPN	_	_	14	compound	_	_
+14	ਸਕੁਏਰ	_	PROPN	_	_	16	obl:lmod	_	_
+15	ਤੋਂ	_	ADP	_	_	14	case	_	_
+16	ਹੁੰਦੇ	_	VERB	_	_	21	advcl	_	_
+17	ਹੋਏ	_	AUX	_	_	16	aux	_	_
+18	,	_	PUNCT	_	_	21	punct	_	_
+19	ਐਲਡਵਿਚ	_	PROPN	_	_	21	obl:lmod	_	_
+20	ਤੋਂ	_	ADP	_	_	19	case	_	_
+21	ਲੰਘਿਆ	_	VERB	_	_	0	root	_	_
+22	ਅਤੇ	_	CCONJ	_	_	27	cc	_	_
+23	ਕਿੰਗਜ਼ਵੇ	_	PROPN	_	_	27	obl:lmod	_	_
+24	ਤੋਂ	_	ADP	_	_	23	case	_	_
+25	ਹੋਲੋਬਰਨ	_	PROPN	_	_	27	obl:lmod	_	_
+26	ਵੱਲ	_	ADP	_	_	25	case	_	_
+27	ਗਿਆ	_	VERB	_	_	21	conj	_	_
+28	ਜਿੱਥੇ	_	PRON	_	_	42	advmod	_	_
+29	ਕੰਜ਼ਰਵੇਟਿਵ	_	ADJ	_	_	30	amod	_	_
+30	ਪਾਰਟੀ	_	PROPN	_	_	42	nsubj	_	_
+31	ਗ੍ਰੈਂਡ	_	ADJ	_	_	32	amod	_	_
+32	ਕਨੌਟ	_	PROPN	_	_	33	compound	_	_
+33	ਹੋਟਲ	_	PROPN	_	_	35	nmod	_	_
+34	ਦੇ	_	ADP	_	_	33	case	_	_
+35	ਕਮਰਿਆਂ	_	NOUN	_	_	42	obl:lmod	_	_
+36	ਵਿੱਚ	_	ADP	_	_	35	case	_	_
+37	ਆਪਣੇ	_	PRON	_	_	39	nmod	_	_
+38	ਸਪਰਿੰਗ	_	PROPN	_	_	39	compound	_	_
+39	ਫੋਰਮ	_	PROPN	_	_	41	nmod	_	_
+40	ਦਾ	_	ADP	_	_	39	case	_	_
+41	ਆਯੋਜਨ	_	NOUN	_	_	42	compound:lvc	_	_
+42	ਕਰ	_	VERB	_	_	25	acl:relcl	_	_
+43	ਰਹੀ	_	AUX	_	_	42	aux	_	_
+44	ਸੀ	_	AUX	_	_	42	aux	_	_
+45	।	_	PUNCT	_	_	21	punct	_	_
+
+# sent_id = flores_12
+# text = ਨਡਾਲ ਦੇ ਕਨੇਡੀਅਨ ਫੱਸਵੇਂ ਮੁਕਾਬਲੇ ਵਿੱਚ 7-2 ਦਾ ਰਿਕਾਰਡ ਹੈ।
+# trans = Nadal's head to head record against the Canadian is 7–2.
+1	ਨਡਾਲ	_	PROPN	_	_	11	nsubj	_	_
+2	ਦੇ	_	ADP	_	_	1	case	_	_
+3	ਕਨੇਡੀਅਨ	_	PROPN	_	_	11	obl	_	_
+4	ਫੱਸਵੇਂ	_	ADP	_	_	3	case	_	_
+5	ਮੁਕਾਬਲੇ	_	NOUN	_	_	11	obl	_	_
+6	ਵਿੱਚ	_	ADP	_	_	5	case	_	_
+7	7	_	NUM	_	_	9	nmod	_	_
+8	-	_	SYM	_	_	7	case	_	_
+9	2	_	NUM	_	_	11	nummod	_	_
+10	ਦਾ	_	ADP	_	_	9	case	_	_
+11	ਰਿਕਾਰਡ	_	NOUN	_	_	0	root	_	_
+12	ਹੈ	_	VERB	_	_	11	cop	_	_
+13	।	_	PUNCT	_	_	11	punct	_	_
+
+# sent_id = flores_13
+# text = ਉਹ ਹਾਲ ਹੀ ਵਿੱਚ ਰਾਓਨਿਸ਼ ਤੋਂ ਬ੍ਰਿਸਬੇਨ ਓਪਨ ਵਿੱਚ ਹਾਰ ਗਿਆ।
+# trans = He recently lost against Raonic in the Brisbane Open.
+1	ਉਹ	_	PRON	_	_	10	nsubj	_	_
+2	ਹਾਲ	_	NOUN	_	_	10	obl:tmod	_	_
+3	ਹੀ	_	PART	_	_	2	discourse	_	_
+4	ਵਿੱਚ	_	ADP	_	_	2	case	_	_
+5	ਰਾਓਨਿਸ਼	_	PROPN	_	_	10	obl	_	_
+6	ਤੋਂ	_	ADP	_	_	5	case	_	_
+7	ਬ੍ਰਿਸਬੇਨ	_	PROPN	_	_	8	compound	_	_
+8	ਓਪਨ	_	PROPN	_	_	10	obl	_	_
+9	ਵਿੱਚ	_	ADP	_	_	8	case	_	_
+10	ਹਾਰ	_	VERB	_	_	0	root	_	_
+11	ਗਿਆ	_	AUX	_	_	10	aux:pass	_	_
+12	।	_	PUNCT	_	_	10	punct	_	_
+
+# sent_id = flores_14
+# text = ਨਡਾਲ ਨੇ ਜੇਤੂ 76 ਅੰਕਾਂ ਵਾਲੇ ਮੈਚ ਵਿੱਚ 88 ਨੈੱਟ ਅੰਕ ਪਹਿਲੀ ਸਰਵਿਸ ਵਿੱਚ ਪ੍ਰਾਪਤ ਕੀਤੇ।
+# trans = Nadal bagged 88% net points in the match winning 76 points in the first serve.
+1	ਨਡਾਲ	_	PRON	_	_	16	nsubj	_	_
+2	ਨੇ	_	ADP	_	_	1	case	_	_
+3	ਜੇਤੂ	_	ADJ	_	_	7	amod	_	_
+4	76	_	NUM	_	_	5	nummod	_	_
+5	ਅੰਕਾਂ	_	NOUN	_	_	7	nmod	_	_
+6	ਵਾਲੇ	_	ADP	_	_	5	case	_	_
+7	ਮੈਚ	_	NOUN	_	_	16	obl	_	_
+8	ਵਿੱਚ	_	ADP	_	_	7	case	_	_
+9	88	_	NUM	_	_	11	nummod	_	_
+10	ਨੈੱਟ	_	ADJ	_	_	11	amod	_	_
+11	ਅੰਕ	_	NOUN	_	_	16	obj	_	_
+12	ਪਹਿਲੀ	_	ADJ	_	_	13	amod	_	_
+13	ਸਰਵਿਸ	_	NOUN	_	_	16	obl	_	_
+14	ਵਿੱਚ	_	ADP	_	_	13	case	_	_
+15	ਪ੍ਰਾਪਤ	_	ADJ	_	_	16	compound:lvc	_	_
+16	ਕੀਤੇ	_	VERB	_	_	0	root	_	_
+17	।	_	PUNCT	_	_	16	punct	_	_
+
+# sent_id = flores_15_1
+# text = ਮੈਚ ਤੋਂ ਬਾਅਦ, ਕਿੰਗ ਆਫ਼ ਕਲੇ ਨੇ ਕਿਹਾ, "ਮੈਂ ਮਹੱਤਵਪੂਰਨ ਘਟਨਾਵਾਂ ਦੇ ਅੰਤਿਮ ਦੌਰ ਵਿੱਚ ਵਾਪਸੀ ਲਈ ਉਤਸਾਹਿਤ ਹਾਂ।
+# trans = After the match, King of Clay said, "I am just excited about being back in the final rounds of the most important events.
+1	ਮੈਚ	_	NOUN	_	_	9	obl:tmod	_	_
+2	ਤੋਂ	_	ADP	_	_	1	case	_	_
+3	ਬਾਅਦ	_	ADP	_	_	2	fixed	_	_
+4	,	_	PUNCT	_	_	9	punct	_	_
+5	ਕਿੰਗ	_	PROPN	_	_	9	nsubj	_	_
+6	ਆਫ਼	_	PROPN	_	_	5	flat	_	_
+7	ਕਲੇ	_	PROPN	_	_	5	flat	_	_
+8	ਨੇ	_	ADP	_	_	5	case	_	_
+9	ਕਿਹਾ	_	VERB	_	_	0	root	_	_
+10	,	_	PUNCT	_	_	9	punct	_	_
+11	"	_	PUNCT	_	_	21	punct	_	_
+12	ਮੈਂ	_	PRON	_	_	21	nsubj	_	_
+13	ਮਹੱਤਵਪੂਰਨ	_	ADJ	_	_	14	amod	_	_
+14	ਘਟਨਾਵਾਂ	_	NOUN	_	_	17	nmod	_	_
+15	ਦੇ	_	ADP	_	_	14	case	_	_
+16	ਅੰਤਿਮ	_	ADJ	_	_	17	amod	_	_
+17	ਦੌਰ	_	NOUN	_	_	19	nmod	_	_
+18	ਵਿੱਚ	_	ADP	_	_	17	case	_	_
+19	ਵਾਪਸੀ	_	NOUN	_	_	21	obl	_	_
+20	ਲਈ	_	ADP	_	_	19	case	_	_
+21	ਉਤਸਾਹਿਤ	_	ADJ	_	_	9	ccomp	_	_
+22	ਹਾਂ	_	VERB	_	_	21	cop	_	_
+23	।	_	PUNCT	_	_	21	punct	_	_
+
+# sent_id = flores_15_2
+# text = ਮੈਂ ਇੱਥੇ ਇਸਨੂੰ ਜਿੱਤਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਨ ਲਈ ਆਇਆ ਹਾਂ।"
+# trans = I am here to try to win this."
+1	ਮੈਂ	_	PRON	_	_	10	nsubj	_	_
+2	ਇੱਥੇ	_	ADV	_	_	10	advmod	_	_
+3-4	ਇਸਨੂੰ	_	_	_	_	_	_	_	_
+3	ਇਸ	_	PRON	_	_	5	obj	_	_
+4	ਨੂੰ	_	ADP	_	_	3	case	_	_
+5	ਜਿੱਤਣ	_	VERB	_	_	7	acl	_	_
+6	ਦੀ	_	ADP	_	_	5	mark	_	_
+7	ਕੋਸ਼ਿਸ਼	_	NOUN	_	_	8	compound:lvc	_	_
+8	ਕਰਨ	_	VERB	_	_	10	advcl	_	_
+9	ਲਈ	_	ADP	_	_	8	mark	_	_
+10	ਆਇਆ	_	VERB	_	_	0	root	_	_
+11	ਹਾਂ	_	AUX	_	_	10	aux	_	_
+12	।	_	PUNCT	_	_	10	punct	_	_
+13	"	_	PUNCT	_	_	10	punct	_	_
+
+# sent_id = flores_16
+# text = "ਪਨਾਮਾ ਪੇਪਰ", ਪਨਾਮੀਅਨ ਲਾਅ ਫਰਮ ਮੋਸੈਕ ਫੋਨਸੈਕਾ ਤੋਂ ਲਗਭਗ ਦਸ ਮਿਲੀਅਨ ਦਸਤਾਵੇਜ਼ਾਂ ਲਈ ਇੱਕ ਛਤਰ ਸ਼ਬਦ ਹੈ, ਜੋ 2016 ਬਸੰਤ ਵਿੱਚ ਪ੍ਰੈੱਸ ਵਿੱਚ ਲੀਕ ਹੋ ਗਿਆ ਸੀ।
+# trans = "Panama Papers" is an umbrella term for roughly ten million documents from Panamanian law firm Mossack Fonseca, leaked to the press in spring 2016.
+1	"	_	PUNCT	_	_	3	punct	_	_
+2	ਪਨਾਮਾ	_	PROPN	_	_	3	compound	_	_
+3	ਪੇਪਰ	_	PROPN	_	_	19	nsubj	_	_
+4	"	_	PUNCT	_	_	3	punct	_	_
+5	,	_	PUNCT	_	_	19	punct	_	_
+6	ਪਨਾਮੀਅਨ	_	ADJ	_	_	8	amod	_	_
+7	ਲਾਅ	_	NOUN	_	_	8	compound	_	_
+8	ਫਰਮ	_	NOUN	_	_	15	nmod	_	_
+9	ਮੋਸੈਕ	_	PROPN	_	_	8	appos	_	_
+10	ਫੋਨਸੈਕਾ	_	PROPN	_	_	9	flat	_	_
+11	ਤੋਂ	_	ADP	_	_	8	case	_	_
+12	ਲਗਭਗ	_	ADV	_	_	14	advmod	_	_
+13	ਦਸ	_	NUM	_	_	14	compound	_	_
+14	ਮਿਲੀਅਨ	_	NUM	_	_	15	nummod	_	_
+15	ਦਸਤਾਵੇਜ਼ਾਂ	_	NOUN	_	_	19	obl	_	_
+16	ਲਈ	_	ADP	_	_	15	case	_	_
+17	ਇੱਕ	_	NUM	_	_	19	nummod	_	_
+18	ਛਤਰ	_	NOUN	_	_	19	compound	_	_
+19	ਸ਼ਬਦ	_	NOUN	_	_	0	root	_	_
+20	ਹੈ	_	VERB	_	_	19	cop	_	_
+21	,	_	PUNCT	_	_	29	punct	_	_
+22	ਜੋ	_	PRON	_	_	29	nsubj	_	_
+23	2016	_	NUM	_	_	24	nmod	_	_
+24	ਬਸੰਤ	_	NOUN	_	_	29	obl:tmod	_	_
+25	ਵਿੱਚ	_	ADP	_	_	24	case	_	_
+26	ਪ੍ਰੈੱਸ	_	NOUN	_	_	29	obl	_	_
+27	ਵਿੱਚ	_	ADP	_	_	26	case	_	_
+28	ਲੀਕ	_	NOUN	_	_	29	compound:lvc	_	_
+29	ਹੋ	_	VERB	_	_	15	acl:relcl	_	_
+30	ਗਿਆ	_	AUX	_	_	29	aux:pass	_	_
+31	ਸੀ	_	AUX	_	_	29	aux	_	_
+32	।	_	PUNCT	_	_	19	punct	_	_
+
+# sent_id = flores_17
+# text = ਦਸਤਾਵੇਜ਼ ਦਿਖਾਉਂਦੇ ਹਨ ਕਿ ਚੌਦਾਂ ਬੈਂਕਾਂ ਨੇ ਟੈਕਸਾਂ ਅਤੇ ਹੋਰ ਸਰਕਾਰੀ ਨਿਯਮਾਂ ਤੋਂ ਬਚਣ ਲਈ ਅਰਬਾਂ ਅਮਰੀਕੀ ਡਾਲਰਾਂ ਦੀ ਸੰਪਤੀ ਨੂੰ ਲੁਕਾਉਣ ਵਾਸਤੇ ਮਾਲਦਾਰ ਗਾਹਕਾਂ ਦੀ ਸਹਾਇਤਾ ਕੀਤੀ ਸੀ।
+# trans = The documents showed fourteen banks helped wealthy clients hide billions of US dollars of wealth to avoid taxes and other regulations.
+1	ਦਸਤਾਵੇਜ਼	_	NOUN	_	_	2	nsubj	_	_
+2	ਦਿਖਾਉਂਦੇ	_	VERB	_	_	0	root	_	_
+3	ਹਨ	_	AUX	_	_	2	aux	_	_
+4	ਕਿ	_	SCONJ	_	_	28	mark	_	_
+5	ਚੌਦਾਂ	_	NUM	_	_	6	nummod	_	_
+6	ਬੈਂਕਾਂ	_	NOUN	_	_	28	nsubj	_	_
+7	ਨੇ	_	ADP	_	_	6	case	_	_
+8	ਟੈਕਸਾਂ	_	NOUN	_	_	14	obl	_	_
+9	ਅਤੇ	_	CCONJ	_	_	12	cc	_	_
+10	ਹੋਰ	_	DET	_	_	12	det	_	_
+11	ਸਰਕਾਰੀ	_	ADJ	_	_	12	amod	_	_
+12	ਨਿਯਮਾਂ	_	NOUN	_	_	8	conj	_	_
+13	ਤੋਂ	_	ADP	_	_	8	case	_	_
+14	ਬਚਣ	_	VERB	_	_	22	advcl	_	_
+15	ਲਈ	_	ADP	_	_	14	mark	_	_
+16	ਅਰਬਾਂ	_	NUM	_	_	18	nummod	_	_
+17	ਅਮਰੀਕੀ	_	ADJ	_	_	18	amod	_	_
+18	ਡਾਲਰਾਂ	_	NOUN	_	_	20	nmod	_	_
+19	ਦੀ	_	ADP	_	_	18	case	_	_
+20	ਸੰਪਤੀ	_	NOUN	_	_	22	obj	_	_
+21	ਨੂੰ	_	ADP	_	_	20	case	_	_
+22	ਲੁਕਾਉਣ	_	VERB	_	_	28	xcomp	_	_
+23	ਵਾਸਤੇ	_	ADP	_	_	22	mark	_	_
+24	ਮਾਲਦਾਰ	_	ADJ	_	_	25	amod	_	_
+25	ਗਾਹਕਾਂ	_	NOUN	_	_	27	nmod	_	_
+26	ਦੀ	_	ADP	_	_	25	case	_	_
+27	ਸਹਾਇਤਾ	_	NOUN	_	_	28	compound:lvc	_	_
+28	ਕੀਤੀ	_	VERB	_	_	2	ccomp	_	_
+29	ਸੀ	_	AUX	_	_	28	aux	_	_
+30	।	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = flores_18
+# text = ਰਿਟਿਸ਼ ਅਖ਼ਬਾਰ The Guardian ਨੇ ਸੁਝਾਅ ਦਿੱਤਾ ਕਿ ਡਯੂਸ਼ੇ ਬੈਂਕ ਨੇ ਇਸਨੂੰ ਪੂਰਾ ਕਰਨ ਵਿੱਚ ਉਪਯੋਗ ਕੀਤੀਆਂ ਜਾਣ ਵਾਲੀਆਂ 1200 ਸ਼ੈੱਲ ਕੰਪਨੀਆਂ ਵਿੱਚੋਂ ਤਕਰੀਬਨ ਇੱਕ ਤਿਹਾਈ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕੀਤਾ।
+# trans = British newspaper The Guardian suggested Deutsche Bank controlled roughly a third of the 1200 shell companies used to accomplish this.
+1	ਬ੍ਰਿਟਿਸ਼	_	ADJ	_	_	2	amod	_	_
+2	ਅਖ਼ਬਾਰ	_	NOUN	_	_	7	nsubj	_	_
+3	The	_	PROPN	_	_	2	appos	_	_
+4	Guardian	_	PROPN	_	_	3	flat	_	_
+5	ਨੇ	_	ADP	_	_	2	case	_	_
+6	ਸੁਝਾਅ	_	NOUN	_	_	7	obj	_	_
+7	ਦਿੱਤਾ	_	VERB	_	_	0	root	_	_
+8	ਕਿ	_	SCONJ	_	_	30	mark	_	_
+9	ਡਯੂਸ਼ੇ	_	PROPN	_	_	10	compound	_	_
+10	ਬੈਂਕ	_	PROPN	_	_	30	nsubj	_	_
+11	ਨੇ	_	ADP	_	_	10	case	_	_
+12-13	ਇਸਨੂੰ	_	_	_	_	_	_	_	_
+12	ਇਸ	_	PRON	_	_	15	obj	_	_
+13	ਨੂੰ	_	ADP	_	_	12	case	_	_
+14	ਪੂਰਾ	_	ADJ	_	_	15	compound:lvc	_	_
+15	ਕਰਨ	_	VERB	_	_	18	advcl	_	_
+16	ਵਿੱਚ	_	ADP	_	_	15	mark	_	_
+17	ਉਪਯੋਗ	_	NOUN	_	_	18	compound:lvc	_	_
+18	ਕੀਤੀਆਂ	_	VERB	_	_	23	acl	_	_
+19	ਜਾਣ	_	AUX	_	_	18	aux:pass	_	_
+20	ਵਾਲੀਆਂ	_	ADP	_	_	18	mark	_	_
+21	1200	_	NUM	_	_	23	nummod	_	_
+22	ਸ਼ੈੱਲ	_	NOUN	_	_	23	compound	_	_
+23	ਕੰਪਨੀਆਂ	_	NOUN	_	_	27	nmod	_	_
+24	ਵਿੱਚੋਂ	_	ADP	_	_	23	case	_	_
+25	ਤਕਰੀਬਨ	_	ADV	_	_	26	advmod	_	_
+26	ਇੱਕ	_	NUM	_	_	27	nummod	_	_
+27	ਤਿਹਾਈ	_	NOUN	_	_	30	obj	_	_
+28	ਨੂੰ	_	ADP	_	_	27	case	_	_
+29	ਨਿਯੰਤਰਿਤ	_	ADJ	_	_	30	compound:lvc	_	_
+30	ਕੀਤਾ	_	VERB	_	_	7	ccomp	_	_
+31	।	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = flores_19 
+# text = ਦੁਨੀਆ ਭਰ ਵਿੱਚ ਵਿਰੋਧ ਹੋਏ, ਕਈ ਅਪਰਾਧਕ ਮੁਕੱਦਮੇ ਹੋਏ ਅਤੇ ਆਈਸਲੈਂਡ ਅਤੇ ਪਾਕਿਸਤਾਨ ਦੀਆਂ ਸਰਕਾਰਾਂ, ਦੋਹਾਂ ਦਿਆਂ ਲੀਡਰਾਂ ਨੇ ਅਸਤੀਫਾ ਦੇ ਦਿੱਤਾ।
+# trans = There were protests worldwide, several criminal prosecutions, and the leaders of the governments of Iceland and Pakistan both resigned.
+1	ਦੁਨੀਆ	_	NOUN	_	_	5	obl:lmod	_	_
+2	ਭਰ	_	ADJ	_	_	1	amod	_	_
+3	ਵਿੱਚ	_	ADP	_	_	1	case	_	_
+4	ਵਿਰੋਧ	_	NOUN	_	_	5	nsubj	_	_
+5	ਹੋਏ	_	VERB	_	_	0	root	_	_
+6	,	_	PUNCT	_	_	10	punct	_	_
+7	ਕਈ	_	DET	_	_	9	det	_	_
+8	ਅਪਰਾਧਕ	_	ADJ	_	_	9	amod	_	_
+9	ਮੁਕੱਦਮੇ	_	NOUN	_	_	10	nsubj	_	_
+10	ਹੋਏ	_	VERB	_	_	5	conj	_	_
+11	ਅਤੇ	_	CCONJ	_	_	23	cc	_	_
+12	ਆਈਸਲੈਂਡ	_	PROPN	_	_	16	nmod	_	_
+13	ਅਤੇ	_	CCONJ	_	_	14	cc	_	_
+14	ਪਾਕਿਸਤਾਨ	_	PROPN	_	_	12	conj	_	_
+15	ਦੀਆਂ	_	ADP	_	_	12	case	_	_
+16	ਸਰਕਾਰਾਂ	_	NOUN	_	_	20	nmod	_	_
+17	,	_	PUNCT	_	_	18	punct	_	_
+18	ਦੋਹਾਂ	_	DET	_	_	16	det	_	_
+19	ਦਿਆਂ	_	ADP	_	_	16	case	_	_
+20	ਲੀਡਰਾਂ	_	NOUN	_	_	23	nsubj	_	_
+21	ਨੇ	_	ADP	_	_	20	case	_	_
+22	ਅਸਤੀਫਾ	_	NOUN	_	_	23	obj	_	_
+23	ਦੇ	_	VERB	_	_	5	conj	_	_
+24	ਦਿੱਤਾ	_	VERB	_	_	23	compound:svc	_	_
+25	।	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = flores_20
+# text = ਮਾ ਹਾਂਗ-ਕਾਂਗ ਵਿੱਚ ਪੈਦਾ ਹੋਏ, ਨਿਊ-ਯਾਰਕ ਯੂਨੀਵਰਸਿਟੀ ਅਤੇ ਹਾਵਰਡ ਲਾਅ ਸਕੂਲ ਵਿੱਚ ਪੜ੍ਹਾਈ ਕੀਤੀ ਅਤੇ ਇੱਕ ਵਾਰ ਅਮਰੀਕੀ ਸਥਾਈ ਰਿਹਾਇਸ਼ “ਗ੍ਰੀਨ ਕਾਰਡ” ਹਾਸਲ ਕੀਤਾ।
+# trans = Born in Hong Kong, Ma studied at New York University and Harvard Law School and once held an American permanent resident "green card".
+1	ਮਾ	_	PROPN	_	_	7	nsubj	_	_
+2	ਹਾਂਗ	_	PROPN	_	_	7	obl:lmod	_	_
+3	-	_	PUNCT	_	_	2	punct	_	_
+4	ਕਾਂਗ	_	PROPN	_	_	2	flat	_	_
+5	ਵਿੱਚ	_	ADP	_	_	2	case	_	_
+6	ਪੈਦਾ	_	ADJ	_	_	7	compound:lvc	_	_
+7	ਹੋਏ	_	VERB	_	_	0	root	_	_
+8	,	_	PUNCT	_	_	19	punct	_	_
+9	ਨਿਊ	_	ADJ	_	_	11	amod	_	_
+10	-	_	PUNCT	_	_	11	punct	_	_
+11	ਯਾਰਕ	_	PROPN	_	_	12	compound	_	_
+12	ਯੂਨੀਵਰਸਿਟੀ	_	PROPN	_	_	19	obl	_	_
+13	ਅਤੇ	_	CCONJ	_	_	16	cc	_	_
+14	ਹਾਵਰਡ	_	PROPN	_	_	16	compound	_	_
+15	ਲਾਅ	_	PROPN	_	_	16	compound	_	_
+16	ਸਕੂਲ	_	PROPN	_	_	12	conj	_	_
+17	ਵਿੱਚ	_	ADP	_	_	12	case	_	_
+18	ਪੜ੍ਹਾਈ	_	NOUN	_	_	19	compound:lvc	_	_
+19	ਕੀਤੀ	_	VERB	_	_	7	conj	_	_
+20	ਅਤੇ	_	CCONJ	_	_	31	cc	_	_
+21	ਇੱਕ	_	NUM	_	_	22	nummod	_	_
+22	ਵਾਰ	_	NOUN	_	_	31	obl	_	_
+23	ਅਮਰੀਕੀ	_	ADJ	_	_	25	amod	_	_
+24	ਸਥਾਈ	_	ADJ	_	_	25	amod	_	_
+25	ਰਿਹਾਇਸ਼	_	NOUN	_	_	31	obj	_	_
+26	“	_	PUNCT	_	_	28	punct	_	_
+27	ਗ੍ਰੀਨ	_	ADJ	_	_	28	amod	_	_
+28	ਕਾਰਡ	_	PROPN	_	_	25	appos	_	_
+29	”	_	PUNCT	_	_	28	punct	_	_
+30	ਹਾਸਲ	_	ADJ	_	_	31	compound:lvc	_	_
+31	ਕੀਤਾ	_	VERB	_	_	7	conj	_	_
+32	।	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = flores_21
+# text = ਦੁਆਵਾਂ ਚੋਣਾ ਦੇ ਸਮੇਂ ਵਿੱਚ ਨਿਹਿਤ ਹੁੰਦੀਆਂ ਹਨ ਜੋ ਮਾ ਮੁਸ਼ਕਿਲ ਦੇ ਸਮੇਂ ਦੌਰਾਨ ਦੇਸ਼ ਛੱਡਕੇ ਭੱਜ ਸਕਦਾ ਹੈ।
+# trans = Hsieh implied during the election that Ma might flee the country during a time of crisis.
+1	ਦੁਆਵਾਂ	_	NOUN	_	_	7	nsubj	_	_
+2	ਚੋਣਾ	_	NOUN	_	_	4	nmod	_	_
+3	ਦੇ	_	ADP	_	_	2	case	_	_
+4	ਸਮੇਂ	_	NOUN	_	_	7	obl:tmod	_	_
+5	ਵਿੱਚ	_	ADP	_	_	4	case	_	_
+6	ਨਿਹਿਤ	_	ADJ	_	_	7	compound:lvc	_	_
+7	ਹੁੰਦੀਆਂ	_	VERB	_	_	0	root	_	_
+8	ਹਨ	_	AUX	_	_	7	aux	_	_
+9	ਜੋ	_	PRON	_	_	17	nsubj	_	_
+10	ਮਾ	_	PROPN	_	_	17	nsubj	_	_
+11	ਮੁਸ਼ਕਿਲ	_	NOUN	_	_	13	nmod	_	_
+12	ਦੇ	_	ADP	_	_	11	case	_	_
+13	ਸਮੇਂ	_	NOUN	_	_	17	obl:tmod	_	_
+14	ਦੌਰਾਨ	_	ADP	_	_	13	case	_	_
+15	ਦੇਸ਼	_	NOUN	_	_	16	obj	_	_
+16	ਛੱਡਕੇ	_	VERB	_	_	17	advcl	_	_
+17	ਭੱਜ	_	VERB	_	_	7	ccomp	_	_
+18	ਸਕਦਾ	_	VERB	_	_	17	compound:svc	_	_
+19	ਹੈ	_	AUX	_	_	17	aux	_	_
+20	।	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = flores_22
+# text = ਹਸੀਹ ਨੇ ਇਹ ਵੀ ਦਲੀਲ ਦਿੱਤੀ ਕਿ ਫੋਟੋਜੈਨਿਕ ਮਾ ਦਾ ਕੰਮ ਕਰਨ ਨਾਲੋਂ ਸਟਾਈਲ ਦਿਖਾਉਣ ਵਿੱਚ ਜ਼ਿਆਦਾ ਵਿਸ਼ਵਾਸ ਸੀ।
+# trans = Hsieh also argued that the photogenic Ma was more style than substance.
+1	ਹਸੀਹ	_	PROPN	_	_	6	nsubj	_	_
+2	ਨੇ	_	ADP	_	_	1	case	_	_
+3	ਇਹ	_	DET	_	_	5	det	_	_
+4	ਵੀ	_	PART	_	_	3	discourse	_	_
+5	ਦਲੀਲ	_	NOUN	_	_	6	obj	_	_
+6	ਦਿੱਤੀ	_	VERB	_	_	0	root	_	_
+7	ਕਿ	_	SCONJ	_	_	19	mark	_	_
+8	ਫੋਟੋਜੈਨਿਕ	_	ADJ	_	_	9	amod	_	_
+9	ਮਾ	_	PROPN	_	_	18	nmod	_	_
+10	ਦਾ	_	ADP	_	_	9	case	_	_
+11	ਕੰਮ	_	NOUN	_	_	12	obj	_	_
+12	ਕਰਨ	_	VERB	_	_	18	obl	_	_
+13	ਨਾਲੋਂ	_	ADP	_	_	12	mark	_	_
+14	ਸਟਾਈਲ	_	NOUN	_	_	15	obj	_	_
+15	ਦਿਖਾਉਣ	_	VERB	_	_	18	obl	_	_
+16	ਵਿੱਚ	_	ADP	_	_	15	mark	_	_
+17	ਜ਼ਿਆਦਾ	_	ADJ	_	_	18	amod	_	_
+18	ਵਿਸ਼ਵਾਸ	_	NOUN	_	_	19	nsubj	_	_
+19	ਸੀ	_	VERB	_	_	5	acl	_	_
+20	।	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = flores_23
+# text = ਇਨ੍ਹਾਂ ਇਲਜ਼ਾਮਾਂ ਦੇ ਬਾਵਜੂਦ, ਮਾਂ ਨੇ ਚੀਨੀ ਮੇਨਲੈਂਡ ਨਾਲ ਨਜ਼ਦੀਕੀ ਸੰਬੰਧਾਂ ਦੀ ਹਿਮਾਇਤ ਕਰਦੇ ਹੋਏੇ ਬਹੁਤ ਵਧੀਆ ਜਿੱਤ ਪ੍ਰਾਪਤ ਕੀਤੀ।
+# trans = Despite these accusations, Ma won handily on a platform advocating closer ties with the Chinese mainland.
+1	ਇਨ੍ਹਾਂ	_	DET	_	_	2	det	_	_
+2	ਇਲਜ਼ਾਮਾਂ	_	NOUN	_	_	21	obl	_	_
+3	ਦੇ	_	ADP	_	_	2	case	_	_
+4	ਬਾਵਜੂਦ	_	ADP	_	_	3	fixed	_	_
+5	,	_	PUNCT	_	_	21	punct	_	_
+6	ਮਾਂ	_	PROPN	_	_	21	nsubj	_	_
+7	ਨੇ	_	ADP	_	_	6	case	_	_
+8	ਚੀਨੀ	_	ADJ	_	_	9	amod	_	_
+9	ਮੇਨਲੈਂਡ	_	PROPN	_	_	12	nmod	_	_
+10	ਨਾਲ	_	ADP	_	_	9	case	_	_
+11	ਨਜ਼ਦੀਕੀ	_	ADJ	_	_	12	amod	_	_
+12	ਸੰਬੰਧਾਂ	_	NOUN	_	_	14	nmod	_	_
+13	ਦੀ	_	ADP	_	_	12	case	_	_
+14	ਹਿਮਾਇਤ	_	NOUN	_	_	15	compound:lvc	_	_
+15	ਕਰਦੇ	_	VERB	_	_	21	advcl	_	_
+16	ਹੋਏੇ	_	AUX	_	_	15	aux	_	_
+17	ਬਹੁਤ	_	ADV	_	_	18	advmod	_	_
+18	ਵਧੀਆ	_	ADJ	_	_	19	amod	_	_
+19	ਜਿੱਤ	_	NOUN	_	_	21	obj	_	_
+20	ਪ੍ਰਾਪਤ	_	ADJ	_	_	21	compound:lvc	_	_
+21	ਕੀਤੀ	_	VERB	_	_	0	root	_	_
+22	।	_	PUNCT	_	_	21	punct	_	_
+
+# sent_id = flores_24
+# text = ਅੱਜ ਦਾ ਪਲੇਅਰ ਆਫ ਦਿ ਡੇ ਵਾਸ਼ਿੰਗਟਨ ਕੈਪੀਟਲਸ ਦੇ ਐਲੈਕਸ ਓਵੇਚਕਿਨ ਹੈ।
+# trans = Today's Player of the Day is Alex Ovechkin of the Washington Capitals.
+1	ਅੱਜ	_	NOUN	_	_	3	nmod	_	_
+2	ਦਾ	_	ADP	_	_	1	case	_	_
+3	ਪਲੇਅਰ	_	PROPN	_	_	10	nsubj	_	_
+4	ਆਫ	_	ADP	_	_	6	case	_	_
+5	ਦਿ	_	DET	_	_	6	det	_	_
+6	ਡੇ	_	PROPN	_	_	3	nmod	_	_
+7	ਵਾਸ਼ਿੰਗਟਨ	_	PROPN	_	_	8	compound	_	_
+8	ਕੈਪੀਟਲਸ	_	PROPN	_	_	10	nmod	_	_
+9	ਦੇ	_	ADP	_	_	8	case	_	_
+10	ਐਲੈਕਸ	_	PROPN	_	_	0	root	_	_
+11	ਓਵੇਚਕਿਨ	_	PROPN	_	_	10	flat	_	_
+12	ਹੈ	_	VERB	_	_	10	cop	_	_
+13	।	_	PUNCT	_	_	10	punct	_	_
+
+# sent_id = flores_25
+# text = ਉਹ ਵਾਸ਼ਿੰਗਟਨ ਵਿੱਚ ਐਟਲਾਂਟਾ ਥ੍ਰੈਸ਼ਰਜ਼ ਦੇ ਖਿਲਾਫ਼ 5-3 ਨਾਲ 2 ਗੋਲ ਅਤੇ 2 ਅਸਿਸਟ ਨਾਲ ਜੇਤੂ ਰਿਹਾ।
+# trans = He had 2 goals and 2 assists in Washington's 5-3 win over the Atlanta Thrashers.
+1	ਉਹ	_	PRON	_	_	19	nsubj	_	_
+2	ਵਾਸ਼ਿੰਗਟਨ	_	PROPN	_	_	19	obl:lmod	_	_
+3	ਵਿੱਚ	_	ADP	_	_	2	case	_	_
+4	ਐਟਲਾਂਟਾ	_	PROPN	_	_	5	compound	_	_
+5	ਥ੍ਰੈਸ਼ਰਜ਼	_	PROPN	_	_	19	obl	_	_
+6	ਦੇ	_	ADP	_	_	5	case	_	_
+7	ਖਿਲਾਫ਼	_	ADP	_	_	6	fixed	_	_
+8	5	_	NUM	_	_	10	nmod	_	_
+9	-	_	SYM	_	_	8	case	_	_
+10	3	_	NUM	_	_	19	obl	_	_
+11	ਨਾਲ	_	ADP	_	_	10	case	_	_
+12	2	_	NUM	_	_	13	nummod	_	_
+13	ਗੋਲ	_	NOUN	_	_	19	obl	_	_
+14	ਅਤੇ	_	CCONJ	_	_	16	cc	_	_
+15	2	_	NUM	_	_	16	nummod	_	_
+16	ਅਸਿਸਟ	_	NOUN	_	_	13	conj	_	_
+17	ਨਾਲ	_	ADP	_	_	13	case	_	_
+18	ਜੇਤੂ	_	ADJ	_	_	19	xcomp	_	_
+19	ਰਿਹਾ	_	VERB	_	_	0	root	_	_
+20	।	_	PUNCT	_	_	19	punct	_	_
+
+# sent_id = flores_26
+# text = ਓਵੇਚਕਿਨ ਦੀ ਰਾਤ ਦੀ ਪਹਿਲੀ ਸਹਾਇਤਾ ਖੇਡ ਦੇ ਜੇਤੂ ਟੀਚੇ ‘ਤੇ ਰੂਕੀ ਨਿਕਲਾਸ ਬੈਕਸਟਰੋਮ ਦੁਆਰਾ ਕੀਤੀ ਗਈ;
+# trans = Ovechkin's first assist of the night was on the game-winning goal by rookie Nicklas Backstrom;
+1	ਓਵੇਚਕਿਨ	_	PROPN	_	_	6	nmod	_	_
+2	ਦੀ	_	ADP	_	_	1	case	_	_
+3	ਰਾਤ	_	NOUN	_	_	6	nmod	_	_
+4	ਦੀ	_	ADP	_	_	3	case	_	_
+5	ਪਹਿਲੀ	_	ADJ	_	_	6	amod	_	_
+6	ਸਹਾਇਤਾ	_	NOUN	_	_	16	obj	_	_
+7	ਖੇਡ	_	NOUN	_	_	10	nmod	_	_
+8	ਦੇ	_	ADP	_	_	7	case	_	_
+9	ਜੇਤੂ	_	ADJ	_	_	10	amod	_	_
+10	ਟੀਚੇ	_	NOUN	_	_	16	obl	_	_
+11	‘ਤੇ	_	ADP	_	_	10	case	_	_
+12	ਰੂਕੀ	_	NOUN	_	_	13	compound	_	_
+13	ਨਿਕਲਾਸ	_	PROPN	_	_	10	nmod	_	_
+14	ਬੈਕਸਟਰੋਮ	_	PROPN	_	_	13	flat	_	_
+15	ਦੁਆਰਾ	_	ADP	_	_	13	case	_	_
+16	ਕੀਤੀ	_	VERB	_	_	0	root	_	_
+17	ਗਈ	_	AUX	_	_	16	aux:pass	_	_
+18	;	_	PUNCT	_	_	16	punct	_	_
