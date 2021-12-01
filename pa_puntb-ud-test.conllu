@@ -382,7 +382,7 @@
 20	,	_	PUNCT	_	_	30	punct	_	_
 21	ਜਿਸ	_	PRON	_	_	30	obl	_	_
 22	ਕਾਰਨ	_	NOUN	_	_	21	case	_	_
-23	ਉਨ੍ਹਾਂ	_	PRON	_	_	30	obl	_	_
+23	ਉਨ੍ਹਾਂ	_	PRON	_	_	30	nsubj:dat	_	_
 24	ਨੂੰ	_	ADP	_	_	23	case	_	_
 25	ਕਾਫੀ	_	DET	_	_	27	det	_	_
 26	ਆਰਥਿਕ	_	ADJ	_	_	27	amod	_	_
@@ -527,7 +527,7 @@
 
 # sent_id = indiccorp_27
 # text = ਉਨ੍ਹਾਂ ਨੂੰ ਪੱਕੇ ਬਿਆਨ ਹੀ ਦੇਣੇ ਚਾਹੀਦੇ ਹਨ।
-1	ਉਨ੍ਹਾਂ	_	PRON	_	_	6	obl	_	_
+1	ਉਨ੍ਹਾਂ	_	PRON	_	_	6	nsubj:dat	_	_
 2	ਨੂੰ	_	ADP	_	_	1	case	_	_
 3	ਪੱਕੇ	_	ADJ	_	_	4	amod	_	_
 4	ਬਿਆਨ	_	NOUN	_	_	6	obj	_	_
@@ -1119,7 +1119,7 @@
 # sent_id = flores_1_1
 # text = ਸੋਮਵਾਰ ਨੂੰ, ਸਟੈਨਫੋਰਡ ਯੂਨੀਵਰਸਿਟੀ ਸਕੂਲ ਆਫ਼ ਮੈਡੀਸਿਨ ਦੇ ਵਿਗਿਆਨੀਆਂ ਨੇ ਇੱਕ ਨਵੇਂ ਡਾਇਗਨੋਸਟਿਕ ਟੂਲ ਦੇ ਅਵਿਸ਼ਕਾਰ ਬਾਰੇ ਘੋਸ਼ਣਾ ਕੀਤੀ ਜੋ ਕਿਸਮ ਮੁਤਾਬਕ ਸੈੱਲਾਂ ਦੀ ਛਾਂਟੀ ਕਰ ਸਕਦਾ ਹੈ:
 # trans = On Monday, scientists from the Stanford University School of Medicine announced the invention of a new diagnostic tool that can sort cells by type:
-1	ਸੋਮਵਾਰ	_	PROPN	_	_	20	obl	_	_
+1	ਸੋਮਵਾਰ	_	PROPN	_	_	20	obl:tmod	_	_
 2	ਨੂੰ	_	ADP	_	_	1	case	_	_
 3	,	_	PUNCT	_	_	20	punct	_	_
 4	ਸਟੈਨਫੋਰਡ	_	PROPN	_	_	6	compound	_	_
@@ -1908,3 +1908,328 @@
 16	ਕੀਤੀ	_	VERB	_	_	0	root	_	_
 17	ਗਈ	_	AUX	_	_	16	aux:pass	_	_
 18	;	_	PUNCT	_	_	16	punct	_	_
+
+# sent_id = bbc_india-46717270_1
+# url = https://www.bbc.com/punjabi/india-46717270
+# text = ਪੰਜਾਬ ਪੰਚਾਇਤੀ ਚੋਣਾਂ : ਸਰਪੰਚੀ 'ਚ ਸੱਸ ਨੂੰ ਹਰਾਉਣ ਤੋਂ ਬਾਅਦ ਨੂੰਹ ਨੇ ਕੀ ਕਿਹਾ 
+1	ਪੰਜਾਬ	_	PROPN	_	_	3	compound	_	_
+2	ਪੰਚਾਇਤੀ	_	ADJ	_	_	3	amod	_	_
+3	ਚੋਣਾਂ	_	NOUN	_	_	0	root	_	_
+4	:	_	PUNCT	_	_	3	punct	_	_
+5	ਸਰਪੰਚੀ	_	NOUN	_	_	9	obl	_	_
+6	'ਚ	_	ADP	_	_	5	case	_	_
+7	ਸੱਸ	_	NOUN	_	_	9	obj	_	_
+8	ਨੂੰ	_	ADP	_	_	7	case	_	_
+9	ਹਰਾਉਣ	_	VERB	_	_	15	advcl	_	_
+10	ਤੋਂ	_	ADP	_	_	9	mark	_	_
+11	ਬਾਅਦ	_	ADP	_	_	10	fixed	_	_
+12	ਨੂੰਹ	_	NOUN	_	_	15	nsubj	_	_
+13	ਨੇ	_	ADP	_	_	12	case	_	_
+14	ਕੀ	_	PRON	_	_	15	obj	_	_
+15	ਕਿਹਾ	_	VERB	_	_	3	parataxis	_	_
+
+# sent_id = bbc_india-46717270_2
+# text = ਇੱਕ ਉਹ ਵੇਲਾ ਸੀ ਜਦੋਂ ਬਿਮਲਾ ਦੇਵੀ ਨੇ ਆਪਣੇ ਨਵੇਂ ਵਿਆਹੇ ਪੁੱਤ ਤੇ ਨੂੰਹ ਦਾ ਤੇਲ ਚੋਅ ਕੇ ਸੁਆਗਤ ਕੀਤਾ ਸੀ ਤੇ ਅੱਜ ਇਹ ਵੇਲਾ... ਜਦੋਂ ਸਰਪੰਚੀ ਹਾਰੀ ਬਿਮਲਾ ਦੇਵੀ ਨੇ ਆਪਣੀ ਜੇਤੂ ਨੂੰਹ ਕਮਲਜੀਤ ਕੌਰ ਦਾ ਸੁਆਗਤ ਕੀਤਾ ਪਰ ਚਿਹਰੇ 'ਤੇ ਮਾਯੂਸੀ ਸੀ।
+1	ਇੱਕ	_	NUM	_	_	3	nummod	_	_
+2	ਉਹ	_	DET	_	_	3	det	_	_
+3	ਵੇਲਾ	_	VERB	_	_	0	root	_	_
+4	ਸੀ	_	AUX	_	_	3	cop	_	_
+5	ਜਦੋਂ	_	SCONJ	_	_	20	mark	_	_
+6	ਬਿਮਲਾ	_	PROPN	_	_	20	nsubj	_	_
+7	ਦੇਵੀ	_	PROPN	_	_	6	flat	_	_
+8	ਨੇ	_	ADP	_	_	6	case	_	_
+9	ਆਪਣੇ	_	PRON	_	_	12	nmod	_	_
+10	ਨਵੇਂ	_	ADV	_	_	11	advmod	_	_
+11	ਵਿਆਹੇ	_	ADJ	_	_	12	amod	_	_
+12	ਪੁੱਤ	_	NOUN	_	_	16	nmod	_	_
+13	ਤੇ	_	CCONJ	_	_	14	cc	_	_
+14	ਨੂੰਹ	_	NOUN	_	_	12	conj	_	_
+15	ਦਾ	_	ADP	_	_	12	case	_	_
+16	ਤੇਲ	_	NOUN	_	_	17	obj	_	_
+17	ਚੋਅ	_	VERB	_	_	20	advcl	_	_
+18	ਕੇ	_	AUX	_	_	17	aux	_	_
+19	ਸੁਆਗਤ	_	NOUN	_	_	20	compound:lvc	_	_
+20	ਕੀਤਾ	_	VERB	_	_	3	acl:relcl	_	_
+21	ਸੀ	_	AUX	_	_	20	aux	_	_
+22	ਤੇ	_	CCONJ	_	_	25	cc	_	_
+23	ਅੱਜ	_	NOUN	_	_	25	obl:tmod	_	_
+24	ਇਹ	_	DET	_	_	25	dep	_	_
+25	ਵੇਲਾ	_	NOUN	_	_	3	conj	_	_
+26	...	_	PUNCT	_	_	25	punct	_	_
+27	ਜਦੋਂ	_	SCONJ	_	_	40	mark	_	_
+28	ਸਰਪੰਚੀ	_	NOUN	_	_	40	obl	_	_
+29	ਹਾਰੀ	_	ADP	_	_	28	case	_	_
+30	ਬਿਮਲਾ	_	PROPN	_	_	40	nsubj	_	_
+31	ਦੇਵੀ	_	PROPN	_	_	30	flat	_	_
+32	ਨੇ	_	ADP	_	_	30	case	_	_
+33	ਆਪਣੀ	_	PRON	_	_	35	nmod	_	_
+34	ਜੇਤੂ	_	ADJ	_	_	35	amod	_	_
+35	ਨੂੰਹ	_	NOUN	_	_	39	nmod	_	_
+36	ਕਮਲਜੀਤ	_	PROPN	_	_	35	appos	_	_
+37	ਕੌਰ	_	PROPN	_	_	36	flat	_	_
+38	ਦਾ	_	ADP	_	_	35	case	_	_
+39	ਸੁਆਗਤ	_	NOUN	_	_	40	compound:lvc	_	_
+40	ਕੀਤਾ	_	VERB	_	_	25	acl:relcl	_	_
+41	ਪਰ	_	CCONJ	_	_	44	cc	_	_
+42	ਚਿਹਰੇ	_	NOUN	_	_	44	nmod	_	_
+43	'ਤੇ	_	ADP	_	_	42	case	_	_
+44	ਮਾਯੂਸੀ	_	NOUN	_	_	40	conj	_	_
+45	ਸੀ	_	AUX	_	_	44	cop	_	_
+46	।	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = bbc_india-46717270_3
+# text = ਜਲੰਧਰ ਦੇ ਪਿੰਡ ਬੇਗਮਪੁਰਾ ਵਿੱਚ ਨੂੰਹ-ਸੱਸ ਦੀ ਸਰਪੰਚੀ ਦੀ ਲੜਾਈ ਪੂਰੇ ਪੰਜਾਬ 'ਚ ਚਰਚਾ ਦਾ ਵਿਸ਼ਾ ਬਣੀ ਹੋਈ ਸੀ।
+1	ਜਲੰਧਰ	_	PROPN	_	_	3	nmod	_	_
+2	ਦੇ	_	ADP	_	_	1	case	_	_
+3	ਪਿੰਡ	_	NOUN	_	_	10	obl:lmod	_	_
+4	ਬੇਗਮਪੁਰਾ	_	PROPN	_	_	3	appos	_	_
+5	ਵਿੱਚ	_	ADP	_	_	3	case	_	_
+6-8	ਨੂੰਹ-ਸੱਸ	_	_	_	_	_	_	_	_
+6	ਨੂੰਹ	_	NOUN	_	_	10	nmod	_	_
+7	-	_	PUNCT	_	_	8	cc	_	_
+8	ਸੱਸ	_	NOUN	_	_	6	conj	_	_
+9	ਦੀ	_	ADP	_	_	6	case	_	_
+10	ਸਰਪੰਚੀ	_	NOUN	_	_	12	nmod	_	_
+11	ਦੀ	_	ADP	_	_	10	case	_	_
+12	ਲੜਾਈ	_	NOUN	_	_	19	nsubj	_	_
+13	ਪੂਰੇ	_	ADJ	_	_	14	amod	_	_
+14	ਪੰਜਾਬ	_	NOUN	_	_	16	nmod	_	_
+15	'ਚ	_	ADP	_	_	14	case	_	_
+16	ਚਰਚਾ	_	NOUN	_	_	18	nmod	_	_
+17	ਦਾ	_	ADP	_	_	16	case	_	_
+18	ਵਿਸ਼ਾ	_	NOUN	_	_	19	xcomp	_	_
+19	ਬਣੀ	_	VERB	_	_	0	root	_	_
+20	ਹੋਈ	_	AUX	_	_	19	aux	_	_
+21	ਸੀ	_	AUX	_	_	19	aux	_	_
+22	।	_	PUNCT	_	_	19	punct	_	_
+
+# sent_id = bbc_india-46717270_4
+# text = ਐਤਵਾਰ ਨੂੰ ਆਏ ਚੋਣ ਨਤੀਜਿਆਂ ਵਿੱਚ ਨੂੰਹ ਕਮਲਜੀਤ ਨੇ ਆਪਣੀ ਸੱਸ ਬਿਮਲਾ ਦੇਵੀ ਨੂੰ 47 ਵੋਟਾਂ ਦੇ ਫਰਕ ਨਾਲ ਹਰਾ ਦਿੱਤਾ।
+1	ਐਤਵਾਰ	_	PROPN	_	_	3	obl:tmod	_	_
+2	ਨੂੰ	_	ADP	_	_	1	case	_	_
+3	ਆਏ	_	VERB	_	_	5	acl	_	_
+4	ਚੋਣ	_	AUX	_	_	3	aux	_	_
+5	ਨਤੀਜਿਆਂ	_	NOUN	_	_	20	obl	_	_
+6	ਵਿੱਚ	_	ADP	_	_	5	case	_	_
+7	ਨੂੰਹ	_	NOUN	_	_	20	nsubj	_	_
+8	ਕਮਲਜੀਤ	_	PROPN	_	_	7	appos	_	_
+9	ਨੇ	_	ADP	_	_	7	case	_	_
+10	ਆਪਣੀ	_	PRON	_	_	11	nmod	_	_
+11	ਸੱਸ	_	NOUN	_	_	20	obj	_	_
+12	ਬਿਮਲਾ	_	PROPN	_	_	11	appos	_	_
+13	ਦੇਵੀ	_	PROPN	_	_	12	flat	_	_
+14	ਨੂੰ	_	ADP	_	_	11	case	_	_
+15	47	_	NUM	_	_	16	nummod	_	_
+16	ਵੋਟਾਂ	_	NOUN	_	_	18	nmod	_	_
+17	ਦੇ	_	ADP	_	_	16	case	_	_
+18	ਫਰਕ	_	NOUN	_	_	20	obl	_	_
+19	ਨਾਲ	_	ADP	_	_	18	case	_	_
+20	ਹਰਾ	_	VERB	_	_	0	root	_	_
+21	ਦਿੱਤਾ	_	VERB	_	_	20	compound:svc	_	_
+22	।	_	PUNCT	_	_	20	punct	_	_
+
+# sent_id = bbc_india-46717270_5
+# text = ਕਮਲਜੀਤ ਕੌਰ ਨੇ 88 ਵੋਟਾਂ ਹਾਸਲ ਕੀਤੀਆਂ ਜਦਕਿ ਉਸਦੀ ਸੱਸ ਨੂੰ 41 ਵੋਟਾਂ ਹੀ ਮਿਲੀਆਂ ਸਨ।
+1	ਮਲਜੀਤ	_	PROPN	_	_	7	nsubj	_	_
+2	ਕੌਰ	_	PROPN	_	_	1	flat	_	_
+3	ਨੇ	_	ADP	_	_	1	case	_	_
+4	88	_	NUM	_	_	5	nummod	_	_
+5	ਵੋਟਾਂ	_	NOUN	_	_	7	obj	_	_
+6	ਹਾਸਲ	_	ADJ	_	_	7	compound:lvc	_	_
+7	ਕੀਤੀਆਂ	_	VERB	_	_	0	root	_	_
+8	ਜਦਕਿ	_	SCONJ	_	_	15	mark	_	_
+9	ਉਸਦੀ	_	PRON	_	_	10	nmod	_	_
+10	ਸੱਸ	_	NOUN	_	_	15	nsubj:dat	_	_
+11	ਨੂੰ	_	ADP	_	_	10	case	_	_
+12	41	_	NUM	_	_	13	nummod	_	_
+13	ਵੋਟਾਂ	_	NOUN	_	_	15	obj	_	_
+14	ਹੀ	_	PART	_	_	13	discourse	_	_
+15	ਮਿਲੀਆਂ	_	VERB	_	_	7	advcl	_	_
+16	ਸਨ	_	AUX	_	_	15	aux	_	_
+17	।	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = bbc_india-46717270_6
+# text = ਬਿਮਲਾ ਦੇਵੀ ਪਿੰਡ ਦੀ 15 ਸਾਲਾਂ ਤੱਕ ਪੰਚ ਬਣਦੀ ਆ ਰਹੀ ਸੀ।
+1	ਬਿਮਲਾ	_	PROPN	_	_	9	nsubj	_	_
+2	ਦੇਵੀ	_	PROPN	_	_	1	flat	_	_
+3	ਪਿੰਡ	_	NOUN	_	_	8	nmod	_	_
+4	ਦੀ	_	ADP	_	_	3	case	_	_
+5	15	_	NUM	_	_	6	nummod	_	_
+6	ਸਾਲਾਂ	_	NOUN	_	_	8	obl:tmod	_	_
+7	ਤੱਕ	_	ADP	_	_	6	case	_	_
+8	ਪੰਚ	_	NOUN	_	_	9	xcomp	_	_
+9	ਬਣਦੀ	_	VERB	_	_	0	root	_	_
+10	ਆ	_	VERB	_	_	9	compound:svc	_	_
+11	ਰਹੀ	_	AUX	_	_	9	aux	_	_
+12	ਸੀ	_	AUX	_	_	9	aux	_	_
+13	।	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = bbc_india-46717270_7
+# text = ਬੇਗਮਪੁਰਾ ਜਲੰਧਰ ਦਾ ਇੱਕ ਛੋਟਾ ਜਿਹਾ ਪਿੰਡ ਹੈ ਜਿੱਥੇ ਸਿਰਫ਼ 160 ਵੋਟਾਂ ਹੀ ਹਨ।
+1	ਬੇਗਮਪੁਰਾ	_	PROPN	_	_	7	nsubj	_	_
+2	ਜਲੰਧਰ	_	PROPN	_	_	7	nmod	_	_
+3	ਦਾ	_	ADP	_	_	2	case	_	_
+4	ਇੱਕ	_	NUM	_	_	7	nummod	_	_
+5	ਛੋਟਾ	_	ADJ	_	_	7	amod	_	_
+6	ਜਿਹਾ	_	ADV	_	_	5	advmod	_	_
+7	ਪਿੰਡ	_	NOUN	_	_	0	root	_	_
+8	ਹੈ	_	AUX	_	_	7	cop	_	_
+9	ਜਿੱਥੇ	_	SCONJ	_	_	12	mark	_	_
+10	ਸਿਰਫ਼	_	ADV	_	_	11	advmod	_	_
+11	160	_	NUM	_	_	12	nummod	_	_
+12	ਵੋਟਾਂ	_	NOUN	_	_	7	acl:relcl	_	_
+13	ਹੀ	_	PART	_	_	12	discourse	_	_
+14	ਹਨ	_	AUX	_	_	12	cop	_	_
+15	।	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = bbc_india-46717270_7
+# text = ਬੇਗਮਪੁਰਾ ਜਲੰਧਰ ਦਾ ਇੱਕ ਛੋਟਾ ਜਿਹਾ ਪਿੰਡ ਹੈ ਜਿੱਥੇ ਸਿਰਫ਼ 160 ਵੋਟਾਂ ਹੀ ਹਨ।
+1	ਹਾਲਾਂਕਿ	_	SCONJ	_	_	10	mark	_	_
+2	ਇਸ	_	DET	_	_	3	det	_	_
+3	ਪਿੰਡ	_	NOUN	_	_	10	obl:lmod	_	_
+4	ਵਿੱਚ	_	ADP	_	_	3	case	_	_
+5	ਤਿੰਨ	_	NUM	_	_	6	nummod	_	_
+6	ਉਮੀਦਵਾਰ	_	NOUN	_	_	10	nsubj	_	_
+7	ਸਰਪੰਚੀ	_	NOUN	_	_	10	obl	_	_
+8	ਲਈ	_	ADP	_	_	7	case	_	_
+9	ਖੜ੍ਹੇ	_	ADJ	_	_	10	compound:lvc	_	_
+10	ਸਨ	_	VERB	_	_	19	advcl	_	_
+11	ਪਰ	_	CCONJ	_	_	19	cc	_	_
+12	ਮੁੱਖ	_	ADJ	_	_	13	amod	_	_
+13	ਮੁਕਾਬਲਾ	_	NOUN	_	_	19	nsubj	_	_
+14-16	ਨੂੰਹ-ਸੱਸ	_	_	_	_	_	_	_	_
+14	ਨੂੰਹ	_	NOUN	_	_	19	obl	_	_
+15	-	_	PUNCT	_	_	16	cc	_	_
+16	ਸੱਸ	_	NOUN	_	_	14	conj	_	_
+17	ਵਿੱਚ	_	ADP	_	_	14	case	_	_
+18	ਹੀ	_	PART	_	_	14	discourse	_	_
+19	ਰਿਹਾ	_	VERB	_	_	0	root	_	_
+20	।	_	PUNCT	_	_	19	punct	_	_
+
+# sent_id = bbc_india-46717270_8
+# text = ਤੀਜੀ ਉਮੀਦਵਾਰ ਨੂੰ ਸਿਰਫ 31 ਵੋਟਾਂ ਹੀ ਮਿਲੀਆਂ।
+1	ਤੀਜੀ	_	ADJ	_	_	2	amod	_	_
+2	ਉਮੀਦਵਾਰ	_	NOUN	_	_	8	nsubj:dat	_	_
+3	ਨੂੰ	_	ADP	_	_	2	case	_	_
+4	ਸਿਰਫ	_	ADV	_	_	5	advmod	_	_
+5	31	_	NUM	_	_	6	nummod	_	_
+6	ਵੋਟਾਂ	_	NOUN	_	_	8	obj	_	_
+7	ਹੀ	_	PART	_	_	6	discourse	_	_
+8	ਮਿਲੀਆਂ	_	VERB	_	_	0	root	_	_
+9	।	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = bbc_india-46717270_9
+# text = ਗਿਣਤੀ ਕੇਂਦਰ ਦੇ ਬਾਹਰ ਖੜ੍ਹੀ ਕਮਲਜੀਤ ਕੌਰ ਪੂਰੇ ਭਰੋਸੇ ਵਿੱਚ ਸੀ ਕਿ ਉਹ ਹੀ ਚੋਣ ਜਿੱਤੇਗੀ।
+1	ਗਿਣਤੀ	_	NOUN	_	_	2	compound	_	_
+2	ਕੇਂਦਰ	_	NOUN	_	_	5	obl:lmod	_	_
+3	ਦੇ	_	ADP	_	_	2	case	_	_
+4	ਬਾਹਰ	_	ADP	_	_	3	fixed	_	_
+5	ਖੜ੍ਹੀ	_	VERB	_	_	6	acl	_	_
+6	ਕਮਲਜੀਤ	_	PROPN	_	_	9	nsubj	_	_
+7	ਕੌਰ	_	PROPN	_	_	6	flat	_	_
+8	ਪੂਰੇ	_	ADJ	_	_	9	amod	_	_
+9	ਭਰੋਸੇ	_	NOUN	_	_	0	root	_	_
+10	ਵਿੱਚ	_	ADP	_	_	9	case	_	_
+11	ਸੀ	_	AUX	_	_	9	cop	_	_
+12	ਕਿ	_	SCONJ	_	_	16	mark	_	_
+13	ਉਹ	_	PROPN	_	_	16	nsubj	_	_
+14	ਹੀ	_	PART	_	_	13	discourse	_	_
+15	ਚੋਣ	_	NOUN	_	_	16	obj	_	_
+16	ਜਿੱਤੇਗੀ	_	VERB	_	_	9	acl	_	_
+17	।	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = bbc_india-46717270_10
+# text = ਚੋਣਾਂ ਵਿੱਚ ਆਪਣੀ ਸੱਸ ਨੂੰ ਹਰਾਉਣ ਤੋਂ ਬਾਅਦ ਪਿੰਡ ਦੇ ਗੁਰੂ ਘਰ ਵਿੱਚ ਮੱਥਾ ਟੇਕਿਆ।
+1	ਚੋਣਾਂ	_	NOUN	_	_	6	obl	_	_
+2	ਵਿੱਚ	_	ADP	_	_	1	case	_	_
+3	ਆਪਣੀ	_	PROPN	_	_	4	nmod	_	_
+4	ਸੱਸ	_	NOUN	_	_	6	obj	_	_
+5	ਨੂੰ	_	ADP	_	_	4	case	_	_
+6	ਹਰਾਉਣ	_	VERB	_	_	15	advcl	_	_
+7	ਤੋਂ	_	ADP	_	_	6	mark	_	_
+8	ਬਾਅਦ	_	ADP	_	_	7	fixed	_	_
+9	ਪਿੰਡ	_	NOUN	_	_	12	nmod	_	_
+10	ਦੇ	_	ADP	_	_	9	case	_	_
+11	ਗੁਰੂ	_	NOUN	_	_	12	compound	_	_
+12	ਘਰ	_	NOUN	_	_	15	obl:lmod	_	_
+13	ਵਿੱਚ	_	ADP	_	_	12	case	_	_
+14	ਮੱਥਾ	_	NOUN	_	_	15	obj	_	_
+15	ਟੇਕਿਆ	_	VERB	_	_	0	root	_	_
+16	।	_	PUNCT	_	_	15	punct	_	_
+
+# sent_id = bbc_india-46717270_11
+# text = 'ਮੀਡੀਆ ਨੇ ਬਣਾਈ ਸੀ ਨੂੰਹ-ਸੱਸ ਦੀ ਲੜਾਈ'
+1	'	_	PUNCT	_	_	4	punct	_	_
+2	ਮੀਡੀਆ	_	NOUN	_	_	4	nsubj	_	_
+3	ਨੇ	_	ADP	_	_	2	case	_	_
+4	ਬਣਾਈ	_	VERB	_	_	0	root	_	_
+5	ਸੀ	_	AUX	_	_	4	aux	_	_
+6-8	ਨੂੰਹ-ਸੱਸ	_	_	_	_	_	_	_	_
+6	ਨੂੰਹ	_	NOUN	_	_	10	nmod	_	_
+7	-	_	PUNCT	_	_	8	cc	_	_
+8	ਸੱਸ	_	NOUN	_	_	6	conj	_	_
+9	ਦੀ	_	ADP	_	_	6	case	_	_
+10	ਲੜਾਈ	_	NOUN	_	_	4	obj	_	_
+11	'	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = bbc_india-46717270_12
+# text = ਸਰਪੰਚ ਬਣੀ ਕਮਲਜੀਤ ਕੌਰ ਕਹਿੰਦੀ ਹੈ ਕਿ ਚੋਣਾਂ ਦੀ ਲੜਾਈ ਕੋਈ ਨੂੰਹ-ਸੱਸ ਦੀ ਲੜਾਈ ਨਹੀਂ ਸੀ ਇਹ ਸਾਰਾ ਕੁਝ ਮੀਡੀਆ ਦੀ ਦੇਣ ਹੈ।
+1	ਸਰਪੰਚ	_	NOUN	_	_	2	xcomp	_	_
+2	ਬਣੀ	_	VERB	_	_	3	acl	_	_
+3	ਕਮਲਜੀਤ	_	PROPN	_	_	5	nsubj	_	_
+4	ਕੌਰ	_	PROPN	_	_	3	flat	_	_
+5	ਕਹਿੰਦੀ	_	VERB	_	_	0	root	_	_
+6	ਹੈ	_	AUX	_	_	5	aux	_	_
+7	ਕਿ	_	SCONJ	_	_	16	mark	_	_
+8	ਚੋਣਾਂ	_	NOUN	_	_	10	nmod	_	_
+9	ਦੀ	_	ADP	_	_	8	case	_	_
+10	ਲੜਾਈ	_	NOUN	_	_	16	nsubj	_	_
+11	ਕੋਈ	_	DET	_	_	16	det	_	_
+12-14	ਨੂੰਹ-ਸੱਸ	_	_	_	_	_	_	_	_
+12	ਨੂੰਹ	_	NOUN	_	_	16	nmod	_	_
+13	-	_	PUNCT	_	_	14	cc	_	_
+14	ਸੱਸ	_	NOUN	_	_	12	conj	_	_
+15	ਦੀ	_	ADP	_	_	12	case	_	_
+16	ਲੜਾਈ	_	NOUN	_	_	5	ccomp	_	_
+17	ਨਹੀਂ	_	ADV	_	_	16	advmod	_	_
+18	ਸੀ	_	AUX	_	_	16	cop	_	_
+19	ਇਹ	_	DET	_	_	21	det	_	_
+20	ਸਾਰਾ	_	ADJ	_	_	21	amod	_	_
+21	ਕੁਝ	_	PRON	_	_	24	nsubj	_	_
+22	ਮੀਡੀਆ	_	NOUN	_	_	24	nmod	_	_
+23	ਦੀ	_	ADP	_	_	22	case	_	_
+24	ਦੇਣ	_	NOUN	_	_	16	parataxis	_	_
+25	ਹੈ	_	AUX	_	_	24	cop	_	_
+26	।	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = bbc_india-46717270_13
+# text = ''ਮੀਡੀਆ ਨੇ ਵਾਰ-ਵਾਰ ਕਹਿ ਕੇ ਇਸ ਨੂੰ ਰਿਸ਼ਤਿਆਂ ਦੀ ਲੜਾਈ ਬਣਾ ਦਿੱਤਾ ਸੀ ਜਦਕਿ ਅਸਲ ਵਿੱਚ ਇਹ ਲੜਾਈ ਪੜ੍ਹਿਆਂ ਲਿਖਿਆਂ ਅਤੇ ਅਨਪੜ੍ਹਾਂ ਵਿੱਚ ਸੀ।
+1	''	_	PUNCT	_	_	14	punct	_	_
+2	ਮੀਡੀਆ	_	NOUN	_	_	14	nsubj	_	_
+3	ਨੇ	_	ADP	_	_	2	case	_	_
+4-6	ਵਾਰ-ਵਾਰ	_	_	_	_	_	_	_	_
+4	ਵਾਰ	_	NOUN	_	_	7	obl	_	_
+5	-	_	PUNCT	_	_	6	punct	_	_
+6	ਵਾਰ	_	NOUN	_	_	4	compound:redup	_	_
+7	ਕਹਿ	_	VERB	_	_	14	advcl	_	_
+8	ਕੇ	_	AUX	_	_	7	aux	_	_
+9	ਇਸ	_	PRON	_	_	14	obj	_	_
+10	ਨੂੰ	_	ADP	_	_	9	case	_	_
+11	ਰਿਸ਼ਤਿਆਂ	_	NOUN	_	_	13	nmod	_	_
+12	ਦੀ	_	ADP	_	_	11	case	_	_
+13	ਲੜਾਈ	_	NOUN	_	_	14	xcomp	_	_
+14	ਬਣਾ	_	VERB	_	_	0	root	_	_
+15	ਦਿੱਤਾ	_	VERB	_	_	14	compound:svc	_	_
+16	ਸੀ	_	AUX	_	_	14	aux	_	_
+17	ਜਦਕਿ	_	SCONJ	_	_	22	mark	_	_
+18	ਅਸਲ	_	NOUN	_	_	22	obl	_	_
+19	ਵਿੱਚ	_	ADP	_	_	18	case	_	_
+20	ਇਹ	_	DET	_	_	21	det	_	_
+21	ਲੜਾਈ	_	NOUN	_	_	22	nsubj	_	_
+22	ਪੜ੍ਹਿਆਂ	_	ADJ	_	_	14	advcl	_	_
+23	ਲਿਖਿਆਂ	_	ADJ	_	_	22	compound	_	_
+24	ਅਤੇ	_	CCONJ	_	_	25	cc	_	_
+25	ਅਨਪੜ੍ਹਾਂ	_	ADJ	_	_	22	conj	_	_
+26	ਵਿੱਚ	_	ADP	_	_	22	case	_	_
+27	ਸੀ	_	AUX	_	_	22	cop	_	_
+28	।	_	PUNCT	_	_	14	punct	_	_
