@@ -1,16 +1,19 @@
 # Summary
-
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+**PunTB** (very imaginative acronym for Punjabi Treebank) is an in-progress treebank of Punjabi in the Gurmukhi script, aiming to cover a wide range of genres and formats.
 
 
 # Introduction
+Currently the treebank is comprised of:
 
-...
+- 43 sentences from [IndicCorp](https://indicnlp.ai4bharat.org/corpora/) [source dataset found to be of variable quality, no more will be annotated]
+- 28 sentences from the Facebook [FLoRes](https://ai.facebook.com/tools/flores/) low-resource machine translation dataset (with English translations)
+- 37 sentences from Punjabi news websites
+  - [BBC Punjabi](https://bbc.com/punjabi): 1 article, 37 sentences
 
+Only POS tags and dependency relations have been annotated so far. Automatic or semi-automatic methods will eventually be employed for morphological analysis and lemmatisation.
 
 # Acknowledgments
-
-...
+The corpus has been hand-annotated by Aryaman Arora.
 
 ## References
 
