@@ -7,8 +7,8 @@ Currently the treebank is comprised of:
 
 - 43 sentences from [IndicCorp](https://indicnlp.ai4bharat.org/corpora/) [source dataset found to be of variable quality, no more will be annotated]
 - 28 sentences from the Facebook [FLoRes](https://ai.facebook.com/tools/flores/) low-resource machine translation dataset (with English translations)
-- 37 sentences from Punjabi news websites
-  - [BBC Punjabi](https://bbc.com/punjabi): 1 article, 37 sentences
+- 38 sentences from Punjabi news websites
+  - [BBC Punjabi](https://bbc.com/punjabi): 1 article, 38 sentences
 
 Only POS tags and dependency relations have been annotated so far. Automatic or semi-automatic methods will eventually be employed for morphological analysis and lemmatisation.
 
