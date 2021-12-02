@@ -2082,8 +2082,8 @@
 14	ਹਨ	_	AUX	_	_	12	cop	_	_
 15	।	_	PUNCT	_	_	7	punct	_	_
 
-# sent_id = bbc_india-46717270_7
-# text = ਬੇਗਮਪੁਰਾ ਜਲੰਧਰ ਦਾ ਇੱਕ ਛੋਟਾ ਜਿਹਾ ਪਿੰਡ ਹੈ ਜਿੱਥੇ ਸਿਰਫ਼ 160 ਵੋਟਾਂ ਹੀ ਹਨ।
+# sent_id = bbc_india-46717270_8
+# text = ਹਾਲਾਂਕਿ ਇਸ ਪਿੰਡ ਵਿੱਚ ਤਿੰਨ ਉਮੀਦਵਾਰ ਸਰਪੰਚੀ ਲਈ ਖੜ੍ਹੇ ਸਨ ਪਰ ਮੁੱਖ ਮੁਕਾਬਲਾ ਨੂੰਹ-ਸੱਸ ਵਿੱਚ ਹੀ ਰਿਹਾ।
 1	ਹਾਲਾਂਕਿ	_	SCONJ	_	_	10	mark	_	_
 2	ਇਸ	_	DET	_	_	3	det	_	_
 3	ਪਿੰਡ	_	NOUN	_	_	10	obl:lmod	_	_
@@ -2106,7 +2106,7 @@
 19	ਰਿਹਾ	_	VERB	_	_	0	root	_	_
 20	।	_	PUNCT	_	_	19	punct	_	_
 
-# sent_id = bbc_india-46717270_8
+# sent_id = bbc_india-46717270_9
 # text = ਤੀਜੀ ਉਮੀਦਵਾਰ ਨੂੰ ਸਿਰਫ 31 ਵੋਟਾਂ ਹੀ ਮਿਲੀਆਂ।
 1	ਤੀਜੀ	_	ADJ	_	_	2	amod	_	_
 2	ਉਮੀਦਵਾਰ	_	NOUN	_	_	8	nsubj:dat	_	_
@@ -2118,7 +2118,7 @@
 8	ਮਿਲੀਆਂ	_	VERB	_	_	0	root	_	_
 9	।	_	PUNCT	_	_	8	punct	_	_
 
-# sent_id = bbc_india-46717270_9
+# sent_id = bbc_india-46717270_10
 # text = ਗਿਣਤੀ ਕੇਂਦਰ ਦੇ ਬਾਹਰ ਖੜ੍ਹੀ ਕਮਲਜੀਤ ਕੌਰ ਪੂਰੇ ਭਰੋਸੇ ਵਿੱਚ ਸੀ ਕਿ ਉਹ ਹੀ ਚੋਣ ਜਿੱਤੇਗੀ।
 1	ਗਿਣਤੀ	_	NOUN	_	_	2	compound	_	_
 2	ਕੇਂਦਰ	_	NOUN	_	_	5	obl:lmod	_	_
@@ -2138,7 +2138,7 @@
 16	ਜਿੱਤੇਗੀ	_	VERB	_	_	9	acl	_	_
 17	।	_	PUNCT	_	_	9	punct	_	_
 
-# sent_id = bbc_india-46717270_10
+# sent_id = bbc_india-46717270_11
 # text = ਚੋਣਾਂ ਵਿੱਚ ਆਪਣੀ ਸੱਸ ਨੂੰ ਹਰਾਉਣ ਤੋਂ ਬਾਅਦ ਪਿੰਡ ਦੇ ਗੁਰੂ ਘਰ ਵਿੱਚ ਮੱਥਾ ਟੇਕਿਆ।
 1	ਚੋਣਾਂ	_	NOUN	_	_	6	obl	_	_
 2	ਵਿੱਚ	_	ADP	_	_	1	case	_	_
@@ -2157,7 +2157,7 @@
 15	ਟੇਕਿਆ	_	VERB	_	_	0	root	_	_
 16	।	_	PUNCT	_	_	15	punct	_	_
 
-# sent_id = bbc_india-46717270_11
+# sent_id = bbc_india-46717270_12
 # text = 'ਮੀਡੀਆ ਨੇ ਬਣਾਈ ਸੀ ਨੂੰਹ-ਸੱਸ ਦੀ ਲੜਾਈ'
 1	'	_	PUNCT	_	_	4	punct	_	_
 2	ਮੀਡੀਆ	_	NOUN	_	_	4	nsubj	_	_
@@ -2172,7 +2172,7 @@
 10	ਲੜਾਈ	_	NOUN	_	_	4	obj	_	_
 11	'	_	PUNCT	_	_	4	punct	_	_
 
-# sent_id = bbc_india-46717270_12
+# sent_id = bbc_india-46717270_13
 # text = ਸਰਪੰਚ ਬਣੀ ਕਮਲਜੀਤ ਕੌਰ ਕਹਿੰਦੀ ਹੈ ਕਿ ਚੋਣਾਂ ਦੀ ਲੜਾਈ ਕੋਈ ਨੂੰਹ-ਸੱਸ ਦੀ ਲੜਾਈ ਨਹੀਂ ਸੀ ਇਹ ਸਾਰਾ ਕੁਝ ਮੀਡੀਆ ਦੀ ਦੇਣ ਹੈ।
 1	ਸਰਪੰਚ	_	NOUN	_	_	2	xcomp	_	_
 2	ਬਣੀ	_	VERB	_	_	3	acl	_	_
@@ -2202,7 +2202,7 @@
 25	ਹੈ	_	AUX	_	_	24	cop	_	_
 26	।	_	PUNCT	_	_	5	punct	_	_
 
-# sent_id = bbc_india-46717270_13
+# sent_id = bbc_india-46717270_14
 # text = ''ਮੀਡੀਆ ਨੇ ਵਾਰ-ਵਾਰ ਕਹਿ ਕੇ ਇਸ ਨੂੰ ਰਿਸ਼ਤਿਆਂ ਦੀ ਲੜਾਈ ਬਣਾ ਦਿੱਤਾ ਸੀ ਜਦਕਿ ਅਸਲ ਵਿੱਚ ਇਹ ਲੜਾਈ ਪੜ੍ਹਿਆਂ ਲਿਖਿਆਂ ਅਤੇ ਅਨਪੜ੍ਹਾਂ ਵਿੱਚ ਸੀ।
 1	''	_	PUNCT	_	_	14	punct	_	_
 2	ਮੀਡੀਆ	_	NOUN	_	_	14	nsubj	_	_
@@ -2234,7 +2234,7 @@
 27	ਸੀ	_	AUX	_	_	22	cop	_	_
 28	।	_	PUNCT	_	_	14	punct	_	_
 
-# sent_id = bbc_india-46717270_14
+# sent_id = bbc_india-46717270_15
 # text = ਲੋਕਾਂ ਨੇ ਚੁਣਨਾ ਸੀ ਕਿ ਉਹ ਆਪਣੀਆਂ ਧੀਆਂ ਨੂੰ ਪੜ੍ਹਾਉਣ ਚਾਹੁੰਦੇ ਹਨ ਜਾਂ ਨਹੀਂ।''
 1	ਲੋਕਾਂ	_	NOUN	_	_	3	nsubj	_	_
 2	ਨੇ	_	ADP	_	_	1	case	_	_
@@ -2253,7 +2253,7 @@
 15	।	_	PUNCT	_	_	3	punct	_	_
 16	''	_	PUNCT	_	_	3	punct	_	_
 
-# sent_id = bbc_india-46717270_15
+# sent_id = bbc_india-46717270_16
 # text = ਕਮਲਜੀਤ ਅੱਗੇ ਕਹਿੰਦੀ ਹੈ ਕਿ ਲੋਕਾਂ ਨੇ ਪੜ੍ਹੇ ਲਿਖਿਆਂ ਦਾ ਸਾਥ ਦੇ ਕੇ ਪਿੰਡ ਦੀ ਤਰੱਕੀ ਦਾ ਰਾਹ ਚੁਣਿਆ ਹੈ।
 1	ਕਮਲਜੀਤ	_	PROPN	_	_	3	nsubj	_	_
 2	ਅੱਗੇ	_	ADV	_	_	3	advmod	_	_
@@ -2277,7 +2277,7 @@
 20	ਹੈ	_	AUX	_	_	19	aux	_	_
 21	।	_	PUNCT	_	_	3	punct	_	_
 
-# sent_id = bbc_india-46717270_16
+# sent_id = bbc_india-46717270_17
 # text = ਗੁਰਦੁਆਰਾ ਸਾਹਿਬ ਵਿੱਚ ਕਮਲਜੀਤ ਨੇ ਲੋਕਾਂ ਦਾ ਧੰਨਵਾਦ ਕਰਦਿਆਂ ਕਿਹਾ ਕਿ ਹੁਣ ਸਭ ਨੇ ਇੱਕ ਹੋ ਕੇ ਚੱਲਣਾ ਹੈ।
 1	ਗੁਰਦੁਆਰਾ	_	NOUN	_	_	2	compound	_	_
 2	ਸਾਹਿਬ	_	NOUN	_	_	10	obl:lmod	_	_
@@ -2300,7 +2300,7 @@
 19	ਹੈ	_	AUX	_	_	18	aux	_	_
 20	।	_	PUNCT	_	_	10	punct	_	_
 
-# sent_id = bbc_india-46717270_17
+# sent_id = bbc_india-46717270_18
 # text = ਕਮਲਜੀਤ ਨੇ ਚੋਣਾਂ ਦੌਰਾਨ ਅਣਜਾਣੇ ਵਿੱਚ ਹੋਈਆਂ ਗਲਤੀਆਂ ਲਈ ਮੁਆਫ਼ੀ ਵੀ ਮੰਗੀ।
 1	ਕਮਲਜੀਤ	_	PROPN	_	_	12	nsubj	_	_
 2	ਨੇ	_	ADP	_	_	1	case	_	_
@@ -2316,7 +2316,7 @@
 12	ਮੰਗੀ	_	VERB	_	_	0	root	_	_
 13	।	_	PUNCT	_	_	12	punct	_	_
 
-# sent_id = bbc_india-46717270_18
+# sent_id = bbc_india-46717270_19
 # text = ਗੁਰਦੁਆਰਾ ਸਾਹਿਬ ਵਿੱਚ ਮੱਥਾ ਟੇਕਣ ਤੋਂ ਬਾਅਦ ਕਮਲਜੀਤ ਕੌਰ ਸਮਰਥਕਾਂ ਨਾਲ ਆਪਣੇ ਘਰ ਗਈ ਜਿੱਥੇ ਮੁਕਾਬਲੇ ਵਿੱਚ ਪਿੱਛੜ ਗਈ ਸੱਸ ਨੇ ਤੇਲ ਚੋਅ ਕੇ ਨੂੰਹ ਦਾ ਸਵਾਗਤ ਕੀਤਾ ਤੇ ਉਸ ਦਾ ਮੂੰਹ ਮਿੱਠਾ ਕਰਵਾਇਆ।
 1	ਗੁਰਦੁਆਰਾ	_	NOUN	_	_	2	compound	_	_
 2	ਸਾਹਿਬ	_	NOUN	_	_	5	obl:lmod	_	_
@@ -2354,7 +2354,7 @@
 34	ਕਰਵਾਇਆ	_	VERB	_	_	28	conj	_	_
 35	।	_	PUNCT	_	_	14	punct	_	_
 
-# sent_id = bbc_india-46717270_19
+# sent_id = bbc_india-46717270_20
 # text = ਹਾਲਾਂਕਿ ਸੱਸ ਬਿਮਲਾ ਦੇਵੀ ਨੂੰਹ ਹੱਥੋਂ ਹੋਈ ਹਾਰ ਕਾਰਨ ਮਾਯੂਸ ਸੀ ਪਰ ਸਾਬਕਾ ਸਰਪੰਚ ਰਾਮਪਾਲ ਦੇ ਕਹਿਣ 'ਤੇ ਉਨ੍ਹਾਂ ਨੇ ਆਪਣੀ ਨੂੰਹ ਦਾ ਤੇਲ ਚੋਅ ਕੇ ਸਵਾਗਤ ਕੀਤਾ।
 1	ਹਾਲਾਂਕਿ	_	SCONJ	_	_	10	mark	_	_
 2	ਸੱਸ	_	NOUN	_	_	3	nmod:desc	_	_
@@ -2386,7 +2386,7 @@
 28	ਕੀਤਾ	_	VERB	_	_	0	root	_	_
 29	।	_	PUNCT	_	_	28	punct	_	_
 
-# sent_id = bbc_india-46717270_20
+# sent_id = bbc_india-46717270_21
 # text = ਦਿਲਚਸਪ ਗੱਲ ਇਹ ਵੀ ਹੈ ਕਿ ਸੱਸ ਦੇ ਹਾਰ ਜਾਣ ਕਾਰਨ ਨੂੰਹ ਕਮਲਜੀਤ ਕੌਰ ਨੇ ਆਪਣੇ ਸਮਰਥਕਾਂ ਨੂੰ ਢੋਲ ਵਜਾਉਣ ਤੋਂ ਮਨ੍ਹਾਂ ਕੀਤਾ ਹੋਇਆ ਸੀ।
 1	ਦਿਲਚਸਪ	_	ADJ	_	_	2	amod	_	_
 2	ਗੱਲ	_	NOUN	_	_	0	root	_	_
@@ -2415,7 +2415,7 @@
 25	ਸੀ	_	AUX	_	_	23	aux	_	_
 26	।	_	PUNCT	_	_	2	punct	_	_
 
-# sent_id = bbc_india-46717270_21
+# sent_id = bbc_india-46717270_22
 # text = ਚੋਣ ਪ੍ਰਚਾਰ ਦੌਰਾਨ ਘਰ ਵਿੱਚ ਤਣਾਅ ਬਣਿਆ ਹੋਇਆ ਸੀ ਪਰ ਆਪਣੀ ਹਾਰ ਤੋਂ ਬਾਅਦ ਵੀ ਸੱਸ ਬਿਮਲਾ ਦੇਵੀ ਵੱਲੋਂ ਨੂੰਹ ਕਮਲਜੀਤ ਨੂੰ ਦਿੱਤੇ ਅਸ਼ੀਰਵਾਦ ਨਾਲ ਕੁੱਝ ਹੱਦ ਤੱਕ ਇਹ ਕੁੜੱਤਣ ਘੱਟ ਜ਼ਰੂਰ ਗਈ ਹੈ।
 1	ਚੋਣ	_	NOUN	_	_	2	nmod	_	_
 2	ਪ੍ਰਚਾਰ	_	NOUN	_	_	7	obl:tmod	_	_
@@ -2453,7 +2453,7 @@
 34	ਹੈ	_	AUX	_	_	31	aux	_	_
 35	।	_	PUNCT	_	_	7	punct	_	_
 
-# sent_id = bbc_india-46717270_22
+# sent_id = bbc_india-46717270_23
 # text = ਦਰਾਣੀ-ਜਠਾਣੀ ਦੀ ਲੜਾਈ
 1	ਦਰਾਣੀ	_	NOUN	_	_	5	nmod	_	_
 2	-	_	PUNCT	_	_	3	cc	_	_
@@ -2461,7 +2461,7 @@
 4	ਦੀ	_	ADP	_	_	1	case	_	_
 5	ਲੜਾਈ	_	NOUN	_	_	0	root	_	_
 
-# sent_id = bbc_india-46717270_23
+# sent_id = bbc_india-46717270_24
 # text = ਜਲੰਧਰ ਦੇ ਪਿੰਡ ਪਤਾਰਾ ਵਿੱਚ ਵਾਰਡ ਨੰਬਰ 4 ਤੋਂ ਪੰਚੀ ਦੀ ਚੋਣ ਲਈ ਦਰਾਣੀਆਂ-ਜਠਾਣੀਆਂ ਆਹਮੋ-ਸਾਹਮਣੇ ਸਨ।
 1	ਜਲੰਧਰ	_	PROPN	_	_	3	nmod	_	_
 2	ਦੇ	_	ADP	_	_	1	case	_	_
@@ -2487,7 +2487,7 @@
 20	ਸਨ	_	AUX	_	_	19	cop	_	_
 21	।	_	PUNCT	_	_	19	punct	_	_
 
-# sent_id = bbc_india-46717270_24
+# sent_id = bbc_india-46717270_25
 # text = ਜਲੰਧਰ ਦੇ ਪਿੰਡ ਪਤਾਰਾ ਵਿੱਚ ਵਾਰਡ ਨੰਬਰ 4 ਤੋਂ ਪੰਚੀ ਦੀ ਚੋਣ ਲਈ ਦਰਾਣੀਆਂ-ਜਠਾਣੀਆਂ ਆਹਮੋ-ਸਾਹਮਣੇ ਸਨ।
 1	ਇਸ	_	DET	_	_	2	det	_	_
 2	ਚੋਣ	_	NOUN	_	_	8	obl	_	_
@@ -2499,7 +2499,7 @@
 8	ਹਰਾਇਆ	_	VERB	_	_	0	root	_	_
 9	।	_	PUNCT	_	_	8	punct	_	_
 
-# sent_id = bbc_india-46717270_25
+# sent_id = bbc_india-46717270_26
 # text = ਜੇਠਾਣੀ ਨੇ ਪੰਚੀ ਵਿੱਚ ਦਰਾਣੀ ਨੂੰ ਹਰਾ ਕੇ ਕਿਹਾ ਕਿ ਰਿਸ਼ਤਿਆਂ ਵਿੱਚ ਇਸਦਾ ਕੋਈ ਫਰਕ ਨਹੀਂ ਪਵੇਗਾ।
 1	ਜੇਠਾਣੀ	_	NOUN	_	_	9	nsubj	_	_
 2	ਨੇ	_	ADP	_	_	1	case	_	_
@@ -2522,7 +2522,7 @@
 18	ਪਵੇਗਾ	_	VERB	_	_	9	ccomp	_	_
 19	।	_	PUNCT	_	_	9	punct	_	_
 
-# sent_id = bbc_india-46717270_26
+# sent_id = bbc_india-46717270_27
 # text = ਪਤਾਰਾ ਪਿੰਡ ਤੋਂ ਸਰਪੰਚ ਉਮੀਦਵਾਰ
 1	ਪਤਾਰਾ	_	PROPN	_	_	2	compound	_	_
 2	ਪਿੰਡ	_	PROPN	_	_	5	nmod	_	_
@@ -2530,7 +2530,7 @@
 4	ਸਰਪੰਚ	_	NOUN	_	_	5	nmod	_	_
 5	ਉਮੀਦਵਾਰ	_	NOUN	_	_	0	root	_	_
 
-# sent_id = bbc_india-46717270_27
+# sent_id = bbc_india-46717270_28
 # text = ਜੇਠਾਣੀ ਸੁਖਵਿੰਦਰ ਕੌਰ ਨੇ ਚੋਣਾਂ ਵਿੱਚ 105 ਵੋਟਾਂ ਲੈ ਕੇ ਆਪਣੀ ਦਰਾਣੀ ਸਰਬਜੀਤ ਕੌਰ ਨੂੰ ਹਰਾਇਆ।
 1	ਜੇਠਾਣੀ	_	NOUN	_	_	2	nmod:desc	_	_
 2	ਸੁਖਵਿੰਦਰ	_	PROPN	_	_	16	nsubj	_	_
@@ -2550,7 +2550,7 @@
 16	ਹਰਾਇਆ	_	VERB	_	_	0	root	_	_
 17	।	_	PUNCT	_	_	16	punct	_	_
 
-# sent_id = bbc_india-46717270_28
+# sent_id = bbc_india-46717270_29
 # text = ਜੇਤੂ ਰਹੀ ਸੁਖਵਿੰਦਰ ਕੌਰ ਨੇ ਪਿੰਡ ਵਿੱਚ ਲੇਡੀਜ਼ ਜਿਮ ਬਣਾਉਣ ਦਾ ਵਾਅਦਾ ਕੀਤਾ ਸੀ।
 1	ਜੇਤੂ	_	ADJ	_	_	3	acl	_	_
 2	ਰਹੀ	_	VERB	_	_	1	cop	_	_
@@ -2567,3 +2567,169 @@
 13	ਕੀਤਾ	_	VERB	_	_	0	root	_	_
 14	ਸੀ	_	AUX	_	_	13	aux	_	_
 15	।	_	PUNCT	_	_	13	punct	_	_
+
+# sent_id = bbc_india-46717270_30
+# text = ਸੁਖਵਿੰਦਰ ਕੌਰ ਦਾ ਕਹਿਣਾ ਸੀ, ''ਇਹ ਜਿੱਤ ਰਿਸ਼ਤਿਆਂ ਨੂੰ ਟੁੱਟਣ ਨਹੀਂ ਦੇਵੇਗੀ।
+1	ਸੁਖਵਿੰਦਰ	_	PROPN	_	_	4	nmod	_	_
+2	ਕੌਰ	_	PROPN	_	_	1	flat	_	_
+3	ਦਾ	_	ADP	_	_	1	case	_	_
+4	ਕਹਿਣਾ	_	NOUN	_	_	5	nsubj	_	_
+5	ਸੀ	_	VERB	_	_	0	root	_	_
+6	,	_	PUNCT	_	_	5	punct	_	_
+7	''	_	PUNCT	_	_	5	punct	_	_
+8	ਇਹ	_	DET	_	_	9	det	_	_
+9	ਜਿੱਤ	_	NOUN	_	_	14	nsubj	_	_
+10	ਰਿਸ਼ਤਿਆਂ	_	NOUN	_	_	14	obj	_	_
+11	ਨੂੰ	_	ADP	_	_	10	case	_	_
+12	ਟੁੱਟਣ	_	VERB	_	_	14	xcomp	_	_
+13	ਨਹੀਂ	_	ADV	_	_	14	advmod	_	_
+14	ਦੇਵੇਗੀ	_	VERB	_	_	5	ccomp	_	_
+15	।	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = bbc_india-46717270_31
+# text = ਥੋੜ੍ਹੇ ਸਮੇਂ ਬਾਅਦ ਸਾਰਾ ਕੁਝ ਆਮ ਵਰਗਾ ਹੋ ਜਾਵੇਗਾ।
+1	ਥੋੜ੍ਹੇ	_	ADJ	_	_	2	amod	_	_
+2	ਸਮੇਂ	_	NOUN	_	_	6	obl:tmod	_	_
+3	ਬਾਅਦ	_	ADP	_	_	2	case	_	_
+4	ਸਾਰਾ	_	DET	_	_	5	det	_	_
+5	ਕੁਝ	_	PRON	_	_	6	nsubj	_	_
+6	ਆਮ	_	ADJ	_	_	0	root	_	_
+7	ਵਰਗਾ	_	ADP	_	_	6	case	_	_
+8	ਹੋ	_	AUX	_	_	6	cop	_	_
+9	ਜਾਵੇਗਾ	_	VERB	_	_	6	compound:svc	_	_
+10	।	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = bbc_india-46717270_32
+# text = ਉਸ ਨੂੰ ਆਪ ਘਰ ਜਾ ਕੇ ਮਨਾਵਾਂਗੀ।
+1	ਉਸ	_	PRON	_	_	7	obj	_	_
+2	ਨੂੰ	_	ADP	_	_	1	case	_	_
+3	ਆਪ	_	PRON	_	_	4	nmod	_	_
+4	ਘਰ	_	NOUN	_	_	5	obl:lmod	_	_
+5	ਜਾ	_	VERB	_	_	7	advcl	_	_
+6	ਕੇ	_	AUX	_	_	5	aux	_	_
+7	ਮਨਾਵਾਂਗੀ	_	VERB	_	_	0	root	_	_
+8	।	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = bbc_india-46717270_33
+# text = ਪਹਿਲਾਂ ਵੀ ਅਸੀਂ ਭੈਣਾਂ ਬਣਕੇ ਰਹੀਆਂ ਸੀ ਤੇ ਹੁਣ ਵੀ ਇਸੇ ਤਰ੍ਹਾਂ ਰਹਾਂਗੀਆਂ।''
+1	ਪਹਿਲਾਂ	_	ADV	_	_	6	advmod	_	_
+2	ਵੀ	_	PART	_	_	1	discourse	_	_
+3	ਅਸੀਂ	_	DET	_	_	4	det	_	_
+4	ਭੈਣਾਂ	_	NOUN	_	_	6	advcl	_	_
+5	ਬਣਕੇ	_	VERB	_	_	4	cop	_	_
+6	ਰਹੀਆਂ	_	VERB	_	_	0	root	_	_
+7	ਸੀ	_	AUX	_	_	6	aux	_	_
+8	ਤੇ	_	CCONJ	_	_	13	cc	_	_
+9	ਹੁਣ	_	ADV	_	_	13	advmod	_	_
+10	ਵੀ	_	PART	_	_	9	discourse	_	_
+11	ਇਸੇ	_	DET	_	_	12	det	_	_
+12	ਤਰ੍ਹਾਂ	_	NOUN	_	_	13	obl	_	_
+13	ਰਹਾਂਗੀਆਂ	_	VERB	_	_	6	conj	_	_
+14	।	_	PUNCT	_	_	6	punct	_	_
+15	''	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = bbc_india-46717270_34
+# text = ਦੋਵੇਂ ਭਰਾ ਚੋਣ ਹਾਰੇ
+1	ਦੋਵੇਂ	_	DET	_	_	2	det	_	_
+2	ਭਰਾ	_	NOUN	_	_	4	nsubj	_	_
+3	ਚੋਣ	_	NOUN	_	_	4	obj	_	_
+4	ਹਾਰੇ	_	VERB	_	_	0	root	_	_
+
+# sent_id = bbc_india-46717270_35
+# text = ਜਲੰਧਰ ਦੇ ਹੀ ਬੁੱਢਿਆਣਾ ਵਿੱਚ ਦੋ ਸਕੇ ਭਰਾ ਆਹਮੋ-ਸਾਹਮਣੇ ਖੜ੍ਹੇ ਸਨ।
+1	ਜਲੰਧਰ	_	PROPN	_	_	4	nmod	_	_
+2	ਦੇ	_	ADP	_	_	1	case	_	_
+3	ਹੀ	_	PART	_	_	1	discourse	_	_
+4	ਬੁੱਢਿਆਣਾ	_	PROPN	_	_	12	obl:lmod	_	_
+5	ਵਿੱਚ	_	ADP	_	_	4	case	_	_
+6	ਦੋ	_	NUM	_	_	8	nummod	_	_
+7	ਸਕੇ	_	ADJ	_	_	8	amod	_	_
+8	ਭਰਾ	_	NOUN	_	_	12	nsubj	_	_
+9	ਆਹਮੋ	_	ADV	_	_	11	compound:redup	_	_
+10	-	_	PUNCT	_	_	11	punct	_	_
+11	ਸਾਹਮਣੇ	_	ADV	_	_	12	advmod	_	_
+12	ਖੜ੍ਹੇ	_	ADJ	_	_	0	root	_	_
+13	ਸਨ	_	AUX	_	_	12	cop	_	_
+14	।	_	PUNCT	_	_	12	punct	_	_
+
+# sent_id = bbc_india-46717270_36
+# text = ਚੋਣ ਵਿੱਚ ਦੋਵੇਂ ਭਰਾਵਾਂ ਨੂੰ ਹਾਰ ਦਾ ਮੂੰਹ ਦੇਖਣਾ ਪਿਆ।
+1	ਚੋਣ	_	NOUN	_	_	10	obl	_	_
+2	ਵਿੱਚ	_	ADP	_	_	1	case	_	_
+3	ਦੋਵੇਂ	_	DET	_	_	4	det	_	_
+4	ਭਰਾਵਾਂ	_	NOUN	_	_	10	nsubj:dat	_	_
+5	ਨੂੰ	_	ADP	_	_	4	case	_	_
+6	ਹਾਰ	_	NOUN	_	_	8	nmod	_	_
+7	ਦਾ	_	ADP	_	_	6	case	_	_
+8	ਮੂੰਹ	_	NOUN	_	_	9	obj	_	_
+9	ਦੇਖਣਾ	_	VERB	_	_	10	xcomp	_	_
+10	ਪਿਆ	_	VERB	_	_	0	root	_	_
+11	।	_	PUNCT	_	_	10	punct	_	_
+
+# sent_id = bbc_india-46717270_37
+# text = ਇੱਕ ਭਰਾ ਸਤਪਾਲ 170 ਵੋਟਾਂ ਲੈ ਕੇ ਦੂਜੇ ਨੰਬਰ 'ਤੇ ਰਹੇ ਹਨ ਜਦਕਿ ਉਨ੍ਹਾਂ ਦੇ ਵੱਡੇ ਭਰਾ ਨੂੰ ਸਿਰਫ 70 ਵੋਟਾਂ ਹੀ ਪਈਆਂ ਹਨ।
+1	ਇੱਕ	_	NUM	_	_	2	nummod	_	_
+2	ਭਰਾ	_	NOUN	_	_	9	nsubj	_	_
+3	ਸਤਪਾਲ	_	PROPN	_	_	2	appos	_	_
+4	170	_	NUM	_	_	5	nummod	_	_
+5	ਵੋਟਾਂ	_	NOUN	_	_	6	obj	_	_
+6	ਲੈ	_	VERB	_	_	9	advcl	_	_
+7	ਕੇ	_	AUX	_	_	6	aux	_	_
+8	ਦੂਜੇ	_	DET	_	_	9	det	_	_
+9	ਨੰਬਰ	_	NOUN	_	_	0	root	_	_
+10	'ਤੇ	_	ADP	_	_	9	case	_	_
+11	ਰਹੇ	_	AUX	_	_	9	cop	_	_
+12	ਹਨ	_	AUX	_	_	9	aux	_	_
+13	ਜਦਕਿ	_	SCONJ	_	_	23	mark	_	_
+14	ਉਨ੍ਹਾਂ	_	PROPN	_	_	17	nmod	_	_
+15	ਦੇ	_	ADP	_	_	14	case	_	_
+16	ਵੱਡੇ	_	ADJ	_	_	17	amod	_	_
+17	ਭਰਾ	_	NOUN	_	_	23	nsubj:dat	_	_
+18	ਨੂੰ	_	ADP	_	_	17	case	_	_
+19	ਸਿਰਫ	_	ADV	_	_	20	advmod	_	_
+20	70	_	NUM	_	_	21	nummod	_	_
+21	ਵੋਟਾਂ	_	NOUN	_	_	23	obj	_	_
+22	ਹੀ	_	PART	_	_	21	discourse	_	_
+23	ਪਈਆਂ	_	VERB	_	_	9	advcl	_	_
+24	ਹਨ	_	AUX	_	_	23	aux	_	_
+25	।	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = bbc_india-46717270_38
+# text = ਇਸ ਪਿੰਡ 'ਚ ਇਨ੍ਹਾਂ ਦੋ ਭਰਾ ਤੋਂ ਇਲਾਵਾ ਦੋ ਹੋਰ ਉਮੀਦਵਾਰ ਸਨ ਜਿਨ੍ਹਾਂ ਵਿੱਚ ਹਰਮੇਸ਼ ਲਾਲ 570 ਵੋਟਾਂ ਲੈ ਕੇ ਸਰਪੰਚੀ ਦੀ ਚੋਣ ਜਿੱਤ ਗਏ ਤੇ ਇੱਕ ਹੋਰ ਉਮੀਦਵਾਰ ਹਰਬੰਸ ਲਾਲ ਨੂੰ 130 ਵੋਟਾਂ ਹੀ ਪਈਆਂ।
+1	ਇਸ	_	DET	_	_	2	det	_	_
+2	ਪਿੰਡ	_	NOUN	_	_	12	obl:lmod	_	_
+3	'ਚ	_	ADP	_	_	2	case	_	_
+4	ਇਨ੍ਹਾਂ	_	DET	_	_	6	det	_	_
+5	ਦੋ	_	NUM	_	_	6	nummod	_	_
+6	ਭਰਾ	_	NOUN	_	_	12	obl	_	_
+7	ਤੋਂ	_	ADP	_	_	6	case	_	_
+8	ਇਲਾਵਾ	_	ADP	_	_	7	fixed	_	_
+9	ਦੋ	_	NUM	_	_	11	nummod	_	_
+10	ਹੋਰ	_	DET	_	_	11	det	_	_
+11	ਉਮੀਦਵਾਰ	_	NOUN	_	_	12	nsubj	_	_
+12	ਸਨ	_	VERB	_	_	0	root	_	_
+13	ਜਿਨ੍ਹਾਂ	_	PRON	_	_	24	obl	_	_
+14	ਵਿੱਚ	_	ADP	_	_	13	case	_	_
+15	ਹਰਮੇਸ਼	_	PROPN	_	_	24	nsubj	_	_
+16	ਲਾਲ	_	PROPN	_	_	15	flat	_	_
+17	570	_	NUM	_	_	18	nummod	_	_
+18	ਵੋਟਾਂ	_	NOUN	_	_	19	obj	_	_
+19	ਲੈ	_	VERB	_	_	24	advcl	_	_
+20	ਕੇ	_	AUX	_	_	19	aux	_	_
+21	ਸਰਪੰਚੀ	_	NOUN	_	_	23	nmod	_	_
+22	ਦੀ	_	ADP	_	_	21	case	_	_
+23	ਚੋਣ	_	NOUN	_	_	24	obj	_	_
+24	ਜਿੱਤ	_	VERB	_	_	11	acl:relcl	_	_
+25	ਗਏ	_	VERB	_	_	24	compound:svc	_	_
+26	ਤੇ	_	CCONJ	_	_	36	cc	_	_
+27	ਇੱਕ	_	NUM	_	_	29	nummod	_	_
+28	ਹੋਰ	_	DET	_	_	29	det	_	_
+29	ਉਮੀਦਵਾਰ	_	NOUN	_	_	36	nsubj:dat	_	_
+30	ਹਰਬੰਸ	_	PROPN	_	_	29	appos	_	_
+31	ਲਾਲ	_	PROPN	_	_	30	flat	_	_
+32	ਨੂੰ	_	ADP	_	_	29	case	_	_
+33	130	_	NUM	_	_	34	nummod	_	_
+34	ਵੋਟਾਂ	_	NOUN	_	_	36	obj	_	_
+35	ਹੀ	_	PART	_	_	34	discourse	_	_
+36	ਪਈਆਂ	_	VERB	_	_	24	conj	_	_
+37	।	_	PUNCT	_	_	12	punct	_	_
