@@ -2357,8 +2357,8 @@
 # sent_id = bbc_india-46717270_20
 # text = ਹਾਲਾਂਕਿ ਸੱਸ ਬਿਮਲਾ ਦੇਵੀ ਨੂੰਹ ਹੱਥੋਂ ਹੋਈ ਹਾਰ ਕਾਰਨ ਮਾਯੂਸ ਸੀ ਪਰ ਸਾਬਕਾ ਸਰਪੰਚ ਰਾਮਪਾਲ ਦੇ ਕਹਿਣ 'ਤੇ ਉਨ੍ਹਾਂ ਨੇ ਆਪਣੀ ਨੂੰਹ ਦਾ ਤੇਲ ਚੋਅ ਕੇ ਸਵਾਗਤ ਕੀਤਾ।
 1	ਹਾਲਾਂਕਿ	_	SCONJ	_	_	10	mark	_	_
-2	ਸੱਸ	_	NOUN	_	_	3	nmod:desc	_	_
-3	ਬਿਮਲਾ	_	PROPN	_	_	10	nsubj	_	_
+2	ਸੱਸ	_	NOUN	_	_	10	nsubj	_	_
+3	ਬਿਮਲਾ	_	PROPN	_	_	2	appos	_	_
 4	ਦੇਵੀ	_	PROPN	_	_	3	flat	_	_
 5	ਨੂੰਹ	_	NOUN	_	_	6	nmod	_	_
 6	ਹੱਥੋਂ	_	NOUN	_	_	7	obl	_	_
@@ -2369,9 +2369,9 @@
 11	ਸੀ	_	AUX	_	_	10	cop	_	_
 12	ਪਰ	_	CCONJ	_	_	28	cc	_	_
 13	ਸਾਬਕਾ	_	ADJ	_	_	14	amod	_	_
-14	ਸਰਪੰਚ	_	NOUN	_	_	15	nmod:desc	_	_
-15	ਰਾਮਪਾਲ	_	PROPN	_	_	17	nmod	_	_
-16	ਦੇ	_	ADP	_	_	15	case	_	_
+14	ਸਰਪੰਚ	_	NOUN	_	_	17	nmod	_	_
+15	ਰਾਮਪਾਲ	_	PROPN	_	_	14	appos	_	_
+16	ਦੇ	_	ADP	_	_	14	case	_	_
 17	ਕਹਿਣ	_	VERB	_	_	28	obl	_	_
 18	'ਤੇ	_	ADP	_	_	17	case	_	_
 19	ਉਨ੍ਹਾਂ	_	PRON	_	_	28	nsubj	_	_
@@ -2399,10 +2399,10 @@
 9	ਹਾਰ	_	VERB	_	_	23	obl	_	_
 10	ਜਾਣ	_	VERB	_	_	9	compound:svc	_	_
 11	ਕਾਰਨ	_	ADP	_	_	9	case	_	_
-12	ਨੂੰਹ	_	NOUN	_	_	13	nmod:desc	_	_
-13	ਕਮਲਜੀਤ	_	PROPN	_	_	23	nsubj	_	_
+12	ਨੂੰਹ	_	NOUN	_	_	23	nsubj	_	_
+13	ਕਮਲਜੀਤ	_	PROPN	_	_	12	appos	_	_
 14	ਕੌਰ	_	PROPN	_	_	13	flat	_	_
-15	ਨੇ	_	ADP	_	_	13	case	_	_
+15	ਨੇ	_	ADP	_	_	12	case	_	_
 16	ਆਪਣੇ	_	PRON	_	_	17	nmod	_	_
 17	ਸਮਰਥਕਾਂ	_	NOUN	_	_	23	obj	_	_
 18	ਨੂੰ	_	ADP	_	_	17	case	_	_
@@ -2432,12 +2432,12 @@
 13	ਤੋਂ	_	ADP	_	_	12	case	_	_
 14	ਬਾਅਦ	_	ADP	_	_	13	fixed	_	_
 15	ਵੀ	_	PART	_	_	12	discourse	_	_
-16	ਸੱਸ	_	NOUN	_	_	17	nmod:desc	_	_
-17	ਬਿਮਲਾ	_	PROPN	_	_	23	obl	_	_
+16	ਸੱਸ	_	NOUN	_	_	23	obl	_	_
+17	ਬਿਮਲਾ	_	PROPN	_	_	16	appos	_	_
 18	ਦੇਵੀ	_	PROPN	_	_	17	flat	_	_
-19	ਵੱਲੋਂ	_	ADP	_	_	17	case	_	_
-20	ਨੂੰਹ	_	NOUN	_	_	21	nmod:desc	_	_
-21	ਕਮਲਜੀਤ	_	PROPN	_	_	23	obl	_	_
+19	ਵੱਲੋਂ	_	ADP	_	_	16	case	_	_
+20	ਨੂੰਹ	_	NOUN	_	_	23	obl	_	_
+21	ਕਮਲਜੀਤ	_	PROPN	_	_	20	appos	_	_
 22	ਨੂੰ	_	ADP	_	_	21	case	_	_
 23	ਦਿੱਤੇ	_	VERB	_	_	24	acl	_	_
 24	ਅਸ਼ੀਰਵਾਦ	_	NOUN	_	_	31	obl	_	_
@@ -2465,9 +2465,9 @@
 # text = ਜਲੰਧਰ ਦੇ ਪਿੰਡ ਪਤਾਰਾ ਵਿੱਚ ਵਾਰਡ ਨੰਬਰ 4 ਤੋਂ ਪੰਚੀ ਦੀ ਚੋਣ ਲਈ ਦਰਾਣੀਆਂ-ਜਠਾਣੀਆਂ ਆਹਮੋ-ਸਾਹਮਣੇ ਸਨ।
 1	ਜਲੰਧਰ	_	PROPN	_	_	3	nmod	_	_
 2	ਦੇ	_	ADP	_	_	1	case	_	_
-3	ਪਿੰਡ	_	NOUN	_	_	4	nmod:desc	_	_
-4	ਪਤਾਰਾ	_	PROPN	_	_	6	nmod	_	_
-5	ਵਿੱਚ	_	ADP	_	_	4	case	_	_
+3	ਪਿੰਡ	_	NOUN	_	_	6	nmod	_	_
+4	ਪਤਾਰਾ	_	PROPN	_	_	3	appos	_	_
+5	ਵਿੱਚ	_	ADP	_	_	3	case	_	_
 6	ਵਾਰਡ	_	NOUN	_	_	19	obl:lmod	_	_
 7	ਨੰਬਰ	_	NOUN	_	_	8	compound	_	_
 8	4	_	NUM	_	_	6	nummod	_	_
@@ -2532,10 +2532,10 @@
 
 # sent_id = bbc_india-46717270_28
 # text = ਜੇਠਾਣੀ ਸੁਖਵਿੰਦਰ ਕੌਰ ਨੇ ਚੋਣਾਂ ਵਿੱਚ 105 ਵੋਟਾਂ ਲੈ ਕੇ ਆਪਣੀ ਦਰਾਣੀ ਸਰਬਜੀਤ ਕੌਰ ਨੂੰ ਹਰਾਇਆ।
-1	ਜੇਠਾਣੀ	_	NOUN	_	_	2	nmod:desc	_	_
-2	ਸੁਖਵਿੰਦਰ	_	PROPN	_	_	16	nsubj	_	_
+1	ਜੇਠਾਣੀ	_	NOUN	_	_	16	nsubj	_	_
+2	ਸੁਖਵਿੰਦਰ	_	PROPN	_	_	1	appos	_	_
 3	ਕੌਰ	_	PROPN	_	_	2	flat	_	_
-4	ਨੇ	_	ADP	_	_	2	case	_	_
+4	ਨੇ	_	ADP	_	_	1	case	_	_
 5	ਚੋਣਾਂ	_	NOUN	_	_	8	nmod	_	_
 6	ਵਿੱਚ	_	ADP	_	_	5	case	_	_
 7	105	_	NUM	_	_	8	nummod	_	_
@@ -2543,10 +2543,10 @@
 9	ਲੈ	_	VERB	_	_	16	advcl	_	_
 10	ਕੇ	_	AUX	_	_	9	aux	_	_
 11	ਆਪਣੀ	_	PRON	_	_	12	nmod	_	_
-12	ਦਰਾਣੀ	_	NOUN	_	_	13	nmod:desc	_	_
-13	ਸਰਬਜੀਤ	_	PROPN	_	_	16	obj	_	_
+12	ਦਰਾਣੀ	_	NOUN	_	_	16	obl	_	_
+13	ਸਰਬਜੀਤ	_	PROPN	_	_	12	appos	_	_
 14	ਕੌਰ	_	PROPN	_	_	13	flat	_	_
-15	ਨੂੰ	_	ADP	_	_	13	flat	_	_
+15	ਨੂੰ	_	ADP	_	_	12	case	_	_
 16	ਹਰਾਇਆ	_	VERB	_	_	0	root	_	_
 17	।	_	PUNCT	_	_	16	punct	_	_
 
@@ -2733,3 +2733,165 @@
 35	ਹੀ	_	PART	_	_	34	discourse	_	_
 36	ਪਈਆਂ	_	VERB	_	_	24	conj	_	_
 37	।	_	PUNCT	_	_	12	punct	_	_
+
+# sent_id = bbc_india-42526961_1
+# url = https://www.bbc.com/punjabi/india-42526961
+# text = ਰਜਨੀਕਾਂਤ : ਬੱਸ ਕੰਡਕਟਰ ਤੋਂ ਸਟਾਰ ਬਣੇ ਅਦਾਕਾਰ ਬਾਰੇ 11 ਖ਼ਾਸ ਗੱਲਾਂ
+1	ਰਜਨੀਕਾਂਤ	_	PROPN	_	_	0	root	_	_
+2	:	_	PUNCT	_	_	1	punct	_	_
+3	ਬੱਸ	_	NOUN	_	_	4	compound	_	_
+4	ਕੰਡਕਟਰ	_	NOUN	_	_	7	obl	_	_
+5	ਤੋਂ	_	ADP	_	_	4	case	_	_
+6	ਸਟਾਰ	_	NOUN	_	_	7	ccomp	_	_
+7	ਬਣੇ	_	VERB	_	_	8	acl	_	_
+8	ਅਦਾਕਾਰ	_	NOUN	_	_	12	nmod	_	_
+9	ਬਾਰੇ	_	ADP	_	_	8	case	_	_
+10	11	_	NUM	_	_	12	nummod	_	_
+11	ਖ਼ਾਸ	_	ADJ	_	_	12	amod	_	_
+12	ਗੱਲਾਂ	_	NOUN	_	_	1	parataxis	_	_
+
+# sent_id = bbc_india-42526961_2
+# text = ਦੱਖਣੀ ਭਾਰਤ ਦੇ ਮਕਬੂਲ ਅਦਾਕਾਰ ਤੇ ਫ਼ਿਲਮ ਨਿਰਮਾਤਾ ਰਜਨੀਕਾਂਤ ਨੇ ਸਿਆਸਤ ਵਿੱਚ ਆਉਣ ਦਾ ਐਲਾਨ ਕਰ ਦਿੱਤਾ ਹੈ।
+1	ਦੱਖਣੀ	_	ADJ	_	_	2	amod	_	_
+2	ਭਾਰਤ	_	NOUN	_	_	5	nmod	_	_
+3	ਦੇ	_	ADP	_	_	2	case	_	_
+4	ਮਕਬੂਲ	_	ADJ	_	_	5	amod	_	_
+5	ਅਦਾਕਾਰ	_	NOUN	_	_	16	nsubj	_	_
+6	ਤੇ	_	CCONJ	_	_	8	cc	_	_
+7	ਫ਼ਿਲਮ	_	NOUN	_	_	8	compound	_	_
+8	ਨਿਰਮਾਤਾ	_	NOUN	_	_	5	conj	_	_
+9	ਰਜਨੀਕਾਂਤ	_	PROPN	_	_	5	appos	_	_
+10	ਨੇ	_	ADP	_	_	5	case	_	_
+11	ਸਿਆਸਤ	_	NOUN	_	_	13	obl	_	_
+12	ਵਿੱਚ	_	ADP	_	_	11	case	_	_
+13	ਆਉਣ	_	VERB	_	_	15	acl	_	_
+14	ਦਾ	_	ADP	_	_	13	mark	_	_
+15	ਐਲਾਨ	_	NOUN	_	_	16	compound:lvc	_	_
+16	ਕਰ	_	VERB	_	_	0	root	_	_
+17	ਦਿੱਤਾ	_	VERB	_	_	16	compound:svc	_	_
+18	ਹੈ	_	VERB	_	_	16	aux	_	_
+19	।	_	PUNCT	_	_	16	punct	_	_
+
+# sent_id = bbc_india-42526961_3
+# text = ਉਨ੍ਹਾਂ ਕਿਹਾ ਕਿ ਉਹ ਤਮਿਲਨਾਡੂ 'ਚ ਹੋਣ ਵਾਲੀਆਂ ਅਗਲੀਆਂ ਵਿਧਾਨ ਸਭਾ ਚੋਣਾਂ ਲੜਨਗੇ ਅਤੇ ਇਸ ਲਈ ਉਨ੍ਹਾਂ ਨੇ ਆਪਣੀ ਵੱਖਰੀ ਪਾਰਟੀ ਬਣਾਉਣ ਦਾ ਐਲਾਨ ਕੀਤਾ ਹੈ।
+1	ਉਨ੍ਹਾਂ	_	PRON	_	_	2	nsubj	_	_
+2	ਕਿਹਾ	_	VERB	_	_	0	root	_	_
+3	ਕਿ	_	SCONJ	_	_	13	mark	_	_
+4	ਉਹ	_	PRON	_	_	13	nsubj	_	_
+5	ਤਮਿਲਨਾਡੂ	_	PRON	_	_	7	obl:lmod	_	_
+6	'ਚ	_	ADP	_	_	5	case	_	_
+7	ਹੋਣ	_	VERB	_	_	10	acl	_	_
+8	ਵਾਲੀਆਂ	_	AUX	_	_	7	aux	_	_
+9	ਅਗਲੀਆਂ	_	ADJ	_	_	10	amod	_	_
+10	ਵਿਧਾਨ	_	PROPN	_	_	11	compound	_	_
+11	ਸਭਾ	_	PROPN	_	_	12	compound	_	_
+12	ਚੋਣਾਂ	_	NOUN	_	_	13	obj	_	_
+13	ਲੜਨਗੇ	_	VERB	_	_	2	ccomp	_	_
+14	ਅਤੇ	_	CCONJ	_	_	25	cc	_	_
+15	ਇਸ	_	PRON	_	_	25	obl	_	_
+16	ਲਈ	_	ADP	_	_	15	case	_	_
+17	ਉਨ੍ਹਾਂ	_	PRON	_	_	25	nsubj	_	_
+18	ਨੇ	_	ADP	_	_	17	case	_	_
+19	ਆਪਣੀ	_	PROPN	_	_	21	nmod	_	_
+20	ਵੱਖਰੀ	_	DET	_	_	21	det	_	_
+21	ਪਾਰਟੀ	_	NOUN	_	_	22	obj	_	_
+22	ਬਣਾਉਣ	_	VERB	_	_	24	acl	_	_
+23	ਦਾ	_	ADP	_	_	22	mark	_	_
+24	ਐਲਾਨ	_	NOUN	_	_	25	compound:lvc	_	_
+25	ਕੀਤਾ	_	VERB	_	_	13	conj	_	_
+26	ਹੈ	_	AUX	_	_	25	aux	_	_
+27	।	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bbc_india-42526961_4
+# text = ਰਜਨੀਕਾਂਤ ਨੇ ਕਿਹਾ, 'ਉਹ ਬੁਜ਼ਦਿਲ ਨਹੀਂ ਹਨ, ਇਸ ਲਈ ਪਿੱਛੇ ਨਹੀਂ ਹਟਣਗੇ।'
+1	ਰਜਨੀਕਾਂਤ	_	PROPN	_	_	3	nsubj	_	_
+2	ਨੇ	_	ADP	_	_	1	case	_	_
+3	ਕਿਹਾ	_	VERB	_	_	0	root	_	_
+4	,	_	PUNCT	_	_	3	punct	_	_
+5	'	_	PUNCT	_	_	7	punct	_	_
+6	ਉਹ	_	PRON	_	_	7	nsubj	_	_
+7	ਬੁਜ਼ਦਿਲ	_	ADJ	_	_	3	ccomp	_	_
+8	ਨਹੀਂ	_	ADV	_	_	7	advmod	_	_
+9	ਹਨ	_	AUX	_	_	7	cop	_	_
+10	,	_	PUNCT	_	_	15	punct	_	_
+11	ਇਸ	_	PRON	_	_	15	obl	_	_
+12	ਲਈ	_	ADP	_	_	11	case	_	_
+13	ਪਿੱਛੇ	_	ADV	_	_	15	advmod	_	_
+14	ਨਹੀਂ	_	ADV	_	_	15	advmod	_	_
+15	ਹਟਣਗੇ	_	VERB	_	_	7	parataxis	_	_
+16	।	_	PUNCT	_	_	7	punct	_	_
+17	'	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = bbc_india-42526961_5
+# text = ਤਮਿਲਨਾਡੂ ਦੀ ਰਾਜਧਾਨੀ ਚੇਨੱਈ ਦੇ ਰਾਘਵੇਂਦਰ ਕਲਿਆਣ ਮੰਡਪ 'ਚ 67 ਸਾਲ ਦੇ ਰਜਨੀਕਾਂਤ ਨੇ ਕਿਹਾ, "ਸੂਬੇ ਦੀਆਂ ਅਗਲੀਆਂ ਵਿਧਾਨ ਸਭਾ ਚੋਣਾਂ ਲਈ ਨਵੀਂ ਪਾਰਟੀ ਬਣਾਉਣਾ ਵਕਤ ਦਾ ਤਕਾਜ਼ਾ ਹੈ।
+1	ਤਮਿਲਨਾਡੂ	_	PROPN	_	_	3	nmod	_	_
+2	ਦੀ	_	ADP	_	_	1	case	_	_
+3	ਰਾਜਧਾਨੀ	_	NOUN	_	_	6	nmod	_	_
+4	ਚੇਨੱਈ	_	PROPN	_	_	3	appos	_	_
+5	ਦੇ	_	ADP	_	_	3	case	_	_
+6	ਰਾਘਵੇਂਦਰ	_	PROPN	_	_	15	obl:lmod	_	_
+7	ਕਲਿਆਣ	_	PROPN	_	_	6	flat	_	_
+8	ਮੰਡਪ	_	PROPN	_	_	6	flat	_	_
+9	'ਚ	_	ADP	_	_	6	case	_	_
+10	67	_	NUM	_	_	11	nummod	_	_
+11	ਸਾਲ	_	NOUN	_	_	13	nmod	_	_
+12	ਦੇ	_	ADP	_	_	11	case	_	_
+13	ਰਜਨੀਕਾਂਤ	_	NOUN	_	_	15	nsubj	_	_
+14	ਨੇ	_	ADP	_	_	13	case	_	_
+15	ਕਿਹਾ	_	VERB	_	_	0	root	_	_
+16	,	_	PUNCT	_	_	15	punct	_	_
+17	"	_	PUNCT	_	_	30	punct	_	_
+18	ਸੂਬੇ	_	NOUN	_	_	23	nmod	_	_
+19	ਦੀਆਂ	_	ADP	_	_	18	case	_	_
+20	ਅਗਲੀਆਂ	_	ADJ	_	_	23	amod	_	_
+21	ਵਿਧਾਨ	_	PROPN	_	_	22	compound	_	_
+22	ਸਭਾ	_	PROPN	_	_	23	compound	_	_
+23	ਚੋਣਾਂ	_	NOUN	_	_	27	obl	_	_
+24	ਲਈ	_	ADP	_	_	23	case	_	_
+25	ਨਵੀਂ	_	ADJ	_	_	26	amod	_	_
+26	ਪਾਰਟੀ	_	NOUN	_	_	27	obj	_	_
+27	ਬਣਾਉਣਾ	_	VERB	_	_	30	csubj	_	_
+28	ਵਕਤ	_	NOUN	_	_	30	nmod	_	_
+29	ਦਾ	_	ADP	_	_	28	case	_	_
+30	ਤਕਾਜ਼ਾ	_	NOUN	_	_	15	ccomp	_	_
+31	ਹੈ	_	AUX	_	_	30	cop	_	_
+32	।	_	PUNCT	_	_	15	punct	_	_
+
+# sent_id = bbc_india-42526961_6
+# text = ਅਸੀਂ 2021 'ਚ ਤਮਿਲਨਾਡੂ ਦੀਆਂ ਸਾਰੀਆਂ 234 ਸੀਟਾਂ 'ਤੇ ਚੋਣ ਲੜਾਂਗੇ।"
+1	ਅਸੀਂ	_	PRON	_	_	11	nsubj	_	_
+2	2021	_	NUM	_	_	11	obl:tmod	_	_
+3	'ਚ	_	ADP	_	_	2	case	_	_
+4	ਤਮਿਲਨਾਡੂ	_	PROPN	_	_	8	nmod	_	_
+5	ਦੀਆਂ	_	ADP	_	_	4	case	_	_
+6	ਸਾਰੀਆਂ	_	DET	_	_	8	det	_	_
+7	234	_	NUM	_	_	8	nummod	_	_
+8	ਸੀਟਾਂ	_	NOUN	_	_	11	obl	_	_
+9	'ਤੇ	_	ADP	_	_	8	ccomp	_	_
+10	ਚੋਣ	_	NOUN	_	_	11	obj	_	_
+11	ਲੜਾਂਗੇ	_	VERB	_	_	0	root	_	_
+12	।	_	PUNCT	_	_	11	punct	_	_
+13	"	_	PUNCT	_	_	11	punct	_	_
+
+# sent_id = bbc_india-42526961_7
+# text = ਰਜਨੀਕਾਂਤ ਦੇ ਐਲਾਨ ਤੋਂ ਬਾਅਦ ਉਨ੍ਹਾਂ ਨੂੰ ਉਨ੍ਹਾਂ ਦੇ ਫੈਨਸ ਤੋਂ ਇਲਾਵਾ ਪੂਰੀ ਦੁਨੀਆਂ ਤੋਂ ਸ਼ੁੱਭਇਛਾਵਾਂ ਮਿਲ ਰਹੀਆਂ ਹਨ।
+1	ਰਜਨੀਕਾਂਤ	_	PROPN	_	_	3	nmod	_	_
+2	ਦੇ	_	ADP	_	_	1	case	_	_
+3	ਐਲਾਨ	_	NOUN	_	_	17	obl:tmod	_	_
+4	ਤੋਂ	_	ADP	_	_	3	case	_	_
+5	ਬਾਅਦ	_	ADP	_	_	4	fixed	_	_
+6	ਉਨ੍ਹਾਂ	_	PRON	_	_	17	nsubj:dat	_	_
+7	ਨੂੰ	_	ADP	_	_	6	case	_	_
+8	ਉਨ੍ਹਾਂ	_	PRON	_	_	10	nmod	_	_
+9	ਦੇ	_	ADP	_	_	8	case	_	_
+10	ਫੈਨਸ	_	NOUN	_	_	14	nmod	_	_
+11	ਤੋਂ	_	ADP	_	_	10	case	_	_
+12	ਇਲਾਵਾ	_	ADP	_	_	11	fixed	_	_
+13	ਪੂਰੀ	_	ADJ	_	_	14	amod	_	_
+14	ਦੁਨੀਆਂ	_	NOUN	_	_	17	obl	_	_
+15	ਤੋਂ	_	ADP	_	_	14	case	_	_
+16	ਸ਼ੁੱਭਇਛਾਵਾਂ	_	NOUN	_	_	17	obj	_	_
+17	ਮਿਲ	_	VERB	_	_	0	root	_	_
+18	ਰਹੀਆਂ	_	AUX	_	_	17	aux	_	_
+19	ਹਨ	_	AUX	_	_	17	aux	_	_
+20	।	_	PUNCT	_	_	17	punct	_	_
