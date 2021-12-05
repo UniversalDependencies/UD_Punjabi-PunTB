@@ -453,7 +453,7 @@
 9	ਜ਼ਿੰਗ	_	X	_	_	8	fixed	_	_
 10	,	_	PUNCT	_	_	11	punct	_	_
 11	ਪ੍ਰਮੁੱਖ	_	ADJ	_	_	0	root	_	_
-12	ਹਨ	_	VERB	_	_	11	cop	_	_
+12	ਹਨ	_	AUX	_	_	11	cop	_	_
 13	.	_	PUNCT	_	_	11	punct	_	_
 
 # sent_id = indiccorp_23
@@ -780,7 +780,7 @@
 31	ਕੋਈ	_	DET	_	_	32	det	_	_
 32	ਗ਼ਲਤੀ	_	NOUN	_	_	29	nsubj	_	_
 33	ਨਹੀ	_	ADV	_	_	34	advmod	_	_
-34	ਹੈ	_	VERB	_	_	29	cop	_	_
+34	ਹੈ	_	AUX	_	_	29	cop	_	_
 35	।	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = indiccorp_36
@@ -802,7 +802,7 @@
 15	ਗੁੱਡ	_	PROPN	_	_	13	appos	_	_
 16	ਨਿਊਜ਼	_	PROPN	_	_	15	flat	_	_
 17	'	_	PUNCT	_	_	15	punct	_	_
-18	ਹੈ	_	VERB	_	_	7	cop	_	_
+18	ਹੈ	_	AUX	_	_	7	cop	_	_
 19	।	_	PUNCT	_	_	7	punct	_	_
 
 # sent_id = indiccorp_38
@@ -982,7 +982,7 @@
 11	ਧਰਮ	_	NOUN	_	_	13	nmod	_	_
 12	ਦੀ	_	ADP	_	_	11	case	_	_
 13	ਹੋਂਦ	_	NOUN	_	_	8	nsubj	_	_
-14	ਹੈ	_	VERB	_	_	8	cop	_	_
+14	ਹੈ	_	AUX	_	_	8	cop	_	_
 15	ਤਾਂ	_	ADV	_	_	16	advcl	_	_
 16	ਉਸ	_	PRON	_	_	4	ccomp	_	_
 17	ਪਿੱਛੇ	_	ADP	_	_	16	case	_	_
@@ -1236,7 +1236,7 @@
 45	ਦੇਸ਼ਾਂ	_	NOUN	_	_	47	obl	_	_
 46	ਨਾਲੋਂ	_	ADP	_	_	45	case	_	_
 47	ਅੱਧੀ	_	ADJ	_	_	13	acl:relcl	_	_
-48	ਹੈ	_	VERB	_	_	47	cop	_	_
+48	ਹੈ	_	AUX	_	_	47	cop	_	_
 49	।	_	PUNCT	_	_	6	punct	_	_
 
 # sent_id = flores_3
@@ -1516,7 +1516,7 @@
 9	2	_	NUM	_	_	11	nummod	_	_
 10	ਦਾ	_	ADP	_	_	9	case	_	_
 11	ਰਿਕਾਰਡ	_	NOUN	_	_	0	root	_	_
-12	ਹੈ	_	VERB	_	_	11	cop	_	_
+12	ਹੈ	_	AUX	_	_	11	cop	_	_
 13	।	_	PUNCT	_	_	11	punct	_	_
 
 # sent_id = flores_13
@@ -1580,7 +1580,7 @@
 19	ਵਾਪਸੀ	_	NOUN	_	_	21	obl	_	_
 20	ਲਈ	_	ADP	_	_	19	case	_	_
 21	ਉਤਸਾਹਿਤ	_	ADJ	_	_	9	ccomp	_	_
-22	ਹਾਂ	_	VERB	_	_	21	cop	_	_
+22	ਹਾਂ	_	AUX	_	_	21	cop	_	_
 23	।	_	PUNCT	_	_	21	punct	_	_
 
 # sent_id = flores_15_2
@@ -1623,7 +1623,7 @@
 17	ਇੱਕ	_	NUM	_	_	19	nummod	_	_
 18	ਛਤਰ	_	NOUN	_	_	19	compound	_	_
 19	ਸ਼ਬਦ	_	NOUN	_	_	0	root	_	_
-20	ਹੈ	_	VERB	_	_	19	cop	_	_
+20	ਹੈ	_	AUX	_	_	19	cop	_	_
 21	,	_	PUNCT	_	_	29	punct	_	_
 22	ਜੋ	_	PRON	_	_	29	nsubj	_	_
 23	2016	_	NUM	_	_	24	nmod	_	_
@@ -1860,7 +1860,7 @@
 9	ਦੇ	_	ADP	_	_	8	case	_	_
 10	ਐਲੈਕਸ	_	PROPN	_	_	0	root	_	_
 11	ਓਵੇਚਕਿਨ	_	PROPN	_	_	10	flat	_	_
-12	ਹੈ	_	VERB	_	_	10	cop	_	_
+12	ਹੈ	_	AUX	_	_	10	cop	_	_
 13	।	_	PUNCT	_	_	10	punct	_	_
 
 # sent_id = flores_25
@@ -2552,8 +2552,8 @@
 
 # sent_id = bbc_india-46717270_29
 # text = ਜੇਤੂ ਰਹੀ ਸੁਖਵਿੰਦਰ ਕੌਰ ਨੇ ਪਿੰਡ ਵਿੱਚ ਲੇਡੀਜ਼ ਜਿਮ ਬਣਾਉਣ ਦਾ ਵਾਅਦਾ ਕੀਤਾ ਸੀ।
-1	ਜੇਤੂ	_	ADJ	_	_	3	acl	_	_
-2	ਰਹੀ	_	VERB	_	_	1	cop	_	_
+1	ਜੇਤੂ	_	ADJ	_	_	2	ccomp	_	_
+2	ਰਹੀ	_	VERB	_	_	3	acl	_	_
 3	ਸੁਖਵਿੰਦਰ	_	PROPN	_	_	13	nsubj	_	_
 4	ਕੌਰ	_	PROPN	_	_	3	flat	_	_
 5	ਨੇ	_	ADP	_	_	3	case	_	_
@@ -2615,8 +2615,8 @@
 1	ਪਹਿਲਾਂ	_	ADV	_	_	6	advmod	_	_
 2	ਵੀ	_	PART	_	_	1	discourse	_	_
 3	ਅਸੀਂ	_	DET	_	_	4	det	_	_
-4	ਭੈਣਾਂ	_	NOUN	_	_	6	advcl	_	_
-5	ਬਣਕੇ	_	VERB	_	_	4	cop	_	_
+4	ਭੈਣਾਂ	_	NOUN	_	_	5	ccomp	_	_
+5	ਬਣਕੇ	_	VERB	_	_	6	advcl	_	_
 6	ਰਹੀਆਂ	_	VERB	_	_	0	root	_	_
 7	ਸੀ	_	AUX	_	_	6	aux	_	_
 8	ਤੇ	_	CCONJ	_	_	13	cc	_	_
@@ -2669,17 +2669,17 @@
 # sent_id = bbc_india-46717270_37
 # text = ਇੱਕ ਭਰਾ ਸਤਪਾਲ 170 ਵੋਟਾਂ ਲੈ ਕੇ ਦੂਜੇ ਨੰਬਰ 'ਤੇ ਰਹੇ ਹਨ ਜਦਕਿ ਉਨ੍ਹਾਂ ਦੇ ਵੱਡੇ ਭਰਾ ਨੂੰ ਸਿਰਫ 70 ਵੋਟਾਂ ਹੀ ਪਈਆਂ ਹਨ।
 1	ਇੱਕ	_	NUM	_	_	2	nummod	_	_
-2	ਭਰਾ	_	NOUN	_	_	9	nsubj	_	_
+2	ਭਰਾ	_	NOUN	_	_	11	nsubj	_	_
 3	ਸਤਪਾਲ	_	PROPN	_	_	2	appos	_	_
 4	170	_	NUM	_	_	5	nummod	_	_
 5	ਵੋਟਾਂ	_	NOUN	_	_	6	obj	_	_
-6	ਲੈ	_	VERB	_	_	9	advcl	_	_
+6	ਲੈ	_	VERB	_	_	11	advcl	_	_
 7	ਕੇ	_	AUX	_	_	6	aux	_	_
 8	ਦੂਜੇ	_	DET	_	_	9	det	_	_
-9	ਨੰਬਰ	_	NOUN	_	_	0	root	_	_
+9	ਨੰਬਰ	_	NOUN	_	_	11	ccomp	_	_
 10	'ਤੇ	_	ADP	_	_	9	case	_	_
-11	ਰਹੇ	_	AUX	_	_	9	cop	_	_
-12	ਹਨ	_	AUX	_	_	9	aux	_	_
+11	ਰਹੇ	_	VERB	_	_	0	root	_	_
+12	ਹਨ	_	AUX	_	_	11	aux	_	_
 13	ਜਦਕਿ	_	SCONJ	_	_	23	mark	_	_
 14	ਉਨ੍ਹਾਂ	_	PROPN	_	_	17	nmod	_	_
 15	ਦੇ	_	ADP	_	_	14	case	_	_
