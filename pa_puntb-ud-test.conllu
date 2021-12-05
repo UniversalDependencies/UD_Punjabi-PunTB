@@ -335,7 +335,7 @@
 4	ਕਿ	_	SCONJ	_	_	15	mark	_	_
 5	ਮੁੰਡੇ	_	NOUN	_	_	7	nmod	_	_
 6	ਦੀ	_	ADP	_	_	5	case	_	_
-7	ਪ੍ਰੇਮਿਕਾ	_	NOUN	_	_	15	obl	_	_
+7	ਪ੍ਰੇਮਿਕਾ	_	NOUN	_	_	15	nsubj:pass	_	_
 8	ਵਲੋਂ	_	ADP	_	_	7	case	_	_
 9	ਮੁੰਡੇ	_	NOUN	_	_	15	obl	_	_
 10	'ਤੇ	_	ADP	_	_	9	case	_	_
@@ -415,7 +415,7 @@
 16	ਦੀ	_	ADP	_	_	15	case	_	_
 17	ਹੱਡੀ	_	NOUN	_	_	18	nsubj	_	_
 18	ਟੁੱਟ	_	VERB	_	_	7	advcl	_	_
-19	ਗਈ	_	AUX	_	_	18	aux:pass	_	_
+19	ਗਈ	_	VERB	_	_	18	compound:svc	_	_
 20	।	_	PUNCT	_	_	11	punct	_	_
 
 # sent_id = indiccorp_19
@@ -553,7 +553,7 @@
 # sent_id = indiccorp_30_2
 # text = ਟੈਕਸੀ ਯੂਨੀਅਨ ਤੇ ਦੁਕਾਨਦਾਰਾਂ ਵਲੋਂ ਸਾਂਝੇ ਤੌਰ 'ਤੇ ਪਿੰਡ ਟੁੱਟ ਕਲਾਂ ਜਲੰਧਰ ਵਿਖੇ ਸਰਬੱਤ ਦੇ ਭਲੇ ਵਾਸਤੇ ਧਾਰਮਿਕ ਸਮਾਗਮ ਮਿਤੀ 21 ਸਤੰਬਰ ਨੰੂ ਬਹੁਤ ਹੀ ਸ਼ਰਧਾ ਭਾਵਨਾ ਨਾਲ ਮਨਾਇਆ ਜਾ ਰਿਹਾ ਹੈ |
 1	ਟੈਕਸੀ	_	NOUN	_	_	2	compound	_	_
-2	ਯੂਨੀਅਨ	_	NOUN	_	_	29	obl	_	_
+2	ਯੂਨੀਅਨ	_	NOUN	_	_	29	nsubj:pass	_	_
 3	ਤੇ	_	ADP	_	_	4	cc	_	_
 4	ਦੁਕਾਨਦਾਰਾਂ	_	NOUN	_	_	2	conj	_	_
 5	ਵਲੋਂ	_	ADP	_	_	2	case	_	_
@@ -1316,7 +1316,7 @@
 17	ਜਾਂਦਾ	_	VERB	_	_	19	advcl	_	_
 18	ਹੋਇਆ	_	AUX	_	_	17	aux	_	_
 19	ਪਲਟ	_	VERB	_	_	5	ccomp	_	_
-20	ਗਿਆ	_	AUX	_	_	19	aux:pass	_	_
+20	ਗਿਆ	_	VERB	_	_	19	compound:svc	_	_
 21	।	_	PUNCT	_	_	5	punct	_	_
 
 # sent_id = flores_6
@@ -1532,7 +1532,7 @@
 8	ਓਪਨ	_	PROPN	_	_	10	obl	_	_
 9	ਵਿੱਚ	_	ADP	_	_	8	case	_	_
 10	ਹਾਰ	_	VERB	_	_	0	root	_	_
-11	ਗਿਆ	_	AUX	_	_	10	aux:pass	_	_
+11	ਗਿਆ	_	VERB	_	_	10	compound:svc	_	_
 12	।	_	PUNCT	_	_	10	punct	_	_
 
 # sent_id = flores_14
@@ -1633,7 +1633,7 @@
 27	ਵਿੱਚ	_	ADP	_	_	26	case	_	_
 28	ਲੀਕ	_	NOUN	_	_	29	compound:lvc	_	_
 29	ਹੋ	_	VERB	_	_	15	acl:relcl	_	_
-30	ਗਿਆ	_	AUX	_	_	29	aux:pass	_	_
+30	ਗਿਆ	_	VERB	_	_	29	compound:svc	_	_
 31	ਸੀ	_	AUX	_	_	29	aux	_	_
 32	।	_	PUNCT	_	_	19	punct	_	_
 
@@ -1901,10 +1901,10 @@
 9	ਜੇਤੂ	_	ADJ	_	_	10	amod	_	_
 10	ਟੀਚੇ	_	NOUN	_	_	16	obl	_	_
 11	‘ਤੇ	_	ADP	_	_	10	case	_	_
-12	ਰੂਕੀ	_	NOUN	_	_	13	compound	_	_
-13	ਨਿਕਲਾਸ	_	PROPN	_	_	10	nmod	_	_
+12	ਰੂਕੀ	_	NOUN	_	_	16	nsubj:pass	_	_
+13	ਨਿਕਲਾਸ	_	PROPN	_	_	12	appos	_	_
 14	ਬੈਕਸਟਰੋਮ	_	PROPN	_	_	13	flat	_	_
-15	ਦੁਆਰਾ	_	ADP	_	_	13	case	_	_
+15	ਦੁਆਰਾ	_	ADP	_	_	12	case	_	_
 16	ਕੀਤੀ	_	VERB	_	_	0	root	_	_
 17	ਗਈ	_	AUX	_	_	16	aux:pass	_	_
 18	;	_	PUNCT	_	_	16	punct	_	_
@@ -2336,7 +2336,7 @@
 16	ਮੁਕਾਬਲੇ	_	NOUN	_	_	18	obl	_	_
 17	ਵਿੱਚ	_	ADP	_	_	16	case	_	_
 18	ਪਿੱਛੜ	_	VERB	_	_	20	acl	_	_
-19	ਗਈ	_	AUX	_	_	18	aux:pass	_	_
+19	ਗਈ	_	VERB	_	_	18	compound:svc	_	_
 20	ਸੱਸ	_	NOUN	_	_	28	nsubj	_	_
 21	ਨੇ	_	ADP	_	_	20	case	_	_
 22	ਤੇਲ	_	NOUN	_	_	23	obj	_	_
@@ -2432,7 +2432,7 @@
 13	ਤੋਂ	_	ADP	_	_	12	case	_	_
 14	ਬਾਅਦ	_	ADP	_	_	13	fixed	_	_
 15	ਵੀ	_	PART	_	_	12	discourse	_	_
-16	ਸੱਸ	_	NOUN	_	_	23	obl	_	_
+16	ਸੱਸ	_	NOUN	_	_	23	nsubj:pass	_	_
 17	ਬਿਮਲਾ	_	PROPN	_	_	16	appos	_	_
 18	ਦੇਵੀ	_	PROPN	_	_	17	flat	_	_
 19	ਵੱਲੋਂ	_	ADP	_	_	16	case	_	_
@@ -2449,7 +2449,7 @@
 30	ਕੁੜੱਤਣ	_	NOUN	_	_	31	nsubj	_	_
 31	ਘੱਟ	_	VERB	_	_	7	conj	_	_
 32	ਜ਼ਰੂਰ	_	ADV	_	_	31	advmod	_	_
-33	ਗਈ	_	AUX	_	_	31	aux:pass	_	_
+33	ਗਈ	_	VERB	_	_	31	compound:svc	_	_
 34	ਹੈ	_	AUX	_	_	31	aux	_	_
 35	।	_	PUNCT	_	_	7	punct	_	_
 
