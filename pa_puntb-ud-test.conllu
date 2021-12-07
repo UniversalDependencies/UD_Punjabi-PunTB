@@ -3382,3 +3382,725 @@
 16	ਲਿਖਿਆ	_	VERB	_	_	6	ccomp	_	_
 17	ਹੈ	_	AUX	_	_	16	aux	_	_
 18	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = blog_lahore_7
+# text = ਇਸ ਨੂੰ ਵੇਖਦੇ ਹੋਏ ਮੈਂ ਕੁਛ ਫੋਟੋਆਂ ਖਿੱਚੀਆਂ ਸੀ, ਅਜ ਮੈਨੂੰ ਧਿਆਨ ਆਇਆ ਕਿ ਇਸ ਕਹਾਣੀ ਨੂੰ ਫ਼ੋਟਾਂ ਰਾਹੀਂ ਤੁਹਾਡੇ ਤਕ ਪਹੁੰਚਾਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਾਂ।
+1	ਇਸ	_	PRON	_	_	3	obj	_	_
+2	ਨੂੰ	_	ADP	_	_	1	case	_	_
+3	ਵੇਖਦੇ	_	VERB	_	_	8	advcl	_	_
+4	ਹੋਏ	_	AUX	_	_	3	aux	_	_
+5	ਮੈਂ	_	PRON	_	_	8	nsubj	_	_
+6	ਕੁਛ	_	DET	_	_	7	det	_	_
+7	ਫੋਟੋਆਂ	_	NOUN	_	_	8	obj	_	_
+8	ਖਿੱਚੀਆਂ	_	VERB	_	_	0	root	_	_
+9	ਸੀ	_	AUX	_	_	8	aux	_	_
+10	,	_	PUNCT	_	_	8	punct	_	_
+11	ਅਜ	_	NOUN	_	_	14	obl:tmod	_	_
+12	ਮੈਨੂੰ	_	PRON	_	_	14	nsubj:dat	_	_
+13	ਧਿਆਨ	_	NOUN	_	_	14	compound:lvc	_	_
+14	ਆਇਆ	_	VERB	_	_	8	parataxis	_	_
+15	ਕਿ	_	SCONJ	_	_	26	mark	_	_
+16	ਇਸ	_	DET	_	_	17	det	_	_
+17	ਕਹਾਣੀ	_	NOUN	_	_	23	obj	_	_
+18	ਨੂੰ	_	ADP	_	_	17	case	_	_
+19	ਫ਼ੋਟਾਂ	_	NOUN	_	_	23	obl	_	_
+20	ਰਾਹੀਂ	_	ADP	_	_	19	case	_	_
+21	ਤੁਹਾਡੇ	_	PRON	_	_	23	obl	_	_
+22	ਤਕ	_	ADP	_	_	21	case	_	_
+23	ਪਹੁੰਚਾਣ	_	VERB	_	_	25	acl	_	_
+24	ਦੀ	_	ADP	_	_	23	mark	_	_
+25	ਕੋਸ਼ਿਸ਼	_	NOUN	_	_	26	compound:lvc	_	_
+26	ਕਰਾਂ	_	VERB	_	_	14	ccomp	_	_
+27	।	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = blog_lahore_8
+# text = ਕਹਾਣੀ ਇੰਝ ਹੈ ਕਿ ਦੇਸ਼ ਦੀ ਵੰਢ ਵੇਲੇ ਲਖਨਊ ਤੋਂ ਮਿਰਜ਼ਾ ਸਾਹਿਬ ਲਖਨਊ ਤੋਂ ਲਾਹੌਰ ਚਲੇ ਜਾਂਦੇ ਨੇ, ਨਾਲ ਉਹਨਾਂ ਦੇ ਉੰਨਾ ਦੀ ਬੇਗਮ ਤੇ ਮੁੰਡਾ ਕੁੜੀ ਵੀ ਹੁੰਦੇ ਨੇ.
+1	ਕਹਾਣੀ	_	NOUN	_	_	2	nsubj	_	_
+2	ਇੰਝ	_	PRON	_	_	0	root	_	_
+3	ਹੈ	_	AUX	_	_	2	cop	_	_
+4	ਕਿ	_	SCONJ	_	_	16	mark	_	_
+5	ਦੇਸ਼	_	NOUN	_	_	7	nmod	_	_
+6	ਦੀ	_	ADP	_	_	5	case	_	_
+7	ਵੰਢ	_	NOUN	_	_	16	obl:tmod	_	_
+8	ਵੇਲੇ	_	ADP	_	_	7	case	_	_
+9	ਲਖਨਊ	_	PROPN	_	_	16	obl:lmod	_	_
+10	ਤੋਂ	_	ADP	_	_	9	case	_	_
+11	ਮਿਰਜ਼ਾ	_	PROPN	_	_	16	nsubj	_	_
+12	ਸਾਹਿਬ	_	PROPN	_	_	11	flat	_	_
+13	ਲਖਨਊ	_	PROPN	_	_	16	obl:lmod	_	_
+14	ਤੋਂ	_	ADP	_	_	13	case	_	_
+15	ਲਾਹੌਰ	_	PROPN	_	_	16	obl:lmod	_	_
+16	ਚਲੇ	_	VERB	_	_	2	acl	_	_
+17	ਜਾਂਦੇ	_	VERB	_	_	16	compound:svc	_	_
+18	ਨੇ	_	AUX	_	_	16	aux	_	_
+19	,	_	PUNCT	_	_	2	punct	_	_
+20	ਨਾਲ	_	ADP	_	_	25	nsubj	_	_
+21	ਉਹਨਾਂ	_	PRON	_	_	23	reparandum	_	_
+22	ਦੇ	_	ADP	_	_	21	case	_	_
+23	ਉੰਨਾ	_	PRON	_	_	25	nmod	_	_
+24	ਦੀ	_	ADP	_	_	23	case	_	_
+25	ਬੇਗਮ	_	NOUN	_	_	2	parataxis	_	_
+26	ਤੇ	_	CCONJ	_	_	27	cc	_	_
+27	ਮੁੰਡਾ	_	NOUN	_	_	25	conj	_	_
+28	ਕੁੜੀ	_	NOUN	_	_	27	conj	_	_
+29	ਵੀ	_	PART	_	_	27	discourse	_	_
+30	ਹੁੰਦੇ	_	AUX	_	_	25	cop	_	_
+31	ਨੇ	_	AUX	_	_	25	aux	_	_
+32	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = blog_lahore_9
+# text = ਲਾਹੌਰ ਜਾ ਕੇ ਉਹ ਸਾਰੇ ਕੈੰਪ ਵਿਚ ਡੇਰਾ ਲਗਾ ਲੈਂਦੇ ਨੇ.
+1	ਲਾਹੌਰ	_	PROPN	_	_	2	obl:lmod	_	_
+2	ਜਾ	_	VERB	_	_	9	advcl	_	_
+3	ਕੇ	_	AUX	_	_	2	aux	_	_
+4	ਉਹ	_	PRON	_	_	9	nsubj	_	_
+5	ਸਾਰੇ	_	DET	_	_	4	det	_	_
+6	ਕੈੰਪ	_	NOUN	_	_	9	obl:lmod	_	_
+7	ਵਿਚ	_	ADP	_	_	6	case	_	_
+8	ਡੇਰਾ	_	NOUN	_	_	9	compound:lvc	_	_
+9	ਲਗਾ	_	VERB	_	_	0	root	_	_
+10	ਲੈਂਦੇ	_	VERB	_	_	9	compound:svc	_	_
+11	ਨੇ	_	AUX	_	_	9	aux	_	_
+12	.	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = blog_lahore_10
+# text = ਕੁਛ ਚਿਰ ਬਾਅਦ ਉੰਨਾ ਨੂੰ ਕਲੇਮ ਬਾਊ ਵੱਲੋਂ ਇਕ 22 ਕਮਰੇਆਂ ਵਾਲੀ ਹਵੇਲੀ ਅਲਾਟ ਹੋ ਜਾਂਦੀ ਏ.
+1	ਕੁਛ	_	DET	_	_	2	det	_	_
+2	ਚਿਰ	_	NOUN	_	_	15	obl:tmod	_	_
+3	ਬਾਅਦ	_	ADP	_	_	2	case	_	_
+4	ਉੰਨਾ	_	PRON	_	_	15	nsubj:dat	_	_
+5	ਨੂੰ	_	ADP	_	_	4	case	_	_
+6	ਕਲੇਮ	_	PROPN	_	_	7	compound	_	_
+7	ਬਾਊ	_	PROPN	_	_	15	obl	_	_
+8	ਵੱਲੋਂ	_	ADP	_	_	7	case	_	_
+9	ਇਕ	_	NUM	_	_	13	nummod	_	_
+10	22	_	NUM	_	_	11	nummod	_	_
+11	ਕਮਰੇਆਂ	_	NOUN	_	_	13	nmod	_	_
+12	ਵਾਲੀ	_	ADP	_	_	11	case	_	_
+13	ਹਵੇਲੀ	_	NOUN	_	_	15	obj	_	_
+14	ਅਲਾਟ	_	ADJ	_	_	15	compound:lvc	_	_
+15	ਹੋ	_	VERB	_	_	0	root	_	_
+16	ਜਾਂਦੀ	_	VERB	_	_	15	compound:svc	_	_
+17	ਏ	_	AUX	_	_	15	aux	_	_
+18	.	_	PUNCT	_	_	15	punct	_	_
+
+# sent_id = blog_lahore_11
+# text = ਸਾਰਾ ਟੱਬਰ ਖੁਸ਼ੀ ਖੁਸ਼ੀ ਉਸ ਹਵੇਲੀ ਵਿਚ ਜਾ ਪੁੱਜਦੇ ਨੇ.
+1	ਸਾਰਾ	_	DET	_	_	2	det	_	_
+2	ਟੱਬਰ	_	NOUN	_	_	8	nsubj	_	_
+3	ਖੁਸ਼ੀ	_	NOUN	_	_	4	compound:redup	_	_
+4	ਖੁਸ਼ੀ	_	NOUN	_	_	8	obl	_	_
+5	ਉਸ	_	DET	_	_	6	det	_	_
+6	ਹਵੇਲੀ	_	NOUN	_	_	8	obl:lmod	_	_
+7	ਵਿਚ	_	ADP	_	_	6	case	_	_
+8	ਜਾ	_	VERB	_	_	0	root	_	_
+9	ਪੁੱਜਦੇ	_	VERB	_	_	8	compound:svc	_	_
+10	ਨੇ	_	AUX	_	_	8	aux	_	_
+11	.	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = blog_lahore_12
+# text = ਅਜੇ ਉਹ ਸਾਰੇ ਕਮਰੇਆਂ ਨੂੰ ਵੇਖ ਹੀ ਰਹੇ ਹੁੰਦੇ ਨੇ ਕਿ ਮਿਰਜ਼ਾ ਸਾਬ ਦੀ ਧੀ ਉੱਪਰੋਂ ਥੱਲੇ ਆ ਕੇ ਉੱਚੀ ਉੱਚੀ ਰੌਲ਼ਾ ਪਾ ਦੇਂਦੀ ਹੈ ਕਿ ਉੱਤੇ ਵਾਲ਼ੇ ਕਮਰੇ ਵਿਚ ਕੋਈ ਹੈ.
+1	ਅਜੇ	_	ADV	_	_	6	advmod	_	_
+2	ਉਹ	_	PRON	_	_	6	nsubj	_	_
+3	ਸਾਰੇ	_	DET	_	_	2	det	_	_
+4	ਕਮਰੇਆਂ	_	NOUN	_	_	6	obj	_	_
+5	ਨੂੰ	_	ADP	_	_	4	case	_	_
+6	ਵੇਖ	_	VERB	_	_	0	root	_	_
+7	ਹੀ	_	PART	_	_	6	discourse	_	_
+8	ਰਹੇ	_	AUX	_	_	6	aux	_	_
+9	ਹੁੰਦੇ	_	AUX	_	_	6	aux	_	_
+10	ਨੇ	_	AUX	_	_	6	aux	_	_
+11	ਕਿ	_	SCONJ	_	_	23	mark	_	_
+12	ਮਿਰਜ਼ਾ	_	PROPN	_	_	15	nmod	_	_
+13	ਸਾਬ	_	PROPN	_	_	12	flat	_	_
+14	ਦੀ	_	ADP	_	_	12	case	_	_
+15	ਧੀ	_	NUM	_	_	18	nsubj	_	_
+16	ਉੱਪਰੋਂ	_	ADV	_	_	18	advmod	_	_
+17	ਥੱਲੇ	_	ADV	_	_	18	advmod	_	_
+18	ਆ	_	VERB	_	_	23	advcl	_	_
+19	ਕੇ	_	AUX	_	_	18	aux	_	_
+20	ਉੱਚੀ	_	ADJ	_	_	21	compound:redup	_	_
+21	ਉੱਚੀ	_	ADJ	_	_	22	amod	_	_
+22	ਰੌਲ਼ਾ	_	NOUN	_	_	23	obj	_	_
+23	ਪਾ	_	VERB	_	_	6	advcl	_	_
+24	ਦੇਂਦੀ	_	VERB	_	_	23	compound:svc	_	_
+25	ਹੈ	_	AUX	_	_	23	aux	_	_
+26	ਕਿ	_	SCONJ	_	_	29	mark	_	_
+27	ਉੱਤੇ	_	ADV	_	_	29	nmod	_	_
+28	ਵਾਲ਼ੇ	_	ADP	_	_	27	case	_	_
+29	ਕਮਰੇ	_	NOUN	_	_	22	acl	_	_
+30	ਵਿਚ	_	ADP	_	_	29	case	_	_
+31	ਕੋਈ	_	PRON	_	_	29	nsubj	_	_
+32	ਹੈ	_	AUX	_	_	29	cop	_	_
+33	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = blog_lahore_13
+# text = ਖੈਰ, ਸਾਰਾ ਟੱਬਰ ਹੈਰਾਨ ਹੋ ਜਾਂਦੈ ਜਦੋਂ ਉਹ ਵੇਖਦੇ ਨੇ ਕਿ ਇਕ ਬਜ਼ੁਰਗ ਜਨਾਨੀ ਉਪਰੋਂ ਪੌੜੀਆਂ ਉਤਰ ਕੇ ਥੱਲੇ ਆ ਰਹੀ ਏ.
+1	ਖੈਰ	_	INTJ	_	_	6	discourse	_	_
+2	,	_	PUNCT	_	_	6	punct	_	_
+3	ਸਾਰਾ	_	DET	_	_	4	det	_	_
+4	ਟੱਬਰ	_	NOUN	_	_	6	nsubj	_	_
+5	ਹੈਰਾਨ	_	ADJ	_	_	6	compound:lvc	_	_
+6	ਹੋ	_	VERB	_	_	0	root	_	_
+7	ਜਾਂਦੈ	_	VERB	_	_	6	compound:svc	_	_
+8	ਜਦੋਂ	_	SCONJ	_	_	10	mark	_	_
+9	ਉਹ	_	PRON	_	_	10	nsubj	_	_
+10	ਵੇਖਦੇ	_	VERB	_	_	6	advcl	_	_
+11	ਨੇ	_	AUX	_	_	10	aux	_	_
+12	ਕਿ	_	SCONJ	_	_	21	mark	_	_
+13	ਇਕ	_	NUM	_	_	15	nummod	_	_
+14	ਬਜ਼ੁਰਗ	_	ADJ	_	_	15	amod	_	_
+15	ਜਨਾਨੀ	_	NOUN	_	_	21	nsubj	_	_
+16	ਉਪਰੋਂ	_	ADV	_	_	21	advmod	_	_
+17	ਪੌੜੀਆਂ	_	NOUN	_	_	18	obj	_	_
+18	ਉਤਰ	_	VERB	_	_	21	advcl	_	_
+19	ਕੇ	_	AUX	_	_	18	aux	_	_
+20	ਥੱਲੇ	_	ADV	_	_	21	advmod	_	_
+21	ਆ	_	VERB	_	_	10	ccomp	_	_
+22	ਰਹੀ	_	AUX	_	_	21	aux	_	_
+23	ਏ	_	AUX	_	_	21	aux	_	_
+24	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = blog_lahore_14
+# text = ਉਹ ਪੁੱਛਦੀ ਏ ਕਿ ਤੁਸੀਂ ਕੌਣ ਹੋ ਜਿਹੜੇ ਬਿਨਾਂ ਪੁੱਛੇ ਓਹਦੇ ਘਰ ਦੇ ਅੰਦਰ ਆ ਗਏ ਹੋ, ਓਧਰੋਂ ਮਿਰਜ਼ਾ ਸਾਬ ਕਹਿੰਦੇ ਨੇ ਕਿ ਇਹ ਹਵੇਲੀ ਤੇ ਹੁਣ ਉਨ੍ਹਾਂ ਦੀ ਹੈ ਕਿਉਂ ਕਿ claim ਦਫਤਰ ਵੱਲੋਂ ਹੁਣ ਇਹ ਉੰਨਾ ਨੂੰ ਅਲਾਟ ਹੋ ਗਈ ਹੈ, ਤੇ ਉਹ ਨਾਲੇ ਉਸ ਬੁਢੜੀ ਨੂੰ ਮਸ਼ਵਰਾ ਦੇਂਦੇ ਨੇ ਕਿ ਹੁਣ ਦੇਸ਼ ਦੀ ਵੰਡ ਹੋ ਚੁੱਕੀ ਹੈ ਤੇ ਉਸਨੂੰ ਹਵੇਲੀ ਖਾਲੀ ਕਰ ਕੇ ਹਿੰਦੁਸਤਾਨ ਚਲੇ ਜਾਣਾ ਚਾਹੀਦਾ ਏ.
+1	ਉਹ	_	PRON	_	_	2	nsubj	_	_
+2	ਪੁੱਛਦੀ	_	VERB	_	_	0	root	_	_
+3	ਏ	_	AUX	_	_	2	aux	_	_
+4	ਕਿ	_	SCONJ	_	_	6	mark	_	_
+5	ਤੁਸੀਂ	_	PRON	_	_	6	nsubj	_	_
+6	ਕੌਣ	_	PRON	_	_	2	ccomp	_	_
+7	ਹੋ	_	AUX	_	_	6	cop	_	_
+8	ਜਿਹੜੇ	_	PRON	_	_	15	nsubj	_	_
+9	ਬਿਨਾਂ	_	ADP	_	_	10	mark	_	_
+10	ਪੁੱਛੇ	_	VERB	_	_	15	advcl	_	_
+11	ਓਹਦੇ	_	PRON	_	_	12	nmod	_	_
+12	ਘਰ	_	NOUN	_	_	15	obl:lmod	_	_
+13	ਦੇ	_	ADP	_	_	12	case	_	_
+14	ਅੰਦਰ	_	ADP	_	_	13	fixed	_	_
+15	ਆ	_	VERB	_	_	6	acl:relcl	_	_
+16	ਗਏ	_	VERB	_	_	15	compound:svc	_	_
+17	ਹੋ	_	AUX	_	_	15	aux	_	_
+18	,	_	PUNCT	_	_	2	punct	_	_
+19	ਓਧਰੋਂ	_	ADV	_	_	22	advmod	_	_
+20	ਮਿਰਜ਼ਾ	_	PROPN	_	_	22	nsubj	_	_
+21	ਸਾਬ	_	PROPN	_	_	20	flat	_	_
+22	ਕਹਿੰਦੇ	_	VERB	_	_	2	parataxis	_	_
+23	ਨੇ	_	AUX	_	_	22	aux	_	_
+24	ਕਿ	_	SCONJ	_	_	29	mark	_	_
+25	ਇਹ	_	DET	_	_	26	dep	_	_
+26	ਹਵੇਲੀ	_	NOUN	_	_	29	nsubj	_	_
+27	ਤੇ	_	PART	_	_	26	discourse	_	_
+28	ਹੁਣ	_	ADV	_	_	29	advcl	_	_
+29	ਉਨ੍ਹਾਂ	_	PRON	_	_	22	ccomp	_	_
+30	ਦੀ	_	ADP	_	_	29	case	_	_
+31	ਹੈ	_	AUX	_	_	29	cop	_	_
+32	ਕਿਉਂ	_	SCONJ	_	_	42	mark	_	_
+33	ਕਿ	_	SCONJ	_	_	32	fixed	_	_
+34	claim	_	NOUN	_	_	35	compound	_	_
+35	ਦਫਤਰ	_	NOUN	_	_	42	obl	_	_
+36	ਵੱਲੋਂ	_	ADP	_	_	35	case	_	_
+37	ਹੁਣ	_	ADV	_	_	42	advmod	_	_
+38	ਇਹ	_	PRON	_	_	42	obj	_	_
+39	ਉੰਨਾ	_	PRON	_	_	42	nsubj:dat	_	_
+40	ਨੂੰ	_	ADP	_	_	39	case	_	_
+41	ਅਲਾਟ	_	ADJ	_	_	42	compound:lvc	_	_
+42	ਹੋ	_	VERB	_	_	29	advcl	_	_
+43	ਗਈ	_	VERB	_	_	42	compound:svc	_	_
+44	ਹੈ	_	AUX	_	_	42	aux	_	_
+45	,	_	PUNCT	_	_	53	punct	_	_
+46	ਤੇ	_	CCONJ	_	_	53	cc	_	_
+47	ਉਹ	_	PRON	_	_	53	obl	_	_
+48	ਨਾਲੇ	_	ADP	_	_	47	case	_	_
+49	ਉਸ	_	DET	_	_	50	det	_	_
+50	ਬੁਢੜੀ	_	NOUN	_	_	53	obl	_	_
+51	ਨੂੰ	_	ADP	_	_	50	case	_	_
+52	ਮਸ਼ਵਰਾ	_	NOUN	_	_	53	obj	_	_
+53	ਦੇਂਦੇ	_	VERB	_	_	42	conj	_	_
+54	ਨੇ	_	AUX	_	_	53	aux	_	_
+55	ਕਿ	_	SCONJ	_	_	60	mark	_	_
+56	ਹੁਣ	_	ADV	_	_	60	advmod	_	_
+57	ਦੇਸ਼	_	NOUN	_	_	59	nmod	_	_
+58	ਦੀ	_	ADP	_	_	57	case	_	_
+59	ਵੰਡ	_	NOUN	_	_	60	compound:lvc	_	_
+60	ਹੋ	_	VERB	_	_	52	acl	_	_
+61	ਚੁੱਕੀ	_	VERB	_	_	60	compound:svc	_	_
+62	ਹੈ	_	AUX	_	_	60	aux	_	_
+63	ਤੇ	_	CCONJ	_	_	70	cc	_	_
+64	ਉਸਨੂੰ	_	PRON	_	_	70	nsubj:dat	_	_
+65	ਹਵੇਲੀ	_	NOUN	_	_	67	obj	_	_
+66	ਖਾਲੀ	_	ADJ	_	_	67	compound:lvc	_	_
+67	ਕਰ	_	VERB	_	_	70	advcl	_	_
+68	ਕੇ	_	AUX	_	_	67	aux	_	_
+69	ਹਿੰਦੁਸਤਾਨ	_	PROPN	_	_	70	obl:lmod	_	_
+70	ਚਲੇ	_	VERB	_	_	60	conj	_	_
+71	ਜਾਣਾ	_	VERB	_	_	70	compound:svc	_	_
+72	ਚਾਹੀਦਾ	_	AUX	_	_	70	aux	_	_
+73	ਏ	_	AUX	_	_	70	aux	_	_
+74	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = blog_lahore_15
+# text = ਇਹ ਸੁਨ ਕੇ ਉਹ ਬੁੱਢੀ ਮਾਈ ਬੜੀ ਗੁੱਸੇ ਚ ਆ ਜਾਂਦੀ ਹੈ ਤੇ ਬੜੇ ਰੌਬ ਨਾਲ ਮਿਰਜੇ ਨੂੰ ਕਹਿੰਦੀ ਹੈ ਕਿ ਇਹ ਤੇ ਉਸ ਦੀ ਹਵੇਲੀ ਹੈ, ਰਤਨ ਚੰਦ ਸਰਾਫ ਦੀ ਹਵੇਲੀ, ਉਹ ਉਸਦੀ ਮਾਂ ਹੈ, ਉਹ ਕਿਤੇ ਨਹੀਂ ਜਾਵੇਗੀ। 
+1	ਇਹ	_	PRON	_	_	2	obj	_	_
+2	ਸੁਨ	_	VERB	_	_	6	advcl	_	_
+3	ਕੇ	_	AUX	_	_	2	aux	_	_
+4	ਉਹ	_	DET	_	_	6	det	_	_
+5	ਬੁੱਢੀ	_	ADJ	_	_	6	amod	_	_
+6	ਮਾਈ	_	NOUN	_	_	10	nsubj	_	_
+7	ਬੜੀ	_	ADV	_	_	10	advmod	_	_
+8	ਗੁੱਸੇ	_	NOUN	_	_	10	xcomp	_	_
+9	ਚ	_	ADP	_	_	8	case	_	_
+10	ਆ	_	VERB	_	_	0	root	_	_
+11	ਜਾਂਦੀ	_	VERB	_	_	10	compound:lvc	_	_
+12	ਹੈ	_	AUX	_	_	10	aux	_	_
+13	ਤੇ	_	CCONJ	_	_	19	cc	_	_
+14	ਬੜੇ	_	ADJ	_	_	15	amod	_	_
+15	ਰੌਬ	_	NOUN	_	_	19	obl	_	_
+16	ਨਾਲ	_	ADP	_	_	15	case	_	_
+17	ਮਿਰਜੇ	_	PROPN	_	_	19	iobj	_	_
+18	ਨੂੰ	_	ADP	_	_	17	case	_	_
+19	ਕਹਿੰਦੀ	_	VERB	_	_	10	conj	_	_
+20	ਹੈ	_	AUX	_	_	19	aux	_	_
+21	ਕਿ	_	SCONJ	_	_	26	mark	_	_
+22	ਇਹ	_	PRON	_	_	26	nsubj	_	_
+23	ਤੇ	_	PART	_	_	22	discourse	_	_
+24	ਉਸ	_	PRON	_	_	26	nmod	_	_
+25	ਦੀ	_	ADP	_	_	24	case	_	_
+26	ਹਵੇਲੀ	_	NOUN	_	_	19	ccomp	_	_
+27	ਹੈ	_	AUX	_	_	26	cop	_	_
+28	,	_	PUNCT	_	_	26	punct	_	_
+29	ਰਤਨ	_	PROPN	_	_	33	nmod	_	_
+30	ਚੰਦ	_	PROPN	_	_	29	flat	_	_
+31	ਸਰਾਫ	_	PROPN	_	_	29	flat	_	_
+32	ਦੀ	_	ADP	_	_	29	case	_	_
+33	ਹਵੇਲੀ	_	NOUN	_	_	26	parataxis	_	_
+34	,	_	PUNCT	_	_	26	punct	_	_
+35	ਉਹ	_	PRON	_	_	37	nsubj	_	_
+36	ਉਸਦੀ	_	PRON	_	_	37	nmod	_	_
+37	ਮਾਂ	_	NOUN	_	_	26	parataxis	_	_
+38	ਹੈ	_	AUX	_	_	37	cop	_	_
+39	,	_	PUNCT	_	_	26	punct	_	_
+40	ਉਹ	_	PRON	_	_	43	nsubj	_	_
+41	ਕਿਤੇ	_	PRON	_	_	43	obl:lmod	_	_
+42	ਨਹੀਂ	_	ADV	_	_	43	advmod	_	_
+43	ਜਾਵੇਗੀ	_	VERB	_	_	26	parataxis	_	_
+44	।	_	PUNCT	_	_	10	punct	_	_
+
+# sent_id = blog_lahore_16
+# text = ਮਿਰਜਿਆਂ ਦਾ ਹਵੇਲੀ ਮਿਲਣ ਦਾ ਸਾਰਾ ਜੋਸ਼ ਜਿਹੜਾ ਠਾਠਾਂ ਮਾਰ ਰਿਹਾ ਸੀ ਉਹ ਠੰਡਾ ਪੈ ਜਾਂਦੈ , ਉੰਨਾ ਨੂੰ ਲੱਗਦਾ ਹੈ ਕਿ ਇਹ ਬੇਬੇ ਵਾਲੀ ਸਿਰਦਰਦੀ ਪੱਲੇ ਪੈ ਗਈ.
+1	ਮਿਰਜਿਆਂ	_	PROPN	_	_	7	nmod	_	_
+2	ਦਾ	_	ADP	_	_	1	case	_	_
+3	ਹਵੇਲੀ	_	NOUN	_	_	4	obj	_	_
+4	ਮਿਲਣ	_	VERB	_	_	7	acl	_	_
+5	ਦਾ	_	ADP	_	_	4	mark	_	_
+6	ਸਾਰਾ	_	DET	_	_	7	det	_	_
+7	ਜੋਸ਼	_	NOUN	_	_	15	nsubj	_	_
+8	ਜਿਹੜਾ	_	PRON	_	_	9	nmod	_	_
+9	ਠਾਠਾਂ	_	NOUN	_	_	10	compound:lvc	_	_
+10	ਮਾਰ	_	VERB	_	_	7	acl:relcl	_	_
+11	ਰਿਹਾ	_	AUX	_	_	10	aux	_	_
+12	ਸੀ	_	AUX	_	_	10	aux	_	_
+13	ਉਹ	_	DET	_	_	7	det	_	_
+14	ਠੰਡਾ	_	ADJ	_	_	15	xcomp	_	_
+15	ਪੈ	_	VERB	_	_	0	root	_	_
+16	ਜਾਂਦੈ	_	VERB	_	_	15	compound:svc	_	_
+17	,	_	PUNCT	_	_	15	punct	_	_
+18	ਉੰਨਾ	_	PRON	_	_	20	nsubj:dat	_	_
+19	ਨੂੰ	_	ADP	_	_	18	case	_	_
+20	ਲੱਗਦਾ	_	VERB	_	_	15	parataxis	_	_
+21	ਹੈ	_	AUX	_	_	20	aux	_	_
+22	ਕਿ	_	SCONJ	_	_	28	mark	_	_
+23	ਇਹ	_	DET	_	_	26	det	_	_
+24	ਬੇਬੇ	_	NOUN	_	_	26	nmod	_	_
+25	ਵਾਲੀ	_	ADP	_	_	24	case	_	_
+26	ਸਿਰਦਰਦੀ	_	NOUN	_	_	28	nsubj	_	_
+27	ਪੱਲੇ	_	NOUN	_	_	28	compound:lvc	_	_
+28	ਪੈ	_	VERB	_	_	20	ccomp	_	_
+29	ਗਈ	_	VERB	_	_	28	compound:svc	_	_
+30	.	_	PUNCT	_	_	15	punct	_	_
+
+# sent_id = blog_lahore_17
+# text = ਮਿਰਜਿਆਂ ਦਾ ਹਵੇਲੀ ਮਿਲਣ ਦਾ ਸਾਰਾ ਜੋਸ਼ ਜਿਹੜਾ ਠਾਠਾਂ ਮਾਰ ਰਿਹਾ ਸੀ ਉਹ ਠੰਡਾ ਪੈ ਜਾਂਦੈ , ਉੰਨਾ ਨੂੰ ਲੱਗਦਾ ਹੈ ਕਿ ਇਹ ਬੇਬੇ ਵਾਲੀ ਸਿਰਦਰਦੀ ਪੱਲੇ ਪੈ ਗਈ.
+1	ਬੱਸ	_	ADV	_	_	14	discourse	_	_
+2	ਐਵੇਂ	_	PRON	_	_	14	obl	_	_
+3	ਹੀ	_	PART	_	_	2	discourse	_	_
+4	ਹਵੇਲੀ	_	NOUN	_	_	14	obl:lmod	_	_
+5	ਵਿਚ	_	ADP	_	_	4	case	_	_
+6	ਉੰਨਾ	_	PRON	_	_	10	nmod	_	_
+7	ਦੀ	_	ADP	_	_	6	case	_	_
+8	ਆਪਸ	_	NOUN	_	_	10	nmod	_	_
+9	ਵਿਚ	_	ADP	_	_	8	case	_	_
+10	ਖਿੱਚ	_	NOUN	_	_	14	nsubj	_	_
+11	ਤਾਨ	_	NOUN	_	_	10	conj	_	_
+12	ਕੁਛ	_	DET	_	_	13	det	_	_
+13	ਚਿਰ	_	NOUN	_	_	14	obl:tmod	_	_
+14	ਲੱਗੀ	_	VERB	_	_	0	root	_	_
+15	ਰਹਿੰਦੀ	_	AUX	_	_	14	aux	_	_
+16	ਏ	_	AUX	_	_	14	aux	_	_
+17	.	_	PUNCT	_	_	14	punct	_	_
+
+# sent_id = blog_lahore_18
+# text = ਕੋਈ ਸਲਾਹ ਦੇਂਦਾ ਹੈ ਕਿ claim ਦੇ ਦਫਤਰ ਜਾ ਕੇ ਦੱਸੋ ਕਿ ਇੰਝ ਉੰਨਾ ਨੇ ਜਿਹੜੀ ਹਵੇਲੀ ਅਲਾਟ ਕੀਤੀ ਹੈ ਉਸ ਵਿਚ ਤੇ ਇਕ ਬੁੱਢੀ ਰਹਿ ਰਹੀ ਏ.
+1	ਕੋਈ	_	PRON	_	_	3	nsubj	_	_
+2	ਸਲਾਹ	_	NOUN	_	_	3	obj	_	_
+3	ਦੇਂਦਾ	_	VERB	_	_	0	root	_	_
+4	ਹੈ	_	AUX	_	_	3	aux	_	_
+5	ਕਿ	_	SCONJ	_	_	11	mark	_	_
+6	claim	_	NOUN	_	_	8	nmod	_	_
+7	ਦੇ	_	ADP	_	_	6	case	_	_
+8	ਦਫਤਰ	_	NOUN	_	_	9	obl:lmod	_	_
+9	ਜਾ	_	VERB	_	_	11	advcl	_	_
+10	ਕੇ	_	AUX	_	_	9	aux	_	_
+11	ਦੱਸੋ	_	VERB	_	_	2	acl	_	_
+12	ਕਿ	_	AUX	_	_	26	mark	_	_
+13	ਇੰਝ	_	PRON	_	_	21	dislocated	_	_
+14	ਉੰਨਾ	_	PRON	_	_	19	nsubj	_	_
+15	ਨੇ	_	ADP	_	_	14	case	_	_
+16	ਜਿਹੜੀ	_	DET	_	_	17	det	_	_
+17	ਹਵੇਲੀ	_	NOUN	_	_	19	obj	_	_
+18	ਅਲਾਟ	_	ADJ	_	_	19	compound:lvc	_	_
+19	ਕੀਤੀ	_	VERB	_	_	13	acl:relcl	_	_
+20	ਹੈ	_	AUX	_	_	19	aux	_	_
+21	ਉਸ	_	PRON	_	_	26	obl:lmod	_	_
+22	ਵਿਚ	_	ADP	_	_	21	case	_	_
+23	ਤੇ	_	PART	_	_	21	discourse	_	_
+24	ਇਕ	_	NUM	_	_	25	det	_	_
+25	ਬੁੱਢੀ	_	NOUN	_	_	26	nsubj	_	_
+26	ਰਹਿ	_	VERB	_	_	11	cc	_	_
+27	ਰਹੀ	_	AUX	_	_	26	aux	_	_
+28	ਏ	_	AUX	_	_	26	aux	_	_
+29	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = blog_lahore_19
+# text = ਉਹ ਜਾਂਦਾ ਹੈ, ਆਪਣੀ ਤਕਲੀਫ ਦੱਸਦਾ ਹੈ, ਉਸ ਦਿਨ ਉਹ ਉਸਨੂੰ ਉਹ claim ਦੇਣ ਵਾਲਾ ਵੱਡਾ ਬਾਊ ਤੇ ਮਿਲਦਾ ਨਹੀਂ, ਦਫਤਰ ਦੇ 2-4 ਹੋਰ ਕਰਿੰਦੇ ਮਿਲਦੇ ਨੇ.
+1	ਉਹ	_	PRON	_	_	2	nsubj	_	_
+2	ਜਾਂਦਾ	_	VERB	_	_	0	root	_	_
+3	ਹੈ	_	AUX	_	_	2	aux	_	_
+4	,	_	PUNCT	_	_	2	punct	_	_
+5	ਆਪਣੀ	_	PRON	_	_	6	nmod	_	_
+6	ਤਕਲੀਫ	_	NOUN	_	_	7	nsubj	_	_
+7	ਦੱਸਦਾ	_	VERB	_	_	2	parataxis	_	_
+8	ਹੈ	_	AUX	_	_	7	aux	_	_
+9	,	_	PUNCT	_	_	2	punct	_	_
+10	ਉਸ	_	DET	_	_	11	det	_	_
+11	ਦਿਨ	_	NOUN	_	_	21	obl:tmod	_	_
+12	ਉਹ	_	PRON	_	_	13	reparandum	_	_
+13	ਉਸਨੂੰ	_	PRON	_	_	21	nsubj:dat	_	_
+14	ਉਹ	_	DET	_	_	19	det	_	_
+15	claim	_	NOUN	_	_	16	obj	_	_
+16	ਦੇਣ	_	VERB	_	_	19	acl	_	_
+17	ਵਾਲਾ	_	ADP	_	_	16	mark	_	_
+18	ਵੱਡਾ	_	ADJ	_	_	19	amod	_	_
+19	ਬਾਊ	_	NOUN	_	_	21	obj	_	_
+20	ਤੇ	_	PART	_	_	19	discourse	_	_
+21	ਮਿਲਦਾ	_	VERB	_	_	2	parataxis	_	_
+22	ਨਹੀਂ	_	ADV	_	_	21	advcl	_	_
+23	,	_	PUNCT	_	_	2	punct	_	_
+24	ਦਫਤਰ	_	NOUN	_	_	30	nmod	_	_
+25	ਦੇ	_	ADP	_	_	24	case	_	_
+26	2	_	NUM	_	_	28	nmod	_	_
+27	-	_	SYM	_	_	26	case	_	_
+28	4	_	NUM	_	_	30	nummod	_	_
+29	ਹੋਰ	_	DET	_	_	30	det	_	_
+30	ਕਰਿੰਦੇ	_	NOUN	_	_	31	obj	_	_
+31	ਮਿਲਦੇ	_	VERB	_	_	2	parataxis	_	_
+32	ਨੇ	_	AUX	_	_	31	aux	_	_
+33	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = blog_lahore_20
+# text = ਉਸਦੀ ਗੱਲ ਸੁਨ ਕੇ ਉਸਨੂੰ ਸਮਝਾਂਦੇ ਨੇ ਕਿ ਚੁੱਪ ਚੁੱਪ ਚਲਿਆ ਜਾਵੇ, ਜੇਕਰ ਉਸਨੇ ਅਰਜੀ ਦਿੱਤੀ ਤੇ ਸਿੰਧੀ ਬਾਊ ਨੇ ਉਹ ਹਵੇਲੀ ਓਸੇ ਵੇਲੇ ਆਪਣੇ ਕਿਸੇ ਚਹੇਤੇ ਨੂੰ ਅਲਾਟ ਕਰ ਦੇਣੀ ਏ ਤੇ ਉਸ ਦੇ ਟੱਬਰ ਨੂੰ ਮੁੜ ਕੈਮਪ ਚ ਹੀ ਡੇਰਾ ਲਾਉਣਾ ਪਵੇਗਾ।
+1	ਉਸਦੀ	_	PRON	_	_	2	nmod	_	_
+2	ਗੱਲ	_	NOUN	_	_	3	obj	_	_
+3	ਸੁਨ	_	VERB	_	_	6	advcl	_	_
+4	ਕੇ	_	AUX	_	_	3	aux	_	_
+5	ਉਸਨੂੰ	_	PRON	_	_	6	iobj	_	_
+6	ਸਮਝਾਂਦੇ	_	VERB	_	_	0	root	_	_
+7	ਨੇ	_	AUX	_	_	6	aux	_	_
+8	ਕਿ	_	SCONJ	_	_	11	mark	_	_
+9	ਚੁੱਪ	_	NOUN	_	_	10	compound:redup	_	_
+10	ਚੁੱਪ	_	NOUN	_	_	11	obl	_	_
+11	ਚਲਿਆ	_	VERB	_	_	6	ccomp	_	_
+12	ਜਾਵੇ	_	VERB	_	_	11	compound:svc	_	_
+13	,	_	PUNCT	_	_	11	punct	_	_
+14	ਜੇਕਰ	_	SCONJ	_	_	17	mark	_	_
+15	ਉਸਨੇ	_	PRON	_	_	17	nsubj	_	_
+16	ਅਰਜੀ	_	NOUN	_	_	17	obj	_	_
+17	ਦਿੱਤੀ	_	VERB	_	_	31	advcl	_	_
+18	ਤੇ	_	ADV	_	_	31	advmod	_	_
+19	ਸਿੰਧੀ	_	ADJ	_	_	20	amod	_	_
+20	ਬਾਊ	_	NOUN	_	_	31	nsubj	_	_
+21	ਨੇ	_	ADP	_	_	20	case	_	_
+22	ਉਹ	_	DET	_	_	23	det	_	_
+23	ਹਵੇਲੀ	_	NOUN	_	_	31	obj	_	_
+24	ਓਸੇ	_	DET	_	_	25	det	_	_
+25	ਵੇਲੇ	_	NOUN	_	_	31	obl:tmod	_	_
+26	ਆਪਣੇ	_	PRON	_	_	28	nmod	_	_
+27	ਕਿਸੇ	_	DET	_	_	28	det	_	_
+28	ਚਹੇਤੇ	_	NOUN	_	_	31	iobj	_	_
+29	ਨੂੰ	_	ADP	_	_	28	case	_	_
+30	ਅਲਾਟ	_	ADJ	_	_	31	compound:svc	_	_
+31	ਕਰ	_	VERB	_	_	11	parataxis	_	_
+32	ਦੇਣੀ	_	VERB	_	_	31	compound:svc	_	_
+33	ਏ	_	AUX	_	_	31	aux	_	_
+34	ਤੇ	_	CCONJ	_	_	44	cc	_	_
+35	ਉਸ	_	PRON	_	_	37	nmod	_	_
+36	ਦੇ	_	ADP	_	_	35	case	_	_
+37	ਟੱਬਰ	_	NOUN	_	_	44	nsubj:dat	_	_
+38	ਨੂੰ	_	ADP	_	_	37	case	_	_
+39	ਮੁੜ	_	ADV	_	_	44	advmod	_	_
+40	ਕੈਮਪ	_	NOUN	_	_	44	obl:lmod	_	_
+41	ਚ	_	ADP	_	_	40	case	_	_
+42	ਹੀ	_	PART	_	_	40	discourse	_	_
+43	ਡੇਰਾ	_	NOUN	_	_	44	compound:lvc	_	_
+44	ਲਾਉਣਾ	_	VERB	_	_	31	conj	_	_
+45	ਪਵੇਗਾ	_	VERB	_	_	44	compound:svc	_	_
+46	।	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = blog_lahore_21
+# text = ਓਹਨੂੰ ਗੱਲ ਸਮਝ ਆ ਜਾਂਦੀ ਹੈ.
+1	ਓਹਨੂੰ	_	PRON	_	_	4	nsubj:dat	_	_
+2	ਗੱਲ	_	NOUN	_	_	4	obj	_	_
+3	ਸਮਝ	_	NOUN	_	_	4	compound:lvc	_	_
+4	ਆ	_	VERB	_	_	0	root	_	_
+5	ਜਾਂਦੀ	_	VERB	_	_	4	compound:svc	_	_
+6	ਹੈ	_	AUX	_	_	4	aux	_	_
+7	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = blog_lahore_22
+# text = ਉਹ ਕਰਿੰਦੇ ਉਸਨੂੰ ਇਹ ਵੀ ਸਮਝਾਂਦੇ ਨੇ ਕਿ ਉਸ ਬਜ਼ੁਰਗ ਜਨਾਨੀ ਨੇ ਆਖਿਰ ਕਿੰਨਾ ਕਿ ਚਿਰ ਬੈਠੇ ਰਹਿਣਾ ਏ.
+1	ਉਹ	_	PRON	_	_	2	nsubj	_	_
+2	ਕਰਿੰਦੇ	_	VERB	_	_	0	root	_	_
+3	ਉਸਨੂੰ	_	PRON	_	_	6	iobj	_	_
+4	ਇਹ	_	PRON	_	_	6	obj	_	_
+5	ਵੀ	_	PART	_	_	4	discourse	_	_
+6	ਸਮਝਾਂਦੇ	_	VERB	_	_	2	ccomp	_	_
+7	ਨੇ	_	AUX	_	_	6	aux	_	_
+8	ਕਿ	_	SCONJ	_	_	17	mark	_	_
+9	ਉਸ	_	DET	_	_	11	det	_	_
+10	ਬਜ਼ੁਰਗ	_	ADJ	_	_	11	amod	_	_
+11	ਜਨਾਨੀ	_	NOUN	_	_	17	nsubj	_	_
+12	ਨੇ	_	ADP	_	_	11	case	_	_
+13	ਆਖਿਰ	_	ADV	_	_	17	advmod	_	_
+14	ਕਿੰਨਾ	_	DET	_	_	16	det	_	_
+15	ਕਿ	_	DET	_	_	14	reparandum	_	_
+16	ਚਿਰ	_	NOUN	_	_	17	obl:tmod	_	_
+17	ਬੈਠੇ	_	VERB	_	_	4	acl	_	_
+18	ਰਹਿਣਾ	_	VERB	_	_	17	compound:svc	_	_
+19	ਏ	_	AUX	_	_	17	aux	_	_
+20	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = blog_lahore_23
+# text = ਉਹ ਇਹ ਗੱਲ ਪੱਲੇ ਬਣ ਲੈਂਦਾ ਹੈ.
+1	ਉਹ	_	PRON	_	_	5	nsubj	_	_
+2	ਇਹ	_	DET	_	_	3	det	_	_
+3	ਗੱਲ	_	NOUN	_	_	5	obj	_	_
+4	ਪੱਲੇ	_	NOUN	_	_	5	compound:lvc	_	_
+5	ਬਣ	_	VERB	_	_	0	root	_	_
+6	ਲੈਂਦਾ	_	VERB	_	_	5	compound:svc	_	_
+7	ਹੈ	_	AUX	_	_	5	aux	_	_
+8	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = blog_lahore_24
+# text = ਇਨਾਂ ਦਿਨਾਂ ਚ ਹੀ ਘਰ ਵਿਚ ਅਲੱਗ ਮਾਹੌਲ ਬਣ ਜਾਂਦਾ ਹੈ.
+1	ਇਨਾਂ	_	DET	_	_	2	det	_	_
+2	ਦਿਨਾਂ	_	NOUN	_	_	9	obl:tmod	_	_
+3	ਚ	_	ADP	_	_	2	case	_	_
+4	ਹੀ	_	PART	_	_	2	discourse	_	_
+5	ਘਰ	_	NOUN	_	_	9	obl:lmod	_	_
+6	ਵਿਚ	_	ADP	_	_	5	case	_	_
+7	ਅਲੱਗ	_	ADJ	_	_	8	amod	_	_
+8	ਮਾਹੌਲ	_	NOUN	_	_	9	nsubj	_	_
+9	ਬਣ	_	VERB	_	_	0	root	_	_
+10	ਜਾਂਦਾ	_	VERB	_	_	9	compound:svc	_	_
+11	ਹੈ	_	AUX	_	_	9	aux	_	_
+12	.	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = blog_lahore_25
+# text = ਇਨਾਂ ਦਿਨਾਂ ਚ ਹੀ ਘਰ ਵਿਚ ਅਲੱਗ ਮਾਹੌਲ ਬਣ ਜਾਂਦਾ ਹੈ.
+1	ਮਿਰਜ਼ਾ	_	PROPN	_	_	4	nmod	_	_
+2	ਸਾਬ	_	PROPN	_	_	1	flat	_	_
+3	ਦੀ	_	ADP	_	_	1	case	_	_
+4	ਧੀ	_	NOUN	_	_	14	nsubj	_	_
+5	ਉਸ	_	DET	_	_	7	det	_	_
+6	ਬਜ਼ੁਰਗ	_	ADJ	_	_	7	amod	_	_
+7	ਬੀਬੀ	_	NOUN	_	_	10	obj	_	_
+8	ਨੂੰ	_	ADP	_	_	7	case	_	_
+9	ਦਾਦੀ	_	NOUN	_	_	10	xcomp	_	_
+10	ਕਹਿ	_	VERB	_	_	14	advcl	_	_
+11	ਕੇ	_	AUX	_	_	10	aux	_	_
+12	ਜਦੋਂ	_	SCONJ	_	_	14	mark	_	_
+13	ਆਵਾਜ਼	_	NOUN	_	_	14	compound:lvc	_	_
+14	ਦੇਂਦੀ	_	VERB	_	_	20	advcl	_	_
+15	ਹੈ	_	AUX	_	_	14	aux	_	_
+16	ਤੇ	_	ADV	_	_	20	advmod	_	_
+17	ਉਸ	_	DET	_	_	18	det	_	_
+18	ਬੇਬੇ	_	NOUN	_	_	20	obj	_	_
+19	ਨੂੰ	_	ADP	_	_	18	case	_	_
+20	ਚੜ	_	VERB	_	_	0	root	_	_
+21	ਜਾਂਦਾ	_	VERB	_	_	20	compound:svc	_	_
+22	ਹੈ	_	AUX	_	_	20	aux	_	_
+23	.	_	PUNCT	_	_	20	punct	_	_
+
+# sent_id = blog_lahore_26
+# text = ਉਹ ਕਹਿੰਦੀ ਹੈ ਕਿ ਉਸਨੂੰ ਵੇਖ ਕੇ ਉਸਨੂੰ ਆਪਣੀ ਪੋਤਰੀ ਰਾਧਾ ਦੀ ਯਾਦ ਆਉਂਦੀ ਹੈ, ਨਾਲ ਉਹ ਇਹ ਕਹਿੰਦੀ ਹੈ ਕਿ ਜਦੋਂ ਤਨੋ (ਮਿਰਜੇ ਦੀ ਧੀ) ਉਸਨੂੰ ਦਾਦੀ ਕਹਿ ਕੇ ਆਵਾਜ਼ ਦੇਂਦੀ ਹੈ ਤੇ ਉਨੂੰ ਇੰਝ ਜਾਪਦਾ ਹੈ ਜਿਵੇਂ ਉਹ ਜ਼ਿੰਦਾ ਹੋਵੇ।
+1	ਉਹ	_	PRON	_	_	2	nsubj	_	_
+2	ਕਹਿੰਦੀ	_	VERB	_	_	0	root	_	_
+3	ਹੈ	_	AUX	_	_	2	aux	_	_
+4	ਕਿ	_	SCONJ	_	_	14	mark	_	_
+5	ਉਸਨੂੰ	_	PRON	_	_	6	obj	_	_
+6	ਵੇਖ	_	VERB	_	_	14	advcl	_	_
+7	ਕੇ	_	AUX	_	_	6	aux	_	_
+8	ਉਸਨੂੰ	_	PRON	_	_	14	nsubj:dat	_	_
+9	ਆਪਣੀ	_	PRON	_	_	10	nmod	_	_
+10	ਪੋਤਰੀ	_	NOUN	_	_	13	nmod	_	_
+11	ਰਾਧਾ	_	PROPN	_	_	10	appos	_	_
+12	ਦੀ	_	ADP	_	_	10	case	_	_
+13	ਯਾਦ	_	NOUN	_	_	14	compound:lvc	_	_
+14	ਆਉਂਦੀ	_	VERB	_	_	2	ccomp	_	_
+15	ਹੈ	_	AUX	_	_	14	aux	_	_
+16	,	_	PUNCT	_	_	2	punct	_	_
+17	ਨਾਲ	_	NOUN	_	_	20	obl	_	_
+18	ਉਹ	_	PRON	_	_	20	nsubj	_	_
+19	ਇਹ	_	PRON	_	_	20	obj	_	_
+20	ਕਹਿੰਦੀ	_	VERB	_	_	2	parataxis	_	_
+21	ਹੈ	_	AUX	_	_	20	aux	_	_
+22	ਕਿ	_	SCONJ	_	_	40	mark	_	_
+23	ਜਦੋਂ	_	SCONJ	_	_	35	mark	_	_
+24	ਤਨੋ	_	PROPN	_	_	35	nsubj	_	_
+25	(	_	PUNCT	_	_	28	punct	_	_
+26	ਮਿਰਜੇ	_	PROPN	_	_	28	nmod	_	_
+27	ਦੀ	_	ADP	_	_	26	case	_	_
+28	ਧੀ	_	NOUN	_	_	24	appos	_	_
+29	)	_	PUNCT	_	_	28	punct	_	_
+30	ਉਸਨੂੰ	_	PRON	_	_	32	obj	_	_
+31	ਦਾਦੀ	_	NOUN	_	_	32	xcomp	_	_
+32	ਕਹਿ	_	VERB	_	_	35	advcl	_	_
+33	ਕੇ	_	AUX	_	_	32	aux	_	_
+34	ਆਵਾਜ਼	_	NOUN	_	_	35	compound:lvc	_	_
+35	ਦੇਂਦੀ	_	VERB	_	_	40	advcl	_	_
+36	ਹੈ	_	AUX	_	_	35	aux	_	_
+37	ਤੇ	_	ADV	_	_	40	advcl	_	_
+38	ਉਨੂੰ	_	PRON	_	_	40	nsubj:dat	_	_
+39	ਇੰਝ	_	PRON	_	_	40	obj	_	_
+40	ਜਾਪਦਾ	_	VERB	_	_	19	acl	_	_
+41	ਹੈ	_	AUX	_	_	40	aux	_	_
+42	ਜਿਵੇਂ	_	ADV	_	_	44	advmod	_	_
+43	ਉਹ	_	PRON	_	_	44	nsubj	_	_
+44	ਜ਼ਿੰਦਾ	_	ADJ	_	_	39	acl:relcl	_	_
+45	ਹੋਵੇ	_	VERB	_	_	44	cop	_	_
+46	।	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = blog_lahore_27
+# text = ਉਹ ਸਾਰੇ ਪਿਆਰ ਨਾਲ ਰਹਿਣ ਲੱਗਦੇ ਨੇ।
+1	ਉਹ	_	DET	_	_	2	det	_	_
+2	ਸਾਰੇ	_	PRON	_	_	5	nsubj	_	_
+3	ਪਿਆਰ	_	NOUN	_	_	5	obl	_	_
+4	ਨਾਲ	_	ADP	_	_	3	case	_	_
+5	ਰਹਿਣ	_	VERB	_	_	0	root	_	_
+6	ਲੱਗਦੇ	_	VERB	_	_	5	compound:svc	_	_
+7	ਨੇ	_	AUX	_	_	5	aux	_	_
+8	।	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = blog_lahore_28
+# text = ਦਰਸਲ ਵਿਚ ਉਸ ਬੇਬੇ ਦਾ ਸਾਰਾ ਟੱਬਰ ਵੰਡ ਦੇ ਦੰਗੇ ਦੀ ਅੱਗ ਦੀ ਭੇਂਟ ਚੜ ਗਿਆ ਸੀ...
+1	ਦਰਸਲ	_	NOUN	_	_	15	obl	_	_
+2	ਵਿਚ	_	ADP	_	_	1	case	_	_
+3	ਉਸ	_	DET	_	_	4	det	_	_
+4	ਬੇਬੇ	_	NOUN	_	_	7	nmod	_	_
+5	ਦਾ	_	ADP	_	_	4	case	_	_
+6	ਸਾਰਾ	_	DET	_	_	7	det	_	_
+7	ਟੱਬਰ	_	NOUN	_	_	15	nsubj	_	_
+8	ਵੰਡ	_	NOUN	_	_	10	nmod	_	_
+9	ਦੇ	_	ADP	_	_	8	case	_	_
+10	ਦੰਗੇ	_	NOUN	_	_	12	nmod	_	_
+11	ਦੀ	_	ADP	_	_	10	case	_	_
+12	ਅੱਗ	_	NOUN	_	_	14	nmod	_	_
+13	ਦੀ	_	ADP	_	_	12	case	_	_
+14	ਭੇਂਟ	_	NOUN	_	_	15	compound:lvc	_	_
+15	ਚੜ	_	VERB	_	_	0	root	_	_
+16	ਗਿਆ	_	VERB	_	_	15	compound:svc	_	_
+17	ਸੀ	_	AUX	_	_	15	aux	_	_
+18	...	_	PUNCT	_	_	15	punct	_	_
+
+# sent_id = blog_lahore_29
+# text = ਇਹ ਕਹਾਣੀ ਇਥੇ ਖਤਮ ਨਹੀਂ ਹੁੰਦੀ, ਇਹ ਤੇ ਸਮਝੋ ਇੰਟਰਵਲ ਹੈ, ਬਾਕੀ ਦੀ ਕਹਾਣੀ ਤੁਹਾਨੂੰ ਸ਼ਾਮ ਵੇਲੇ ਸੁਨਾਵਾਂਗਾਂ।
+1	ਇਹ	_	DET	_	_	2	det	_	_
+2	ਕਹਾਣੀ	_	NOUN	_	_	6	nsubj	_	_
+3	ਇਥੇ	_	PRON	_	_	6	obl	_	_
+4	ਖਤਮ	_	ADJ	_	_	6	compound:lvc	_	_
+5	ਨਹੀਂ	_	ADV	_	_	6	advmod	_	_
+6	ਹੁੰਦੀ	_	VERB	_	_	0	root	_	_
+7	,	_	PUNCT	_	_	6	punct	_	_
+8	ਇਹ	_	PRON	_	_	11	nsubj	_	_
+9	ਤੇ	_	ADP	_	_	8	discourse	_	_
+10	ਸਮਝੋ	_	VERB	_	_	6	parataxis	_	_
+11	ਇੰਟਰਵਲ	_	NOUN	_	_	10	ccomp	_	_
+12	ਹੈ	_	AUX	_	_	11	cop	_	_
+13	,	_	PUNCT	_	_	6	punct	_	_
+14	ਬਾਕੀ	_	NOUN	_	_	16	nmod	_	_
+15	ਦੀ	_	ADP	_	_	14	case	_	_
+16	ਕਹਾਣੀ	_	NOUN	_	_	20	obj	_	_
+17	ਤੁਹਾਨੂੰ	_	PRON	_	_	20	iobj	_	_
+18	ਸ਼ਾਮ	_	NOUN	_	_	20	obl:tmod	_	_
+19	ਵੇਲੇ	_	ADP	_	_	18	case	_	_
+20	ਸੁਨਾਵਾਂਗਾਂ	_	VERB	_	_	6	parataxis	_	_
+21	।	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = blog_lahore_30
+# text = ਇਹ ਕਹਾਣੀ ਇਥੇ ਖਤਮ ਨਹੀਂ ਹੁੰਦੀ, ਇਹ ਤੇ ਸਮਝੋ ਇੰਟਰਵਲ ਹੈ, ਬਾਕੀ ਦੀ ਕਹਾਣੀ ਤੁਹਾਨੂੰ ਸ਼ਾਮ ਵੇਲੇ ਸੁਨਾਵਾਂਗਾਂ।
+1	ਲਿਖਣ	_	VERB	_	_	4	advcl	_	_
+2	ਚ	_	ADP	_	_	1	mark	_	_
+3	ਸਮਾਂ	_	NOUN	_	_	4	obj	_	_
+4	ਲੱਗਦਾ	_	VERB	_	_	0	root	_	_
+5	ਏ	_	AUX	_	_	4	aux	_	_
+6	,	_	PUNCT	_	_	4	punct	_	_
+7	ਬੰਦਾ	_	NOUN	_	_	8	nsubj	_	_
+8	ਥਕ	_	VERB	_	_	4	parataxis	_	_
+9	ਜਾਂਦੈ	_	VERB	_	_	8	compound:svc	_	_
+10	।	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = blog_lahore_31
+# text = ਅੱਛਾ ਜੀ, ਤਦ ਤਕ, ਰਬ ਰਾਖਾ।
+1	ਅੱਛਾ	_	INTJ	_	_	2	discourse	_	_
+2	ਜੀ	_	PART	_	_	8	discourse	_	_
+3	,	_	PUNCT	_	_	8	punct	_	_
+4	ਤਦ	_	PRON	_	_	8	obl	_	_
+5	ਤਕ	_	ADP	_	_	4	case	_	_
+6	,	_	PUNCT	_	_	8	punct	_	_
+7	ਰਬ	_	PROPN	_	_	8	nsubj	_	_
+8	ਰਾਖਾ	_	VERB	_	_	0	root	_	_
+9	।	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = blog_lahore_32
+# text = ਅੱਛਾ ਜੀ, ਤਦ ਤਕ, ਰਬ ਰਾਖਾ।
+1	ਮੇਰੀ	_	PRON	_	_	2	nmod	_	_
+2	ਪਸੰਦ	_	NOUN	_	_	5	nmod	_	_
+3	ਦਾ	_	ADP	_	_	2	case	_	_
+4	ਇਹ	_	DET	_	_	5	det	_	_
+5	ਗੀਤ	_	NOUN	_	_	6	obj	_	_
+6	ਸੁਣੋ	_	VERB	_	_	0	root	_	_
+7	ਤੇ	_	CCONJ	_	_	9	cc	_	_
+8	ਬੁਲ੍ਹੇ	_	NOUN	_	_	9	obj	_	_
+9	ਲੁੱਟੋ	_	VERB	_	_	6	conj	_	_
+10	।	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = blog_lahore_33
+# text = ਕੁਲਵਿੰਦਰ ਬਰਾੜ ਦੇ ਇਸ ਗੀਤ ਵਿਚ ਬੜਾ ਵੱਡਾ ਸੁਨੇਹਾ ਵੀ ਹੈ, ਜੇ ਕੋਈ ਸੁਨਣ ਦੀ ਪਰਵਾਹ ਕਰੇ।
+1	ਕੁਲਵਿੰਦਰ	_	PROPN	_	_	5	nmod	_	_
+2	ਬਰਾੜ	_	PROPN	_	_	1	flat	_	_
+3	ਦੇ	_	ADP	_	_	1	case	_	_
+4	ਇਸ	_	DET	_	_	5	det	_	_
+5	ਗੀਤ	_	NOUN	_	_	9	nsubj	_	_
+6	ਵਿਚ	_	ADP	_	_	5	case	_	_
+7	ਬੜਾ	_	ADV	_	_	8	advmod	_	_
+8	ਵੱਡਾ	_	ADJ	_	_	9	amod	_	_
+9	ਸੁਨੇਹਾ	_	NOUN	_	_	0	root	_	_
+10	ਵੀ	_	PART	_	_	9	discourse	_	_
+11	ਹੈ	_	AUX	_	_	9	cop	_	_
+12	,	_	PUNCT	_	_	9	punct	_	_
+13	ਜੇ	_	SCONJ	_	_	18	mark	_	_
+14	ਕੋਈ	_	PRON	_	_	18	nsubj	_	_
+15	ਸੁਨਣ	_	VERB	_	_	17	acl	_	_
+16	ਦੀ	_	ADP	_	_	15	mark	_	_
+17	ਪਰਵਾਹ	_	NOUN	_	_	18	compound:lvc	_	_
+18	ਕਰੇ	_	VERB	_	_	9	advcl	_	_
+19	।	_	PUNCT	_	_	9	punct	_	_
