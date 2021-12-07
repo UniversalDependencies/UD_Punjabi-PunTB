@@ -33,7 +33,7 @@ The corpus has been hand-annotated by Aryaman Arora.
 Data available since: UD v2.10
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: nonfiction news
+Genre: nonfiction news blog
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
