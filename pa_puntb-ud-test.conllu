@@ -37,8 +37,8 @@
 25	ਪੰਜਾਬੀਆਂ	_	PROPN	_	_	28	nmod	_	_
 26	ਦੀ	_	ADP	_	_	25	case	_	_
 27	ਮਾਂ	_	NOUN	_	_	28	compound	_	_
-28	ਖੇਡ	_	NOUN	_	_	29	appos	_	_
-29	ਕਬੱਡੀ	_	NOUN	_	_	31	obj	_	_
+28	ਖੇਡ	_	NOUN	_	_	31	obj	_	_
+29	ਕਬੱਡੀ	_	NOUN	_	_	28	appos	_	_
 30	ਨੂੰ	_	ADP	_	_	29	case	_	_
 31	ਖੇਡ	_	VERB	_	_	36	advcl	_	_
 32	ਕੇ	_	AUX	_	_	31	aux	_	_
@@ -84,7 +84,7 @@
 8	ਵਿੱਚ	_	ADP	_	_	7	case	_	_
 9	ਰੱਖਦੇ	_	VERB	_	_	18	advcl	_	_
 10	ਹੋਏ	_	AUX	_	_	9	aux	_	_
-11	ਆਪਣੇ	_	PRON	_	_	12	fixed	_	_
+11	ਆਪਣੇ	_	PRON	_	_	12	nmod	_	_
 12	ਆਪ	_	PRON	_	_	18	obj	_	_
 13	ਨੂੰ	_	ADP	_	_	12	case	_	_
 14	ਕਿਸਾਨਾਂ	_	NOUN	_	_	17	nmod	_	_
@@ -140,7 +140,7 @@
 # text = ਕਾਂਸ਼ਰਾਮ ਨੇ ਦਲਿਤਾਂ ਨਾਲ ਜੁੜੇ ਸਵਾਲ ਅਤੇ ਅੰਬੇਡਕਰ ਜਯੰਤੀ ਵਾਲੇ ਦਿਨ ਛੁੱਟੀ ਐਲਾਨਣ ਦੀ ਮੰਗ ਚੁੱਕੀ।
 1	ਕਾਂਸ਼ਰਾਮ	_	PROPN	_	_	16	nsubj	_	_
 2	ਨੇ	_	ADP	_	_	1	case	_	_
-3	ਦਲਿਤਾਂ	_	NOUN	_	_	5	obj	_	_
+3	ਦਲਿਤਾਂ	_	NOUN	_	_	5	obl	_	_
 4	ਨਾਲ	_	ADP	_	_	3	case	_	_
 5	ਜੁੜੇ	_	VERB	_	_	6	acl	_	_
 6	ਸਵਾਲ	_	NOUN	_	_	15	nmod	_	_
@@ -151,7 +151,7 @@
 11	ਦਿਨ	_	NOUN	_	_	13	obl	_	_
 12	ਛੁੱਟੀ	_	NOUN	_	_	13	obj	_	_
 13	ਐਲਾਨਣ	_	VERB	_	_	6	conj	_	_
-14	ਦੀ	_	ADP	_	_	6	cc	_	_
+14	ਦੀ	_	ADP	_	_	6	case	_	_
 15	ਮੰਗ	_	NOUN	_	_	16	compound:lvc	_	_
 16	ਚੁੱਕੀ	_	VERB	_	_	0	root	_	_
 17	।	_	PUNCT	_	_	16	punct	_	_
@@ -182,8 +182,8 @@
 1	ਆਪਣੇ	_	PRON	_	_	2	fixed	_	_
 2	ਆਪ	_	PRON	_	_	5	obj	_	_
 3	ਨੂੰ	_	ADP	_	_	2	case	_	_
-4	ਚੈੱਕ	_	X	_	_	5	compound:lvc	_	_
-5	ਕਰੋ	_	VERB	_	_	_	_	_	_
+4	ਚੈੱਕ	_	ADJ	_	_	5	compound:lvc	_	_
+5	ਕਰੋ	_	VERB	_	_	0	root	_	_
 6	:	_	PUNCT	_	_	15	punct	_	_
 7	ਪੇਟ	_	NOUN	_	_	15	obl	_	_
 8	ਦੇ	_	ADP	_	_	7	case	_	_
@@ -388,7 +388,7 @@
 26	ਆਰਥਿਕ	_	ADJ	_	_	27	amod	_	_
 27	ਤੰਗੀ	_	NOUN	_	_	29	nmod	_	_
 28	ਦਾ	_	ADP	_	_	27	case	_	_
-29	ਸਾਹਮਣਾ	_	ADP	_	_	30	compound:lvc	_	_
+29	ਸਾਹਮਣਾ	_	NOUN	_	_	30	compound:lvc	_	_
 30	ਕਰਨਾ	_	VERB	_	_	12	acl:relcl	_	_
 31	ਪੈ	_	VERB	_	_	30	compound:svc	_	_
 32	ਰਿਹਾ	_	AUX	_	_	30	aux	_	_
@@ -554,7 +554,7 @@
 # text = ਟੈਕਸੀ ਯੂਨੀਅਨ ਤੇ ਦੁਕਾਨਦਾਰਾਂ ਵਲੋਂ ਸਾਂਝੇ ਤੌਰ 'ਤੇ ਪਿੰਡ ਟੁੱਟ ਕਲਾਂ ਜਲੰਧਰ ਵਿਖੇ ਸਰਬੱਤ ਦੇ ਭਲੇ ਵਾਸਤੇ ਧਾਰਮਿਕ ਸਮਾਗਮ ਮਿਤੀ 21 ਸਤੰਬਰ ਨੰੂ ਬਹੁਤ ਹੀ ਸ਼ਰਧਾ ਭਾਵਨਾ ਨਾਲ ਮਨਾਇਆ ਜਾ ਰਿਹਾ ਹੈ |
 1	ਟੈਕਸੀ	_	NOUN	_	_	2	compound	_	_
 2	ਯੂਨੀਅਨ	_	NOUN	_	_	29	nsubj:pass	_	_
-3	ਤੇ	_	ADP	_	_	4	cc	_	_
+3	ਤੇ	_	CCONJ	_	_	4	cc	_	_
 4	ਦੁਕਾਨਦਾਰਾਂ	_	NOUN	_	_	2	conj	_	_
 5	ਵਲੋਂ	_	ADP	_	_	2	case	_	_
 6	ਸਾਂਝੇ	_	ADJ	_	_	7	amod	_	_
@@ -791,7 +791,7 @@
 4	ਕਰੀਨਾ	_	PROPN	_	_	7	nsubj	_	_
 5	ਕੋਲ	_	ADP	_	_	4	case	_	_
 6	'	_	PUNCT	_	_	7	punct	_	_
-7	ਤਖਤ	_	PROPN	_	_	_	_	_	_
+7	ਤਖਤ	_	PROPN	_	_	0	root	_	_
 8	'	_	PUNCT	_	_	7	punct	_	_
 9	ਤੇ	_	CCONJ	_	_	13	cc	_	_
 10	ਅਕਸ਼ੈ	_	PROPN	_	_	13	nmod	_	_
@@ -895,7 +895,7 @@
 # sent_id = indiccorp_40
 # text = ਮੁਸਲਿਮ ਵੋਟਰਾਂ ਨੂੰ ਸ਼ਾਦੀ ਮੁਬਾਰਕ ਯੋਜਨਾ ਅਤੇ ਕਲਿਆਣ ਲਕਸ਼ਮੀ ਯੋਜਨਾ ਨੇ ਉਸ ਨੂੰ ਭਾਰੀ ਬਹੁਮਤ ਦਿਵਾ ਦਿੱਤਾ।
 1	ਮੁਸਲਿਮ	_	ADJ	_	_	2	amod	_	_
-2	ਵੋਟਰਾਂ	_	NOUN	_	_	16	obl	_	_
+2	ਵੋਟਰਾਂ	_	NOUN	_	_	5	nmod	_	_
 3	ਨੂੰ	_	ADP	_	_	2	case	_	_
 4	ਸ਼ਾਦੀ	_	PROPN	_	_	5	compound	_	_
 5	ਮੁਬਾਰਕ	_	PROPN	_	_	6	compound	_	_
@@ -905,7 +905,7 @@
 9	ਲਕਸ਼ਮੀ	_	PROPN	_	_	10	compound	_	_
 10	ਯੋਜਨਾ	_	PROPN	_	_	6	conj	_	_
 11	ਨੇ	_	ADP	_	_	6	case	_	_
-12	ਉਸ	_	PRON	_	_	16	obl	_	_
+12	ਉਸ	_	PRON	_	_	16	iobj	_	_
 13	ਨੂੰ	_	ADP	_	_	12	case	_	_
 14	ਭਾਰੀ	_	ADJ	_	_	15	amod	_	_
 15	ਬਹੁਮਤ	_	NOUN	_	_	16	obj	_	_
@@ -2518,7 +2518,7 @@
 14	ਦਾ	_	ADP	_	_	13	case	_	_
 15	ਕੋਈ	_	DET	_	_	16	det	_	_
 16	ਫਰਕ	_	NOUN	_	_	18	compound:lvc	_	_
-17	ਨਹੀਂ	_	ADV	_	_	_	_	_	_
+17	ਨਹੀਂ	_	ADV	_	_	18	advmod	_	_
 18	ਪਵੇਗਾ	_	VERB	_	_	9	ccomp	_	_
 19	।	_	PUNCT	_	_	9	punct	_	_
 
@@ -2867,7 +2867,7 @@
 6	ਸਾਰੀਆਂ	_	DET	_	_	8	det	_	_
 7	234	_	NUM	_	_	8	nummod	_	_
 8	ਸੀਟਾਂ	_	NOUN	_	_	11	obl	_	_
-9	'ਤੇ	_	ADP	_	_	8	ccomp	_	_
+9	'ਤੇ	_	ADP	_	_	8	case	_	_
 10	ਚੋਣ	_	NOUN	_	_	11	obj	_	_
 11	ਲੜਾਂਗੇ	_	VERB	_	_	0	root	_	_
 12	।	_	PUNCT	_	_	11	punct	_	_
@@ -2916,7 +2916,7 @@
 
 # sent_id = bbc_india-42526961_9
 # text = ਨਵੀਂ ਪਾਰਟੀ ਦੇ ਐਲਾਨ ਤੋਂ ਬਾਅਦ ਹੀ ਸੋਸ਼ਲ ਮੀਡੀਆ 'ਤੇ ਰਜਨੀਕਾਂਤ ਟਰੈਂਡ ਕਰਨ ਲੱਗੇ।
-1	ਉਨ੍ਹਾਂ	_	PRON	_	_	12	obl	_	_
+1	ਉਨ੍ਹਾਂ	_	PRON	_	_	12	iobj	_	_
 2	ਨੂੰ	_	ADP	_	_	1	case	_	_
 3	ਟਵੀਟ	_	NOUN	_	_	4	compound:lvc	_	_
 4	ਕਰਕੇ	_	VERB	_	_	12	advcl	_	_
@@ -3131,7 +3131,7 @@
 3	ਦੋ	_	NUM	_	_	4	nummod	_	_
 4	ਧੀਆਂ	_	NOUN	_	_	5	nsubj	_	_
 5	ਐਸ਼ਵਰਿਆ	_	PROPN	_	_	0	root	_	_
-6	ਤੇ	_	ADP	_	_	7	cc	_	_
+6	ਤੇ	_	CCONJ	_	_	7	cc	_	_
 7	ਸੌਂਦਰਿਆ	_	PROPN	_	_	5	conj	_	_
 8	ਹਨ	_	AUX	_	_	5	cop	_	_
 9	।	_	PUNCT	_	_	5	punct	_	_
@@ -3251,17 +3251,17 @@
 2	ਜਦੋਂ	_	SCONJ	_	_	3	mark	_	_
 3	ਵੱਡਾ	_	ADJ	_	_	18	advcl	_	_
 4	ਹੋਇਆ	_	AUX	_	_	3	cop	_	_
-5	,	_	PUNCT	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	3	punct	_	_
 6	ਉਹ	_	PRON	_	_	7	nsubj	_	_
-7	ਕਹਿੰਦੇ	_	VERB	_	_	15	parataxis	_	_
+7	ਕਹਿੰਦੇ	_	VERB	_	_	15	discourse	_	_
 8	ਨੇ	_	AUX	_	_	7	aux	_	_
-9	ਨਾ	_	AV	_	_	15	advmod	_	_
-10	ਕਿ	_	SCONJ	_	_	15	mark	_	_
+9	ਨਾ	_	SCONJ	_	_	15	mark	_	_
+10	ਕਿ	_	SCONJ	_	_	9	fixed	_	_
 11	ਘਾਟ	_	NOUN	_	_	14	nmod	_	_
 12	ਘਾਟ	_	NOUN	_	_	11	compound:redup	_	_
 13	ਦਾ	_	ADP	_	_	11	case	_	_
 14	ਪਾਣੀ	_	NOUN	_	_	15	obj	_	_
-15	ਪੀਂਦੇ	_	VERB	_	_	3	conj	_	_
+15	ਪੀਂਦੇ	_	VERB	_	_	3	advcl	_	_
 16	ਪੀਂਦੇ	_	VERB	_	_	15	compound:redup	_	_
 17	ਪਤਾ	_	ADJ	_	_	18	compound:lvc	_	_
 18	ਚਲਿਆ	_	VERB	_	_	0	root	_	_
@@ -3612,7 +3612,7 @@
 47	ਉਹ	_	PRON	_	_	53	obl	_	_
 48	ਨਾਲੇ	_	ADP	_	_	47	case	_	_
 49	ਉਸ	_	DET	_	_	50	det	_	_
-50	ਬੁਢੜੀ	_	NOUN	_	_	53	obl	_	_
+50	ਬੁਢੜੀ	_	NOUN	_	_	53	iobj	_	_
 51	ਨੂੰ	_	ADP	_	_	50	case	_	_
 52	ਮਸ਼ਵਰਾ	_	NOUN	_	_	53	obj	_	_
 53	ਦੇਂਦੇ	_	VERB	_	_	42	conj	_	_
@@ -4031,7 +4031,7 @@
 6	ਹੁੰਦੀ	_	VERB	_	_	0	root	_	_
 7	,	_	PUNCT	_	_	6	punct	_	_
 8	ਇਹ	_	PRON	_	_	11	nsubj	_	_
-9	ਤੇ	_	ADP	_	_	8	discourse	_	_
+9	ਤੇ	_	PART	_	_	8	discourse	_	_
 10	ਸਮਝੋ	_	VERB	_	_	6	parataxis	_	_
 11	ਇੰਟਰਵਲ	_	NOUN	_	_	10	ccomp	_	_
 12	ਹੈ	_	AUX	_	_	11	cop	_	_
@@ -4071,7 +4071,7 @@
 9	।	_	PUNCT	_	_	8	punct	_	_
 
 # sent_id = blog_lahore_32
-# text = ਅੱਛਾ ਜੀ, ਤਦ ਤਕ, ਰਬ ਰਾਖਾ।
+# text = ਮੇਰੀ ਪਸੰਦ ਦਾ ਇਹ ਗੀਤ ਸੁਣੋ ਤੇ ਬੁਲ੍ਹੇ ਲੁੱਟੋ।
 1	ਮੇਰੀ	_	PRON	_	_	2	nmod	_	_
 2	ਪਸੰਦ	_	NOUN	_	_	5	nmod	_	_
 3	ਦਾ	_	ADP	_	_	2	case	_	_
