@@ -4720,3 +4720,197 @@
 22	ਪੜ੍ਹਾਉਂਦੇ	_	VERB	_	_	0	root	_	_
 23	ਹਨ	_	AUX	_	_	22	aux	_	_
 24	।	_	PUNCT	_	_	22	punct	_	_
+
+# sent_id = editorial_trolley_punjab_21
+# text = ਅਨੇਕਾਂ ਪੰਜਾਬੀ ਗਾਇਕਾਂ, ਸੰਗੀਤਕਾਰਾਂ, ਚਿਤਰਕਾਰਾਂ, ਫੋਟੋਕਾਰਾਂ ਅਤੇ ਮੀਡੀਆ ਕਰਮੀਆਂ ਨੇ ਬਾਹਰਲੇ ਦੇਸ਼ਾਂ ਵਿਚ ਜਾ ਕੇ ਆਪੋ ਆਪਣੇ ਖੇਤਰ ਵਿਚ ਬਹੁਤ ਨਾਮ ਅਤੇ ਨਾਮਾ ਕਮਾਇਆ ਹੈ।
+1	ਅਨੇਕਾਂ	_	DET	_	_	3	det	_	_
+2	ਪੰਜਾਬੀ	_	ADJ	_	_	3	amod	_	_
+3	ਗਾਇਕਾਂ	_	NOUN	_	_	27	nsubj	_	_
+4	,	_	PUNCT	_	_	5	punct	_	_
+5	ਸੰਗੀਤਕਾਰਾਂ	_	NOUN	_	_	3	conj	_	_
+6	,	_	PUNCT	_	_	7	punct	_	_
+7	ਚਿਤਰਕਾਰਾਂ	_	NOUN	_	_	3	conj	_	_
+8	,	_	PUNCT	_	_	9	punct	_	_
+9	ਫੋਟੋਕਾਰਾਂ	_	NOUN	_	_	3	conj	_	_
+10	ਅਤੇ	_	CCONJ	_	_	12	cc	_	_
+11	ਮੀਡੀਆ	_	NOUN	_	_	12	compound	_	_
+12	ਕਰਮੀਆਂ	_	NOUN	_	_	3	conj	_	_
+13	ਨੇ	_	ADP	_	_	3	case	_	_
+14	ਬਾਹਰਲੇ	_	ADJ	_	_	15	amod	_	_
+15	ਦੇਸ਼ਾਂ	_	NOUN	_	_	17	obl:lmod	_	_
+16	ਵਿਚ	_	ADP	_	_	15	case	_	_
+17	ਜਾ	_	VERB	_	_	27	advcl	_	_
+18	ਕੇ	_	AUX	_	_	17	aux	_	_
+19	ਆਪੋ	_	PRON	_	_	27	obl	_	_
+20	ਆਪਣੇ	_	PRON	_	_	21	nmod	_	_
+21	ਖੇਤਰ	_	NOUN	_	_	27	obl	_	_
+22	ਵਿਚ	_	ADP	_	_	21	case	_	_
+23	ਬਹੁਤ	_	DET	_	_	24	dep	_	_
+24	ਨਾਮ	_	NOUN	_	_	27	obj	_	_
+25	ਅਤੇ	_	CCONJ	_	_	26	cc	_	_
+26	ਨਾਮਾ	_	NOUN	_	_	24	conj	_	_
+27	ਕਮਾਇਆ	_	VERB	_	_	0	root	_	_
+28	ਹੈ	_	AUX	_	_	27	aux	_	_
+29	।	_	PUNCT	_	_	27	punct	_	_
+
+# sent_id = editorial_trolley_punjab_22
+# text = ਬਹੁਤ ਸਾਰੇ ਪੰਜਾਬੀ ਕਿਸਾਨਾਂ ਦੇ ਅਮਰੀਕਾ, ਕੈਨੇਡਾ ਅਤੇ ਅਸਟ੍ਰੇਲੀਆ ਵਿਚ ਵੱਡੇ ਵੱਡੇ ਖੇਤੀ ਫਾਰਮ ਅਤੇ ਬਾਗ ਹਨ।
+1	ਬਹੁਤ	_	DET	_	_	4	det	_	_
+2	ਸਾਰੇ	_	DET	_	_	4	det	_	_
+3	ਪੰਜਾਬੀ	_	ADJ	_	_	4	amod	_	_
+4	ਕਿਸਾਨਾਂ	_	NOUN	_	_	14	nsubj	_	_
+5	ਦੇ	_	ADP	_	_	4	case	_	_
+6	ਅਮਰੀਕਾ	_	PROPN	_	_	14	obl:lmod	_	_
+7	,	_	PUNCT	_	_	8	punct	_	_
+8	ਕੈਨੇਡਾ	_	PROPN	_	_	6	conj	_	_
+9	ਅਤੇ	_	CCONJ	_	_	10	cc	_	_
+10	ਅਸਟ੍ਰੇਲੀਆ	_	PROPN	_	_	6	conj	_	_
+11	ਵਿਚ	_	ADP	_	_	10	case	_	_
+12	ਵੱਡੇ	_	ADJ	_	_	13	compound:redup	_	_
+13	ਵੱਡੇ	_	ADJ	_	_	14	amod	_	_
+14	ਖੇਤੀ	_	NOUN	_	_	0	root	_	_
+15	ਫਾਰਮ	_	NOUN	_	_	14	conj	_	_
+16	ਅਤੇ	_	CCONJ	_	_	17	cc	_	_
+17	ਬਾਗ	_	NOUN	_	_	14	conj	_	_
+18	ਹਨ	_	AUX	_	_	14	cop	_	_
+19	।	_	PUNCT	_	_	14	punct	_	_
+
+# sent_id = editorial_trolley_punjab_23
+# text = ਕਈ ਪੰਜਾਬੀ ਵਪਾਰੀਆਂ ਨੇ ਬਾਹਰ ਜਾ ਕੇ ਆਪਣੇ ਵਪਾਰਕ ਅਦਾਰੇ ਸਥਾਪਤ ਕੀਤੇ ਹਨ।
+1	ਕਈ	_	DET	_	_	3	det	_	_
+2	ਪੰਜਾਬੀ	_	ADJ	_	_	3	amod	_	_
+3	ਵਪਾਰੀਆਂ	_	NOUN	_	_	12	nsubj	_	_
+4	ਨੇ	_	ADP	_	_	3	case	_	_
+5	ਬਾਹਰ	_	ADV	_	_	6	advmod	_	_
+6	ਜਾ	_	VERB	_	_	12	advcl	_	_
+7	ਕੇ	_	AUX	_	_	6	aux	_	_
+8	ਆਪਣੇ	_	PRON	_	_	10	nmod	_	_
+9	ਵਪਾਰਕ	_	ADJ	_	_	10	amod	_	_
+10	ਅਦਾਰੇ	_	NOUN	_	_	12	obj	_	_
+11	ਸਥਾਪਤ	_	ADJ	_	_	12	compound:lvc	_	_
+12	ਕੀਤੇ	_	VERB	_	_	0	root	_	_
+13	ਹਨ	_	AUX	_	_	12	aux	_	_
+14	।	_	PUNCT	_	_	12	punct	_	_
+
+# sent_id = editorial_trolley_punjab_24
+# text = ਆਪਣੀ ਜਾਣ ਪਛਾਣ ਦੇ ਆਧਾਰ 'ਤੇ ਕਹਿ ਸਕਦਾ ਹਾਂ ਕਿ ਪੰਜਾਬ ਦੇ ਕਿਸਾਨ, ਵਪਾਰੀ, ਇੰਜਨੀਅਰ, ਡਾਕਟਰ, ਵਿਗਿਆਨੀ, ਯੋਜਨਾਕਾਰ, ਅਧਿਆਪਕ ਅਤੇ ਹੋਰ ਕਿੱਤਾਕਾਰ ਤੇ ਹੁਨਰਮੰਦ ਵਿਕਸਤ ਦੇਸ਼ਾਂ ਦੀ ਤਰੱਕੀ ਵਿਚ ਆਪਣਾ ਹਿੱਸਾ ਪਾ ਰਹੇ ਹਨ।
+1	ਆਪਣੀ	_	PRON	_	_	2	nmod	_	_
+2	ਜਾਣ	_	NOUN	_	_	5	nmod	_	_
+3	ਪਛਾਣ	_	NOUN	_	_	2	conj	_	_
+4	ਦੇ	_	ADP	_	_	2	case	_	_
+5	ਆਧਾਰ	_	NOUN	_	_	7	obl	_	_
+6	'ਤੇ	_	ADP	_	_	5	case	_	_
+7	ਕਹਿ	_	VERB	_	_	0	root	_	_
+8	ਸਕਦਾ	_	AUX	_	_	7	aux	_	_
+9	ਹਾਂ	_	AUX	_	_	7	aux	_	_
+10	ਕਿ	_	SCONJ	_	_	38	mark	_	_
+11	ਪੰਜਾਬ	_	PROPN	_	_	13	nmod	_	_
+12	ਦੇ	_	ADP	_	_	11	case	_	_
+13	ਕਿਸਾਨ	_	NOUN	_	_	38	nsubj	_	_
+14	,	_	PUNCT	_	_	15	punct	_	_
+15	ਵਪਾਰੀ	_	NOUN	_	_	13	conj	_	_
+16	,	_	PUNCT	_	_	17	punct	_	_
+17	ਇੰਜਨੀਅਰ	_	NOUN	_	_	13	conj	_	_
+18	,	_	PUNCT	_	_	19	punct	_	_
+19	ਡਾਕਟਰ	_	NOUN	_	_	13	conj	_	_
+20	,	_	PUNCT	_	_	21	punct	_	_
+21	ਵਿਗਿਆਨੀ	_	NOUN	_	_	13	conj	_	_
+22	,	_	PUNCT	_	_	23	punct	_	_
+23	ਯੋਜਨਾਕਾਰ	_	NOUN	_	_	13	conj	_	_
+24	,	_	PUNCT	_	_	25	punct	_	_
+25	ਅਧਿਆਪਕ	_	NOUN	_	_	13	conj	_	_
+26	ਅਤੇ	_	CCONJ	_	_	28	cc	_	_
+27	ਹੋਰ	_	DET	_	_	28	det	_	_
+28	ਕਿੱਤਾਕਾਰ	_	NOUN	_	_	13	conj	_	_
+29	ਤੇ	_	CCONJ	_	_	30	cc	_	_
+30	ਹੁਨਰਮੰਦ	_	ADJ	_	_	28	conj	_	_
+31	ਵਿਕਸਤ	_	ADJ	_	_	32	amod	_	_
+32	ਦੇਸ਼ਾਂ	_	NOUN	_	_	34	nmod	_	_
+33	ਦੀ	_	ADP	_	_	32	case	_	_
+34	ਤਰੱਕੀ	_	NOUN	_	_	38	obl	_	_
+35	ਵਿਚ	_	ADP	_	_	34	case	_	_
+36	ਆਪਣਾ	_	PRON	_	_	37	nmod	_	_
+37	ਹਿੱਸਾ	_	NOUN	_	_	38	obj	_	_
+38	ਪਾ	_	VERB	_	_	7	ccomp	_	_
+39	ਰਹੇ	_	AUX	_	_	38	aux	_	_
+40	ਹਨ	_	AUX	_	_	38	aux	_	_
+41	।	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = editorial_trolley_punjab_25
+# text = ਦੂਜੇ ਸ਼ਬਦਾਂ ਵਿਚ ਪੰਜਾਬ ਦੇ ਗੁਣੀ ਕਿੱਤਾਕਾਰ ਅਤੇ ਹੁਨਰਮੰਦ ਪੰਜਾਬ ਨੂੰ ਦੁਨੀਆਂ ਦਾ ਸਭ ਤੋਂ ਵਿਕਸਤ ਖਿੱਤਾ ਬਣਾਉਣ ਦੀ ਯੋਗਤਾ ਰੱਖਦੇ ਹਨ।
+1	ਦੂਜੇ	_	ADJ	_	_	2	amod	_	_
+2	ਸ਼ਬਦਾਂ	_	NOUN	_	_	21	obl	_	_
+3	ਵਿਚ	_	ADP	_	_	2	case	_	_
+4	ਪੰਜਾਬ	_	PROPN	_	_	7	nmod	_	_
+5	ਦੇ	_	ADP	_	_	4	case	_	_
+6	ਗੁਣੀ	_	ADJ	_	_	7	amod	_	_
+7	ਕਿੱਤਾਕਾਰ	_	NOUN	_	_	21	nsubj	_	_
+8	ਅਤੇ	_	CCONJ	_	_	9	cc	_	_
+9	ਹੁਨਰਮੰਦ	_	NOUN	_	_	7	conj	_	_
+10	ਪੰਜਾਬ	_	PROPN	_	_	18	obj	_	_
+11	ਨੂੰ	_	ADP	_	_	10	case	_	_
+12	ਦੁਨੀਆਂ	_	NOUN	_	_	17	nmod	_	_
+13	ਦਾ	_	ADP	_	_	12	case	_	_
+14	ਸਭ	_	PRON	_	_	16	advmod	_	_
+15	ਤੋਂ	_	ADP	_	_	14	fixed	_	_
+16	ਵਿਕਸਤ	_	ADJ	_	_	17	amod	_	_
+17	ਖਿੱਤਾ	_	NOUN	_	_	18	xcomp	_	_
+18	ਬਣਾਉਣ	_	VERB	_	_	20	acl	_	_
+19	ਦੀ	_	ADP	_	_	18	mark	_	_
+20	ਯੋਗਤਾ	_	NOUN	_	_	21	obj	_	_
+21	ਰੱਖਦੇ	_	VERB	_	_	0	root	_	_
+22	ਹਨ	_	AUX	_	_	21	aux	_	_
+23	।	_	PUNCT	_	_	21	punct	_	_
+
+# sent_id = editorial_trolley_punjab_26
+# text = ਦੂਜੇ ਸ਼ਬਦਾਂ ਵਿਚ ਪੰਜਾਬ ਦੇ ਗੁਣੀ ਕਿੱਤਾਕਾਰ ਅਤੇ ਹੁਨਰਮੰਦ ਪੰਜਾਬ ਨੂੰ ਦੁਨੀਆਂ ਦਾ ਸਭ ਤੋਂ ਵਿਕਸਤ ਖਿੱਤਾ ਬਣਾਉਣ ਦੀ ਯੋਗਤਾ ਰੱਖਦੇ ਹਨ।
+1	ਪਰ	_	CCONJ	_	_	11	cc	_	_
+2	ਉਹਨਾਂ	_	PRON	_	_	5	nsubj	_	_
+3	ਦੇ	_	ADP	_	_	2	case	_	_
+4	ਅਜਿਹਾ	_	PRON	_	_	5	obj	_	_
+5	ਕਰਨ	_	VERB	_	_	11	advcl	_	_
+6	ਲਈ	_	ADP	_	_	5	mark	_	_
+7	ਪੰਜਾਬ	_	PROPN	_	_	11	obl:lmod	_	_
+8	ਅੰਦਰ	_	ADP	_	_	7	case	_	_
+9	ਲੋੜੀਂਦਾ	_	ADJ	_	_	10	amod	_	_
+10	ਮਹੌਲ	_	NOUN	_	_	11	nmod	_	_
+11	ਗੈਰਹਾਜ਼ਰ	_	ADJ	_	_	0	root	_	_
+12	ਹੈ	_	AUX	_	_	11	cop	_	_
+13	।	_	PUNCT	_	_	11	punct	_	_
+
+# sent_id = editorial_trolley_punjab_27
+# text =  ਫਿਰ ਓਹੀ ਸਵਾਲ ਪੈਦਾ ਹੁੰਦਾ ਹੈ ਕਿ ਪੰਜਾਬ ਨੂੰ ਅਜਿਹਾ ਕਿਹੜਾ ਰੋਗ ਲੱਗਿਆ ਹੈ ਜਿਸ ਨੇ ਪੰਜਾਬ ਦੀ ਆਰਥਿਕਤਾ ਦੇ ਰਸ ਨੂੰ ਚੂਸ ਕੇ ਇਸ ਨੂੰ ਸਾਹ-ਸਤ ਹੀਣ ਕਰ ਦਿੱਤਾ ਹੈ?
+1	ਫਿਰ	_	ADV	_	_	5	advmod	_	_
+2	ਓਹੀ	_	DET	_	_	3	det	_	_
+3	ਸਵਾਲ	_	NOUN	_	_	5	nsubj	_	_
+4	ਪੈਦਾ	_	ADJ	_	_	5	compound:lvc	_	_
+5	ਹੁੰਦਾ	_	VERB	_	_	0	root	_	_
+6	ਹੈ	_	AUX	_	_	5	aux	_	_
+7	ਕਿ	_	SCONJ	_	_	13	mark	_	_
+8	ਪੰਜਾਬ	_	PROPN	_	_	13	nsubj:dat	_	_
+9	ਨੂੰ	_	ADP	_	_	8	case	_	_
+10	ਅਜਿਹਾ	_	DET	_	_	12	det	_	_
+11	ਕਿਹੜਾ	_	DET	_	_	12	det	_	_
+12	ਰੋਗ	_	NOUN	_	_	13	obj	_	_
+13	ਲੱਗਿਆ	_	VERB	_	_	3	acl	_	_
+14	ਹੈ	_	AUX	_	_	13	aux	_	_
+15	ਜਿਸ	_	PRON	_	_	31	nsubj	_	_
+16	ਨੇ	_	ADP	_	_	15	case	_	_
+17	ਪੰਜਾਬ	_	PROPN	_	_	19	nmod	_	_
+18	ਦੀ	_	ADP	_	_	17	case	_	_
+19	ਆਰਥਿਕਤਾ	_	NOUN	_	_	21	nmod	_	_
+20	ਦੇ	_	ADP	_	_	19	case	_	_
+21	ਰਸ	_	NOUN	_	_	23	obj	_	_
+22	ਨੂੰ	_	ADP	_	_	21	case	_	_
+23	ਚੂਸ	_	VERB	_	_	31	advcl	_	_
+24	ਕੇ	_	AUX	_	_	23	aux	_	_
+25	ਇਸ	_	PRON	_	_	31	obj	_	_
+26	ਨੂੰ	_	ADP	_	_	25	obj	_	_
+27	ਸਾਹ	_	NOUN	_	_	30	compound	_	_
+28	-	_	PUNCT	_	_	29	punct	_	_
+29	ਸਤ	_	NOUN	_	_	27	conj	_	_
+30	ਹੀਣ	_	ADJ	_	_	31	compound:lvc	_	_
+31	ਕਰ	_	VERB	_	_	12	acl:relcl	_	_
+32	ਦਿੱਤਾ	_	VERB	_	_	31	compound:svc	_	_
+33	ਹੈ	_	AUX	_	_	31	aux	_	_
+34	?	_	PUNCT	_	_	5	punct	_	_
