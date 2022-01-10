@@ -1,76 +1,76 @@
 # sent_id = misc_indiccorp_1
 # text = ਰਾਸ਼ਟਰਪਤੀ ਰਿਟਾਇਰਮੈਂਟ ਨੂੰ ਘਟਾਉਣ ਲਈ ਅਸਫਲ ਕੋਸ਼ਿਸ਼
-1	ਰਾਸ਼ਟਰਪਤੀ	_	NOUN	_	_	2	nmod	2:nmod	_
-2	ਰਿਟਾਇਰਮੈਂਟ	_	NOUN	_	_	4	obj	4:obj	_
-3	ਨੂੰ	_	ADP	_	_	2	case	2:case	_
-4	ਘਟਾਉਣ	_	VERB	_	_	7	acl	7:acl	_
-5	ਲਈ	_	ADP	_	_	4	mark	4:mark	_
-6	ਅਸਫਲ	_	ADJ	_	_	7	amod	7:amod	_
-7	ਕੋਸ਼ਿਸ਼	_	NOUN	_	_	0	root	0:root	_
+1	ਰਾਸ਼ਟਰਪਤੀ	ਰਾਸ਼ਟਰਪਤੀ	NOUN	_	_	2	nmod	2:nmod	_
+2	ਰਿਟਾਇਰਮੈਂਟ	ਰਿਟਾਇਰਮੈਂਟ	NOUN	_	_	4	obj	4:obj	_
+3	ਨੂੰ	ਨੂੰ	ADP	_	_	2	case	2:case	_
+4	ਘਟਾਉਣ	ਘਟਾਉ	VERB	_	_	7	acl	7:acl	_
+5	ਲਈ	ਲਈ	ADP	_	_	4	mark	4:mark	_
+6	ਅਸਫਲ	ਅਸਫਲ	ADJ	_	_	7	amod	7:amod	_
+7	ਕੋਸ਼ਿਸ਼	ਕੋਸ਼ਿਸ਼	NOUN	_	_	0	root	0:root	_
 
 # sent_id = misc_indiccorp_2
 # text = ਸਿਕੰਦਰ ਸਿੰਘ ਮਲੂਕਾ ਅਤੇ ਖੇਡ ਵਿਭਾਗ ਦੇ ਉਚ ਅਧਿਕਾਰੀਆਂ ਦਾ ਤਹਿ ਦਿਲੋਂ ਧੰਨਵਾਦ ਕੀਤਾ ਹੈ ਜਿਨ੍ਹਾਂ ਦੇ ਸਹਿਯੋਗ ਸਦਕਾ ਨਿਊਜ਼ੀਲੈਂਡ ਦੀਆਂ ਖਿਡਾਰਨਾਂ ਪਹਿਲੀ ਵਾਰ ਪੰਜਾਬੀਆਂ ਦੀ ਮਾਂ ਖੇਡ ਕਬੱਡੀ ਨੂੰ ਖੇਡ ਕੇ ਇਕ ਨਵਾਂ ਇਤਿਹਾਸ ਰਚਣਗੀਆਂ।
-1	ਸਿਕੰਦਰ	_	PROPN	_	_	14	obj	14:obj	_
-2	ਸਿੰਘ	_	PROPN	_	_	1	flat	1:flat	_
-3	ਮਲੂਕਾ	_	PROPN	_	_	1	flat	1:flat	_
-4	ਅਤੇ	_	CCONJ	_	_	9	cc	9:cc	_
-5	ਖੇਡ	_	NOUN	_	_	6	nmod	6:nmod	_
-6	ਵਿਭਾਗ	_	NOUN	_	_	9	nmod	9:nmod	_
-7	ਦੇ	_	ADP	_	_	6	case	6:case	_
-8	ਉਚ	_	ADJ	_	_	9	amod	9:amod	_
-9	ਅਧਿਕਾਰੀਆਂ	_	NOUN	_	_	1	conj	1:conj|14:obj	_
-10	ਦਾ	_	ADP	_	_	1	case	1:case|9:case	_
-11	ਤਹਿ	_	ADJ	_	_	12	amod	12:amod	_
-12	ਦਿਲੋਂ	_	NOUN	_	_	13	obl	13:obl	_
-13	ਧੰਨਵਾਦ	_	NOUN	_	_	14	compound:lvc	14:compound:lvc	_
-14	ਕੀਤਾ	_	VERB	_	_	0	root	0:root	_
-15	ਹੈ	_	AUX	_	_	14	aux	14:aux	_
-16	ਜਿਨ੍ਹਾਂ	_	PRON	_	_	18	nmod	18:nmod	_
-17	ਦੇ	_	ADP	_	_	16	case	16:case	_
-18	ਸਹਿਯੋਗ	_	NOUN	_	_	36	obl	36:obl	_
-19	ਸਦਕਾ	_	ADP	_	_	18	case	18:case	_
-20	ਨਿਊਜ਼ੀਲੈਂਡ	_	PROPN	_	_	22	nmod	22:nmod	_
-21	ਦੀਆਂ	_	ADP	_	_	20	case	20:case	_
-22	ਖਿਡਾਰਨਾਂ	_	NOUN	_	_	36	nsubj	36:nsubj	_
-23	ਪਹਿਲੀ	_	ADJ	_	_	24	amod	24:amod	_
-24	ਵਾਰ	_	NOUN	_	_	31	obl:tmod	31:obl:tmod	_
-25	ਪੰਜਾਬੀਆਂ	_	PROPN	_	_	28	nmod	28:nmod	_
-26	ਦੀ	_	ADP	_	_	25	case	25:case	_
-27	ਮਾਂ	_	NOUN	_	_	28	compound	28:compound	_
-28	ਖੇਡ	_	NOUN	_	_	31	obj	31:obj	_
-29	ਕਬੱਡੀ	_	NOUN	_	_	28	appos	28:appos	_
-30	ਨੂੰ	_	ADP	_	_	29	case	29:case	_
-31	ਖੇਡ	_	VERB	_	_	36	advcl	36:advcl	_
-32	ਕੇ	_	AUX	_	_	31	aux	31:aux	_
-33	ਇਕ	_	NUM	_	_	35	nummod	35:nummod	_
-34	ਨਵਾਂ	_	ADJ	_	_	35	amod	35:amod	_
-35	ਇਤਿਹਾਸ	_	NOUN	_	_	36	obj	36:obj	_
-36	ਰਚਣਗੀਆਂ	_	VERB	_	_	1	acl:relcl	1:acl:relcl	_
-37	।	_	PUNCT	_	_	14	punct	14:punct	_
+1	ਸਿਕੰਦਰ	ਸਿਕੰਦਰ	PROPN	_	_	14	obj	14:obj	_
+2	ਸਿੰਘ	ਸਿੰਘ	PROPN	_	_	1	flat	1:flat	_
+3	ਮਲੂਕਾ	ਮਲੂਕਾ	PROPN	_	_	1	flat	1:flat	_
+4	ਅਤੇ	ਅਤੇ	CCONJ	_	_	9	cc	9:cc	_
+5	ਖੇਡ	ਖੇਡ	NOUN	_	_	6	nmod	6:nmod	_
+6	ਵਿਭਾਗ	ਵਿਭਾਗ	NOUN	_	_	9	nmod	9:nmod	_
+7	ਦੇ	ਦਾ	ADP	_	_	6	case	6:case	_
+8	ਉਚ	ਉਚ	ADJ	_	_	9	amod	9:amod	_
+9	ਅਧਿਕਾਰੀਆਂ	ਅਧਿਕਾਰੀ	NOUN	_	_	1	conj	1:conj|14:obj	_
+10	ਦਾ	ਦਾ	ADP	_	_	1	case	1:case|9:case	_
+11	ਤਹਿ	ਤਹਿ	ADJ	_	_	12	amod	12:amod	_
+12	ਦਿਲੋਂ	ਦਿਲ	NOUN	_	_	13	obl	13:obl	_
+13	ਧੰਨਵਾਦ	ਧੰਨਵਾਦ	NOUN	_	_	14	compound:lvc	14:compound:lvc	_
+14	ਕੀਤਾ	ਕਰ	VERB	_	_	0	root	0:root	_
+15	ਹੈ	ਹੋ	AUX	_	_	14	aux	14:aux	_
+16	ਜਿਨ੍ਹਾਂ	ਜੋ	PRON	_	_	18	nmod	18:nmod	_
+17	ਦੇ	ਦਾ	ADP	_	_	16	case	16:case	_
+18	ਸਹਿਯੋਗ	ਸਹਿਯੋਗ	NOUN	_	_	36	obl	36:obl	_
+19	ਸਦਕਾ	ਸਦਕਾ	ADP	_	_	18	case	18:case	_
+20	ਨਿਊਜ਼ੀਲੈਂਡ	ਨਿਊਜ਼ੀਲੈਂਡ	PROPN	_	_	22	nmod	22:nmod	_
+21	ਦੀਆਂ	ਦਾ	ADP	_	_	20	case	20:case	_
+22	ਖਿਡਾਰਨਾਂ	ਖਿਡਾਰਨ	NOUN	_	_	36	nsubj	36:nsubj	_
+23	ਪਹਿਲੀ	ਪਹਿਲਾ	ADJ	_	_	24	amod	24:amod	_
+24	ਵਾਰ	ਵਾਰ	NOUN	_	_	31	obl	31:obl	_
+25	ਪੰਜਾਬੀਆਂ	ਪੰਜਾਬੀ	PROPN	_	_	28	nmod	28:nmod	_
+26	ਦੀ	ਦਾ	ADP	_	_	25	case	25:case	_
+27	ਮਾਂ	ਮਾਂ	NOUN	_	_	28	compound	28:compound	_
+28	ਖੇਡ	ਖੇਡ	NOUN	_	_	31	obj	31:obj	_
+29	ਕਬੱਡੀ	ਕਬੱਡੀ	NOUN	_	_	28	appos	28:appos	_
+30	ਨੂੰ	ਨੂੰ	ADP	_	_	29	case	29:case	_
+31	ਖੇਡ	ਖੇਡ	VERB	_	_	36	advcl	36:advcl	_
+32	ਕੇ	ਕੇ	AUX	_	_	31	aux	31:aux	_
+33	ਇਕ	ਇਕ	NUM	_	_	35	nummod	35:nummod	_
+34	ਨਵਾਂ	ਨਵਾਂ	ADJ	_	_	35	amod	35:amod	_
+35	ਇਤਿਹਾਸ	ਇਤਿਹਾਸ	NOUN	_	_	36	obj	36:obj	_
+36	ਰਚਣਗੀਆਂ	ਰਚ	VERB	_	_	1	acl:relcl	1:acl:relcl	_
+37	।	।	PUNCT	_	_	14	punct	14:punct	_
 
 # sent_id = misc_indiccorp_4
 # text = ਉਨਾਂ ਨੇ ਮਾਤਾ ਚੰਦ ਕੌਰ ਅਤੇ ਖੰਨਾ ਦੇ ਸ਼ਿਵ ਸੈਨਾ ਆਗੂ ਦੇ ਕਤਲਾਂ ਨੂੰ ਕਵਰ ਅਪ ਕਰਨ ਵਿੱਚ ਸਹਾਇਤਾ ਕੀਤੀ।
-1	ਉਨਾਂ	_	PRON	_	_	19	nsubj	19:nsubj	_
-2	ਨੇ	_	ADP	_	_	1	case	1:case	_
-3	ਮਾਤਾ	_	PROPN	_	_	13	nmod	13:nmod	_
-4	ਚੰਦ	_	PROPN	_	_	3	flat	3:flat	_
-5	ਕੌਰ	_	PROPN	_	_	3	flat	3:flat	_
-6	ਅਤੇ	_	CCONJ	_	_	7	cc	7:cc	_
-7	ਖੰਨਾ	_	PROPN	_	_	3	conj	3:conj|13:nmod	_
-8	ਦੇ	_	ADP	_	_	3	case	3:case|7:case	_
-9	ਸ਼ਿਵ	_	PROPN	_	_	10	compound	10:compound	_
-10	ਸੈਨਾ	_	PROPN	_	_	11	nmod	11:nmod	_
-11	ਆਗੂ	_	NOUN	_	_	13	nmod	13:nmod	_
-12	ਦੇ	_	ADP	_	_	11	case	11:case	_
-13	ਕਤਲਾਂ	_	NOUN	_	_	17	obj	17:obj	_
-14	ਨੂੰ	_	ADP	_	_	13	case	13:case	_
-15	ਕਵਰ	_	X	_	_	17	compound:lvc	17:compound:lvc	_
-16	ਅਪ	_	X	_	_	15	flat	15:flat	_
-17	ਕਰਨ	_	VERB	_	_	19	advcl	19:advcl	_
-18	ਵਿੱਚ	_	ADP	_	_	17	mark	17:mark	_
-19	ਸਹਾਇਤਾ	_	NOUN	_	_	20	compound:lvc	20:compound:lvc	_
-20	ਕੀਤੀ	_	VERB	_	_	0	root	0:root	_
-21	।	_	PUNCT	_	_	20	punct	20:punct	_
+1	ਉਨਾਂ	ਉਹ	PRON	_	_	19	nsubj	19:nsubj	_
+2	ਨੇ	ਨੇ	ADP	_	_	1	case	1:case	_
+3	ਮਾਤਾ	ਮਾਤਾ	PROPN	_	_	13	nmod	13:nmod	_
+4	ਚੰਦ	ਚੰਦ	PROPN	_	_	3	flat	3:flat	_
+5	ਕੌਰ	ਕੌਰ	PROPN	_	_	3	flat	3:flat	_
+6	ਅਤੇ	ਅਤੇ	CCONJ	_	_	7	cc	7:cc	_
+7	ਖੰਨਾ	ਖੰਨਾ	PROPN	_	_	3	conj	3:conj|13:nmod	_
+8	ਦੇ	ਦਾ	ADP	_	_	3	case	3:case|7:case	_
+9	ਸ਼ਿਵ	ਸ਼ਿਵ	PROPN	_	_	10	compound	10:compound	_
+10	ਸੈਨਾ	ਸੈਨਾ	PROPN	_	_	11	nmod	11:nmod	_
+11	ਆਗੂ	ਆਗੂ	NOUN	_	_	13	nmod	13:nmod	_
+12	ਦੇ	ਦਾ	ADP	_	_	11	case	11:case	_
+13	ਕਤਲਾਂ	ਕਤਲ	NOUN	_	_	17	obj	17:obj	_
+14	ਨੂੰ	ਨੂੰ	ADP	_	_	13	case	13:case	_
+15	ਕਵਰ	ਕਵਰ	X	_	_	17	compound:lvc	17:compound:lvc	_
+16	ਅਪ	ਅਪ	X	_	_	15	flat	15:flat	_
+17	ਕਰਨ	ਕਰ	VERB	_	_	19	advcl	19:advcl	_
+18	ਵਿੱਚ	ਵਿੱਚ	ADP	_	_	17	mark	17:mark	_
+19	ਸਹਾਇਤਾ	ਸਹਾਇਤਾ	NOUN	_	_	20	compound:lvc	20:compound:lvc	_
+20	ਕੀਤੀ	ਕਰ	VERB	_	_	0	root	0:root	_
+21	।	।	PUNCT	_	_	20	punct	20:punct	_
 
 # sent_id = misc_indiccorp_5
 # text = ਰਾਹੁਲ ਗਾਂਧੀ ਲੋਕ ਸਭਾ ਚੋਣਾਂ ਨੂੰ ਧਿਆਨ ਵਿੱਚ ਰੱਖਦੇ ਹੋਏ ਆਪਣੇ ਆਪ ਨੂੰ ਕਿਸਾਨਾਂ ਦਾ ਵੱਡਾ ਹਮਦਰਦ ਦੱਸ ਰਹੇ ਹਨ।
@@ -335,13 +335,13 @@
 4	ਕਿ	_	SCONJ	_	_	15	mark	15:mark	_
 5	ਮੁੰਡੇ	_	NOUN	_	_	7	nmod	7:nmod	_
 6	ਦੀ	_	ADP	_	_	5	case	5:case	_
-7	ਪ੍ਰੇਮਿਕਾ	_	NOUN	_	_	15	nsubj:pass	15:nsubj:pass	_
+7	ਪ੍ਰੇਮਿਕਾ	_	NOUN	_	_	15	obl:agent	15:obl:agent	_
 8	ਵਲੋਂ	_	ADP	_	_	7	case	7:case	_
 9	ਮੁੰਡੇ	_	NOUN	_	_	15	obl	15:obl	_
 10	'ਤੇ	_	ADP	_	_	9	case	9:case	_
 11	ਬਲਾਤਕਾਰ	_	NOUN	_	_	13	nmod	13:nmod	_
 12	ਦਾ	_	ADP	_	_	11	case	11:case	_
-13	ਪਰਚਾ	_	NOUN	_	_	15	obj	15:obj	_
+13	ਪਰਚਾ	_	NOUN	_	_	15	nsubj:pass	15:nsubj:pass	_
 14	ਦਰਜ	_	ADJ	_	_	15	compound:lvc	15:compound:lvc	_
 15	ਕਰਵਾਇਆ	_	VERB	_	_	3	ccomp	3:ccomp	_
 16	ਗਿਆ	_	AUX	_	_	15	aux:pass	15:aux:pass	_
@@ -382,7 +382,7 @@
 20	,	_	PUNCT	_	_	30	punct	30:punct	_
 21	ਜਿਸ	_	PRON	_	_	30	obl	30:obl	_
 22	ਕਾਰਨ	_	NOUN	_	_	21	case	21:case	_
-23	ਉਨ੍ਹਾਂ	_	PRON	_	_	30	nsubj:dat	30:nsubj:dat	_
+23	ਉਨ੍ਹਾਂ	_	PRON	_	_	30	nsubj	30:nsubj	_
 24	ਨੂੰ	_	ADP	_	_	23	case	23:case	_
 25	ਕਾਫੀ	_	DET	_	_	27	det	27:det	_
 26	ਆਰਥਿਕ	_	ADJ	_	_	27	amod	27:amod	_
@@ -527,7 +527,7 @@
 
 # sent_id = misc_indiccorp_27
 # text = ਉਨ੍ਹਾਂ ਨੂੰ ਪੱਕੇ ਬਿਆਨ ਹੀ ਦੇਣੇ ਚਾਹੀਦੇ ਹਨ।
-1	ਉਨ੍ਹਾਂ	_	PRON	_	_	6	nsubj:dat	6:nsubj:dat	_
+1	ਉਨ੍ਹਾਂ	_	PRON	_	_	6	nsubj	6:nsubj	_
 2	ਨੂੰ	_	ADP	_	_	1	case	1:case	_
 3	ਪੱਕੇ	_	ADJ	_	_	4	amod	4:amod	_
 4	ਬਿਆਨ	_	NOUN	_	_	6	obj	6:obj	_
@@ -553,7 +553,7 @@
 # sent_id = misc_indiccorp_30_2
 # text = ਟੈਕਸੀ ਯੂਨੀਅਨ ਤੇ ਦੁਕਾਨਦਾਰਾਂ ਵਲੋਂ ਸਾਂਝੇ ਤੌਰ 'ਤੇ ਪਿੰਡ ਟੁੱਟ ਕਲਾਂ ਜਲੰਧਰ ਵਿਖੇ ਸਰਬੱਤ ਦੇ ਭਲੇ ਵਾਸਤੇ ਧਾਰਮਿਕ ਸਮਾਗਮ ਮਿਤੀ 21 ਸਤੰਬਰ ਨੰੂ ਬਹੁਤ ਹੀ ਸ਼ਰਧਾ ਭਾਵਨਾ ਨਾਲ ਮਨਾਇਆ ਜਾ ਰਿਹਾ ਹੈ |
 1	ਟੈਕਸੀ	_	NOUN	_	_	2	compound	2:compound	_
-2	ਯੂਨੀਅਨ	_	NOUN	_	_	29	nsubj:pass	29:nsubj:pass	_
+2	ਯੂਨੀਅਨ	_	NOUN	_	_	29	obl:agent	29:obl:agent	_
 3	ਤੇ	_	CCONJ	_	_	4	cc	4:cc	_
 4	ਦੁਕਾਨਦਾਰਾਂ	_	NOUN	_	_	2	conj	2:conj|29:nsubj	_
 5	ਵਲੋਂ	_	ADP	_	_	2	case	2:case|4:case	_
@@ -607,7 +607,7 @@
 17	'ਤੇ	_	ADP	_	_	16	case	16:case	_
 18	ਦੱਸਿਆ	_	VERB	_	_	0	root	0:root	_
 19	ਕਿ	_	SCONJ	_	_	33	mark	33:mark	_
-20	ਅੱਜ	_	NOUN	_	_	33	obl:tmod	33:obl:tmod	_
+20	ਅੱਜ	_	NOUN	_	_	33	obl	33:obl	_
 21	ਸਵੇਰੇ	_	NOUN	_	_	20	nmod	20:nmod	_
 22	10	_	NUM	_	_	23	nummod	23:nummod	_
 23	ਵਜੇ	_	NOUN	_	_	21	nmod	21:nmod	_
@@ -763,7 +763,7 @@
 14	ਸਕਣਗੇ	_	VERB	_	_	13	compound:svc	13:compound:svc	_
 15	ਜਿਨ੍ਹਾਂ	_	PRON	_	_	17	nmod	17:nmod	_
 16	ਦਾ	_	ADP	_	_	15	case	15:case	_
-17	ਨਾਂ	_	NOUN	_	_	23	obj	23:obj	_
+17	ਨਾਂ	_	NOUN	_	_	23	nsubj:pass	23:nsubj:pass	_
 18	ਅਣਜਾਣੇ	_	NOUN	_	_	23	obl	23:obl	_
 19	ਵਿੱਚ	_	ADP	_	_	18	case	18:case	_
 20	ਐਪਲੀਕੇਸ਼ਨ	_	NOUN	_	_	23	obl	23:obl	_
@@ -924,13 +924,13 @@
 7	ਵਿਭਾਗਾਂ	_	NOUN	_	_	12	obl	12:obl	_
 8	ਵਿੱਚ	_	ADP	_	_	7	case	7:case	_
 9	ਖਾਲੀ	_	ADJ	_	_	10	amod	10:amod	_
-10	ਅਸਾਮੀਆਂ	_	NOUN	_	_	12	obj	12:obj	_
+10	ਅਸਾਮੀਆਂ	_	NOUN	_	_	12	nsubj:pass	12:nsubj:pass	_
 11	ਤੁਰੰਤ	_	ADV	_	_	12	advmod	12:advmod	_
 12	ਭਰੀਆ	_	VERB	_	_	3	acl:relcl	3:acl:relcl	_
 13	ਜਾਣ	_	AUX	_	_	12	aux:pass	12:aux:pass	_
 14	,	_	PUNCT	_	_	19	punct	19:punct	_
 15	ਕੱਚੇ	_	ADJ	_	_	16	amod	16:amod	_
-16	ਮੁਲਾਜ਼ਮਾਂ	_	NOUN	_	_	19	obj	19:obj	_
+16	ਮੁਲਾਜ਼ਮਾਂ	_	NOUN	_	_	19	nsubj:pass	19:nsubj:pass	_
 17	ਨੂੰ	_	ADP	_	_	16	case	16:case	_
 18	ਪੱਕਾ	_	ADJ	_	_	19	compound:lvc	19:compound:lvc	_
 19	ਕੀਤਾ	_	VERB	_	_	12	conj	12:conj	_
@@ -938,7 +938,7 @@
 21	,	_	PUNCT	_	_	26	punct	26:punct	_
 22	ਪੁਰਾਣੀ	_	ADJ	_	_	24	amod	24:amod	_
 23	ਪੈਨਸ਼ਨ	_	NOUN	_	_	24	compound	24:compound	_
-24	ਸਕੀਮ	_	NOUN	_	_	26	obj	26:obj	_
+24	ਸਕੀਮ	_	NOUN	_	_	26	nsubj:pass	26:nsubj:pass	_
 25	ਲਾਗੂ	_	ADJ	_	_	26	compound:lvc	26:compound:lvc	_
 26	ਕੀਤੀ	_	VERB	_	_	12	conj	12:conj	_
 27	ਜਾਵੇ	_	AUX	_	_	26	aux:pass	26:aux:pass	_
@@ -949,7 +949,7 @@
 32	ਬਕਾਇਆ	_	ADJ	_	_	33	amod	33:amod	_
 33	ਕਿਸ਼ਤਾਂ	_	NOUN	_	_	35	nmod	35:nmod	_
 34	ਦੀ	_	ADP	_	_	33	case	33:case	_
-35	ਅਦਾਇਗੀ	_	NOUN	_	_	37	obj	37:obj	_
+35	ਅਦਾਇਗੀ	_	NOUN	_	_	37	nsubj:pass	37:nsubj:pass	_
 36	ਯਕੀਨੀ	_	ADJ	_	_	37	compound:lvc	37:compound:lvc	_
 37	ਬਣਾਈ	_	VERB	_	_	12	conj	12:conj	_
 38	ਜਾਵੇ	_	AUX	_	_	37	aux:pass	37:aux:pass	_
@@ -1109,7 +1109,7 @@
 11	ਪਰ	_	CCONJ	_	_	17	cc	17:cc	_
 12	ਫਿਰ	_	ADV	_	_	17	advmod	17:advmod	_
 13	ਵੀ	_	PART	_	_	12	discourse	12:discourse	_
-14	ਜਵਾਬ	_	NOUN	_	_	17	obj	17:obj	_
+14	ਜਵਾਬ	_	NOUN	_	_	17	nsubj:pass	17:nsubj:pass	_
 15	ਪੇਸ਼	_	ADJ	_	_	17	compound:lvc	17:compound:lvc	_
 16	ਨਹੀਂ	_	ADV	_	_	17	advmod	17:advmod	_
 17	ਕੀਤਾ	_	VERB	_	_	7	conj	7:conj	_
@@ -1119,7 +1119,7 @@
 # sent_id = misc_flores_1_1
 # trans = On Monday, scientists from the Stanford University School of Medicine announced the invention of a new diagnostic tool that can sort cells by type:
 # text = ਸੋਮਵਾਰ ਨੂੰ, ਸਟੈਨਫੋਰਡ ਯੂਨੀਵਰਸਿਟੀ ਸਕੂਲ ਆਫ਼ ਮੈਡੀਸਿਨ ਦੇ ਵਿਗਿਆਨੀਆਂ ਨੇ ਇੱਕ ਨਵੇਂ ਡਾਇਗਨੋਸਟਿਕ ਟੂਲ ਦੇ ਅਵਿਸ਼ਕਾਰ ਬਾਰੇ ਘੋਸ਼ਣਾ ਕੀਤੀ ਜੋ ਕਿਸਮ ਮੁਤਾਬਕ ਸੈੱਲਾਂ ਦੀ ਛਾਂਟੀ ਕਰ ਸਕਦਾ ਹੈ:
-1	ਸੋਮਵਾਰ	_	PROPN	_	_	20	obl:tmod	20:obl:tmod	_
+1	ਸੋਮਵਾਰ	_	PROPN	_	_	20	obl	20:obl	_
 2	ਨੂੰ	_	ADP	_	_	1	case	1:case	_
 3	,	_	PUNCT	_	_	20	punct	20:punct	_
 4	ਸਟੈਨਫੋਰਡ	_	PROPN	_	_	6	compound	6:compound	_
@@ -1162,7 +1162,7 @@
 6	ਯੋਗ	_	ADP	_	_	5	mark	5:mark	_
 7	ਚਿੱਪ	_	NOUN	_	_	0	root	0:root	_
 8	ਜਿਸਦਾ	_	PRON	_	_	9	nmod	9:nmod	_
-9	ਨਿਰਮਾਣ	_	NOUN	_	_	27	obj	27:obj	_
+9	ਨਿਰਮਾਣ	_	NOUN	_	_	27	nsubj:pass	27:nsubj:pass	_
 10	ਸਟੈਂਡਰਡ	_	ADJ	_	_	12	amod	12:amod	_
 11	ਇੰਕਜੈੱਟ	_	NOUN	_	_	12	compound	12:compound	_
 12	ਪ੍ਰਿੰਟਰਾਂ	_	NOUN	_	_	15	obj	15:obj	_
@@ -1271,7 +1271,7 @@
 27	ਉਡਾਣਾਂ	_	NOUN	_	_	33	obl	33:obl	_
 28	ਲਈ	_	ADP	_	_	27	case	27:case	_
 29	ਹਵਾਈ	_	ADJ	_	_	30	amod	30:amod	_
-30	ਅੱਡੇ	_	NOUN	_	_	33	obj	33:obj	_
+30	ਅੱਡੇ	_	NOUN	_	_	33	nsubj:pass	33:nsubj:pass	_
 31	ਨੂੰ	_	ADP	_	_	30	case	30:case	_
 32	ਬੰਦ	_	ADJ	_	_	33	compound:lvc	33:compound:lvc	_
 33	ਕਰ	_	VERB	_	_	18	parataxis	18:parataxis	_
@@ -1284,7 +1284,7 @@
 # text = ਪਾਇਲਟ ਦੀ ਪਛਾਣ ਸਕੁਐਡਰੋਨ ਲੀਡਰ ਦਿਲੋਕ੍ਰਿਤ ਪੱਤਵੀ ਵਜੋਂ ਕੀਤੀ ਗਈ।
 1	ਪਾਇਲਟ	_	NOUN	_	_	3	nmod	3:nmod	_
 2	ਦੀ	_	ADP	_	_	1	case	1:case	_
-3	ਪਛਾਣ	_	NOUN	_	_	9	obj	9:obj	_
+3	ਪਛਾਣ	_	NOUN	_	_	9	nsubj:pass	9:nsubj:pass	_
 4	ਸਕੁਐਡਰੋਨ	_	PROPN	_	_	5	compound	5:compound	_
 5	ਲੀਡਰ	_	PROPN	_	_	6	compound	6:compound	_
 6	ਦਿਲੋਕ੍ਰਿਤ	_	PROPN	_	_	9	obl	9:obl	_
@@ -1329,7 +1329,7 @@
 5	ਸੇਵਿਲਾ	_	PROPN	_	_	13	obl	13:obl	_
 6	ਤੋਂ	_	ADP	_	_	5	case	5:case	_
 7	ਤਿੰਨ	_	NUM	_	_	8	nummod	8:nummod	_
-8	ਸੀਜ਼ਨ	_	NOUN	_	_	13	obl:tmod	13:obl:tmod	_
+8	ਸੀਜ਼ਨ	_	NOUN	_	_	13	obl	13:obl	_
 9	ਪਹਿਲਾਂ	_	ADP	_	_	8	case	8:case	_
 10	ਬਰਾਕਾ	_	PROPN	_	_	13	obl	13:obl	_
 11	ਵਿੱਚ	_	ADP	_	_	10	case	10:case	_
@@ -1343,7 +1343,7 @@
 1-3	ਕੈਟਲਾਨ-ਰਾਜਧਾਨੀ	_	_	_	_	_	_	_	_
 1	ਕੈਟਲਾਨ	_	ADJ	_	_	3	amod	3:amod	_
 2	-	_	PUNCT	_	_	1	punct	1:punct	_
-3	ਰਾਜਧਾਨੀ	_	NOUN	_	_	4	obl:lmod	4:obl:lmod	_
+3	ਰਾਜਧਾਨੀ	_	NOUN	_	_	4	obl	4:obl	_
 4	ਜਾਣ	_	VERB	_	_	14	advcl	14:advcl	_
 5	ਤੋਂ	_	ADP	_	_	4	mark	4:mark	_
 6	ਬਾਅਦ	_	ADP	_	_	5	fixed	5:fixed	_
@@ -1363,7 +1363,7 @@
 1	ਵਿਰੋਧ	_	NOUN	_	_	31	nsubj	31:nsubj	_
 2	ਲਗਭਗ	_	ADV	_	_	3	advmod	3:advmod	_
 3	11:00	_	NUM	_	_	4	nummod	4:nummod	_
-4	ਵਜੇ	_	NOUN	_	_	31	obl:tmod	31:obl:tmod	_
+4	ਵਜੇ	_	NOUN	_	_	31	obl	31:obl	_
 5	ਸਥਾਨਕ	_	ADJ	_	_	6	amod	6:amod	_
 6	ਸਮੇਂ	_	NOUN	_	_	4	nmod	4:nmod	_
 7	(	_	PUNCT	_	_	8	punct	8:punct	_
@@ -1371,7 +1371,7 @@
 9	)	_	PUNCT	_	_	8	punct	8:punct	_
 10	'ਤੇ	_	ADP	_	_	4	case	4:case	_
 11	,	_	PUNCT	_	_	31	punct	31:punct	_
-12	ਡਾਊਨਿੰਗ	_	PROPN	_	_	15	obl:lmod	15:obl:lmod	_
+12	ਡਾਊਨਿੰਗ	_	PROPN	_	_	15	obl	15:obl	_
 13	ਸਟ੍ਰੀਟ	_	PROPN	_	_	12	flat	12:flat	_
 14	ਨੂੰ	_	ADP	_	_	12	case	12:case	_
 15	ਜਾਣ	_	VERB	_	_	20	acl	20:acl	_
@@ -1397,16 +1397,16 @@
 # trans = Just after 11:00, protesters blocked traffic on the northbound carriage in Whitehall.
 # text = 11 ਵਜੇ ਤੋਂ ਬਾਅਦ ਹੀ, ਪ੍ਰਦਰਸ਼ਨਕਾਰੀਆਂ ਨੇ ਵ੍ਹਾਈਟਹਾਲ ਵਿੱਚ ਉੱਤਰ ਵੱਲ ਜਾਣ ਵਾਲੀਆਂ ਗੱਡੀਆਂ ਦੀ ਆਵਾਜਾਈ ਬੰਦ ਕਰ ਦਿੱਤੀ।
 1	11	_	NUM	_	_	2	nummod	2:nummod	_
-2	ਵਜੇ	_	NOUN	_	_	19	obl:tmod	19:obl:tmod	_
+2	ਵਜੇ	_	NOUN	_	_	19	obl	19:obl	_
 3	ਤੋਂ	_	ADP	_	_	2	case	2:case	_
 4	ਬਾਅਦ	_	ADP	_	_	3	fixed	3:fixed	_
 5	ਹੀ	_	PART	_	_	2	discourse	2:discourse	_
 6	,	_	PUNCT	_	_	19	punct	19:punct	_
 7	ਪ੍ਰਦਰਸ਼ਨਕਾਰੀਆਂ	_	NOUN	_	_	19	nsubj	19:nsubj	_
 8	ਨੇ	_	ADP	_	_	7	case	7:case	_
-9	ਵ੍ਹਾਈਟਹਾਲ	_	PROPN	_	_	19	obl:lmod	19:obl:lmod	_
+9	ਵ੍ਹਾਈਟਹਾਲ	_	PROPN	_	_	19	obl	19:obl	_
 10	ਵਿੱਚ	_	ADP	_	_	9	case	9:case	_
-11	ਉੱਤਰ	_	NOUN	_	_	13	obl:lmod	13:obl:lmod	_
+11	ਉੱਤਰ	_	NOUN	_	_	13	obl	13:obl	_
 12	ਵੱਲ	_	ADP	_	_	11	case	11:case	_
 13	ਜਾਣ	_	VERB	_	_	15	acl	15:acl	_
 14	ਵਾਲੀਆਂ	_	ADP	_	_	13	mark	13:mark	_
@@ -1422,7 +1422,7 @@
 # trans = At 11:20, the police asked the protesters to move back on to the pavement, stating that they needed to balance the right to protest with the traffic building up.
 # text = 11:20 ਵਜੇ, ਪੁਲਿਸ ਨੇ ਪ੍ਰਦਰਸ਼ਨਕਾਰੀਆਂ ਨੂੰ ਵਿਰੋਧ ਕਰਨ ਦੇ ਅਧਿਕਾਰ ਦੇ ਨਾਲ ਟ੍ਰੈਫਿਕ ਵਿਚਕਾਰ ਸੰਤੁਲਨ ਬਣਾਈ ਰੱਖਣ ਲਈ ਕਹਿੰਦੇ ਹੋਏ, ਉਹਨਾਂ ਨੂੰ ਵਾਪਸ ਫੁੱਟਪਾਥ ‘ਤੇ ਜਾਣ ਲਈ ਕਿਹਾ।
 1	11:20	_	NUM	_	_	2	nummod	2:nummod	_
-2	ਵਜੇ	_	NOUN	_	_	30	obl:tmod	30:obl:tmod	_
+2	ਵਜੇ	_	NOUN	_	_	30	obl	30:obl	_
 3	,	_	PUNCT	_	_	30	punct	30:punct	_
 4	ਪੁਲਿਸ	_	NOUN	_	_	30	nsubj	30:nsubj	_
 5	ਨੇ	_	ADP	_	_	4	case	4:case	_
@@ -1446,7 +1446,7 @@
 23	ਉਹਨਾਂ	_	PRON	_	_	30	iobj	30:iobj	_
 24	ਨੂੰ	_	ADP	_	_	23	case	23:case	_
 25	ਵਾਪਸ	_	ADV	_	_	28	advmod	28:advmod	_
-26	ਫੁੱਟਪਾਥ	_	NOUN	_	_	28	obl:lmod	28:obl:lmod	_
+26	ਫੁੱਟਪਾਥ	_	NOUN	_	_	28	obl	28:obl	_
 27	‘ਤੇ	_	ADP	_	_	26	case	26:case	_
 28	ਜਾਣ	_	VERB	_	_	30	xcomp	30:xcomp	_
 29	ਲਈ	_	ADP	_	_	28	mark	28:mark	_
@@ -1458,29 +1458,29 @@
 # text = ਲਗਭਗ 11:29 ਵਜੇ, ਪ੍ਰਦਰਸ਼ਨ ਵ੍ਹਾਈਟਹਾਲ ਤੋਂ, ਸਟ੍ਰੈਂਡ ਦੇ ਨਾਲ ਲੱਗਦੇ ਟ੍ਰੈਫਲਗਰ ਸਕੁਏਰ ਤੋਂ ਹੁੰਦੇ ਹੋਏ, ਐਲਡਵਿਚ ਤੋਂ ਲੰਘਿਆ ਅਤੇ ਕਿੰਗਜ਼ਵੇ ਤੋਂ ਹੋਲੋਬਰਨ ਵੱਲ ਗਿਆ ਜਿੱਥੇ ਕੰਜ਼ਰਵੇਟਿਵ ਪਾਰਟੀ ਗ੍ਰੈਂਡ ਕਨੌਟ ਹੋਟਲ ਦੇ ਕਮਰਿਆਂ ਵਿੱਚ ਆਪਣੇ ਸਪਰਿੰਗ ਫੋਰਮ ਦਾ ਆਯੋਜਨ ਕਰ ਰਹੀ ਸੀ।
 1	ਲਗਭਗ	_	ADV	_	_	2	advcl	2:advcl	_
 2	11:29	_	NUM	_	_	3	nummod	3:nummod	_
-3	ਵਜੇ	_	NOUN	_	_	21	obl:tmod	21:obl:tmod	_
+3	ਵਜੇ	_	NOUN	_	_	21	obl	21:obl	_
 4	,	_	PUNCT	_	_	21	punct	21:punct	_
 5	ਪ੍ਰਦਰਸ਼ਨ	_	NOUN	_	_	21	nsubj	21:nsubj	_
-6	ਵ੍ਹਾਈਟਹਾਲ	_	PROPN	_	_	21	obl:lmod	21:obl:lmod	_
+6	ਵ੍ਹਾਈਟਹਾਲ	_	PROPN	_	_	21	obl	21:obl	_
 7	ਤੋਂ	_	ADP	_	_	6	case	6:case	_
 8	,	_	PUNCT	_	_	21	punct	21:punct	_
-9	ਸਟ੍ਰੈਂਡ	_	PROPN	_	_	12	obl:lmod	12:obl:lmod	_
+9	ਸਟ੍ਰੈਂਡ	_	PROPN	_	_	12	obl	12:obl	_
 10	ਦੇ	_	ADP	_	_	9	case	9:case	_
 11	ਨਾਲ	_	ADP	_	_	10	fixed	10:fixed	_
 12	ਲੱਗਦੇ	_	VERB	_	_	21	advcl	21:advcl	_
 13	ਟ੍ਰੈਫਲਗਰ	_	PROPN	_	_	14	compound	14:compound	_
-14	ਸਕੁਏਰ	_	PROPN	_	_	16	obl:lmod	16:obl:lmod	_
+14	ਸਕੁਏਰ	_	PROPN	_	_	16	obl	16:obl	_
 15	ਤੋਂ	_	ADP	_	_	14	case	14:case	_
 16	ਹੁੰਦੇ	_	VERB	_	_	21	advcl	21:advcl	_
 17	ਹੋਏ	_	AUX	_	_	16	aux	16:aux	_
 18	,	_	PUNCT	_	_	21	punct	21:punct	_
-19	ਐਲਡਵਿਚ	_	PROPN	_	_	21	obl:lmod	21:obl:lmod	_
+19	ਐਲਡਵਿਚ	_	PROPN	_	_	21	obl	21:obl	_
 20	ਤੋਂ	_	ADP	_	_	19	case	19:case	_
 21	ਲੰਘਿਆ	_	VERB	_	_	0	root	0:root	_
 22	ਅਤੇ	_	CCONJ	_	_	27	cc	27:cc	_
-23	ਕਿੰਗਜ਼ਵੇ	_	PROPN	_	_	27	obl:lmod	27:obl:lmod	_
+23	ਕਿੰਗਜ਼ਵੇ	_	PROPN	_	_	27	obl	27:obl	_
 24	ਤੋਂ	_	ADP	_	_	23	case	23:case	_
-25	ਹੋਲੋਬਰਨ	_	PROPN	_	_	27	obl:lmod	27:obl:lmod	_
+25	ਹੋਲੋਬਰਨ	_	PROPN	_	_	27	obl	27:obl	_
 26	ਵੱਲ	_	ADP	_	_	25	case	25:case	_
 27	ਗਿਆ	_	VERB	_	_	21	conj	21:conj	_
 28	ਜਿੱਥੇ	_	PRON	_	_	42	advmod	42:advmod	_
@@ -1490,7 +1490,7 @@
 32	ਕਨੌਟ	_	PROPN	_	_	33	compound	33:compound	_
 33	ਹੋਟਲ	_	PROPN	_	_	35	nmod	35:nmod	_
 34	ਦੇ	_	ADP	_	_	33	case	33:case	_
-35	ਕਮਰਿਆਂ	_	NOUN	_	_	42	obl:lmod	42:obl:lmod	_
+35	ਕਮਰਿਆਂ	_	NOUN	_	_	42	obl	42:obl	_
 36	ਵਿੱਚ	_	ADP	_	_	35	case	35:case	_
 37	ਆਪਣੇ	_	PRON	_	_	39	nmod	39:nmod	_
 38	ਸਪਰਿੰਗ	_	PROPN	_	_	39	compound	39:compound	_
@@ -1523,7 +1523,7 @@
 # trans = He recently lost against Raonic in the Brisbane Open.
 # text = ਉਹ ਹਾਲ ਹੀ ਵਿੱਚ ਰਾਓਨਿਸ਼ ਤੋਂ ਬ੍ਰਿਸਬੇਨ ਓਪਨ ਵਿੱਚ ਹਾਰ ਗਿਆ।
 1	ਉਹ	_	PRON	_	_	10	nsubj	10:nsubj	_
-2	ਹਾਲ	_	NOUN	_	_	10	obl:tmod	10:obl:tmod	_
+2	ਹਾਲ	_	NOUN	_	_	10	obl	10:obl	_
 3	ਹੀ	_	PART	_	_	2	discourse	2:discourse	_
 4	ਵਿੱਚ	_	ADP	_	_	2	case	2:case	_
 5	ਰਾਓਨਿਸ਼	_	PROPN	_	_	10	obl	10:obl	_
@@ -1559,7 +1559,7 @@
 # sent_id = misc_flores_15_1
 # trans = After the match, King of Clay said, "I am just excited about being back in the final rounds of the most important events.
 # text = ਮੈਚ ਤੋਂ ਬਾਅਦ, ਕਿੰਗ ਆਫ਼ ਕਲੇ ਨੇ ਕਿਹਾ, "ਮੈਂ ਮਹੱਤਵਪੂਰਨ ਘਟਨਾਵਾਂ ਦੇ ਅੰਤਿਮ ਦੌਰ ਵਿੱਚ ਵਾਪਸੀ ਲਈ ਉਤਸਾਹਿਤ ਹਾਂ।
-1	ਮੈਚ	_	NOUN	_	_	9	obl:tmod	9:obl:tmod	_
+1	ਮੈਚ	_	NOUN	_	_	9	obl	9:obl	_
 2	ਤੋਂ	_	ADP	_	_	1	case	1:case	_
 3	ਬਾਅਦ	_	ADP	_	_	2	fixed	2:fixed	_
 4	,	_	PUNCT	_	_	9	punct	9:punct	_
@@ -1627,7 +1627,7 @@
 21	,	_	PUNCT	_	_	29	punct	29:punct	_
 22	ਜੋ	_	PRON	_	_	29	nsubj	29:nsubj	_
 23	2016	_	NUM	_	_	24	nmod	24:nmod	_
-24	ਬਸੰਤ	_	NOUN	_	_	29	obl:tmod	29:obl:tmod	_
+24	ਬਸੰਤ	_	NOUN	_	_	29	obl	29:obl	_
 25	ਵਿੱਚ	_	ADP	_	_	24	case	24:case	_
 26	ਪ੍ਰੈੱਸ	_	NOUN	_	_	29	obl	29:obl	_
 27	ਵਿੱਚ	_	ADP	_	_	26	case	26:case	_
@@ -1710,7 +1710,7 @@
 # sent_id = misc_flores_19
 # trans = There were protests worldwide, several criminal prosecutions, and the leaders of the governments of Iceland and Pakistan both resigned.
 # text = ਦੁਨੀਆ ਭਰ ਵਿੱਚ ਵਿਰੋਧ ਹੋਏ, ਕਈ ਅਪਰਾਧਕ ਮੁਕੱਦਮੇ ਹੋਏ ਅਤੇ ਆਈਸਲੈਂਡ ਅਤੇ ਪਾਕਿਸਤਾਨ ਦੀਆਂ ਸਰਕਾਰਾਂ, ਦੋਹਾਂ ਦਿਆਂ ਲੀਡਰਾਂ ਨੇ ਅਸਤੀਫਾ ਦੇ ਦਿੱਤਾ।
-1	ਦੁਨੀਆ	_	NOUN	_	_	5	obl:lmod	5:obl:lmod	_
+1	ਦੁਨੀਆ	_	NOUN	_	_	5	obl	5:obl	_
 2	ਭਰ	_	ADJ	_	_	1	amod	1:amod	_
 3	ਵਿੱਚ	_	ADP	_	_	1	case	1:case	_
 4	ਵਿਰੋਧ	_	NOUN	_	_	5	nsubj	5:nsubj	_
@@ -1740,7 +1740,7 @@
 # trans = Born in Hong Kong, Ma studied at New York University and Harvard Law School and once held an American permanent resident "green card".
 # text = ਮਾ ਹਾਂਗ-ਕਾਂਗ ਵਿੱਚ ਪੈਦਾ ਹੋਏ, ਨਿਊ-ਯਾਰਕ ਯੂਨੀਵਰਸਿਟੀ ਅਤੇ ਹਾਵਰਡ ਲਾਅ ਸਕੂਲ ਵਿੱਚ ਪੜ੍ਹਾਈ ਕੀਤੀ ਅਤੇ ਇੱਕ ਵਾਰ ਅਮਰੀਕੀ ਸਥਾਈ ਰਿਹਾਇਸ਼ “ਗ੍ਰੀਨ ਕਾਰਡ” ਹਾਸਲ ਕੀਤਾ।
 1	ਮਾ	_	PROPN	_	_	7	nsubj	7:nsubj	_
-2	ਹਾਂਗ	_	PROPN	_	_	7	obl:lmod	7:obl:lmod	_
+2	ਹਾਂਗ	_	PROPN	_	_	7	obl	7:obl	_
 3	-	_	PUNCT	_	_	2	punct	2:punct	_
 4	ਕਾਂਗ	_	PROPN	_	_	2	flat	2:flat	_
 5	ਵਿੱਚ	_	ADP	_	_	2	case	2:case	_
@@ -1778,7 +1778,7 @@
 1	ਦੁਆਵਾਂ	_	NOUN	_	_	7	nsubj	7:nsubj	_
 2	ਚੋਣਾ	_	NOUN	_	_	4	nmod	4:nmod	_
 3	ਦੇ	_	ADP	_	_	2	case	2:case	_
-4	ਸਮੇਂ	_	NOUN	_	_	7	obl:tmod	7:obl:tmod	_
+4	ਸਮੇਂ	_	NOUN	_	_	7	obl	7:obl	_
 5	ਵਿੱਚ	_	ADP	_	_	4	case	4:case	_
 6	ਨਿਹਿਤ	_	ADJ	_	_	7	compound:lvc	7:compound:lvc	_
 7	ਹੁੰਦੀਆਂ	_	VERB	_	_	0	root	0:root	_
@@ -1787,7 +1787,7 @@
 10	ਮਾ	_	PROPN	_	_	17	nsubj	17:nsubj	_
 11	ਮੁਸ਼ਕਿਲ	_	NOUN	_	_	13	nmod	13:nmod	_
 12	ਦੇ	_	ADP	_	_	11	case	11:case	_
-13	ਸਮੇਂ	_	NOUN	_	_	17	obl:tmod	17:obl:tmod	_
+13	ਸਮੇਂ	_	NOUN	_	_	17	obl	17:obl	_
 14	ਦੌਰਾਨ	_	ADP	_	_	13	case	13:case	_
 15	ਦੇਸ਼	_	NOUN	_	_	16	obj	16:obj	_
 16	ਛੱਡਕੇ	_	VERB	_	_	17	advcl	17:advcl	_
@@ -1867,7 +1867,7 @@
 # trans = He had 2 goals and 2 assists in Washington's 5-3 win over the Atlanta Thrashers.
 # text = ਉਹ ਵਾਸ਼ਿੰਗਟਨ ਵਿੱਚ ਐਟਲਾਂਟਾ ਥ੍ਰੈਸ਼ਰਜ਼ ਦੇ ਖਿਲਾਫ਼ 5-3 ਨਾਲ 2 ਗੋਲ ਅਤੇ 2 ਅਸਿਸਟ ਨਾਲ ਜੇਤੂ ਰਿਹਾ।
 1	ਉਹ	_	PRON	_	_	19	nsubj	19:nsubj	_
-2	ਵਾਸ਼ਿੰਗਟਨ	_	PROPN	_	_	19	obl:lmod	19:obl:lmod	_
+2	ਵਾਸ਼ਿੰਗਟਨ	_	PROPN	_	_	19	obl	19:obl	_
 3	ਵਿੱਚ	_	ADP	_	_	2	case	2:case	_
 4	ਐਟਲਾਂਟਾ	_	PROPN	_	_	5	compound	5:compound	_
 5	ਥ੍ਰੈਸ਼ਰਜ਼	_	PROPN	_	_	19	obl	19:obl	_
@@ -1895,13 +1895,13 @@
 3	ਰਾਤ	_	NOUN	_	_	6	nmod	6:nmod	_
 4	ਦੀ	_	ADP	_	_	3	case	3:case	_
 5	ਪਹਿਲੀ	_	ADJ	_	_	6	amod	6:amod	_
-6	ਸਹਾਇਤਾ	_	NOUN	_	_	16	obj	16:obj	_
+6	ਸਹਾਇਤਾ	_	NOUN	_	_	16	nsubj:pass	16:nsubj:pass	_
 7	ਖੇਡ	_	NOUN	_	_	10	nmod	10:nmod	_
 8	ਦੇ	_	ADP	_	_	7	case	7:case	_
 9	ਜੇਤੂ	_	ADJ	_	_	10	amod	10:amod	_
 10	ਟੀਚੇ	_	NOUN	_	_	16	obl	16:obl	_
 11	‘ਤੇ	_	ADP	_	_	10	case	10:case	_
-12	ਰੂਕੀ	_	NOUN	_	_	16	nsubj:pass	16:nsubj:pass	_
+12	ਰੂਕੀ	_	NOUN	_	_	16	obl:agent	16:obl:agent	_
 13	ਨਿਕਲਾਸ	_	PROPN	_	_	12	appos	12:appos	_
 14	ਬੈਕਸਟਰੋਮ	_	PROPN	_	_	13	flat	13:flat	_
 15	ਦੁਆਰਾ	_	ADP	_	_	12	case	12:case	_
@@ -1952,7 +1952,7 @@
 20	ਕੀਤਾ	_	VERB	_	_	3	acl:relcl	3:acl:relcl	_
 21	ਸੀ	_	AUX	_	_	20	aux	20:aux	_
 22	ਤੇ	_	CCONJ	_	_	25	cc	25:cc	_
-23	ਅੱਜ	_	NOUN	_	_	25	obl:tmod	25:obl:tmod	_
+23	ਅੱਜ	_	NOUN	_	_	25	obl	25:obl	_
 24	ਇਹ	_	DET	_	_	25	dep	25:dep	_
 25	ਵੇਲਾ	_	NOUN	_	_	3	conj	3:conj	_
 26	...	_	PUNCT	_	_	25	punct	25:punct	_
@@ -1981,7 +1981,7 @@
 # text = ਜਲੰਧਰ ਦੇ ਪਿੰਡ ਬੇਗਮਪੁਰਾ ਵਿੱਚ ਨੂੰਹ-ਸੱਸ ਦੀ ਸਰਪੰਚੀ ਦੀ ਲੜਾਈ ਪੂਰੇ ਪੰਜਾਬ 'ਚ ਚਰਚਾ ਦਾ ਵਿਸ਼ਾ ਬਣੀ ਹੋਈ ਸੀ।
 1	ਜਲੰਧਰ	_	PROPN	_	_	3	nmod	3:nmod	_
 2	ਦੇ	_	ADP	_	_	1	case	1:case	_
-3	ਪਿੰਡ	_	NOUN	_	_	10	obl:lmod	10:obl:lmod	_
+3	ਪਿੰਡ	_	NOUN	_	_	10	obl	10:obl	_
 4	ਬੇਗਮਪੁਰਾ	_	PROPN	_	_	3	appos	3:appos	_
 5	ਵਿੱਚ	_	ADP	_	_	3	case	3:case	_
 6-8	ਨੂੰਹ-ਸੱਸ	_	_	_	_	_	_	_	_
@@ -2005,7 +2005,7 @@
 
 # sent_id = news_bbc_inlaw_4
 # text = ਐਤਵਾਰ ਨੂੰ ਆਏ ਚੋਣ ਨਤੀਜਿਆਂ ਵਿੱਚ ਨੂੰਹ ਕਮਲਜੀਤ ਨੇ ਆਪਣੀ ਸੱਸ ਬਿਮਲਾ ਦੇਵੀ ਨੂੰ 47 ਵੋਟਾਂ ਦੇ ਫਰਕ ਨਾਲ ਹਰਾ ਦਿੱਤਾ।
-1	ਐਤਵਾਰ	_	PROPN	_	_	3	obl:tmod	3:obl:tmod	_
+1	ਐਤਵਾਰ	_	PROPN	_	_	3	obl	3:obl	_
 2	ਨੂੰ	_	ADP	_	_	1	case	1:case	_
 3	ਆਏ	_	VERB	_	_	5	acl	5:acl	_
 4	ਚੋਣ	_	AUX	_	_	3	aux	3:aux	_
@@ -2039,7 +2039,7 @@
 7	ਕੀਤੀਆਂ	_	VERB	_	_	0	root	0:root	_
 8	ਜਦਕਿ	_	SCONJ	_	_	15	mark	15:mark	_
 9	ਉਸਦੀ	_	PRON	_	_	10	nmod	10:nmod	_
-10	ਸੱਸ	_	NOUN	_	_	15	nsubj:dat	15:nsubj:dat	_
+10	ਸੱਸ	_	NOUN	_	_	15	nsubj	15:nsubj	_
 11	ਨੂੰ	_	ADP	_	_	10	case	10:case	_
 12	41	_	NUM	_	_	13	nummod	13:nummod	_
 13	ਵੋਟਾਂ	_	NOUN	_	_	15	obj	15:obj	_
@@ -2055,7 +2055,7 @@
 3	ਪਿੰਡ	_	NOUN	_	_	8	nmod	8:nmod	_
 4	ਦੀ	_	ADP	_	_	3	case	3:case	_
 5	15	_	NUM	_	_	6	nummod	6:nummod	_
-6	ਸਾਲਾਂ	_	NOUN	_	_	8	obl:tmod	8:obl:tmod	_
+6	ਸਾਲਾਂ	_	NOUN	_	_	8	obl	8:obl	_
 7	ਤੱਕ	_	ADP	_	_	6	case	6:case	_
 8	ਪੰਚ	_	NOUN	_	_	9	xcomp	9:xcomp	_
 9	ਬਣਦੀ	_	VERB	_	_	0	root	0:root	_
@@ -2074,7 +2074,7 @@
 6	ਜਿਹਾ	_	ADV	_	_	5	advmod	5:advmod	_
 7	ਪਿੰਡ	_	NOUN	_	_	0	root	0:root	_
 8	ਹੈ	_	AUX	_	_	7	cop	7:cop	_
-9	ਜਿੱਥੇ	_	SCONJ	_	_	12	mark	12:mark	_
+9	ਜਿੱਥੇ	_	PRON	_	_	12	nsubj	12:nsubj	_
 10	ਸਿਰਫ਼	_	ADV	_	_	11	advmod	11:advmod	_
 11	160	_	NUM	_	_	12	nummod	12:nummod	_
 12	ਵੋਟਾਂ	_	NOUN	_	_	7	acl:relcl	7:acl:relcl	_
@@ -2086,7 +2086,7 @@
 # text = ਹਾਲਾਂਕਿ ਇਸ ਪਿੰਡ ਵਿੱਚ ਤਿੰਨ ਉਮੀਦਵਾਰ ਸਰਪੰਚੀ ਲਈ ਖੜ੍ਹੇ ਸਨ ਪਰ ਮੁੱਖ ਮੁਕਾਬਲਾ ਨੂੰਹ-ਸੱਸ ਵਿੱਚ ਹੀ ਰਿਹਾ।
 1	ਹਾਲਾਂਕਿ	_	SCONJ	_	_	10	mark	10:mark	_
 2	ਇਸ	_	DET	_	_	3	det	3:det	_
-3	ਪਿੰਡ	_	NOUN	_	_	10	obl:lmod	10:obl:lmod	_
+3	ਪਿੰਡ	_	NOUN	_	_	10	obl	10:obl	_
 4	ਵਿੱਚ	_	ADP	_	_	3	case	3:case	_
 5	ਤਿੰਨ	_	NUM	_	_	6	nummod	6:nummod	_
 6	ਉਮੀਦਵਾਰ	_	NOUN	_	_	10	nsubj	10:nsubj	_
@@ -2109,7 +2109,7 @@
 # sent_id = news_bbc_inlaw_9
 # text = ਤੀਜੀ ਉਮੀਦਵਾਰ ਨੂੰ ਸਿਰਫ 31 ਵੋਟਾਂ ਹੀ ਮਿਲੀਆਂ।
 1	ਤੀਜੀ	_	ADJ	_	_	2	amod	2:amod	_
-2	ਉਮੀਦਵਾਰ	_	NOUN	_	_	8	nsubj:dat	8:nsubj:dat	_
+2	ਉਮੀਦਵਾਰ	_	NOUN	_	_	8	nsubj	8:nsubj	_
 3	ਨੂੰ	_	ADP	_	_	2	case	2:case	_
 4	ਸਿਰਫ	_	ADV	_	_	5	advmod	5:advmod	_
 5	31	_	NUM	_	_	6	nummod	6:nummod	_
@@ -2121,7 +2121,7 @@
 # sent_id = news_bbc_inlaw_10
 # text = ਗਿਣਤੀ ਕੇਂਦਰ ਦੇ ਬਾਹਰ ਖੜ੍ਹੀ ਕਮਲਜੀਤ ਕੌਰ ਪੂਰੇ ਭਰੋਸੇ ਵਿੱਚ ਸੀ ਕਿ ਉਹ ਹੀ ਚੋਣ ਜਿੱਤੇਗੀ।
 1	ਗਿਣਤੀ	_	NOUN	_	_	2	compound	2:compound	_
-2	ਕੇਂਦਰ	_	NOUN	_	_	5	obl:lmod	5:obl:lmod	_
+2	ਕੇਂਦਰ	_	NOUN	_	_	5	obl	5:obl	_
 3	ਦੇ	_	ADP	_	_	2	case	2:case	_
 4	ਬਾਹਰ	_	ADP	_	_	3	fixed	3:fixed	_
 5	ਖੜ੍ਹੀ	_	VERB	_	_	6	acl	6:acl	_
@@ -2151,7 +2151,7 @@
 9	ਪਿੰਡ	_	NOUN	_	_	12	nmod	12:nmod	_
 10	ਦੇ	_	ADP	_	_	9	case	9:case	_
 11	ਗੁਰੂ	_	NOUN	_	_	12	compound	12:compound	_
-12	ਘਰ	_	NOUN	_	_	15	obl:lmod	15:obl:lmod	_
+12	ਘਰ	_	NOUN	_	_	15	obl	15:obl	_
 13	ਵਿੱਚ	_	ADP	_	_	12	case	12:case	_
 14	ਮੱਥਾ	_	NOUN	_	_	15	obj	15:obj	_
 15	ਟੇਕਿਆ	_	VERB	_	_	0	root	0:root	_
@@ -2280,7 +2280,7 @@
 # sent_id = news_bbc_inlaw_17
 # text = ਗੁਰਦੁਆਰਾ ਸਾਹਿਬ ਵਿੱਚ ਕਮਲਜੀਤ ਨੇ ਲੋਕਾਂ ਦਾ ਧੰਨਵਾਦ ਕਰਦਿਆਂ ਕਿਹਾ ਕਿ ਹੁਣ ਸਭ ਨੇ ਇੱਕ ਹੋ ਕੇ ਚੱਲਣਾ ਹੈ।
 1	ਗੁਰਦੁਆਰਾ	_	NOUN	_	_	2	compound	2:compound	_
-2	ਸਾਹਿਬ	_	NOUN	_	_	10	obl:lmod	10:obl:lmod	_
+2	ਸਾਹਿਬ	_	NOUN	_	_	10	obl	10:obl	_
 3	ਵਿੱਚ	_	ADP	_	_	2	case	2:case	_
 4	ਕਮਲਜੀਤ	_	PROPN	_	_	10	nsubj	10:nsubj	_
 5	ਨੇ	_	ADP	_	_	4	case	4:case	_
@@ -2304,7 +2304,7 @@
 # text = ਕਮਲਜੀਤ ਨੇ ਚੋਣਾਂ ਦੌਰਾਨ ਅਣਜਾਣੇ ਵਿੱਚ ਹੋਈਆਂ ਗਲਤੀਆਂ ਲਈ ਮੁਆਫ਼ੀ ਵੀ ਮੰਗੀ।
 1	ਕਮਲਜੀਤ	_	PROPN	_	_	12	nsubj	12:nsubj	_
 2	ਨੇ	_	ADP	_	_	1	case	1:case	_
-3	ਚੋਣਾਂ	_	NOUN	_	_	7	obl:tmod	7:obl:tmod	_
+3	ਚੋਣਾਂ	_	NOUN	_	_	7	obl	7:obl	_
 4	ਦੌਰਾਨ	_	ADP	_	_	3	case	3:case	_
 5	ਅਣਜਾਣੇ	_	NOUN	_	_	7	obl	7:obl	_
 6	ਵਿੱਚ	_	ADP	_	_	5	case	5:case	_
@@ -2319,7 +2319,7 @@
 # sent_id = news_bbc_inlaw_19
 # text = ਗੁਰਦੁਆਰਾ ਸਾਹਿਬ ਵਿੱਚ ਮੱਥਾ ਟੇਕਣ ਤੋਂ ਬਾਅਦ ਕਮਲਜੀਤ ਕੌਰ ਸਮਰਥਕਾਂ ਨਾਲ ਆਪਣੇ ਘਰ ਗਈ ਜਿੱਥੇ ਮੁਕਾਬਲੇ ਵਿੱਚ ਪਿੱਛੜ ਗਈ ਸੱਸ ਨੇ ਤੇਲ ਚੋਅ ਕੇ ਨੂੰਹ ਦਾ ਸਵਾਗਤ ਕੀਤਾ ਤੇ ਉਸ ਦਾ ਮੂੰਹ ਮਿੱਠਾ ਕਰਵਾਇਆ।
 1	ਗੁਰਦੁਆਰਾ	_	NOUN	_	_	2	compound	2:compound	_
-2	ਸਾਹਿਬ	_	NOUN	_	_	5	obl:lmod	5:obl:lmod	_
+2	ਸਾਹਿਬ	_	NOUN	_	_	5	obl	5:obl	_
 3	ਵਿੱਚ	_	ADP	_	_	2	case	2:case	_
 4	ਮੱਥਾ	_	NOUN	_	_	5	compound:lvc	5:compound:lvc	_
 5	ਟੇਕਣ	_	VERB	_	_	14	advcl	14:advcl	_
@@ -2330,7 +2330,7 @@
 10	ਸਮਰਥਕਾਂ	_	NOUN	_	_	14	obl	14:obl	_
 11	ਨਾਲ	_	ADP	_	_	10	case	10:case	_
 12	ਆਪਣੇ	_	PRON	_	_	13	nmod	13:nmod	_
-13	ਘਰ	_	NOUN	_	_	14	obl:lmod	14:obl:lmod	_
+13	ਘਰ	_	NOUN	_	_	14	obl	14:obl	_
 14	ਗਈ	_	VERB	_	_	0	root	0:root	_
 15	ਜਿੱਥੇ	_	SCONJ	_	_	28	mark	28:mark	_
 16	ਮੁਕਾਬਲੇ	_	NOUN	_	_	18	obl	18:obl	_
@@ -2418,9 +2418,9 @@
 # sent_id = news_bbc_inlaw_22
 # text = ਚੋਣ ਪ੍ਰਚਾਰ ਦੌਰਾਨ ਘਰ ਵਿੱਚ ਤਣਾਅ ਬਣਿਆ ਹੋਇਆ ਸੀ ਪਰ ਆਪਣੀ ਹਾਰ ਤੋਂ ਬਾਅਦ ਵੀ ਸੱਸ ਬਿਮਲਾ ਦੇਵੀ ਵੱਲੋਂ ਨੂੰਹ ਕਮਲਜੀਤ ਨੂੰ ਦਿੱਤੇ ਅਸ਼ੀਰਵਾਦ ਨਾਲ ਕੁੱਝ ਹੱਦ ਤੱਕ ਇਹ ਕੁੜੱਤਣ ਘੱਟ ਜ਼ਰੂਰ ਗਈ ਹੈ।
 1	ਚੋਣ	_	NOUN	_	_	2	nmod	2:nmod	_
-2	ਪ੍ਰਚਾਰ	_	NOUN	_	_	7	obl:tmod	7:obl:tmod	_
+2	ਪ੍ਰਚਾਰ	_	NOUN	_	_	7	obl	7:obl	_
 3	ਦੌਰਾਨ	_	ADP	_	_	2	case	2:case	_
-4	ਘਰ	_	NOUN	_	_	7	obl:lmod	7:obl:lmod	_
+4	ਘਰ	_	NOUN	_	_	7	obl	7:obl	_
 5	ਵਿੱਚ	_	ADP	_	_	4	case	4:case	_
 6	ਤਣਾਅ	_	NOUN	_	_	7	nsubj	7:nsubj	_
 7	ਬਣਿਆ	_	VERB	_	_	0	root	0:root	_
@@ -2428,15 +2428,15 @@
 9	ਸੀ	_	AUX	_	_	7	aux	7:aux	_
 10	ਪਰ	_	CCONJ	_	_	31	cc	31:cc	_
 11	ਆਪਣੀ	_	PRON	_	_	12	nmod	12:nmod	_
-12	ਹਾਰ	_	NOUN	_	_	23	obl:tmod	23:obl:tmod	_
+12	ਹਾਰ	_	NOUN	_	_	23	obl	23:obl	_
 13	ਤੋਂ	_	ADP	_	_	12	case	12:case	_
 14	ਬਾਅਦ	_	ADP	_	_	13	fixed	13:fixed	_
 15	ਵੀ	_	PART	_	_	12	discourse	12:discourse	_
-16	ਸੱਸ	_	NOUN	_	_	23	nsubj:pass	23:nsubj:pass	_
+16	ਸੱਸ	_	NOUN	_	_	23	obl:agent	23:obl:agent	_
 17	ਬਿਮਲਾ	_	PROPN	_	_	16	appos	16:appos	_
 18	ਦੇਵੀ	_	PROPN	_	_	17	flat	17:flat	_
 19	ਵੱਲੋਂ	_	ADP	_	_	16	case	16:case	_
-20	ਨੂੰਹ	_	NOUN	_	_	23	obl	23:obl	_
+20	ਨੂੰਹ	_	NOUN	_	_	23	iobj	23:iobj	_
 21	ਕਮਲਜੀਤ	_	PROPN	_	_	20	appos	20:appos	_
 22	ਨੂੰ	_	ADP	_	_	21	case	21:case	_
 23	ਦਿੱਤੇ	_	VERB	_	_	24	acl	24:acl	_
@@ -2468,7 +2468,7 @@
 3	ਪਿੰਡ	_	NOUN	_	_	6	nmod	6:nmod	_
 4	ਪਤਾਰਾ	_	PROPN	_	_	3	appos	3:appos	_
 5	ਵਿੱਚ	_	ADP	_	_	3	case	3:case	_
-6	ਵਾਰਡ	_	NOUN	_	_	19	obl:lmod	19:obl:lmod	_
+6	ਵਾਰਡ	_	NOUN	_	_	19	obl	19:obl	_
 7	ਨੰਬਰ	_	NOUN	_	_	8	compound	8:compound	_
 8	4	_	NUM	_	_	6	nummod	6:nummod	_
 9	ਤੋਂ	_	ADP	_	_	6	case	6:case	_
@@ -2557,7 +2557,7 @@
 3	ਸੁਖਵਿੰਦਰ	_	PROPN	_	_	13	nsubj	13:nsubj	_
 4	ਕੌਰ	_	PROPN	_	_	3	flat	3:flat	_
 5	ਨੇ	_	ADP	_	_	3	case	3:case	_
-6	ਪਿੰਡ	_	NOUN	_	_	10	obl:lmod	10:obl:lmod	_
+6	ਪਿੰਡ	_	NOUN	_	_	10	obl	10:obl	_
 7	ਵਿੱਚ	_	ADP	_	_	6	case	6:case	_
 8	ਲੇਡੀਜ਼	_	NOUN	_	_	9	nmod	9:nmod	_
 9	ਜਿਮ	_	NOUN	_	_	10	obj	10:obj	_
@@ -2589,7 +2589,7 @@
 # sent_id = news_bbc_inlaw_31
 # text = ਥੋੜ੍ਹੇ ਸਮੇਂ ਬਾਅਦ ਸਾਰਾ ਕੁਝ ਆਮ ਵਰਗਾ ਹੋ ਜਾਵੇਗਾ।
 1	ਥੋੜ੍ਹੇ	_	ADJ	_	_	2	amod	2:amod	_
-2	ਸਮੇਂ	_	NOUN	_	_	6	obl:tmod	6:obl:tmod	_
+2	ਸਮੇਂ	_	NOUN	_	_	6	obl	6:obl	_
 3	ਬਾਅਦ	_	ADP	_	_	2	case	2:case	_
 4	ਸਾਰਾ	_	DET	_	_	5	det	5:det	_
 5	ਕੁਝ	_	PRON	_	_	6	nsubj	6:nsubj	_
@@ -2604,7 +2604,7 @@
 1	ਉਸ	_	PRON	_	_	7	obj	7:obj	_
 2	ਨੂੰ	_	ADP	_	_	1	case	1:case	_
 3	ਆਪ	_	PRON	_	_	4	nmod	4:nmod	_
-4	ਘਰ	_	NOUN	_	_	5	obl:lmod	5:obl:lmod	_
+4	ਘਰ	_	NOUN	_	_	5	obl	5:obl	_
 5	ਜਾ	_	VERB	_	_	7	advcl	7:advcl	_
 6	ਕੇ	_	AUX	_	_	5	aux	5:aux	_
 7	ਮਨਾਵਾਂਗੀ	_	VERB	_	_	0	root	0:root	_
@@ -2640,7 +2640,7 @@
 1	ਜਲੰਧਰ	_	PROPN	_	_	4	nmod	4:nmod	_
 2	ਦੇ	_	ADP	_	_	1	case	1:case	_
 3	ਹੀ	_	PART	_	_	1	discourse	1:discourse	_
-4	ਬੁੱਢਿਆਣਾ	_	PROPN	_	_	12	obl:lmod	12:obl:lmod	_
+4	ਬੁੱਢਿਆਣਾ	_	PROPN	_	_	12	obl	12:obl	_
 5	ਵਿੱਚ	_	ADP	_	_	4	case	4:case	_
 6	ਦੋ	_	NUM	_	_	8	nummod	8:nummod	_
 7	ਸਕੇ	_	ADJ	_	_	8	amod	8:amod	_
@@ -2657,7 +2657,7 @@
 1	ਚੋਣ	_	NOUN	_	_	10	obl	10:obl	_
 2	ਵਿੱਚ	_	ADP	_	_	1	case	1:case	_
 3	ਦੋਵੇਂ	_	DET	_	_	4	det	4:det	_
-4	ਭਰਾਵਾਂ	_	NOUN	_	_	10	nsubj:dat	10:nsubj:dat	_
+4	ਭਰਾਵਾਂ	_	NOUN	_	_	10	nsubj	10:nsubj	_
 5	ਨੂੰ	_	ADP	_	_	4	case	4:case	_
 6	ਹਾਰ	_	NOUN	_	_	8	nmod	8:nmod	_
 7	ਦਾ	_	ADP	_	_	6	case	6:case	_
@@ -2684,7 +2684,7 @@
 14	ਉਨ੍ਹਾਂ	_	PROPN	_	_	17	nmod	17:nmod	_
 15	ਦੇ	_	ADP	_	_	14	case	14:case	_
 16	ਵੱਡੇ	_	ADJ	_	_	17	amod	17:amod	_
-17	ਭਰਾ	_	NOUN	_	_	23	nsubj:dat	23:nsubj:dat	_
+17	ਭਰਾ	_	NOUN	_	_	23	nsubj	23:nsubj	_
 18	ਨੂੰ	_	ADP	_	_	17	case	17:case	_
 19	ਸਿਰਫ	_	ADV	_	_	20	advmod	20:advmod	_
 20	70	_	NUM	_	_	21	nummod	21:nummod	_
@@ -2697,7 +2697,7 @@
 # sent_id = news_bbc_inlaw_38
 # text = ਇਸ ਪਿੰਡ 'ਚ ਇਨ੍ਹਾਂ ਦੋ ਭਰਾ ਤੋਂ ਇਲਾਵਾ ਦੋ ਹੋਰ ਉਮੀਦਵਾਰ ਸਨ ਜਿਨ੍ਹਾਂ ਵਿੱਚ ਹਰਮੇਸ਼ ਲਾਲ 570 ਵੋਟਾਂ ਲੈ ਕੇ ਸਰਪੰਚੀ ਦੀ ਚੋਣ ਜਿੱਤ ਗਏ ਤੇ ਇੱਕ ਹੋਰ ਉਮੀਦਵਾਰ ਹਰਬੰਸ ਲਾਲ ਨੂੰ 130 ਵੋਟਾਂ ਹੀ ਪਈਆਂ।
 1	ਇਸ	_	DET	_	_	2	det	2:det	_
-2	ਪਿੰਡ	_	NOUN	_	_	12	obl:lmod	12:obl:lmod	_
+2	ਪਿੰਡ	_	NOUN	_	_	12	obl	12:obl	_
 3	'ਚ	_	ADP	_	_	2	case	2:case	_
 4	ਇਨ੍ਹਾਂ	_	DET	_	_	6	det	6:det	_
 5	ਦੋ	_	NUM	_	_	6	nummod	6:nummod	_
@@ -2724,7 +2724,7 @@
 26	ਤੇ	_	CCONJ	_	_	36	cc	36:cc	_
 27	ਇੱਕ	_	NUM	_	_	29	nummod	29:nummod	_
 28	ਹੋਰ	_	DET	_	_	29	det	29:det	_
-29	ਉਮੀਦਵਾਰ	_	NOUN	_	_	36	nsubj:dat	36:nsubj:dat	_
+29	ਉਮੀਦਵਾਰ	_	NOUN	_	_	36	nsubj	36:nsubj	_
 30	ਹਰਬੰਸ	_	PROPN	_	_	29	appos	29:appos	_
 31	ਲਾਲ	_	PROPN	_	_	30	flat	30:flat	_
 32	ਨੂੰ	_	ADP	_	_	29	case	29:case	_
@@ -2778,7 +2778,7 @@
 2	ਕਿਹਾ	_	VERB	_	_	0	root	0:root	_
 3	ਕਿ	_	SCONJ	_	_	13	mark	13:mark	_
 4	ਉਹ	_	PRON	_	_	13	nsubj	13:nsubj	_
-5	ਤਮਿਲਨਾਡੂ	_	PRON	_	_	7	obl:lmod	7:obl:lmod	_
+5	ਤਮਿਲਨਾਡੂ	_	PRON	_	_	7	obl	7:obl	_
 6	'ਚ	_	ADP	_	_	5	case	5:case	_
 7	ਹੋਣ	_	VERB	_	_	10	acl	10:acl	_
 8	ਵਾਲੀਆਂ	_	AUX	_	_	7	aux	7:aux	_
@@ -2829,7 +2829,7 @@
 3	ਰਾਜਧਾਨੀ	_	NOUN	_	_	6	nmod	6:nmod	_
 4	ਚੇਨੱਈ	_	PROPN	_	_	3	appos	3:appos	_
 5	ਦੇ	_	ADP	_	_	3	case	3:case	_
-6	ਰਾਘਵੇਂਦਰ	_	PROPN	_	_	15	obl:lmod	15:obl:lmod	_
+6	ਰਾਘਵੇਂਦਰ	_	PROPN	_	_	15	obl	15:obl	_
 7	ਕਲਿਆਣ	_	PROPN	_	_	6	flat	6:flat	_
 8	ਮੰਡਪ	_	PROPN	_	_	6	flat	6:flat	_
 9	'ਚ	_	ADP	_	_	6	case	6:case	_
@@ -2860,7 +2860,7 @@
 # sent_id = news_bbc_rajnikanth_6
 # text = ਅਸੀਂ 2021 'ਚ ਤਮਿਲਨਾਡੂ ਦੀਆਂ ਸਾਰੀਆਂ 234 ਸੀਟਾਂ 'ਤੇ ਚੋਣ ਲੜਾਂਗੇ।"
 1	ਅਸੀਂ	_	PRON	_	_	11	nsubj	11:nsubj	_
-2	2021	_	NUM	_	_	11	obl:tmod	11:obl:tmod	_
+2	2021	_	NUM	_	_	11	obl	11:obl	_
 3	'ਚ	_	ADP	_	_	2	case	2:case	_
 4	ਤਮਿਲਨਾਡੂ	_	PROPN	_	_	8	nmod	8:nmod	_
 5	ਦੀਆਂ	_	ADP	_	_	4	case	4:case	_
@@ -2877,10 +2877,10 @@
 # text = ਰਜਨੀਕਾਂਤ ਦੇ ਐਲਾਨ ਤੋਂ ਬਾਅਦ ਉਨ੍ਹਾਂ ਨੂੰ ਉਨ੍ਹਾਂ ਦੇ ਫੈਨਸ ਤੋਂ ਇਲਾਵਾ ਪੂਰੀ ਦੁਨੀਆਂ ਤੋਂ ਸ਼ੁੱਭਇਛਾਵਾਂ ਮਿਲ ਰਹੀਆਂ ਹਨ।
 1	ਰਜਨੀਕਾਂਤ	_	PROPN	_	_	3	nmod	3:nmod	_
 2	ਦੇ	_	ADP	_	_	1	case	1:case	_
-3	ਐਲਾਨ	_	NOUN	_	_	17	obl:tmod	17:obl:tmod	_
+3	ਐਲਾਨ	_	NOUN	_	_	17	obl	17:obl	_
 4	ਤੋਂ	_	ADP	_	_	3	case	3:case	_
 5	ਬਾਅਦ	_	ADP	_	_	4	fixed	4:fixed	_
-6	ਉਨ੍ਹਾਂ	_	PRON	_	_	17	nsubj:dat	17:nsubj:dat	_
+6	ਉਨ੍ਹਾਂ	_	PRON	_	_	17	nsubj	17:nsubj	_
 7	ਨੂੰ	_	ADP	_	_	6	case	6:case	_
 8	ਉਨ੍ਹਾਂ	_	PRON	_	_	10	nmod	10:nmod	_
 9	ਦੇ	_	ADP	_	_	8	case	8:case	_
@@ -2901,7 +2901,7 @@
 1	ਨਵੀਂ	_	ADJ	_	_	2	amod	2:amod	_
 2	ਪਾਰਟੀ	_	NOUN	_	_	4	nmod	4:nmod	_
 3	ਦੇ	_	ADP	_	_	2	case	2:case	_
-4	ਐਲਾਨ	_	NOUN	_	_	13	obl:tmod	13:obl:tmod	_
+4	ਐਲਾਨ	_	NOUN	_	_	13	obl	13:obl	_
 5	ਤੋਂ	_	ADP	_	_	4	case	4:case	_
 6	ਬਾਅਦ	_	ADP	_	_	5	fixed	5:fixed	_
 7	ਹੀ	_	PART	_	_	4	discourse	4:discourse	_
@@ -2986,7 +2986,7 @@
 12	ਦਾ	_	ADP	_	_	11	case	11:case	_
 13	ਜਨਮ	_	NOUN	_	_	19	nsubj	19:nsubj	_
 14	12	_	NUM	_	_	15	nummod	15:nummod	_
-15	ਦਸਬੰਰ	_	PROPN	_	_	19	obl:tmod	19:obl:tmod	_
+15	ਦਸਬੰਰ	_	PROPN	_	_	19	obl	19:obl	_
 16	,	_	PUNCT	_	_	15	punct	15:punct	_
 17	1950	_	NUM	_	_	15	nummod	15:nummod	_
 18	ਨੂੰ	_	ADP	_	_	15	case	15:case	_
@@ -3029,7 +3029,7 @@
 
 # sent_id = news_bbc_rajnikanth_16
 # text = 1973 ਵਿੱਚ ਆਪਣੇ ਮਿੱਤਰ ਤੋਂ ਆਰਥਿਕ ਸਹਾਇਤਾ ਦੇ ਨਾਲ ਉਨ੍ਹਾਂ ਮਦਰਾਸ ਫ਼ਿਲਮ ਇੰਸਟੀਚਿਉਟ 'ਚ ਦਾਖਲਾ ਲਿਆ।
-1	1973	_	NUM	_	_	16	obl:tmod	16:obl:tmod	_
+1	1973	_	NUM	_	_	16	obl	16:obl	_
 2	ਵਿੱਚ	_	ADP	_	_	1	case	1:case	_
 3	ਆਪਣੇ	_	PRON	_	_	4	nmod	4:nmod	_
 4	ਮਿੱਤਰ	_	NOUN	_	_	7	nmod	7:nmod	_
@@ -3060,7 +3060,7 @@
 # text = 70 ਦੇ ਦਹਾਕੇ ਤਕ ਰਜਨੀਕਾਂਤ ਤਾਮਿਲ ਸਿਨੇਮਾ ਦੇ ਬਿਹਤਰੀਨ ਤੇ ਮਕਬੂਲ ਸਿਤਾਰਿਆਂ ਵਿੱਚੋਂ ਇੱਕ ਸਨ।
 1	70	_	NUM	_	_	3	nmod	3:nmod	_
 2	ਦੇ	_	ADP	_	_	1	case	1:case	_
-3	ਦਹਾਕੇ	_	NOUN	_	_	14	obl:tmod	14:obl:tmod	_
+3	ਦਹਾਕੇ	_	NOUN	_	_	14	obl	14:obl	_
 4	ਤਕ	_	ADP	_	_	3	case	3:case	_
 5	ਰਜਨੀਕਾਂਤ	_	PROPN	_	_	14	nsubj	14:nsubj	_
 6	ਤਾਮਿਲ	_	ADJ	_	_	7	amod	7:amod	_
@@ -3113,13 +3113,13 @@
 2	ਦਾ	_	ADP	_	_	1	case	1:case	_
 3	ਵਿਆਹ	_	NOUN	_	_	13	nsubj	13:nsubj	_
 4	26	_	NUM	_	_	5	nummod	5:nummod	_
-5	ਫਰਵਰੀ	_	PROPN	_	_	13	obl:lmod	13:obl:lmod	_
+5	ਫਰਵਰੀ	_	PROPN	_	_	13	obl	13:obl	_
 6	,	_	PUNCT	_	_	5	punct	5:punct	_
 7	1981	_	NUM	_	_	5	nummod	5:nummod	_
 8	ਨੂੰ	_	ADP	_	_	5	case	5:case	_
 9	ਲਥਾ	_	PROPN	_	_	13	obl	13:obl	_
 10	ਨਾਲ	_	ADP	_	_	9	case	9:case	_
-11	ਤਿਰੁਪਤੀ	_	PROPN	_	_	13	obl:lmod	13:obl:lmod	_
+11	ਤਿਰੁਪਤੀ	_	PROPN	_	_	13	obl	13:obl	_
 12	ਵਿਖੇ	_	ADP	_	_	11	case	11:case	_
 13	ਹੋਇਆ	_	VERB	_	_	0	root	0:root	_
 14	।	_	PUNCT	_	_	13	punct	13:punct	_
@@ -3146,9 +3146,9 @@
 
 # sent_id = news_bbc_rajnikanth_23
 # text = ਰਜਨੀਕਾਂਤ ਨੂੰ ਸਾਲ 2000 ਵਿੱਚ ਪਦਮ ਭੂਸ਼ਣ ਮਿਲ ਚੁੱਕਿਆ ਹੈ।
-1	ਰਜਨੀਕਾਂਤ	_	PROPN	_	_	8	nsubj:dat	8:nsubj:dat	_
+1	ਰਜਨੀਕਾਂਤ	_	PROPN	_	_	8	nsubj	8:nsubj	_
 2	ਨੂੰ	_	ADP	_	_	1	case	1:case	_
-3	ਸਾਲ	_	NOUN	_	_	8	obl:tmod	8:obl:tmod	_
+3	ਸਾਲ	_	NOUN	_	_	8	obl	8:obl	_
 4	2000	_	NUM	_	_	3	appos	3:appos	_
 5	ਵਿੱਚ	_	ADP	_	_	3	case	3:case	_
 6	ਪਦਮ	_	PROPN	_	_	7	compound	7:compound	_
@@ -3160,12 +3160,12 @@
 
 # sent_id = news_bbc_rajnikanth_24
 # text = ਇਸ ਤੋਂ ਬਾਅਦ ਉਨ੍ਹਾਂ ਨੂੰ ਸਾਲ 2016 ਵਿੱਚ ਪਦਮ ਵਿਭੂਸ਼ਣ ਨਾਲ ਵੀ ਨਵਾਜਿਆ ਜਾ ਚੁੱਕਿਆ ਹੈ।
-1	ਇਸ	_	PRON	_	_	13	obl:tmod	13:obl:tmod	_
+1	ਇਸ	_	PRON	_	_	13	obl	13:obl	_
 2	ਤੋਂ	_	ADP	_	_	1	case	1:case	_
 3	ਬਾਅਦ	_	ADP	_	_	2	fixed	2:fixed	_
-4	ਉਨ੍ਹਾਂ	_	PRON	_	_	13	nsubj:dat	13:nsubj:dat	_
+4	ਉਨ੍ਹਾਂ	_	PRON	_	_	13	nsubj	13:nsubj	_
 5	ਨੂੰ	_	ADP	_	_	4	case	4:case	_
-6	ਸਾਲ	_	NOUN	_	_	13	obl:tmod	13:obl:tmod	_
+6	ਸਾਲ	_	NOUN	_	_	13	obl	13:obl	_
 7	2016	_	NUM	_	_	6	appos	6:appos	_
 8	ਵਿੱਚ	_	ADP	_	_	6	case	6:case	_
 9	ਪਦਮ	_	PROPN	_	_	10	compound	10:compound	_
@@ -3180,7 +3180,7 @@
 
 # sent_id = news_bbc_rajnikanth_25
 # text = ਰਜਨੀਕਾਂਤ ਨੂੰ ਥਲਾਈਵਾ ਕਿਹਾ ਜਾਂਦਾ ਹੈ।
-1	ਰਜਨੀਕਾਂਤ	_	PRON	_	_	4	obj	4:obj	_
+1	ਰਜਨੀਕਾਂਤ	_	PRON	_	_	4	nsubj:pass	4:nsubj:pass	_
 2	ਨੂੰ	_	ADP	_	_	1	case	1:case	_
 3	ਥਲਾਈਵਾ	_	PROPN	_	_	4	ccomp	4:ccomp	_
 4	ਕਿਹਾ	_	VERB	_	_	0	root	0:root	_
@@ -3202,7 +3202,7 @@
 # sent_id = news_jagbani_dubai_1
 # url = https://jagbani.punjabkesari.in/punjab/news/ludhiana-passenger-from-dubai-turned-out-to-be-positive--isolated-1329647
 # text = ਦੁਬਈ ਤੋਂ ਆਇਆ ਲੁਧਿਆਣਾ ਦਾ ਯਾਤਰੀ ਨਿਕਲਿਆ ਪਾਜ਼ੇਟਿਵ, ਕੀਤਾ ਆਈਸੋਲੇਟ
-1	ਦੁਬਈ	_	PROPN	_	_	3	obl:lmod	3:obl:lmod	_
+1	ਦੁਬਈ	_	PROPN	_	_	3	obl	3:obl	_
 2	ਤੋਂ	_	ADP	_	_	1	case	1:case	_
 3	ਆਇਆ	_	VERB	_	_	6	acl	6:acl	_
 4	ਲੁਧਿਆਣਾ	_	PROPN	_	_	6	nmod	6:nmod	_
@@ -3224,17 +3224,17 @@
 
 # sent_id = news_jagbani_dubai_3
 # text = ਦੁਬਈ ਤੋਂ ਪਰਤੇ ਲੁਧਿਆਣਾ ਦੇ ਇਕ ਯਾਤਰੀ ਨੂੰ ਏਅਰਪੋਰਟ ’ਤੇ ਟੈਸਟ ਦੌਰਾਨ ਕੋਰੋਨਾ ਪਾਜ਼ੇਟਿਵ ਪਾਏ ਜਾਣ ਤੋਂ ਬਾਅਦ ਆਈਸੋਲੇਟ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ।
-1	ਦੁਬਈ	_	PROPN	_	_	3	obl:lmod	3:obl:lmod	_
+1	ਦੁਬਈ	_	PROPN	_	_	3	obl	3:obl	_
 2	ਤੋਂ	_	ADP	_	_	1	case	1:case	_
 3	ਪਰਤੇ	_	VERB	_	_	7	acl	7:acl	_
 4	ਲੁਧਿਆਣਾ	_	PROPN	_	_	7	nmod	7:nmod	_
 5	ਦੇ	_	ADP	_	_	4	case	4:case	_
 6	ਇਕ	_	NUM	_	_	7	nummod	7:nummod	_
-7	ਯਾਤਰੀ	_	NOUN	_	_	20	obj	20:obj	_
+7	ਯਾਤਰੀ	_	NOUN	_	_	20	nsubj:pass	20:nsubj:pass	_
 8	ਨੂੰ	_	ADP	_	_	7	case	7:case	_
-9	ਏਅਰਪੋਰਟ	_	NOUN	_	_	15	obl:lmod	15:obl:lmod	_
+9	ਏਅਰਪੋਰਟ	_	NOUN	_	_	15	obl	15:obl	_
 10	’ਤੇ	_	ADP	_	_	9	case	9:case	_
-11	ਟੈਸਟ	_	NOUN	_	_	15	obl:tmod	15:obl:tmod	_
+11	ਟੈਸਟ	_	NOUN	_	_	15	obl	15:obl	_
 12	ਦੌਰਾਨ	_	ADP	_	_	11	case	11:case	_
 13	ਕੋਰੋਨਾ	_	NOUN	_	_	14	compound	14:compound	_
 14	ਪਾਜ਼ੇਟਿਵ	_	ADJ	_	_	15	xcomp	15:xcomp	_
@@ -3254,9 +3254,9 @@
 1	ਸਿਹਤ	_	NOUN	_	_	2	compound	2:compound	_
 2	ਅਧਿਕਾਰੀਆਂ	_	NOUN	_	_	12	obl	12:obl	_
 3	ਅਨੁਸਾਰ	_	ADP	_	_	2	case	2:case	_
-4	ਜ਼ਿਲ੍ਹੇ	_	NOUN	_	_	12	obl:lmod	12:obl:lmod	_
+4	ਜ਼ਿਲ੍ਹੇ	_	NOUN	_	_	12	obl	12:obl	_
 5	’ਚ	_	ADP	_	_	4	case	4:case	_
-6	ਵਿਦੇਸ਼ਾਂ	_	NOUN	_	_	12	obl:lmod	12:obl:lmod	_
+6	ਵਿਦੇਸ਼ਾਂ	_	NOUN	_	_	12	obl	12:obl	_
 7	ਤੋਂ	_	ADP	_	_	6	case	6:case	_
 8	1000	_	NUM	_	_	11	nummod	11:nummod	_
 9	ਤੋਂ	_	ADP	_	_	8	case	8:case	_
@@ -3287,7 +3287,7 @@
 34	ਲੈ	_	VERB	_	_	43	advcl	43:advcl	_
 35	ਕੇ	_	AUX	_	_	34	aux	34:aux	_
 36	ਸਿਹਤ	_	PROPN	_	_	37	compound	37:compound	_
-37	ਵਿਭਾਗ	_	PROPN	_	_	43	obl:lmod	43:obl:lmod	_
+37	ਵਿਭਾਗ	_	PROPN	_	_	43	obl	43:obl	_
 38	’ਚ	_	ADP	_	_	37	case	37:case	_
 39-40	ਭੱਜਦੌੜ	_	_	_	_	_	_	_	_
 39	ਭੱਜ	_	NOUN	_	_	42	nmod	42:nmod	_
@@ -3347,7 +3347,7 @@
 6	ਮੀਟਿੰਗ	_	NOUN	_	_	7	compound:lvc	7:compound:lvc	_
 7	ਕਰ	_	VERB	_	_	19	advcl	19:advcl	_
 8	ਕੇ	_	AUX	_	_	7	aux	7:aux	_
-9	ਇਸ	_	PRON	_	_	19	obl:tmod	19:obl:tmod	_
+9	ਇਸ	_	PRON	_	_	19	obl	19:obl	_
 10	ਦੌਰਾਨ	_	ADP	_	_	9	case	9:case	_
 11	ਸਾਰੇ	_	DET	_	_	14	det	14:det	_
 12	ਸੀਨੀਅਰ	_	ADJ	_	_	14	amod	14:amod	_
@@ -3356,24 +3356,24 @@
 15	ਦਾ	_	ADP	_	_	14	case	14:case	_
 16	ਇਕ	_	NUM	_	_	18	nummod	18:nummod	_
 17	ਵ੍ਹਟਸਐਪ	_	PROPN	_	_	18	compound	18:compound	_
-18	ਗਰੁੱਪ	_	NOUN	_	_	19	obj	19:obj	_
+18	ਗਰੁੱਪ	_	NOUN	_	_	19	nsubj:pass	19:nsubj:pass	_
 19	ਬਣਾਇਆ	_	VERB	_	_	0	root	0:root	_
 20	ਗਿਆ	_	AUX	_	_	19	aux:pass	19:aux:pass	_
 21	ਹੈ	_	AUX	_	_	19	aux	19:aux	_
 22	,	_	PUNCT	_	_	19	punct	19:punct	_
 23	ਜਿਸ	_	PRON	_	_	37	obl	37:obl	_
 24	’ਚ	_	ADP	_	_	23	case	23:case	_
-25	ਸਰਕਾਰ	_	NOUN	_	_	27	nsubj:pass	27:nsubj:pass	_
+25	ਸਰਕਾਰ	_	NOUN	_	_	27	obl:agent	27:obl:agent	_
 26	ਵੱਲੋਂ	_	ADP	_	_	25	case	25:case	_
 27	ਭੇਜੀ	_	VERB	_	_	35	acl	35:acl	_
 28	ਗਈ	_	AUX	_	_	27	aux:pass	27:aux:pass	_
-29	ਵਿਦੇਸ਼ਾਂ	_	NOUN	_	_	32	obl:lmod	32:obl:lmod	_
+29	ਵਿਦੇਸ਼ਾਂ	_	NOUN	_	_	32	obl	32:obl	_
 30	ਤੋਂ	_	ADP	_	_	29	case	29:case	_
 31	ਵਾਪਸ	_	ADV	_	_	32	compound:lvc	32:compound:lvc	_
 32	ਆਉਣ	_	VERB	_	_	35	acl	35:acl	_
 33	ਵਾਲਿਆਂ	_	ADP	_	_	32	mark	32:mark	_
 34	ਦੀ	_	ADP	_	_	32	mark	32:mark	_
-35	ਸੂਚੀ	_	NOUN	_	_	37	obj	37:obj	_
+35	ਸੂਚੀ	_	NOUN	_	_	37	nsubj:pass	37:nsubj:pass	_
 36	ਸਾਂਝੀ	_	ADJ	_	_	37	compound:lvc	37:compound:lvc	_
 37	ਕੀਤੀ	_	VERB	_	_	18	acl:relcl	18:acl:relcl	_
 38	ਜਾਵੇਗੀ	_	AUX	_	_	37	aux:pass	37:aux:pass	_
@@ -3387,7 +3387,7 @@
 46	ਕਿ	_	SCONJ	_	_	63	mark	63:mark	_
 47	ਕੀ	_	PART	_	_	63	discourse	63:discourse	_
 48	ਵਿਦੇਸ਼ੀ	_	ADJ	_	_	49	amod	49:amod	_
-49	ਯਾਤਰੀ	_	NOUN	_	_	63	obj	63:obj	_
+49	ਯਾਤਰੀ	_	NOUN	_	_	63	nsubj:pass	63:nsubj:pass	_
 50	ਜੋ	_	PRON	_	_	56	obj	56:obj	_
 51	ਸਿਹਤ	_	PROPN	_	_	52	compound	52:compound	_
 52	ਵਿਭਾਗ	_	PROPN	_	_	54	nmod	54:nmod	_
@@ -3398,7 +3398,7 @@
 57	ਕਿ	_	SCONJ	_	_	63	mark	63:mark	_
 58	ਉਸ	_	PRON	_	_	60	nmod	60:nmod	_
 59	ਦੇ	_	ADP	_	_	58	case	58:case	_
-60	ਇਲਾਕੇ	_	NOUN	_	_	63	obl:lmod	63:obl:lmod	_
+60	ਇਲਾਕੇ	_	NOUN	_	_	63	obl	63:obl	_
 61	’ਚ	_	ADP	_	_	60	case	60:case	_
 62	ਆਈਸੋਲੇਟ	_	ADJ	_	_	63	compound:lvc	63:compound:lvc	_
 63	ਕੀਤਾ	_	VERB	_	_	43	acl	43:acl	_
@@ -3423,7 +3423,7 @@
 # sent_id = blog_lahore_2
 # text = ਮੈਂ ਬਚਪਨ ਤੋਂ ਹੀ ਇਹ ਕਹਾਵਤ ਸੁਣਦਾ ਸੀ, ਕਦੇ ਖਾਸ ਧਿਆਨ ਕੀਤਾ ਨਹੀਂ ਜ਼ਿਆਦਾ, ਬਸ ਮੈਨੂੰ ਇੰਝ ਹੀ ਲੱਗਦਾ ਸੀ ਕਿ ਲਾਹੌਰ ਸ਼ਹਿਰ ਦੀ ਤਾਰੀਫ ਹੋ ਰਹੀ ਹੈ.
 1	ਮੈਂ	_	PRON	_	_	7	nsubj	7:nsubj	_
-2	ਬਚਪਨ	_	NOUN	_	_	7	obl:tmod	7:obl:tmod	_
+2	ਬਚਪਨ	_	NOUN	_	_	7	obl	7:obl	_
 3	ਤੋਂ	_	ADP	_	_	2	case	2:case	_
 4	ਹੀ	_	PART	_	_	2	discourse	2:discourse	_
 5	ਇਹ	_	DET	_	_	6	det	6:det	_
@@ -3439,7 +3439,7 @@
 15	ਜ਼ਿਆਦਾ	_	ADV	_	_	13	advmod	13:advmod	_
 16	,	_	PUNCT	_	_	7	punct	7:punct	_
 17	ਬਸ	_	INTJ	_	_	21	discourse	21:discourse	_
-18	ਮੈਨੂੰ	_	PRON	_	_	21	nsubj:dat	21:nsubj:dat	_
+18	ਮੈਨੂੰ	_	PRON	_	_	21	nsubj	21:nsubj	_
 19	ਇੰਝ	_	PRON	_	_	21	obj	21:obj	_
 20	ਹੀ	_	PART	_	_	19	discourse	19:discourse	_
 21	ਲੱਗਦਾ	_	VERB	_	_	7	parataxis	7:parataxis	_
@@ -3490,7 +3490,7 @@
 32	ਬੰਬਈ	_	PROPN	_	_	28	conj	28:conj	_
 33	..	_	PUNCT	_	_	28	punct	28:punct	_
 34	ਕਈ	_	DET	_	_	35	det	35:det	_
-35	ਜਗਾ	_	NOUN	_	_	38	obl:lmod	38:obl:lmod	_
+35	ਜਗਾ	_	NOUN	_	_	38	obl	38:obl	_
 36	ਤੇ	_	ADP	_	_	35	case	35:case	_
 37	ਇਸ਼ਤਿਹਾਰ	_	NOUN	_	_	38	obj	38:obj	_
 38	ਵਿਖਦੇ	_	VERB	_	_	18	parataxis	18:parataxis	_
@@ -3498,19 +3498,19 @@
 40	ਕਿ	_	SCONJ	_	_	43	mark	43:mark	_
 41	ਫਲਾਣੀ	_	DET	_	_	43	det	43:det	_
 42	2	_	NUM	_	_	43	nummod	43:nummod	_
-43	ਜਗਾਂ	_	NOUN	_	_	47	obl:lmod	47:obl:lmod	_
+43	ਜਗਾਂ	_	NOUN	_	_	47	obl	47:obl	_
 44	ਤੇ	_	ADP	_	_	43	case	43:case	_
 45	ਇਹ	_	DET	_	_	46	det	46:det	_
-46	ਡਰਾਮਾ	_	NOUN	_	_	47	obj	47:obj	_
+46	ਡਰਾਮਾ	_	NOUN	_	_	47	nsubj:pass	47:nsubj:pass	_
 47	ਵਿਖਾਇਆ	_	VERB	_	_	37	acl:relcl	37:acl:relcl	_
 48	ਜਾਵੇਗਾ	_	AUX	_	_	47	aux:pass	47:aux:pass	_
 49	।	_	PUNCT	_	_	18	punct	18:punct	_
 
 # sent_id = blog_lahore_4
 # text = ਕਲ ਇਥੇ ਲਖਨਊ ਵਿਚ ਇਸ ਉਰਦੂ ਡ੍ਰਾਮੇ ਨੂੰ ਵੇਖਣ ਦਾ ਮੌਕਾ ਮਿਲ ਗਯਾ.. ਬਹੁਤ ਚੰਗਾ ਲੱਗਾ, ਇਸ ਨੂੰ ਵੇਖਦੇ ਹੋਏ ਕਈ ਵਾਰੀ ਅੱਖਾਂ ਭਿੱਜ ਵੀ ਗਈਆਂ ਤੇ ਕਈ ਵਾਰੀ ਖੁਸ਼ੀ ਨਾਲ ਵੀ ਭਿੱਜ ਗਈਆਂ ਅੱਖਾਂ।
-1	ਕਲ	_	NOUN	_	_	12	obl:tmod	12:obl:tmod	_
-2	ਇਥੇ	_	PRON	_	_	12	obl:lmod	12:obl:lmod	_
-3	ਲਖਨਊ	_	PROPN	_	_	12	obl:lmod	12:obl:lmod	_
+1	ਕਲ	_	NOUN	_	_	12	obl	12:obl	_
+2	ਇਥੇ	_	PRON	_	_	12	obl	12:obl	_
+3	ਲਖਨਊ	_	PROPN	_	_	12	obl	12:obl	_
 4	ਵਿਚ	_	ADP	_	_	3	case	3:case	_
 5	ਇਸ	_	DET	_	_	7	det	7:det	_
 6	ਉਰਦੂ	_	ADJ	_	_	7	amod	7:amod	_
@@ -3551,7 +3551,7 @@
 # text = ਮੇਰੇ ਤੇ ਕਦੇ ਚਿਤ ਚੇਤੇ ਚ ਵੀ ਨਹੀਂ ਸੀ ਕਿ ਇਸ ਦੀ ਕਹਾਣੀ ਦੇਸ਼ ਦੀ ਵੰਢ ਦੇ ਵੇਲੇ ਦੀ ਹੈ.
 1	ਮੇਰੇ	_	PRON	_	_	9	nsubj	9:nsubj	_
 2	ਤੇ	_	ADP	_	_	1	case	1:case	_
-3	ਕਦੇ	_	PRON	_	_	9	obl:tmod	9:obl:tmod	_
+3	ਕਦੇ	_	PRON	_	_	9	obl	9:obl	_
 4	ਚਿਤ	_	NOUN	_	_	9	obl	9:obl	_
 5	ਚੇਤੇ	_	NOUN	_	_	4	conj	4:conj	_
 6	ਚ	_	ADP	_	_	4	case	4:case	_
@@ -3573,7 +3573,7 @@
 
 # sent_id = blog_lahore_6
 # text = ਓਥੇ ਜਾ ਕੇ ਹੀ ਪਤਾ ਲੱਗਾ ਕਿ ਇਸ ਨੂੰ ਮਹਾਨ ਲੇਖਕ ਅਸਗ਼ਰ ਵਜ਼ਾਹਤ ਸਾਬ ਨੇ ਲਿਖਿਆ ਹੈ.
-1	ਓਥੇ	_	PRON	_	_	2	obl:lmod	2:obl:lmod	_
+1	ਓਥੇ	_	PRON	_	_	2	obl	2:obl	_
 2	ਜਾ	_	VERB	_	_	6	advcl	6:advcl	_
 3	ਕੇ	_	AUX	_	_	2	aux	2:aux	_
 4	ਹੀ	_	PART	_	_	2	discourse	2:discourse	_
@@ -3604,8 +3604,8 @@
 8	ਖਿੱਚੀਆਂ	_	VERB	_	_	0	root	0:root	_
 9	ਸੀ	_	AUX	_	_	8	aux	8:aux	_
 10	,	_	PUNCT	_	_	8	punct	8:punct	_
-11	ਅਜ	_	NOUN	_	_	14	obl:tmod	14:obl:tmod	_
-12	ਮੈਨੂੰ	_	PRON	_	_	14	nsubj:dat	14:nsubj:dat	_
+11	ਅਜ	_	NOUN	_	_	14	obl	14:obl	_
+12	ਮੈਨੂੰ	_	PRON	_	_	14	nsubj	14:nsubj	_
 13	ਧਿਆਨ	_	NOUN	_	_	14	compound:lvc	14:compound:lvc	_
 14	ਆਇਆ	_	VERB	_	_	8	parataxis	8:parataxis	_
 15	ਕਿ	_	SCONJ	_	_	26	mark	26:mark	_
@@ -3630,15 +3630,15 @@
 4	ਕਿ	_	SCONJ	_	_	16	mark	16:mark	_
 5	ਦੇਸ਼	_	NOUN	_	_	7	nmod	7:nmod	_
 6	ਦੀ	_	ADP	_	_	5	case	5:case	_
-7	ਵੰਢ	_	NOUN	_	_	16	obl:tmod	16:obl:tmod	_
+7	ਵੰਢ	_	NOUN	_	_	16	obl	16:obl	_
 8	ਵੇਲੇ	_	ADP	_	_	7	case	7:case	_
-9	ਲਖਨਊ	_	PROPN	_	_	16	obl:lmod	16:obl:lmod	_
+9	ਲਖਨਊ	_	PROPN	_	_	16	obl	16:obl	_
 10	ਤੋਂ	_	ADP	_	_	9	case	9:case	_
 11	ਮਿਰਜ਼ਾ	_	PROPN	_	_	16	nsubj	16:nsubj	_
 12	ਸਾਹਿਬ	_	PROPN	_	_	11	flat	11:flat	_
-13	ਲਖਨਊ	_	PROPN	_	_	16	obl:lmod	16:obl:lmod	_
+13	ਲਖਨਊ	_	PROPN	_	_	16	obl	16:obl	_
 14	ਤੋਂ	_	ADP	_	_	13	case	13:case	_
-15	ਲਾਹੌਰ	_	PROPN	_	_	16	obl:lmod	16:obl:lmod	_
+15	ਲਾਹੌਰ	_	PROPN	_	_	16	obl	16:obl	_
 16	ਚਲੇ	_	VERB	_	_	2	acl	2:acl	_
 17	ਜਾਂਦੇ	_	VERB	_	_	16	compound:svc	16:compound:svc	_
 18	ਨੇ	_	AUX	_	_	16	aux	16:aux	_
@@ -3659,12 +3659,12 @@
 
 # sent_id = blog_lahore_9
 # text = ਲਾਹੌਰ ਜਾ ਕੇ ਉਹ ਸਾਰੇ ਕੈੰਪ ਵਿਚ ਡੇਰਾ ਲਗਾ ਲੈਂਦੇ ਨੇ.
-1	ਲਾਹੌਰ	_	PROPN	_	_	2	obl:lmod	2:obl:lmod	_
+1	ਲਾਹੌਰ	_	PROPN	_	_	2	obl	2:obl	_
 2	ਜਾ	_	VERB	_	_	9	advcl	9:advcl	_
 3	ਕੇ	_	AUX	_	_	2	aux	2:aux	_
 4	ਉਹ	_	PRON	_	_	9	nsubj	9:nsubj	_
 5	ਸਾਰੇ	_	DET	_	_	4	det	4:det	_
-6	ਕੈੰਪ	_	NOUN	_	_	9	obl:lmod	9:obl:lmod	_
+6	ਕੈੰਪ	_	NOUN	_	_	9	obl	9:obl	_
 7	ਵਿਚ	_	ADP	_	_	6	case	6:case	_
 8	ਡੇਰਾ	_	NOUN	_	_	9	compound:lvc	9:compound:lvc	_
 9	ਲਗਾ	_	VERB	_	_	0	root	0:root	_
@@ -3675,9 +3675,9 @@
 # sent_id = blog_lahore_10
 # text = ਕੁਛ ਚਿਰ ਬਾਅਦ ਉੰਨਾ ਨੂੰ ਕਲੇਮ ਬਾਊ ਵੱਲੋਂ ਇਕ 22 ਕਮਰੇਆਂ ਵਾਲੀ ਹਵੇਲੀ ਅਲਾਟ ਹੋ ਜਾਂਦੀ ਏ.
 1	ਕੁਛ	_	DET	_	_	2	det	2:det	_
-2	ਚਿਰ	_	NOUN	_	_	15	obl:tmod	15:obl:tmod	_
+2	ਚਿਰ	_	NOUN	_	_	15	obl	15:obl	_
 3	ਬਾਅਦ	_	ADP	_	_	2	case	2:case	_
-4	ਉੰਨਾ	_	PRON	_	_	15	nsubj:dat	15:nsubj:dat	_
+4	ਉੰਨਾ	_	PRON	_	_	15	nsubj	15:nsubj	_
 5	ਨੂੰ	_	ADP	_	_	4	case	4:case	_
 6	ਕਲੇਮ	_	PROPN	_	_	7	compound	7:compound	_
 7	ਬਾਊ	_	PROPN	_	_	15	obl	15:obl	_
@@ -3700,7 +3700,7 @@
 3	ਖੁਸ਼ੀ	_	NOUN	_	_	4	compound:redup	4:compound:redup	_
 4	ਖੁਸ਼ੀ	_	NOUN	_	_	8	obl	8:obl	_
 5	ਉਸ	_	DET	_	_	6	det	6:det	_
-6	ਹਵੇਲੀ	_	NOUN	_	_	8	obl:lmod	8:obl:lmod	_
+6	ਹਵੇਲੀ	_	NOUN	_	_	8	obl	8:obl	_
 7	ਵਿਚ	_	ADP	_	_	6	case	6:case	_
 8	ਜਾ	_	VERB	_	_	0	root	0:root	_
 9	ਪੁੱਜਦੇ	_	VERB	_	_	8	compound:svc	8:compound:svc	_
@@ -3783,7 +3783,7 @@
 9	ਬਿਨਾਂ	_	ADP	_	_	10	mark	10:mark	_
 10	ਪੁੱਛੇ	_	VERB	_	_	15	advcl	15:advcl	_
 11	ਓਹਦੇ	_	PRON	_	_	12	nmod	12:nmod	_
-12	ਘਰ	_	NOUN	_	_	15	obl:lmod	15:obl:lmod	_
+12	ਘਰ	_	NOUN	_	_	15	obl	15:obl	_
 13	ਦੇ	_	ADP	_	_	12	case	12:case	_
 14	ਅੰਦਰ	_	ADP	_	_	13	fixed	13:fixed	_
 15	ਆ	_	VERB	_	_	6	acl:relcl	6:acl:relcl	_
@@ -3810,7 +3810,7 @@
 36	ਵੱਲੋਂ	_	ADP	_	_	35	case	35:case	_
 37	ਹੁਣ	_	ADV	_	_	42	advmod	42:advmod	_
 38	ਇਹ	_	PRON	_	_	42	obj	42:obj	_
-39	ਉੰਨਾ	_	PRON	_	_	42	nsubj:dat	42:nsubj:dat	_
+39	ਉੰਨਾ	_	PRON	_	_	42	nsubj	42:nsubj	_
 40	ਨੂੰ	_	ADP	_	_	39	case	39:case	_
 41	ਅਲਾਟ	_	ADJ	_	_	42	compound:lvc	42:compound:lvc	_
 42	ਹੋ	_	VERB	_	_	29	advcl	29:advcl	_
@@ -3835,12 +3835,12 @@
 61	ਚੁੱਕੀ	_	VERB	_	_	60	compound:svc	60:compound:svc	_
 62	ਹੈ	_	AUX	_	_	60	aux	60:aux	_
 63	ਤੇ	_	CCONJ	_	_	70	cc	70:cc	_
-64	ਉਸਨੂੰ	_	PRON	_	_	70	nsubj:dat	70:nsubj:dat	_
+64	ਉਸਨੂੰ	_	PRON	_	_	70	nsubj	70:nsubj	_
 65	ਹਵੇਲੀ	_	NOUN	_	_	67	obj	67:obj	_
 66	ਖਾਲੀ	_	ADJ	_	_	67	compound:lvc	67:compound:lvc	_
 67	ਕਰ	_	VERB	_	_	70	advcl	70:advcl	_
 68	ਕੇ	_	AUX	_	_	67	aux	67:aux	_
-69	ਹਿੰਦੁਸਤਾਨ	_	PROPN	_	_	70	obl:lmod	70:obl:lmod	_
+69	ਹਿੰਦੁਸਤਾਨ	_	PROPN	_	_	70	obl	70:obl	_
 70	ਚਲੇ	_	VERB	_	_	60	conj	60:conj	_
 71	ਜਾਣਾ	_	VERB	_	_	70	compound:svc	70:compound:svc	_
 72	ਚਾਹੀਦਾ	_	AUX	_	_	70	aux	70:aux	_
@@ -3889,7 +3889,7 @@
 38	ਹੈ	_	AUX	_	_	37	cop	37:cop	_
 39	,	_	PUNCT	_	_	26	punct	26:punct	_
 40	ਉਹ	_	PRON	_	_	43	nsubj	43:nsubj	_
-41	ਕਿਤੇ	_	PRON	_	_	43	obl:lmod	43:obl:lmod	_
+41	ਕਿਤੇ	_	PRON	_	_	43	obl	43:obl	_
 42	ਨਹੀਂ	_	ADV	_	_	43	advmod	43:advmod	_
 43	ਜਾਵੇਗੀ	_	VERB	_	_	26	parataxis	26:parataxis	_
 44	।	_	PUNCT	_	_	10	punct	10:punct	_
@@ -3913,7 +3913,7 @@
 15	ਪੈ	_	VERB	_	_	0	root	0:root	_
 16	ਜਾਂਦੈ	_	VERB	_	_	15	compound:svc	15:compound:svc	_
 17	,	_	PUNCT	_	_	15	punct	15:punct	_
-18	ਉੰਨਾ	_	PRON	_	_	20	nsubj:dat	20:nsubj:dat	_
+18	ਉੰਨਾ	_	PRON	_	_	20	nsubj	20:nsubj	_
 19	ਨੂੰ	_	ADP	_	_	18	case	18:case	_
 20	ਲੱਗਦਾ	_	VERB	_	_	15	parataxis	15:parataxis	_
 21	ਹੈ	_	AUX	_	_	20	aux	20:aux	_
@@ -3932,7 +3932,7 @@
 1	ਬੱਸ	_	ADV	_	_	14	discourse	14:discourse	_
 2	ਐਵੇਂ	_	PRON	_	_	14	obl	14:obl	_
 3	ਹੀ	_	PART	_	_	2	discourse	2:discourse	_
-4	ਹਵੇਲੀ	_	NOUN	_	_	14	obl:lmod	14:obl:lmod	_
+4	ਹਵੇਲੀ	_	NOUN	_	_	14	obl	14:obl	_
 5	ਵਿਚ	_	ADP	_	_	4	case	4:case	_
 6	ਉੰਨਾ	_	PRON	_	_	10	nmod	10:nmod	_
 7	ਦੀ	_	ADP	_	_	6	case	6:case	_
@@ -3941,7 +3941,7 @@
 10	ਖਿੱਚ	_	NOUN	_	_	14	nsubj	14:nsubj	_
 11	ਤਾਨ	_	NOUN	_	_	10	conj	10:conj	_
 12	ਕੁਛ	_	DET	_	_	13	det	13:det	_
-13	ਚਿਰ	_	NOUN	_	_	14	obl:tmod	14:obl:tmod	_
+13	ਚਿਰ	_	NOUN	_	_	14	obl	14:obl	_
 14	ਲੱਗੀ	_	VERB	_	_	0	root	0:root	_
 15	ਰਹਿੰਦੀ	_	AUX	_	_	14	aux	14:aux	_
 16	ਏ	_	AUX	_	_	14	aux	14:aux	_
@@ -3956,7 +3956,7 @@
 5	ਕਿ	_	SCONJ	_	_	11	mark	11:mark	_
 6	claim	_	NOUN	_	_	8	nmod	8:nmod	_
 7	ਦੇ	_	ADP	_	_	6	case	6:case	_
-8	ਦਫਤਰ	_	NOUN	_	_	9	obl:lmod	9:obl:lmod	_
+8	ਦਫਤਰ	_	NOUN	_	_	9	obl	9:obl	_
 9	ਜਾ	_	VERB	_	_	11	advcl	11:advcl	_
 10	ਕੇ	_	AUX	_	_	9	aux	9:aux	_
 11	ਦੱਸੋ	_	VERB	_	_	2	acl	2:acl	_
@@ -3969,7 +3969,7 @@
 18	ਅਲਾਟ	_	ADJ	_	_	19	compound:lvc	19:compound:lvc	_
 19	ਕੀਤੀ	_	VERB	_	_	13	acl:relcl	13:acl:relcl	_
 20	ਹੈ	_	AUX	_	_	19	aux	19:aux	_
-21	ਉਸ	_	PRON	_	_	26	obl:lmod	26:obl:lmod	_
+21	ਉਸ	_	PRON	_	_	26	obl	26:obl	_
 22	ਵਿਚ	_	ADP	_	_	21	case	21:case	_
 23	ਤੇ	_	PART	_	_	21	discourse	21:discourse	_
 24	ਇਕ	_	NUM	_	_	25	det	25:det	_
@@ -3991,9 +3991,9 @@
 8	ਹੈ	_	AUX	_	_	7	aux	7:aux	_
 9	,	_	PUNCT	_	_	2	punct	2:punct	_
 10	ਉਸ	_	DET	_	_	11	det	11:det	_
-11	ਦਿਨ	_	NOUN	_	_	21	obl:tmod	21:obl:tmod	_
+11	ਦਿਨ	_	NOUN	_	_	21	obl	21:obl	_
 12	ਉਹ	_	PRON	_	_	13	reparandum	13:reparandum	_
-13	ਉਸਨੂੰ	_	PRON	_	_	21	nsubj:dat	21:nsubj:dat	_
+13	ਉਸਨੂੰ	_	PRON	_	_	21	nsubj	21:nsubj	_
 14	ਉਹ	_	DET	_	_	19	det	19:det	_
 15	claim	_	NOUN	_	_	16	obj	16:obj	_
 16	ਦੇਣ	_	VERB	_	_	19	acl	19:acl	_
@@ -4041,7 +4041,7 @@
 22	ਉਹ	_	DET	_	_	23	det	23:det	_
 23	ਹਵੇਲੀ	_	NOUN	_	_	31	obj	31:obj	_
 24	ਓਸੇ	_	DET	_	_	25	det	25:det	_
-25	ਵੇਲੇ	_	NOUN	_	_	31	obl:tmod	31:obl:tmod	_
+25	ਵੇਲੇ	_	NOUN	_	_	31	obl	31:obl	_
 26	ਆਪਣੇ	_	PRON	_	_	28	nmod	28:nmod	_
 27	ਕਿਸੇ	_	DET	_	_	28	det	28:det	_
 28	ਚਹੇਤੇ	_	NOUN	_	_	31	iobj	31:iobj	_
@@ -4053,10 +4053,10 @@
 34	ਤੇ	_	CCONJ	_	_	44	cc	44:cc	_
 35	ਉਸ	_	PRON	_	_	37	nmod	37:nmod	_
 36	ਦੇ	_	ADP	_	_	35	case	35:case	_
-37	ਟੱਬਰ	_	NOUN	_	_	44	nsubj:dat	44:nsubj:dat	_
+37	ਟੱਬਰ	_	NOUN	_	_	44	nsubj	44:nsubj	_
 38	ਨੂੰ	_	ADP	_	_	37	case	37:case	_
 39	ਮੁੜ	_	ADV	_	_	44	advmod	44:advmod	_
-40	ਕੈਮਪ	_	NOUN	_	_	44	obl:lmod	44:obl:lmod	_
+40	ਕੈਮਪ	_	NOUN	_	_	44	obl	44:obl	_
 41	ਚ	_	ADP	_	_	40	case	40:case	_
 42	ਹੀ	_	PART	_	_	40	discourse	40:discourse	_
 43	ਡੇਰਾ	_	NOUN	_	_	44	compound:lvc	44:compound:lvc	_
@@ -4066,7 +4066,7 @@
 
 # sent_id = blog_lahore_21
 # text = ਓਹਨੂੰ ਗੱਲ ਸਮਝ ਆ ਜਾਂਦੀ ਹੈ.
-1	ਓਹਨੂੰ	_	PRON	_	_	4	nsubj:dat	4:nsubj:dat	_
+1	ਓਹਨੂੰ	_	PRON	_	_	4	nsubj	4:nsubj	_
 2	ਗੱਲ	_	NOUN	_	_	4	obj	4:obj	_
 3	ਸਮਝ	_	NOUN	_	_	4	compound:lvc	4:compound:lvc	_
 4	ਆ	_	VERB	_	_	0	root	0:root	_
@@ -4091,7 +4091,7 @@
 13	ਆਖਿਰ	_	ADV	_	_	17	advmod	17:advmod	_
 14	ਕਿੰਨਾ	_	DET	_	_	16	det	16:det	_
 15	ਕਿ	_	DET	_	_	14	reparandum	14:reparandum	_
-16	ਚਿਰ	_	NOUN	_	_	17	obl:tmod	17:obl:tmod	_
+16	ਚਿਰ	_	NOUN	_	_	17	obl	17:obl	_
 17	ਬੈਠੇ	_	VERB	_	_	4	acl	4:acl	_
 18	ਰਹਿਣਾ	_	VERB	_	_	17	compound:svc	17:compound:svc	_
 19	ਏ	_	AUX	_	_	17	aux	17:aux	_
@@ -4111,10 +4111,10 @@
 # sent_id = blog_lahore_24
 # text = ਇਨਾਂ ਦਿਨਾਂ ਚ ਹੀ ਘਰ ਵਿਚ ਅਲੱਗ ਮਾਹੌਲ ਬਣ ਜਾਂਦਾ ਹੈ.
 1	ਇਨਾਂ	_	DET	_	_	2	det	2:det	_
-2	ਦਿਨਾਂ	_	NOUN	_	_	9	obl:tmod	9:obl:tmod	_
+2	ਦਿਨਾਂ	_	NOUN	_	_	9	obl	9:obl	_
 3	ਚ	_	ADP	_	_	2	case	2:case	_
 4	ਹੀ	_	PART	_	_	2	discourse	2:discourse	_
-5	ਘਰ	_	NOUN	_	_	9	obl:lmod	9:obl:lmod	_
+5	ਘਰ	_	NOUN	_	_	9	obl	9:obl	_
 6	ਵਿਚ	_	ADP	_	_	5	case	5:case	_
 7	ਅਲੱਗ	_	ADJ	_	_	8	amod	8:amod	_
 8	ਮਾਹੌਲ	_	NOUN	_	_	9	nsubj	9:nsubj	_
@@ -4158,7 +4158,7 @@
 5	ਉਸਨੂੰ	_	PRON	_	_	6	obj	6:obj	_
 6	ਵੇਖ	_	VERB	_	_	14	advcl	14:advcl	_
 7	ਕੇ	_	AUX	_	_	6	aux	6:aux	_
-8	ਉਸਨੂੰ	_	PRON	_	_	14	nsubj:dat	14:nsubj:dat	_
+8	ਉਸਨੂੰ	_	PRON	_	_	14	nsubj	14:nsubj	_
 9	ਆਪਣੀ	_	PRON	_	_	10	nmod	10:nmod	_
 10	ਪੋਤਰੀ	_	NOUN	_	_	14	obj	14:obj	_
 11	ਰਾਧਾ	_	PROPN	_	_	10	appos	10:appos	_
@@ -4188,7 +4188,7 @@
 35	ਦੇਂਦੀ	_	VERB	_	_	40	advcl	40:advcl	_
 36	ਹੈ	_	AUX	_	_	35	aux	35:aux	_
 37	ਤੇ	_	ADV	_	_	40	advcl	40:advcl	_
-38	ਉਨੂੰ	_	PRON	_	_	40	nsubj:dat	40:nsubj:dat	_
+38	ਉਨੂੰ	_	PRON	_	_	40	nsubj	40:nsubj	_
 39	ਇੰਝ	_	PRON	_	_	40	obj	40:obj	_
 40	ਜਾਪਦਾ	_	VERB	_	_	19	acl	19:acl	_
 41	ਹੈ	_	AUX	_	_	40	aux	40:aux	_
@@ -4249,7 +4249,7 @@
 15	ਦੀ	_	ADP	_	_	14	case	14:case	_
 16	ਕਹਾਣੀ	_	NOUN	_	_	20	obj	20:obj	_
 17	ਤੁਹਾਨੂੰ	_	PRON	_	_	20	iobj	20:iobj	_
-18	ਸ਼ਾਮ	_	NOUN	_	_	20	obl:tmod	20:obl:tmod	_
+18	ਸ਼ਾਮ	_	NOUN	_	_	20	obl	20:obl	_
 19	ਵੇਲੇ	_	ADP	_	_	18	case	18:case	_
 20	ਸੁਨਾਵਾਂਗਾਂ	_	VERB	_	_	6	parataxis	6:parataxis	_
 21	।	_	PUNCT	_	_	6	punct	6:punct	_
@@ -4317,7 +4317,7 @@
 # sent_id = editorial_trolley_punjab_1
 # url = https://www.trolleytimes.online/writings/punjab
 # text = ਪੰਜਾਬ ਨੂੰ ਕਿਹੜਾ ਰੋਗ ਹੈ?
-1	ਪੰਜਾਬ	_	PROPN	_	_	4	nsubj:dat	4:nsubj:dat	_
+1	ਪੰਜਾਬ	_	PROPN	_	_	4	nsubj	4:nsubj	_
 2	ਨੂੰ	_	ADP	_	_	1	case	1:case	_
 3	ਕਿਹੜਾ	_	DET	_	_	4	det	4:det	_
 4	ਰੋਗ	_	NOUN	_	_	0	root	0:root	_
@@ -4352,22 +4352,22 @@
 1	ਜਿੰਨੀ	_	DET	_	_	2	det	2:det	_
 2	ਤਰ੍ਹਾਂ	_	PRON	_	_	4	nmod	4:nmod	_
 3	ਦੇ	_	ADP	_	_	2	case	2:case	_
-4	ਫੁੱਲ	_	NOUN	_	_	10	obj	10:obj	_
+4	ਫੁੱਲ	_	NOUN	_	_	10	nsubj:pass	10:nsubj:pass	_
 5	,	_	PUNCT	_	_	6	punct	6:punct	_
 6	ਫਲ਼	_	NOUN	_	_	4	conj	4:conj	_
 7	ਅਤੇ	_	CCONJ	_	_	8	cc	8:cc	_
 8	ਫ਼ਸਲਾਂ	_	NOUN	_	_	4	conj	4:conj	_
-9	ਇਥੇ	_	PRON	_	_	10	obl:lmod	10:obl:lmod	_
+9	ਇਥੇ	_	PRON	_	_	10	obl	10:obl	_
 10	ਉਗਾਈਆਂ	_	VERB	_	_	14	acl:relcl	14:acl:relcl	_
 11	ਜਾ	_	AUX	_	_	10	aux:pass	10:aux:pass	_
 12	ਸਕਦੀਆਂ	_	AUX	_	_	10	aux	10:aux	_
 13	ਹਨ	_	AUX	_	_	10	aux	10:aux	_
-14	ਓਨੀਆਂ	_	PRON	_	_	22	obj	22:obj	_
+14	ਓਨੀਆਂ	_	PRON	_	_	22	nsubj:pass	22:nsubj:pass	_
 15	ਦੁਨੀਆਂ	_	NOUN	_	_	19	nmod	19:nmod	_
 16	ਦੀ	_	ADP	_	_	15	case	15:case	_
 17	ਹੋਰ	_	DET	_	_	19	det	19:det	_
 18	ਕਿਸੇ	_	DET	_	_	19	det	19:det	_
-19	ਧਰਤੀ	_	NOUN	_	_	22	obl:lmod	22:obl:lmod	_
+19	ਧਰਤੀ	_	NOUN	_	_	22	obl	22:obl	_
 20	‘ਤੇ	_	ADP	_	_	19	case	19:case	_
 21	ਨਹੀਂ	_	ADV	_	_	22	advcl	22:advcl	_
 22	ਉਗਾਈਆਂ	_	VERB	_	_	0	root	0:root	_
@@ -4387,7 +4387,7 @@
 8	ਦੇ	_	ADP	_	_	7	case	7:case	_
 9	ਕਿਸੇ	_	DET	_	_	11	det	11:det	_
 10	ਹੋਰ	_	DET	_	_	11	det	11:det	_
-11	ਖਿੱਤੇ	_	NOUN	_	_	14	nsubj:dat	14:nsubj:dat	_
+11	ਖਿੱਤੇ	_	NOUN	_	_	14	nsubj	14:nsubj	_
 12	ਨੂੰ	_	ADP	_	_	11	case	11:case	_
 13	ਨਸੀਬ	_	ADJ	_	_	14	compound:lvc	14:compound:lvc	_
 14	ਹੋਵੇ	_	VERB	_	_	0	root	0:root	_
@@ -4396,9 +4396,9 @@
 # sent_id = editorial_trolley_punjab_6
 # text = ਏਨਾ ਖੁੱਲ੍ਹਾ ਪਾਣੀ ਵੀ ਸ਼ਾਇਦ ਹੀ ਧਰਤੀ ਦੇ ਕਿਸੇ ਹੋਰ ਖਿੱਤੇ ਨੂੰ ਨਸੀਬ ਹੋਵੇ।
 1	ਹਿਮਾਲਾ	_	PROPN	_	_	2	compound	2:compound	_
-2	ਪਰਬਤ	_	NOUN	_	_	7	obl:lmod	7:obl:lmod	_
+2	ਪਰਬਤ	_	NOUN	_	_	7	obl	7:obl	_
 3	ਤੋਂ	_	ADP	_	_	2	case	2:case	_
-4	ਪੰਜਾਬ	_	PROPN	_	_	7	obl:lmod	7:obl:lmod	_
+4	ਪੰਜਾਬ	_	PROPN	_	_	7	obl	7:obl	_
 5	ਵਿਚ	_	ADP	_	_	4	case	4:case	_
 6	ਦਾਖਲ	_	ADJ	_	_	7	compound:lvc	7:compound:lvc	_
 7	ਹੋਣ	_	VERB	_	_	15	advcl	15:advcl	_
@@ -4443,7 +4443,7 @@
 6	ਦੇ	_	ADP	_	_	1	case	1:case	_
 7	ਬਾਵਜੂਦ	_	ADP	_	_	6	fixed	6:fixed	_
 8	ਬਾਰਾਂ	_	NUM	_	_	9	nummod	9:nummod	_
-9	ਮਹੀਨੇ	_	NOUN	_	_	18	obl:tmod	18:obl:tmod	_
+9	ਮਹੀਨੇ	_	NOUN	_	_	18	obl	18:obl	_
 10	,	_	PUNCT	_	_	12	punct	12:punct	_
 11	ਤੀਹ	_	NUM	_	_	12	nummod	12:nummod	_
 12	ਦਿਨ	_	NOUN	_	_	9	conj	9:conj	_
@@ -4510,7 +4510,7 @@
 
 # sent_id = editorial_trolley_punjab_11
 # text = ਇਥੇ ਹਰ ਕਿੱਤੇ, ਕਲਾ ਅਤੇ ਹੁਨਰ ਦੇ ਜਾਣਕਾਰ ਮਿਲਦੇ ਹਨ।
-1	ਇਥੇ	_	PRON	_	_	10	obl:lmod	10:obl:lmod	_
+1	ਇਥੇ	_	PRON	_	_	10	obl	10:obl	_
 2	ਹਰ	_	DET	_	_	3	det	3:det	_
 3	ਕਿੱਤੇ	_	NOUN	_	_	9	nmod	9:nmod	_
 4	,	_	PUNCT	_	_	5	punct	5:punct	_
@@ -4539,7 +4539,7 @@
 # sent_id = editorial_trolley_punjab_13
 # text = ਫਿਰ ਪੰਜਾਬ ਨੂੰ ਕਿਹੜਾ ਰੋਗ ਹੈ ਜਿਸ ਕਰਕੇ ਪੰਜਾਬ ਦੁਨੀਆਂ ਦਾ ਸਭ ਤੋਂ ਸੋਹਣਾ, ਅਮੀਰ ਅਤੇ ਖੁਸ਼ਹਾਲ ਖਿੱਤਾ ਨਹੀਂ ਬਣ ਸਕਿਆ?
 1	ਫਿਰ	_	ADV	_	_	5	advmod	5:advmod	_
-2	ਪੰਜਾਬ	_	PROPN	_	_	5	nsubj:dat	5:nsubj:dat	_
+2	ਪੰਜਾਬ	_	PROPN	_	_	5	nsubj	5:nsubj	_
 3	ਨੂੰ	_	ADP	_	_	2	case	2:case	_
 4	ਕਿਹੜਾ	_	DET	_	_	5	det	5:det	_
 5	ਰੋਗ	_	NOUN	_	_	0	root	0:root	_
@@ -4632,7 +4632,7 @@
 7	ਜਾਣਦਾ	_	VERB	_	_	0	root	0:root	_
 8	ਹੋਵਾਂਗਾ	_	AUX	_	_	7	aux	7:aux	_
 9	ਜੋ	_	PRON	_	_	32	nsubj	32:nsubj	_
-10	ਇਧਰੋਂ	_	PRON	_	_	32	obl:lmod	32:obl:lmod	_
+10	ਇਧਰੋਂ	_	PRON	_	_	32	obl	32:obl	_
 11	ਇੰਜਨੀਰਿੰਗ	_	NOUN	_	_	16	nmod	16:nmod	_
 12	ਦੀਆਂ	_	ADP	_	_	11	case	11:case	_
 13	ਸਰਕਾਰੀ	_	ADJ	_	_	16	amod	16:amod	_
@@ -4641,7 +4641,7 @@
 16	ਨੌਕਰੀਆਂ	_	NOUN	_	_	17	obj	17:obj	_
 17	ਛੱਡ	_	VERB	_	_	32	advcl	32:advcl	_
 18	ਕੇ	_	AUX	_	_	17	aux	17:aux	_
-19	ਅਮਰੀਕਾ	_	PROPN	_	_	32	obl:lmod	32:obl:lmod	_
+19	ਅਮਰੀਕਾ	_	PROPN	_	_	32	obl	32:obl	_
 20	,	_	PUNCT	_	_	21	punct	21:punct	_
 21	ਕੈਨੇਡਾ	_	PROPN	_	_	19	conj	19:conj	_
 22	,	_	PUNCT	_	_	23	punct	23:punct	_
@@ -4663,7 +4663,7 @@
 1	ਬਹੁਤ	_	DET	_	_	3	det	3:det	_
 2	ਸਾਰੇ	_	DET	_	_	3	det	3:det	_
 3	ਡਾਕਟਰ	_	NOUN	_	_	12	nsubj	12:nsubj	_
-4	ਇਧਰੋਂ	_	PRON	_	_	6	obl:lmod	6:obl:lmod	_
+4	ਇਧਰੋਂ	_	PRON	_	_	6	obl	6:obl	_
 5	ਡਾਕਟਰੀ	_	NOUN	_	_	6	obj	6:obj	_
 6	ਛੱਡ	_	VERB	_	_	12	advcl	12:advcl	_
 7	ਬਾਹਰਲੇ	_	ADJ	_	_	8	amod	8:amod	_
@@ -4682,7 +4682,7 @@
 2	ਵਿਗਿਆਨੀਆਂ	_	NOUN	_	_	13	nsubj	13:nsubj	_
 3	ਨੇ	_	ADP	_	_	2	case	2:case	_
 4	ਬਾਹਰਲੇ	_	ADJ	_	_	5	amod	5:amod	_
-5	ਦੇਸ਼ਾਂ	_	NOUN	_	_	7	obl:lmod	7:obl:lmod	_
+5	ਦੇਸ਼ਾਂ	_	NOUN	_	_	7	obl	7:obl	_
 6	ਵਿਚ	_	ADP	_	_	5	case	5:case	_
 7	ਜਾ	_	VERB	_	_	13	advcl	13:advcl	_
 8	ਕੇ	_	AUX	_	_	7	aux	7:aux	_
@@ -4696,8 +4696,8 @@
 
 # sent_id = editorial_trolley_punjab_20
 # text = ਏਧਰ ਸਕੂਲਾਂ, ਕਾਲਜਾਂ, ਯੁਨੀਵਸਿਟੀਆਂ ਵਿਚ ਪੜ੍ਹਾਉਂਦੇ ਰਹੇ ਕਈ ਅਧਿਆਪਕ ਹੁਣ ਵਿਕਸਤ ਦੇਸ਼ਾਂ ਦੇ ਸਕੂਲਾਂ, ਕਾਲਜਾਂ ਜਾਂ ਯੁਨੀਵਰਸਿਟੀਆਂ ਵਿਚ ਪੜ੍ਹਾਉਂਦੇ ਹਨ।
-1	ਏਧਰ	_	PRON	_	_	8	obl:lmod	8:obl:lmod	_
-2	ਸਕੂਲਾਂ	_	NOUN	_	_	8	obl:lmod	8:obl:lmod	_
+1	ਏਧਰ	_	PRON	_	_	8	obl	8:obl	_
+2	ਸਕੂਲਾਂ	_	NOUN	_	_	8	obl	8:obl	_
 3	,	_	PUNCT	_	_	4	punct	4:punct	_
 4	ਕਾਲਜਾਂ	_	NOUN	_	_	2	conj	2:conj	_
 5	,	_	PUNCT	_	_	6	punct	6:punct	_
@@ -4707,11 +4707,11 @@
 9	ਰਹੇ	_	AUX	_	_	8	aux	8:aux	_
 10	ਕਈ	_	DET	_	_	11	det	11:det	_
 11	ਅਧਿਆਪਕ	_	NOUN	_	_	22	nsubj	22:nsubj	_
-12	ਹੁਣ	_	NOUN	_	_	22	obl:tmod	22:obl:tmod	_
+12	ਹੁਣ	_	NOUN	_	_	22	obl	22:obl	_
 13	ਵਿਕਸਤ	_	ADJ	_	_	14	amod	14:amod	_
 14	ਦੇਸ਼ਾਂ	_	NOUN	_	_	16	nmod	16:nmod	_
 15	ਦੇ	_	ADP	_	_	14	case	14:case	_
-16	ਸਕੂਲਾਂ	_	NOUN	_	_	22	obl:lmod	22:obl:lmod	_
+16	ਸਕੂਲਾਂ	_	NOUN	_	_	22	obl	22:obl	_
 17	,	_	PUNCT	_	_	18	punct	18:punct	_
 18	ਕਾਲਜਾਂ	_	NOUN	_	_	16	conj	16:conj	_
 19	ਜਾਂ	_	CCONJ	_	_	20	cc	20:cc	_
@@ -4737,7 +4737,7 @@
 12	ਕਰਮੀਆਂ	_	NOUN	_	_	3	conj	3:conj	_
 13	ਨੇ	_	ADP	_	_	3	case	3:case	_
 14	ਬਾਹਰਲੇ	_	ADJ	_	_	15	amod	15:amod	_
-15	ਦੇਸ਼ਾਂ	_	NOUN	_	_	17	obl:lmod	17:obl:lmod	_
+15	ਦੇਸ਼ਾਂ	_	NOUN	_	_	17	obl	17:obl	_
 16	ਵਿਚ	_	ADP	_	_	15	case	15:case	_
 17	ਜਾ	_	VERB	_	_	27	advcl	27:advcl	_
 18	ਕੇ	_	AUX	_	_	17	aux	17:aux	_
@@ -4760,7 +4760,7 @@
 3	ਪੰਜਾਬੀ	_	ADJ	_	_	4	amod	4:amod	_
 4	ਕਿਸਾਨਾਂ	_	NOUN	_	_	14	nsubj	14:nsubj	_
 5	ਦੇ	_	ADP	_	_	4	case	4:case	_
-6	ਅਮਰੀਕਾ	_	PROPN	_	_	14	obl:lmod	14:obl:lmod	_
+6	ਅਮਰੀਕਾ	_	PROPN	_	_	14	obl	14:obl	_
 7	,	_	PUNCT	_	_	8	punct	8:punct	_
 8	ਕੈਨੇਡਾ	_	PROPN	_	_	6	conj	6:conj	_
 9	ਅਤੇ	_	CCONJ	_	_	10	cc	10:cc	_
@@ -4870,7 +4870,7 @@
 4	ਅਜਿਹਾ	_	PRON	_	_	5	obj	5:obj	_
 5	ਕਰਨ	_	VERB	_	_	11	advcl	11:advcl	_
 6	ਲਈ	_	ADP	_	_	5	mark	5:mark	_
-7	ਪੰਜਾਬ	_	PROPN	_	_	11	obl:lmod	11:obl:lmod	_
+7	ਪੰਜਾਬ	_	PROPN	_	_	11	obl	11:obl	_
 8	ਅੰਦਰ	_	ADP	_	_	7	case	7:case	_
 9	ਲੋੜੀਂਦਾ	_	ADJ	_	_	10	amod	10:amod	_
 10	ਮਹੌਲ	_	NOUN	_	_	11	nmod	11:nmod	_
@@ -4887,7 +4887,7 @@
 5	ਹੁੰਦਾ	_	VERB	_	_	0	root	0:root	_
 6	ਹੈ	_	AUX	_	_	5	aux	5:aux	_
 7	ਕਿ	_	SCONJ	_	_	13	mark	13:mark	_
-8	ਪੰਜਾਬ	_	PROPN	_	_	13	nsubj:dat	13:nsubj:dat	_
+8	ਪੰਜਾਬ	_	PROPN	_	_	13	nsubj	13:nsubj	_
 9	ਨੂੰ	_	ADP	_	_	8	case	8:case	_
 10	ਅਜਿਹਾ	_	DET	_	_	12	det	12:det	_
 11	ਕਿਹੜਾ	_	DET	_	_	12	det	12:det	_
@@ -4924,7 +4924,7 @@
 5	ਤਸਵੀਰ	_	NOUN	_	_	8	nmod	8:nmod	_
 6	ਦੇ	_	ADP	_	_	5	case	5:case	_
 7	ਦੂਸਰੇ	_	ADJ	_	_	8	amod	8:amod	_
-8	ਪਾਸੇ	_	NOUN	_	_	9	obl:lmod	9:obl:lmod	_
+8	ਪਾਸੇ	_	NOUN	_	_	9	obl	9:obl	_
 9	ਪਿਆ	_	VERB	_	_	0	root	0:root	_
 10	ਹੈ	_	AUX	_	_	9	aux	9:aux	_
 11	।	_	PUNCT	_	_	9	punct	9:punct	_
@@ -4942,13 +4942,13 @@
 9	ਦਾ	_	ADP	_	_	8	case	8:case	_
 10	ਕੋਈ	_	DET	_	_	11	det	11:det	_
 11	ਸਿਆਸਤਦਾਨ	_	NOUN	_	_	26	nsubj	26:nsubj	_
-12	ਇਧਰ	_	PRON	_	_	14	obl:lmod	14:obl:lmod	_
+12	ਇਧਰ	_	PRON	_	_	14	obl	14:obl	_
 13	ਆਪਣੀ	_	PRON	_	_	15	nmod	15:nmod	_
 14	ਚਲਦੀ	_	VERB	_	_	15	acl	15:acl	_
 15	ਸਿਆਸਤ	_	NOUN	_	_	16	obj	16:obj	_
 16	ਛੱਡ	_	VERB	_	_	26	advcl	26:advcl	_
 17	ਕੇ	_	AUX	_	_	16	aux	16:aux	_
-18	ਕਦੀ	_	PRON	_	_	26	obl:tmod	26:obl:tmod	_
+18	ਕਦੀ	_	PRON	_	_	26	obl	26:obl	_
 19	ਕਿਸੇ	_	DET	_	_	21	det	21:det	_
 20	ਬਾਹਰਲੇ	_	ADJ	_	_	21	amod	21:amod	_
 21	ਮੁਲਕ	_	NOUN	_	_	24	nmod	24:nmod	_
@@ -5006,14 +5006,14 @@
 19	,	_	PUNCT	_	_	16	punct	16:punct	_
 20	ਇਹਨਾਂ	_	PRON	_	_	24	nmod	24:nmod	_
 21	ਦੀ	_	ADP	_	_	20	case	20:case	_
-22	ਓਧਰ	_	PRON	_	_	24	obl:lmod	24:obl:lmod	_
+22	ਓਧਰ	_	PRON	_	_	24	obl	24:obl	_
 23	ਕੋਈ	_	DET	_	_	24	det	24:det	_
 24	ਮੰਗ	_	NOUN	_	_	16	parataxis	16:parataxis	_
 25	ਨਹੀਂ	_	ADV	_	_	24	advmod	24:advmod	_
 26	,	_	PUNCT	_	_	16	punct	16:punct	_
 27	ਇਹਨਾਂ	_	PRON	_	_	31	obl	31:obl	_
 28	ਲਈ	_	ADP	_	_	27	case	27:case	_
-29	ਓਥੇ	_	PRON	_	_	31	obl:lmod	31:obl:lmod	_
+29	ਓਥੇ	_	PRON	_	_	31	obl	31:obl	_
 30	ਕੋਈ	_	DET	_	_	31	det	31:det	_
 31	ਥਾਂ	_	NOUN	_	_	16	parataxis	16:parataxis	_
 32	ਨਹੀਂ	_	ADV	_	_	31	advmod	31:advmod	_
@@ -5021,14 +5021,14 @@
 
 # sent_id = editorial_trolley_punjab_32
 # text = ਇਹ ਸਿਰਫ ਸਾਡੇ ਜਾਂ ਸਾਡੇ ਤੋਂ ਪਛੜੇ ਮੁਲਕਾਂ ਵਿਚ ਹੀ ਪਾਏ ਜਾਂਦੇ ਹਨ।
-1	ਇਹ	_	PRON	_	_	11	obj	11:obj	_
+1	ਇਹ	_	PRON	_	_	11	nsubj:pass	11:nsubj:pass	_
 2	ਸਿਰਫ	_	ADV	_	_	11	advmod	11:advmod	_
 3	ਸਾਡੇ	_	PRON	_	_	8	nmod	8:nmod	_
 4	ਜਾਂ	_	CCONJ	_	_	7	cc	7:cc	_
 5	ਸਾਡੇ	_	PRON	_	_	7	obl	7:obl	_
 6	ਤੋਂ	_	ADP	_	_	5	case	5:case	_
 7	ਪਛੜੇ	_	ADJ	_	_	3	conj	3:conj	_
-8	ਮੁਲਕਾਂ	_	NOUN	_	_	11	obl:lmod	11:obl:lmod	_
+8	ਮੁਲਕਾਂ	_	NOUN	_	_	11	obl	11:obl	_
 9	ਵਿਚ	_	ADJ	_	_	8	case	8:case	_
 10	ਹੀ	_	PART	_	_	8	discourse	8:discourse	_
 11	ਪਾਏ	_	VERB	_	_	0	root	0:root	_
@@ -5065,7 +5065,7 @@
 # text = ਫਿਰ ਵੀ ਪੰਜਾਬ ਵਿਚ ਇਹਨਾਂ ਦਾ ਪੂਰਾ ਦਬਦਬਾ ਹੈ।
 1	ਫਿਰ	_	ADV	_	_	8	advmod	8:advmod	_
 2	ਵੀ	_	PART	_	_	1	discourse	1:discourse	_
-3	ਪੰਜਾਬ	_	PROPN	_	_	8	obl:lmod	8:obl:lmod	_
+3	ਪੰਜਾਬ	_	PROPN	_	_	8	obl	8:obl	_
 4	ਵਿਚ	_	ADP	_	_	3	case	3:case	_
 5	ਇਹਨਾਂ	_	PRON	_	_	8	nsubj	8:nsubj	_
 6	ਦਾ	_	ADP	_	_	5	case	5:case	_
@@ -5141,11 +5141,11 @@
 2	ਇਹ	_	DET	_	_	3	det	3:det	_
 3	ਅਲਾਮਤਾਂ	_	NOUN	_	_	7	nsubj	7:nsubj	_
 4	ਕੋਈ	_	DET	_	_	5	det	5:det	_
-5	ਬਾਹਰੋਂ	_	NOUN	_	_	7	obl:lmod	7:obl:lmod	_
+5	ਬਾਹਰੋਂ	_	NOUN	_	_	7	obl	7:obl	_
 6	ਨਹੀਂ	_	ADV	_	_	7	advmod	7:advmod	_
 7	ਆਈਆਂ	_	VERB	_	_	0	root	0:root	_
 8	ਸਗੋਂ	_	CCONJ	_	_	11	cc	11:cc	_
-9	ਅੰਦਰੋਂ	_	NOUN	_	_	11	obl:lmod	11:obl:lmod	_
+9	ਅੰਦਰੋਂ	_	NOUN	_	_	11	obl	11:obl	_
 10	ਪੈਦਾ	_	ADJ	_	_	11	compound:lvc	11:compound:lvc	_
 11	ਹੋਈਆਂ	_	VERB	_	_	7	conj	7:conj	_
 12	ਹਨ	_	AUX	_	_	11	aux	11:aux	_
@@ -5166,7 +5166,7 @@
 
 # sent_id = editorial_trolley_punjab_39
 # text = ਇਥੇ ਹਰ ਸਰਕਾਰ ਕਹਿੰਦੀ ਹੈ ਕਿ ਲੋਕਾਂ ਨੂੰ ਬੁਨਿਆਦੀ ਸਹੂਲਤਾਂ ਮੁਹੱਈਆ ਕਰਾਉਣ, ਕਰਮਚਾਰੀਆਂ ਨੂੰ ਤਨਖਾਹਾਂ ਦੇਣ ਅਤੇ ਹੋਰ ਜ਼ਰੂਰੀ ਖਰਚੇ ਕਰਨ ਲਈ ਪੈਸੇ ਨਹੀਂ ਹਨ।
-1	ਇਥੇ	_	PRON	_	_	4	obl:lmod	4:obl:lmod	_
+1	ਇਥੇ	_	PRON	_	_	4	obl	4:obl	_
 2	ਹਰ	_	DET	_	_	3	det	3:det	_
 3	ਸਰਕਾਰ	_	NOUN	_	_	4	nsubj	4:nsubj	_
 4	ਕਹਿੰਦੀ	_	VERB	_	_	0	root	0:root	_
@@ -5248,12 +5248,12 @@
 3	ਆਰਥਿਕ	_	ADJ	_	_	4	amod	4:amod	_
 4	ਤੰਗੀ	_	NOUN	_	_	6	nmod	6:nmod	_
 5	ਦੀ	_	ADP	_	_	4	case	4:case	_
-6	ਦੁਹਾਈ	_	NOUN	_	_	7	obj	7:obj	_
+6	ਦੁਹਾਈ	_	NOUN	_	_	7	nsubj:pass	7:nsubj:pass	_
 7	ਦਿੱਤੀ	_	VERB	_	_	0	root	0:root	_
 8	ਜਾਂਦੀ	_	AUX	_	_	7	aux:pass	7:aux:pass	_
 9	ਹੈ	_	AUX	_	_	7	aux	7:aux	_
 10	ਅਤੇ	_	CCONJ	_	_	14	cc	14:cc	_
-11	ਲੋਕਾਂ	_	NOUN	_	_	14	obj	14:obj	_
+11	ਲੋਕਾਂ	_	NOUN	_	_	14	nsubj:pass	14:nsubj:pass	_
 12	ਨੂੰ	_	ADP	_	_	11	case	11:case	_
 13	ਅਹਿਸਾਸ	_	NOUN	_	_	14	compound:lvc	14:compound:lvc	_
 14	ਕਰਾਇਆ	_	VERB	_	_	7	conj	7:conj	_
@@ -5296,7 +5296,7 @@
 1	ਚੋਣਾਂ	_	NOUN	_	_	2	obj	2:obj	_
 2	ਲੜ	_	VERB	_	_	4	acl	4:acl|6:acl	_
 3	ਰਹੇ	_	AUX	_	_	2	aux	2:aux	_
-4	ਉਮੀਦਵਾਰਾਂ	_	NOUN	_	_	19	nsubj:pass	19:nsubj:pass	_
+4	ਉਮੀਦਵਾਰਾਂ	_	NOUN	_	_	19	obl:agent	19:obl:agent	_
 5	ਅਤੇ	_	CCONJ	_	_	6	cc	6:cc	_
 6	ਪਾਰਟੀਆਂ	_	NOUN	_	_	4	conj	4:conj|19:nsubj	_
 7	ਵਲੋਂ	_	ADP	_	_	4	case	4:case|6:case	_
@@ -5310,7 +5310,7 @@
 15	-	_	PUNCT	_	_	16	punct	16:punct	_
 16	ਇਕ	_	NUM	_	_	14	compound:redup	14:compound:redup	_
 17	ਅਰਬ	_	NUM	_	_	18	nummod	18:nummod	_
-18	ਰੁਪੱਈਆ	_	NOUN	_	_	19	obj	19:obj	_
+18	ਰੁਪੱਈਆ	_	NOUN	_	_	19	nsubj:pass	19:nsubj:pass	_
 19	ਖਰਚਿਆ	_	VERB	_	_	0	root	0:root	_
 20	ਜਾਂਦਾ	_	AUX	_	_	19	aux:pass	19:aux:pass	_
 21	ਹੈ	_	AUX	_	_	19	aux	19:aux	_
@@ -5351,7 +5351,7 @@
 7	ਸਰ	_	VERB	_	_	9	acl:relcl	9:acl:relcl	_
 8	ਸਕਦਾ	_	VERB	_	_	7	compound:svc	7:compound:svc	_
 9	ਉਥੇ	_	PRON	_	_	12	obl	7:obl|12:obl	_
-10	ਸੌ	_	NUM	_	_	12	obj	12:obj	_
+10	ਸੌ	_	NUM	_	_	12	nsubj:pass	12:nsubj:pass	_
 11	ਸੌ	_	NUM	_	_	10	compound:redup	10:compound:redup	_
 12	ਲਗਾਏ	_	VERB	_	_	0	root	0:root	_
 13	ਜਾਂਦੇ	_	AUX	_	_	12	aux:pass	12:aux:pass	_
@@ -5366,7 +5366,7 @@
 4	ਸੋਚ	_	NOUN	_	_	7	nmod	7:nmod	_
 5	ਵਾਲੇ	_	ADP	_	_	4	case	4:case	_
 6	ਸਿਆਣੇ	_	ADJ	_	_	7	amod	7:amod	_
-7	ਲੋਕਾਂ	_	NOUN	_	_	10	obj	10:obj	_
+7	ਲੋਕਾਂ	_	NOUN	_	_	10	nsubj:pass	10:nsubj:pass	_
 8	ਨੂੰ	_	ADP	_	_	7	case	7:case	_
 9	ਆਤੰਕਤ	_	ADJ	_	_	10	compound:lvc	10:compound:lvc	_
 10	ਕੀਤਾ	_	VERB	_	_	0	root	0:root	_
@@ -5395,7 +5395,7 @@
 7	ਲਾ	_	VERB	_	_	13	advcl	13:advcl	_
 8	ਕੇ	_	AUX	_	_	7	aux	7:aux	_
 9	ਸਿਆਸੀ	_	ADJ	_	_	10	amod	10:amod	_
-10	ਬਦਮਾਸ਼ੀ	_	NOUN	_	_	13	obj	13:obj	_
+10	ਬਦਮਾਸ਼ੀ	_	NOUN	_	_	13	nsubj:pass	13:nsubj:pass	_
 11	ਦਾ	_	ADP	_	_	10	case	10:case	_
 12	ਪ੍ਰਗਟਾਵਾ	_	NOUN	_	_	13	compound:lvc	13:compound:lvc	_
 13	ਕੀਤਾ	_	VERB	_	_	0	root	0:root	_
@@ -5469,3 +5469,282 @@
 15	ਲੈਂਦੀਆਂ	_	VERB	_	_	14	compound:svc	14:compound:svc	_
 16	ਹਨ	_	AUX	_	_	14	aux	14:aux	_
 17	।	_	PUNCT	_	_	14	punct	14:punct	_
+
+# sent_id = editorial_trolley_punjab_52
+# text = ਲੋਕ ਬੇਦਿਲੀ ਨਾਲ਼ ਕਹਿ ਛੱਡਦੇ ਹਨ, ‘ਸਾਰੇ ਇਕੋ ਜਿਹੇ ਹਨ’ ਜਾਂ ‘ਸਭ ਰਲੇ ਹੋਏ ਹਨ’।
+1	ਲੋਕ	_	NOUN	_	_	4	nsubj	4:nsubj	_
+2	ਬੇਦਿਲੀ	_	NOUN	_	_	4	obl	4:obl	_
+3	ਨਾਲ਼	_	ADP	_	_	2	case	2:case	_
+4	ਕਹਿ	_	VERB	_	_	0	root	0:root	_
+5	ਛੱਡਦੇ	_	VERB	_	_	4	compound:svc	4:compound:svc	_
+6	ਹਨ	_	AUX	_	_	4	aux	4:aux	_
+7	,	_	PUNCT	_	_	4	punct	4:punct	_
+8	‘	_	PUNCT	_	_	10	punct	10:punct	_
+9	ਸਾਰੇ	_	PRON	_	_	10	nsubj	10:nsubj	_
+10	ਇਕੋ	_	NUM	_	_	4	ccomp	4:ccomp	_
+11	ਜਿਹੇ	_	ADP	_	_	10	case	10:case	_
+12	ਹਨ	_	AUX	_	_	10	cop	10:cop	_
+13	’	_	PUNCT	_	_	10	punct	10:punct	_
+14	ਜਾਂ	_	CCONJ	_	_	17	cc	17:cc	_
+15	‘	_	PUNCT	_	_	17	punct	17:punct	_
+16	ਸਭ	_	PRON	_	_	17	nsubj	17:nsubj	_
+17	ਰਲੇ	_	VERB	_	_	10	conj	4:ccomp|10:conj	_
+18	ਹੋਏ	_	AUX	_	_	17	aux	17:aux	_
+19	ਹਨ	_	AUX	_	_	17	aux	17:aux	_
+20	’	_	PUNCT	_	_	17	punct	17:punct	_
+21	।	_	PUNCT	_	_	4	punct	4:punct	_
+
+# sent_id = editorial_trolley_punjab_53
+# text = ਇਸ ਤਰ੍ਹਾਂ ਪੰਜਾਬ ਜਾਂ ਦੇਸ਼ ਅੰਦਰ ਵਧੀ ਫੁੱਲੀ ਸਿਆਸਤ ਦਾ ਰੋਗ ਇਸ ਦੀ ਆਰਥਿਕ ਅਤੇ ਮਾਨਸਿਕ ਸਿਹਤ ਦਾ ਦੁਸ਼ਮਣ ਬਣਿਆਂ ਹੋਇਆ ਹੈ।
+1	ਇਸ	_	DET	_	_	2	det	2:det	_
+2	ਤਰ੍ਹਾਂ	_	NOUN	_	_	20	obl	20:obl	_
+3	ਪੰਜਾਬ	_	PROPN	_	_	20	obl	20:obl	_
+4	ਜਾਂ	_	CCONJ	_	_	5	cc	5:cc	_
+5	ਦੇਸ਼	_	NOUN	_	_	3	conj	3:conj|20:obl	_
+6	ਅੰਦਰ	_	ADP	_	_	3	case	3:case|5:case	_
+7	ਵਧੀ	_	VERB	_	_	8	compound	8:compound	_
+8	ਫੁੱਲੀ	_	VERB	_	_	9	acl	9:acl	_
+9	ਸਿਆਸਤ	_	NOUN	_	_	11	nmod	8:nsubj|11:nmod	_
+10	ਦਾ	_	ADP	_	_	9	case	9:case	_
+11	ਰੋਗ	_	NOUN	_	_	20	nsubj	20:nsubj	_
+12	ਇਸ	_	PRON	_	_	17	nmod	17:nmod	_
+13	ਦੀ	_	ADP	_	_	12	case	12:case	_
+14	ਆਰਥਿਕ	_	ADJ	_	_	17	amod	17:amod	_
+15	ਅਤੇ	_	CCONJ	_	_	16	cc	16:cc	_
+16	ਮਾਨਸਿਕ	_	ADJ	_	_	14	conj	14:conj|17:amod	_
+17	ਸਿਹਤ	_	NOUN	_	_	19	nmod	19:nmod	_
+18	ਦਾ	_	ADP	_	_	17	case	17:case	_
+19	ਦੁਸ਼ਮਣ	_	NOUN	_	_	20	xcomp	20:xcomp	_
+20	ਬਣਿਆਂ	_	VERB	_	_	0	root	0:root	_
+21	ਹੋਇਆ	_	AUX	_	_	20	aux	20:aux	_
+22	ਹੈ	_	AUX	_	_	20	aux	20:aux	_
+23	।	_	PUNCT	_	_	20	punct	20:punct	_
+
+# sent_id = editorial_trolley_punjab_54
+# text = ਅਸਲ ਆਗੂਆਂ ਨੇ ਦੇਖਣਾ ਹੁੰਦਾ ਕਿ ਲੋਕਾਂ ਦੀ ਭਲਾਈ ਕਿਸ ਗੱਲ ਵਿਚ ਹੈ, ਲੋਕਾਂ ਨੂੰ ਚੰਗੇ, ਸਿਆਣੇ ਅਤੇ ਖੁਸ਼ਹਾਲ ਕਿਵੇਂ ਬਣਾਉਣਾ ਹੈ।
+1	ਅਸਲ	_	ADJ	_	_	2	amod	2:amod	_
+2	ਆਗੂਆਂ	_	NOUN	_	_	4	nsubj	4:nsubj	_
+3	ਨੇ	_	ADP	_	_	2	case	2:case	_
+4	ਦੇਖਣਾ	_	VERB	_	_	0	root	0:root	_
+5	ਹੁੰਦਾ	_	AUX	_	_	4	aux	4:aux	_
+6	ਕਿ	_	SCONJ	_	_	11	mark	11:mark	_
+7	ਲੋਕਾਂ	_	NOUN	_	_	9	nmod	9:nmod	_
+8	ਦੀ	_	ADP	_	_	7	case	7:case	_
+9	ਭਲਾਈ	_	NOUN	_	_	11	nsubj	11:nsubj	_
+10	ਕਿਸ	_	DET	_	_	11	det	11:det	_
+11	ਗੱਲ	_	NOUN	_	_	4	ccomp	4:ccomp	_
+12	ਵਿਚ	_	ADP	_	_	11	case	11:case	_
+13	ਹੈ	_	AUX	_	_	11	cop	11:cop	_
+14	,	_	PUNCT	_	_	11	punct	11:punct	_
+15	ਲੋਕਾਂ	_	NOUN	_	_	23	obj	23:obj	_
+16	ਨੂੰ	_	ADP	_	_	15	case	15:case	_
+17	ਚੰਗੇ	_	ADJ	_	_	23	xcomp	23:xcomp	_
+18	,	_	PUNCT	_	_	19	punct	19:punct	_
+19	ਸਿਆਣੇ	_	ADJ	_	_	17	conj	17:conj|23:xcomp	_
+20	ਅਤੇ	_	CCONJ	_	_	21	cc	21:cc	_
+21	ਖੁਸ਼ਹਾਲ	_	ADJ	_	_	17	conj	17:conj|23:xcomp	_
+22	ਕਿਵੇਂ	_	PRON	_	_	23	obl	23:obl	_
+23	ਬਣਾਉਣਾ	_	VERB	_	_	11	parataxis	11:parataxis	_
+24	ਹੈ	_	AUX	_	_	23	aux	23:aux	_
+25	।	_	PUNCT	_	_	4	punct	4:punct	_
+
+# sent_id = editorial_trolley_punjab_55
+# text = ਉਹ ਆਪ ਆਚਰਨ, ਵਿਹਾਰ ਅਤੇ ਕਾਨੂੰਨ ਪਾਲਣਾ ਦੇ ਉੱਚੇ ਮਿਆਰ ਅਪਣਾਉਂਦੇ ਅਤੇ ਜਨਤਾ ਲਈ ਉਦਾਹਰਣ ਬਣਦੇ ਹਨ।
+1	ਉਹ	_	PRON	_	_	12	nsubj	12:nsubj|17:nsubj	_
+2	ਆਪ	_	PRON	_	_	12	obl	12:obl	_
+3	ਆਚਰਨ	_	NOUN	_	_	11	nmod	11:nmod	_
+4	,	_	PUNCT	_	_	5	punct	5:punct	_
+5	ਵਿਹਾਰ	_	NOUN	_	_	3	conj	3:conj|11:nmod	_
+6	ਅਤੇ	_	CCONJ	_	_	8	cc	8:cc	_
+7	ਕਾਨੂੰਨ	_	NOUN	_	_	8	obj	8:obj	_
+8	ਪਾਲਣਾ	_	VERB	_	_	3	conj	3:conj|11:nmod	_
+9	ਦੇ	_	ADP	_	_	3	case	3:case|5:case|8:case	_
+10	ਉੱਚੇ	_	ADJ	_	_	11	amod	11:amod	_
+11	ਮਿਆਰ	_	NOUN	_	_	12	obj	12:obj	_
+12	ਅਪਣਾਉਂਦੇ	_	VERB	_	_	0	root	0:root	_
+13	ਅਤੇ	_	CCONJ	_	_	17	cc	17:cc	_
+14	ਜਨਤਾ	_	NOUN	_	_	17	obl	17:obl	_
+15	ਲਈ	_	ADP	_	_	14	case	14:case	_
+16	ਉਦਾਹਰਣ	_	NOUN	_	_	17	xcomp	17:xcomp	_
+17	ਬਣਦੇ	_	VERB	_	_	12	conj	12:conj	_
+18	ਹਨ	_	AUX	_	_	17	aux	17:aux	_
+19	।	_	PUNCT	_	_	12	punct	12:punct	_
+
+# sent_id = editorial_trolley_punjab_56
+# text = ਪਰ ਪੰਜਾਬ ਵਿਚ ਅਜਿਹੇ ਆਗੂਆਂ ਦਾ ਕਾਲ਼ ਹੈ।
+1	ਪਰ	_	CCONJ	_	_	7	cc	7:cc	_
+2	ਪੰਜਾਬ	_	PROPN	_	_	7	nsubj	7:nsubj	_
+3	ਵਿਚ	_	ADP	_	_	2	case	2:case	_
+4	ਅਜਿਹੇ	_	DET	_	_	5	det	5:det	_
+5	ਆਗੂਆਂ	_	NOUN	_	_	7	nmod	7:nmod	_
+6	ਦਾ	_	ADP	_	_	5	case	5:case	_
+7	ਕਾਲ਼	_	NOUN	_	_	0	root	0:root	_
+8	ਹੈ	_	AUX	_	_	7	cop	7:cop	_
+9	।	_	PUNCT	_	_	7	punct	7:punct	_
+
+# sent_id = editorial_trolley_punjab_57
+# text = ਸਾਡੇ ਵਾਂਗ ਸਾਡਾ ਸਿਆਸਤਦਾਨ ਆਪਣਾ ਵਕਤੀ ਲਾਭ ਦੇਖਦਾ ਹੈ।
+1	ਸਾਡੇ	_	PRON	_	_	8	obl	8:obl	_
+2	ਵਾਂਗ	_	ADP	_	_	1	case	1:case	_
+3	ਸਾਡਾ	_	PRON	_	_	4	nmod	4:nmod	_
+4	ਸਿਆਸਤਦਾਨ	_	NOUN	_	_	8	nsubj	8:nsubj	_
+5	ਆਪਣਾ	_	PRON	_	_	7	nmod	7:nmod	_
+6	ਵਕਤੀ	_	ADJ	_	_	7	amod	7:amod	_
+7	ਲਾਭ	_	NOUN	_	_	8	obj	8:obj	_
+8	ਦੇਖਦਾ	_	VERB	_	_	0	root	0:root	_
+9	ਹੈ	_	AUX	_	_	8	aux	8:aux	_
+10	।	_	PUNCT	_	_	8	punct	8:punct	_
+
+# sent_id = editorial_trolley_punjab_58
+# text = ਲੋਕਾਂ ਨੂੰ ਬੇਵਕੂਫ ਅਤੇ ਉਜੱਡ ਬਣਾਉਂਦਾ ਹੈ।
+1	ਲੋਕਾਂ	_	NOUN	_	_	6	obj	6:obj	_
+2	ਨੂੰ	_	ADP	_	_	1	case	1:case	_
+3	ਬੇਵਕੂਫ	_	ADJ	_	_	6	xcomp	6:xcomp	_
+4	ਅਤੇ	_	CCONJ	_	_	5	cc	5:cc	_
+5	ਉਜੱਡ	_	ADJ	_	_	3	conj	3:conj|6:xcomp	_
+6	ਬਣਾਉਂਦਾ	_	VERB	_	_	0	root	0:root	_
+7	ਹੈ	_	AUX	_	_	6	aux	6:aux	_
+8	।	_	PUNCT	_	_	6	punct	6:punct	_
+
+# sent_id = editorial_trolley_punjab_59
+# text = ਰਾਜਨੀਤੀ ਦਾ ਕੰਮ ਸਮੱਸਿਆਵਾਂ ਨੂੰ ਸੁਲਝਾਉਣਾ ਜਾਂ ਮੁੱਦਿਆਂ ਨੂੰ ਨਜਿੱਠਣਾ ਹੁੰਦਾ ਹੈ।
+1	ਰਾਜਨੀਤੀ	_	NOUN	_	_	3	nmod	3:nmod	_
+2	ਦਾ	_	ADP	_	_	1	case	1:case	_
+3	ਕੰਮ	_	NOUN	_	_	6	nsubj	6:nsubj|10:nsubj	_
+4	ਸਮੱਸਿਆਵਾਂ	_	NOUN	_	_	6	obj	6:obj	_
+5	ਨੂੰ	_	ADP	_	_	4	case	4:case	_
+6	ਸੁਲਝਾਉਣਾ	_	VERB	_	_	0	root	0:root	_
+7	ਜਾਂ	_	CCONJ	_	_	10	cc	10:cc	_
+8	ਮੁੱਦਿਆਂ	_	NOUN	_	_	10	obj	10:obj	_
+9	ਨੂੰ	_	ADP	_	_	8	case	8:case	_
+10	ਨਜਿੱਠਣਾ	_	VERB	_	_	6	conj	6:conj	_
+11	ਹੁੰਦਾ	_	AUX	_	_	6	cop	6:cop|10:cop	_
+12	ਹੈ	_	AUX	_	_	6	aux	6:aux|10:aux	_
+13	।	_	PUNCT	_	_	6	punct	6:punct	_
+
+# sent_id = editorial_trolley_punjab_60
+# text = ਪਰ ਸਾਡੇ ਹਰ ਪੱਧਰ ਦੇ ਮਸਲੇ ਵਧੀ ਜਾ ਰਹੇ ਹਨ।
+1	ਪਰ	_	CCONJ	_	_	7	cc	7:cc	_
+2	ਸਾਡੇ	_	PRON	_	_	6	nmod	6:nmod	_
+3	ਹਰ	_	DET	_	_	4	det	4:det	_
+4	ਪੱਧਰ	_	NOUN	_	_	6	nmod	6:nmod	_
+5	ਦੇ	_	ADP	_	_	4	case	4:case	_
+6	ਮਸਲੇ	_	NOUN	_	_	7	nsubj	7:nsubj	_
+7	ਵਧੀ	_	VERB	_	_	0	root	0:root	_
+8	ਜਾ	_	VERB	_	_	7	compound:svc	7:compound:svc	_
+9	ਰਹੇ	_	AUX	_	_	7	aux	7:aux	_
+10	ਹਨ	_	AUX	_	_	7	aux	7:aux	_
+11	।	_	PUNCT	_	_	7	punct	7:punct	_
+
+# sent_id = editorial_trolley_punjab_61
+# text = ਪੰਜਾਬ ਸਾਹ ਲੈਣ ਯੋਗ ਸਾਫ਼ ਹਵਾ ਅਤੇ ਪੀਣ ਯੋਗ ਸ਼ੁੱਧ ਪਾਣੀ ਵਰਗੀਆਂ ਬੁਨਿਆਦੀ ਲੋੜਾਂ ਦੀ ਪੂਰਤੀ ਤੋਂ ਹੀ ਵਾਂਝਾ ਹੋ ਗਿਆ ਹੈ।
+1	ਪੰਜਾਬ	_	PROPN	_	_	20	nsubj	20:nsubj	_
+2	ਸਾਹ	_	NOUN	_	_	3	compound:lvc	3:compound:lvc	_
+3	ਲੈਣ	_	VERB	_	_	6	acl	6:acl	_
+4	ਯੋਗ	_	ADP	_	_	3	mark	3:mark	_
+5	ਸਾਫ਼	_	ADJ	_	_	6	amod	6:amod	_
+6	ਹਵਾ	_	NOUN	_	_	14	nmod	14:nmod	_
+7	ਅਤੇ	_	CCONJ	_	_	11	cc	11:cc	_
+8	ਪੀਣ	_	VERB	_	_	11	acl	11:acl	_
+9	ਯੋਗ	_	ADP	_	_	8	mark	8:mark	_
+10	ਸ਼ੁੱਧ	_	ADJ	_	_	11	amod	11:amod	_
+11	ਪਾਣੀ	_	NOUN	_	_	6	conj	6:conj|14:nmod	_
+12	ਵਰਗੀਆਂ	_	ADP	_	_	6	case	6:case|11:case	_
+13	ਬੁਨਿਆਦੀ	_	ADJ	_	_	14	amod	14:amod	_
+14	ਲੋੜਾਂ	_	NOUN	_	_	16	nmod	16:nmod	_
+15	ਦੀ	_	ADP	_	_	14	case	14:case	_
+16	ਪੂਰਤੀ	_	NOUN	_	_	19	obl	19:obl	_
+17	ਤੋਂ	_	ADP	_	_	16	case	16:case	_
+18	ਹੀ	_	PART	_	_	16	discourse	16:discourse	_
+19	ਵਾਂਝਾ	_	ADJ	_	_	20	xcomp	20:xcomp	_
+20	ਹੋ	_	VERB	_	_	0	root	0:root	_
+21	ਗਿਆ	_	VERB	_	_	20	compound:svc	20:compound:svc	_
+22	ਹੈ	_	AUX	_	_	20	aux	20:aux	_
+23	।	_	PUNCT	_	_	20	punct	20:punct	_
+
+# sent_id = editorial_trolley_punjab_62
+# text = ਸਾਡੇ ਸਥਾਪਤ ਸਿਆਸਤਦਾਨ ਔਸਤਨ ਹਰ ਸਵਾ ਸਾਲ ਬਾਅਦ ਆਉਣ ਵਾਲੀ ਕਿਸੇ ਨਾ ਕਿਸੇ ਚੋਣ ਲਈ ਜਿੰਨਾ ਪੈਸਾ, ਸਮਾਂ, ਸ਼ਕਤੀ, ਰਸੂਖ ਅਤੇ ਦਿਮਾਗ ਵਰਤਦੇ ਹਨ ਜੇ ਓਨਾ ਲੋਕਾਂ ਦੀਆਂ ਸਮੱਸਿਆਂ ਨੂੰ ਨਜਿੱਠਣ ਲਈ ਲਾਉਣ ਤਾਂ ਸਵਾ ਸਾਲ ਦੇ ਅੰਦਰ ਪੰਜਾਬ ਮੋਟੀਆਂ ਮੋਟੀਆਂ ਸਾਰੀਆਂ ਸਮੱਸਿਆ ਤੋਂ ਮੁਕਤ ਹੋ ਸਕਦਾ ਹੈ।
+1	ਸਾਡੇ	_	PRON	_	_	3	nmod	3:nmod	_
+2	ਸਥਾਪਤ	_	ADJ	_	_	3	amod	3:amod	_
+3	ਸਿਆਸਤਦਾਨ	_	NOUN	_	_	36	nsubj	26:nsubj|36:nsubj	_
+4	ਔਸਤਨ	_	ADV	_	_	26	advmod	26:advmod	_
+5	ਹਰ	_	DET	_	_	7	det	7:det	_
+6	ਸਵਾ	_	ADJ	_	_	7	amod	7:amod	_
+7	ਸਾਲ	_	NOUN	_	_	9	obl	9:obl	_
+8	ਬਾਅਦ	_	ADP	_	_	7	case	7:case	_
+9	ਆਉਣ	_	VERB	_	_	14	acl	14:acl	_
+10	ਵਾਲੀ	_	ADP	_	_	9	mark	9:mark	_
+11	ਕਿਸੇ	_	PRON	_	_	14	det	14:det	_
+12	ਨਾ	_	PART	_	_	11	fixed	11:fixed	_
+13	ਕਿਸੇ	_	PRON	_	_	11	fixed	11:fixed	_
+14	ਚੋਣ	_	NOUN	_	_	26	obl	26:obl	_
+15	ਲਈ	_	ADP	_	_	14	case	14:case	_
+16	ਜਿੰਨਾ	_	DET	_	_	17	det	17:det|29:ref	_
+17	ਪੈਸਾ	_	NOUN	_	_	26	obj	26:obj	_
+18	,	_	PUNCT	_	_	19	punct	19:punct	_
+19	ਸਮਾਂ	_	NOUN	_	_	17	conj	17:conj|26:obj	_
+20	,	_	PART	_	_	21	punct	21:punct	_
+21	ਸ਼ਕਤੀ	_	NOUN	_	_	17	conj	17:conj|26:obj	_
+22	,	_	PUNCT	_	_	23	punct	23:punct	_
+23	ਰਸੂਖ	_	NOUN	_	_	17	conj	17:conj|26:obj	_
+24	ਅਤੇ	_	CCONJ	_	_	25	cc	25:cc	_
+25	ਦਿਮਾਗ	_	NOUN	_	_	17	conj	17:conj|26:obj	_
+26	ਵਰਤਦੇ	_	VERB	_	_	29	acl:relcl	29:acl:relcl	_
+27	ਹਨ	_	AUX	_	_	26	aux	26:aux	_
+28	ਜੇ	_	SCONJ	_	_	36	mark	36:mark	_
+29	ਓਨਾ	_	PRON	_	_	36	obl	26:obj|36:obl	_
+30	ਲੋਕਾਂ	_	NOUN	_	_	32	nmod	32:nmod	_
+31	ਦੀਆਂ	_	ADP	_	_	30	case	30:case	_
+32	ਸਮੱਸਿਆਂ	_	NOUN	_	_	34	obj	34:obj	_
+33	ਨੂੰ	_	ADP	_	_	32	case	32:case	_
+34	ਨਜਿੱਠਣ	_	VERB	_	_	36	advcl	36:advcl	_
+35	ਲਈ	_	ADP	_	_	34	mark	34:mark	_
+36	ਲਾਉਣ	_	VERB	_	_	49	advcl	49:advcl	_
+37	ਤਾਂ	_	ADV	_	_	49	advcl	49:advcl	_
+38	ਸਵਾ	_	ADJ	_	_	39	amod	39:amod	_
+39	ਸਾਲ	_	NOUN	_	_	49	obl	49:obl	_
+40	ਦੇ	_	ADP	_	_	39	case	39:case	_
+41	ਅੰਦਰ	_	ADP	_	_	40	fixed	40:fixed	_
+42	ਪੰਜਾਬ	_	PROPN	_	_	49	nsubj	49:nsubj	_
+43	ਮੋਟੀਆਂ	_	ADJ	_	_	46	amod	46:amod	_
+44	ਮੋਟੀਆਂ	_	ADJ	_	_	43	compound:redup	43:compound:redup	_
+45	ਸਾਰੀਆਂ	_	DET	_	_	46	det	46:det	_
+46	ਸਮੱਸਿਆ	_	NOUN	_	_	49	obl	49:obl	_
+47	ਤੋਂ	_	ADP	_	_	46	case	46:case	_
+48	ਮੁਕਤ	_	ADJ	_	_	49	compound:lvc	49:compound:lvc	_
+49	ਹੋ	_	VERB	_	_	0	root	0:root	_
+50	ਸਕਦਾ	_	VERB	_	_	49	compound:svc	49:compound:svc	_
+51	ਹੈ	_	AUX	_	_	49	aux	49:aux	_
+52	।	_	PUNCT	_	_	49	punct	49:punct	_
+
+1	ਪਰ	_	CCONJ	_	_	28	cc	28:cc	_
+2	ਜਿਸ	_	DET	_	_	3	det	3:det|20:ref	_
+3	ਭਾਂਤ	_	NOUN	_	_	5	nmod	5:nmod	_
+4	ਦੀ	_	ADP	_	_	3	case	3:case	_
+5	ਰਾਜਨੀਤੀ	_	NOUN	_	_	13	obj	13:obj|17:nsubj	_
+6	ਨੂੰ	_	ADP	_	_	5	case	5:case	_
+7	ਪੰਜਾਬ	_	PROPN	_	_	13	nsubj	13:nsubj	_
+8	ਨੇ	_	ADP	_	_	7	case	7:case	_
+9	ਹੁਣ	_	ADV	_	_	13	advcl	13:advcl	_
+10	ਤੱਕ	_	ADP	_	_	9	case	9:case	_
+11	ਵਧਣ	_	VERB	_	_	13	xcomp	13:xcomp	_
+12	ਫੁੱਲਣ	_	VERB	_	_	11	conj	11:conj	_
+13	ਦਿੱਤਾ	_	VERB	_	_	20	acl:relcl	20:acl:relcl	_
+14	ਅਤੇ	_	CCONJ	_	_	17	cc	17:cc	_
+15	ਆਪਣੇ	_	PRON	_	_	16	nmod	16:nmod	_
+16	ਗਲ਼	_	NOUN	_	_	17	obj	17:obj	_
+17	ਪਾ	_	VERB	_	_	13	conj	13:conj	_
+18	ਲਿਆ	_	VERB	_	_	17	compound:svc	17:compound:svc	_
+19	ਹੈ	_	AUX	_	_	17	aux	17:aux	_
+20	ਇਹ	_	PRON	_	_	27	nsubj	13:obj|17:nsubj|27:nsubj	_
+21	ਆਪਣੇ	_	PRON	_	_	27	obl	27:obl	_
+22	ਆਪ	_	PRON	_	_	21	fixed	21:fixed	_
+23	ਵਿਚ	_	ADP	_	_	21	case	21:case	_
+24	ਸਭ	_	PRON	_	_	26	obl	26:obl	_
+25	ਤੋਂ	_	ADP	_	_	24	case	24:case	_
+26	ਵੱਡੀ	_	ADJ	_	_	27	amod	27:amod	_
+27	ਸਮੱਸਿਆ	_	NOUN	_	_	28	xcomp	28:xcomp	_
+28	ਬਣ	_	VERB	_	_	0	root	0:root	_
+29	ਗਈ	_	VERB	_	_	28	compound:svc	28:compound:svc	_
+30	ਹੈ	_	AUX	_	_	28	aux	28:aux	_
+31	।	_	PUNCT	_	_	28	punct	28:punct	_
