@@ -1,4 +1,5 @@
 from depedit import DepEdit
+import unicodedata
  
 infile = open("../pa_puntb-ud-test.conllu")
 d = DepEdit()
@@ -15,4 +16,4 @@ d.add_transformation("func=/aux:pass/;func=/obj/;func=/.*/\t#3>#1;#3>#2\t#2:func
 
 result = d.run_depedit(infile)
 with open('pa_puntb-ud-test.conllu', 'w') as fout:
-    fout.write(result)
+    fout.write(unicodedata.normalize('NFD', result))
