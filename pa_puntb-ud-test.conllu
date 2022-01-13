@@ -5984,7 +5984,7 @@
 23	।	_	PUNCT	_	_	11	punct	11:punct	_
 
 # sent_id = news_tribune_cold_8
-# text = ਅੱਜ ਸਵੇਰੇ ਸੰਘਣੀ ਧੁੰਦ ਸੀ, ਜਿਸ ਕਾਰਨ ਦੂਰ ਦੂਰ ਤਕ ਸਪੱਸ਼ਟ ਦਿਖਾਈ ਨਹੀਂ ਸੀ ਦੇ ਰਿਹਾ।
+# text = ਅੱਜ ਸਵੇਰੇ ਸੰਘਣੀ ਧੁੰਦ ਸੀ, ਜਿਸ ਕਾਰਨ ਦੂਰ ਦੂਰ ਤਕ ਸਪੱਸ਼ਟ ਦਿਖਾਈ ਨਹੀਂ ਸੀ ਦੇ ਰਿਹਾ।
 1	ਅੱਜ	_	NOUN	_	_	5	obl	5:obl	_
 2	ਸਵੇਰੇ	_	NOUN	_	_	5	obl	5:obl	_
 3	ਸੰਘਣੀ	_	ADJ	_	_	4	amod	4:amod	_
@@ -5996,7 +5996,7 @@
 9	ਦੂਰ	_	ADV	_	_	16	obl	16:obl	_
 10	ਦੂਰ	_	ADV	_	_	9	compound:redup	9:compound:redup	_
 11	ਤਕ	_	ADP	_	_	9	case	9:case	_
-12	ਸਪੱਸ਼ਟ	_	ADJ	_	_	16	obl	16:obl	_
+12	ਸਪੱਸ਼ਟ	_	ADJ	_	_	16	obl	16:obl	_
 13	ਦਿਖਾਈ	_	NOUN	_	_	16	compound:lvc	16:compound:lvc	_
 14	ਨਹੀਂ	_	ADV	_	_	16	advmod	16:advmod	_
 15	ਸੀ	_	AUX	_	_	16	aux	16:aux	_
@@ -6016,7 +6016,7 @@
 8	।	_	PUNCT	_	_	6	punct	6:punct	_
 
 # sent_id = news_tribune_cold_10
-# text = ਦੁਪਹਿਰ ਵੇਲੇ ਕੁਝ ਧੁੱਪ ਵੀ ਨਿਕਲੀ, ਜਿਸ ਨਾਲ ਲੋਕਾਂ ਨੇ ਕੁਝ ਰਾਹਤ ਮਹਿਸੂਸ ਕੀਤੀ ਪਰ ਸੂਰਜ ਢਲਦਿਆਂ ਹੀ ਮੁੜ ਸੀਤ ਲਹਿਰ ਨੇ ਜ਼ੋਰ ਫੜ ਲਿਆ ਹੈ।
+# text = ਦੁਪਹਿਰ ਵੇਲੇ ਕੁਝ ਧੁੱਪ ਵੀ ਨਿਕਲੀ, ਜਿਸ ਨਾਲ ਲੋਕਾਂ ਨੇ ਕੁਝ ਰਾਹਤ ਮਹਿਸੂਸ ਕੀਤੀ ਪਰ ਸੂਰਜ ਢਲਦਿਆਂ ਹੀ ਮੁੜ ਸੀਤ ਲਹਿਰ ਨੇ ਜ਼ੋਰ ਫੜ ਲਿਆ ਹੈ।
 1	ਦੁਪਹਿਰ	_	NOUN	_	_	6	obl	6:obl	_
 2	ਵੇਲੇ	_	ADP	_	_	1	case	1:case	_
 3	ਕੁਝ	_	DET	_	_	4	det	4:det	_
@@ -6040,7 +6040,7 @@
 21	ਸੀਤ	_	NOUN	_	_	22	compound	22:compound	_
 22	ਲਹਿਰ	_	NOUN	_	_	25	nsubj	25:nsubj	_
 23	ਨੇ	_	ADP	_	_	22	case	22:case	_
-24	ਜ਼ੋਰ	_	NOUN	_	_	25	obj	25:obj	_
+24	ਜ਼ੋਰ	_	NOUN	_	_	25	obj	25:obj	_
 25	ਫੜ	_	VERB	_	_	6	conj	6:conj	_
 26	ਲਿਆ	_	VERB	_	_	25	compound:svc	25:compound:svc	_
 27	ਹੈ	_	AUX	_	_	25	aux	25:aux	SpaceAfter=No
@@ -6097,12 +6097,12 @@
 27	।	_	PUNCT	_	_	24	punct	24:punct	_
 
 # sent_id = news_tribune_cold_13
-# text = ਜਦੋਂਕਿ ਬਾਕੀ ਦੇ ਦਿਨ ਅੰਸ਼ਕ ਬੱਦਲਵਾਈ ਤੇ ਧੁੱਪ ਦੱਸੀ ਗਈ ਹੈ।
+# text = ਜਦੋਂਕਿ ਬਾਕੀ ਦੇ ਦਿਨ ਅੰਸ਼ਕ ਬੱਦਲਵਾਈ ਤੇ ਧੁੱਪ ਦੱਸੀ ਗਈ ਹੈ।
 1	ਜਦੋਂਕਿ	_	SCONJ	_	_	9	mark	9:mark	_
 2	ਬਾਕੀ	_	NOUN	_	_	4	nmod	4:nmod	_
 3	ਦੇ	_	ADP	_	_	2	case	2:case	_
 4	ਦਿਨ	_	NOUN	_	_	9	nsubj:pass	9:nsubj:pass	_
-5	ਅੰਸ਼ਕ	_	ADJ	_	_	6	amod	6:amod|8:amod	_
+5	ਅੰਸ਼ਕ	_	ADJ	_	_	6	amod	6:amod|8:amod	_
 6	ਬੱਦਲਵਾਈ	_	NOUN	_	_	9	xcomp	9:xcomp	_
 7	ਤੇ	_	CCONJ	_	_	8	cc	8:cc	_
 8	ਧੁੱਪ	_	NOUN	_	_	6	conj	6:conj|9:xcomp	_
@@ -6134,7 +6134,7 @@
 19	।	_	PUNCT	_	_	18	punct	18:punct	_
 
 # sent_id = news_tribune_cold_15
-# text = ਲੋਹੜੀ ਦਾ ਤਿਓਹਾਰ ਨੇੜੇ ਹੋਣ ਕਾਰਨ ਗੁੱਡੀਆਂ ਤੇ ਪਤੰਗਾਂ ਉਡਾਉਣ ਦੇ ਸ਼ੌਕੀਨ ਅਰਦਾਸਾਂ ਕਰ ਰਹੇ ਹਨ ਕਿ ਲੋਹੜੀ ਵਾਲੇ ਦਿਨ ਧੁੰਦ ਨਾ ਪਵੇ ਅਤੇ ਮੌਸਮ ਸਾਫ ਰਹੇ।
+# text = ਲੋਹੜੀ ਦਾ ਤਿਓਹਾਰ ਨੇੜੇ ਹੋਣ ਕਾਰਨ ਗੁੱਡੀਆਂ ਤੇ ਪਤੰਗਾਂ ਉਡਾਉਣ ਦੇ ਸ਼ੌਕੀਨ ਅਰਦਾਸਾਂ ਕਰ ਰਹੇ ਹਨ ਕਿ ਲੋਹੜੀ ਵਾਲੇ ਦਿਨ ਧੁੰਦ ਨਾ ਪਵੇ ਅਤੇ ਮੌਸਮ ਸਾਫ ਰਹੇ।
 1	ਲੋਹੜੀ	_	PROPN	_	_	3	nmod	3:nmod	_
 2	ਦਾ	_	ADP	_	_	1	case	1:case	_
 3	ਤਿਓਹਾਰ	_	NOUN	_	_	5	nsubj	5:nsubj	_
@@ -6146,7 +6146,7 @@
 9	ਪਤੰਗਾਂ	_	NOUN	_	_	7	conj	7:conj|10:obj	_
 10	ਉਡਾਉਣ	_	VERB	_	_	12	acl	12:acl	_
 11	ਦੇ	_	ADP	_	_	10	mark	10:mark	_
-12	ਸ਼ੌਕੀਨ	_	NOUN	_	_	14	nsubj	10:nsubj|14:nsubj	_
+12	ਸ਼ੌਕੀਨ	_	NOUN	_	_	14	nsubj	10:nsubj|14:nsubj	_
 13	ਅਰਦਾਸਾਂ	_	NOUN	_	_	14	compound:lvc	14:compound:lvc	_
 14	ਕਰ	_	VERB	_	_	0	root	0:root	_
 15	ਰਹੇ	_	AUX	_	_	14	aux	14:aux	_
@@ -6256,3 +6256,154 @@
 33	ਸਕਦਾ	_	VERB	_	_	32	compound:svc	32:compound:svc	_
 34	ਹੈ	_	AUX	_	_	32	aux	32:aux	SpaceAfter=No
 35	।	_	PUNCT	_	_	2	punct	2:punct	_
+
+# sent_id = nonfiction_diamonds_1
+# url = https://pa.wikisource.org/wiki/ਪੰਜਾਬ_ਦੇ_ਹੀਰੇ/ਮੁਖ_ਬੰਧ
+# text = ਮੁਖ ਬੰਧ
+1	ਮੁਖ	_	ADJ	_	_	2	amod	2:amod	_
+2	ਬੰਧ	_	NOUN	_	_	0	root	0:root	_
+
+# sent_id = nonfiction_diamonds_2
+# text = ਉਸ ਕਰਤਾਪੁਰਖ ਦੇ ਨਾਮ ਨਾਲ ਅਰੰਭ ਕਰਦਾ ਹਾਂ, ਜੋ ਜ਼ਬਾਨਾਂ ਨੂੰ ਸਾਜਣ ਵਾਲਾ ਅਤੇ ਆਦਮ ਨੂੰ ਵਾਕ ਸ਼ਕਤੀ ਤੇ ਉਸ ਨੂੰ ਸਮਝਣ ਦਾ ਗਿਆਨ ਦੇਣ ਵਾਲਾ ਹੈ, ਜਿਸ ਨੇ ਸੰਸਾਰ ਨੂੰ ਰੰਗਾ ਰੰਗ ਦੇ ਸੁਹਜ ਦੇ ਕੇ ਸੁਹਾਵਣਾ ਬਣਾਇਆ, ਜਿਵੇਂ ਇਕ ਮਾਲੀ ਆਪਣੇ ਬਾਗ਼ ਦੇ ਗੋਸ਼ੇ ਗੋਸ਼ੇ ਨੂੰ ਦਿਲਫਰੇਬ ਬਣਾਉਣ ਵਾਸਤੇ ਭਾਂਤ ਭਾਂਤ ਦੇ ਰੰਗ ਤੇ ਮਹਿਕਾਂ ਨਾਲ ਭਰਪੂਰ ਫੁੱਲ ਥਾਂ ਥਾਂ ਤੇ ਉਗਾਉਂਦਾ ਹੈ। ਉਹ ਸਿਰਜਣ ਹਾਰ, ਜਿਸ ਨੇ ਆਦਮੀ ਨੂੰ ਦਿਮਾਗ ਦੀ ਸਹਾਇਤਾ ਨਾਲ ਬੋਲਣਾ, ਸੁਣਨਾ ਤੇ ਸਮਝਣਾ ਸਿਖਾਇਆ ਤੇ ਦੂਜੇ ਬੰਦਿਆਂ ਨਾਲ ਮਿਲ ਵਰਤ ਕੇ ਪ੍ਰੇਮ ਕਰਨ ਦੇ ਰਸਤੇ ਪਾਇਆ।
+1	ਉਸ	_	DET	_	_	2	det	2:det	_
+2	ਕਤਾਪੁਰਖ	_	NOUN	_	_	4	nmod	4:nmod	_
+3	ਦੇ	_	ADP	_	_	2	case	2:case	_
+4	ਨਾਮ	_	NOUN	_	_	7	obl	7:obl	_
+5	ਨਾਲ	_	ADP	_	_	4	case	4:case	_
+6	ਅਰੰਭ	_	NOUN	_	_	7	compound:lvc	7:compound:lvc	_
+7	ਕਰਦਾ	_	VERB	_	_	0	root	0:root	_
+8	ਹਾਂ	_	AUX	_	_	7	aux	7:aux	SpaceAfter=No
+9	,	_	PUNCT	_	_	7	punct	7:punct	_
+10	ਜੋ	_	PRON	_	_	13	nsubj	2:ref|13:nsubj|26:nsubj	_
+11	ਜ਼ਬਾਨਾਂ	_	NOUN	_	_	13	obj	13:obj	_
+12	ਨੂੰ	_	ADP	_	_	11	case	11:case	_
+13	ਸਾਜਣ	_	VERB	_	_	2	acl:relcl	2:acl:relcl	_
+14	ਵਾਲਾ	_	ADP	_	_	13	mark	13:mark	_
+15	ਅਤੇ	_	CCONJ	_	_	26	cc	26:cc	_
+16	ਆਦਮ	_	NOUN	_	_	26	iobj	26:iobj	_
+17	ਨੂੰ	_	ADP	_	_	16	case	16:case	_
+18	ਵਾਕ	_	NOUN	_	_	19	compound	19:compound	_
+19	ਸ਼ਕਤੀ	_	NOUN	_	_	26	obj	26:obj	_
+20	ਤੇ	_	ADP	_	_	25	cc	25:cc	_
+21	ਉਸ	_	PRON	_	_	23	obj	23:obj	_
+22	ਨੂੰ	_	ADP	_	_	21	case	21:case	_
+23	ਸਮਝਣ	_	VERB	_	_	25	acl	25:acl	_
+24	ਦਾ	_	ADP	_	_	23	mark	23:mark	_
+25	ਗਿਆਨ	_	NOUN	_	_	19	conj	19:conj|26:obj	_
+26	ਦੇਣ	_	VERB	_	_	13	conj	13:conj	_
+27	ਵਾਲਾ	_	ADP	_	_	26	mark	26:mark	_
+28	ਹੈ	_	AUX	_	_	13	cop	13:cop|26:cop	SpaceAfter=No
+29	,	_	PUNCT	_	_	7	punct	7:punct	_
+30	ਜਿਸ	_	PRON	_	_	41	nsubj	2:ref|38:nsubj|41:nsubj	_
+31	ਨੇ	_	ADP	_	_	30	case	30:case	_
+32	ਸੰਸਾਰ	_	NOUN	_	_	41	obj	38:iobj|41:obj	_
+33	ਨੂੰ	_	ADP	_	_	32	case	32:case	_
+34	ਰੰਗਾ	_	NOUN	_	_	37	nmod	37:nmod	_
+35	ਰੰਗ	_	NOUN	_	_	34	compound:redup	34:compound:redup	_
+36	ਦੇ	_	ADP	_	_	34	case	34:case	_
+37	ਸੁਹਜ	_	NOUN	_	_	38	obj	38:obj	_
+38	ਦੇ	_	VERB	_	_	41	advcl	41:advcl	_
+39	ਕੇ	_	AUX	_	_	38	aux	38:aux	_
+40	ਸੁਹਾਵਣਾ	_	ADJ	_	_	41	xcomp	41:xcomp	_
+41	ਬਣਾਇਆ	_	VERB	_	_	2	acl:relcl	2:acl:relcl	SpaceAfter=No
+42	,	_	PUNCT	_	_	41	punct	41:punct	_
+43	ਜਿਵੇਂ	_	PRON	_	_	41	obl	41:obl|67:obl	_
+44	ਇਕ	_	NUM	_	_	45	nummod	45:nummod	_
+45	ਮਾਲੀ	_	NOUN	_	_	67	nsubj	53:nsubj|67:nsubj	_
+46	ਆਪਣੇ	_	PRON	_	_	47	nmod	47:nmod	_
+47	ਬਾਗ਼	_	NOUN	_	_	49	nmod	49:nmod	_
+48	ਦੇ	_	ADP	_	_	47	case	47:case	_
+49	ਗੋਸ਼ੇ	_	NOUN	_	_	53	obj	53:obj	_
+50	ਗੋਸ਼ੇ	_	NOUN	_	_	49	compound:redup	49:compound:redup	_
+51	ਨੂੰ	_	ADP	_	_	49	case	49:case	_
+52	ਦਿਲਫਰੇਬ	_	ADJ	_	_	53	xcomp	53:xcomp	_
+53	ਬਣਾਉਣ	_	VERB	_	_	67	advcl	67:advcl	_
+54	ਵਾਸਤੇ	_	ADP	_	_	53	mark	53:mark	_
+55	ਭਾਂਤ	_	NOUN	_	_	58	nmod	58:nmod|60:nmod	_
+56	ਭਾਂਤ	_	NOUN	_	_	55	compound:redup	55:compound:redup	_
+57	ਦੇ	_	ADP	_	_	55	case	55:case	_
+58	ਰੰਗ	_	NOUN	_	_	62	obl	62:obl	_
+59	ਤੇ	_	CCONJ	_	_	60	cc	60:cc	_
+60	ਮਹਿਕਾਂ	_	NOUN	_	_	58	conj	58:conj|62:obl	_
+61	ਨਾਲ	_	ADP	_	_	58	case	58:case|60:case	_
+62	ਭਰਪੂਰ	_	ADJ	_	_	63	amod	63:amod	_
+63	ਫੁੱਲ	_	NOUN	_	_	67	obj	67:obj	_
+64	ਥਾਂ	_	NOUN	_	_	67	obl	67:obl	_
+65	ਥਾਂ	_	NOUN	_	_	64	compound:redup	64:compound:redup	_
+66	ਤੇ	_	ADP	_	_	64	case	64:case	_
+67	ਉਗਾਉਂਦਾ	_	VERB	_	_	43	acl:relcl	43:acl:relcl	_
+68	ਹੈ	_	AUX	_	_	67	aux	67:aux	SpaceAfter=No
+69	।	_	PUNCT	_	_	7	punct	7:punct	_
+
+# sent_id = nonfiction_diamonds_3
+# text = ਉਹ ਸਿਰਜਣ ਹਾਰ, ਜਿਸ ਨੇ ਆਦਮੀ ਨੂੰ ਦਿਮਾਗ ਦੀ ਸਹਾਇਤਾ ਨਾਲ ਬੋਲਣਾ, ਸੁਣਨਾ ਤੇ ਸਮਝਣਾ ਸਿਖਾਇਆ ਤੇ ਦੂਜੇ ਬੰਦਿਆਂ ਨਾਲ ਮਿਲ ਵਰਤ ਕੇ ਪ੍ਰੇਮ ਕਰਨ ਦੇ ਰਸਤੇ ਪਾਇਆ।
+1	ਉਹ	_	DET	_	_	3	det	3:det	_
+2	ਸਿਰਜਣ	_	NOUN	_	_	3	compound	3:compound	_
+3	ਹਾਰ	_	NOUN	_	_	0	root	0:root	SpaceAfter=No
+4	,	_	PUNCT	_	_	3	punct	3:punct	_
+5	ਜਿਸ	_	PRON	_	_	18	nsubj	3:ref|18:nsubj|30:nsubj	_
+6	ਨੇ	_	ADP	_	_	5	case	5:case	_
+7	ਆਦਮੀ	_	NOUN	_	_	18	iobj	18:iobj|30:iobj	_
+8	ਨੂੰ	_	ADP	_	_	7	case	7:case	_
+9	ਦਿਮਾਗ	_	NOUN	_	_	11	nmod	11:nmod	_
+10	ਦੀ	_	ADP	_	_	9	case	9:case	_
+11	ਸਹਾਇਤਾ	_	NOUN	_	_	18	obl	18:obl	_
+12	ਨਾਲ	_	ADP	_	_	11	case	11:case	_
+13	ਬੋਲਣਾ	_	VERB	_	_	18	xcomp	18:xcomp	SpaceAfter=No
+14	,	_	PUNCT	_	_	15	punct	15:punct	_
+15	ਸੁਣਨਾ	_	VERB	_	_	13	conj	13:conj|18:xcomp	_
+16	ਤੇ	_	CCONJ	_	_	17	cc	17:cc	_
+17	ਸਮਝਣਾ	_	VERB	_	_	13	conj	13:conj|18:xcomp	_
+18	ਸਿਖਾਇਆ	_	VERB	_	_	3	acl:relcl	3:acl:relcl	_
+19	ਤੇ	_	CCONJ	_	_	30	cc	30:cc	_
+20	ਦੂਜੇ	_	ADJ	_	_	21	amod	21:amod	_
+21	ਬੰਦਿਆਂ	_	NOUN	_	_	23	obl	23:obl	_
+22	ਨਾਲ	_	ADP	_	_	21	case	21:case	_
+23	ਮਿਲ	_	VERB	_	_	30	advcl	30:advcl	_
+24	ਵਰਤ	_	VERB	_	_	23	conj	23:conj	_
+25	ਕੇ	_	AUX	_	_	23	aux	23:aux	_
+26	ਪ੍ਰੇਮ	_	NOUN	_	_	27	compound:lvc	27:compound:lvc	_
+27	ਕਰਨ	_	VERB	_	_	29	acl	29:acl	_
+28	ਦੇ	_	ADP	_	_	27	mark	27:mark	_
+29	ਰਸਤੇ	_	NOUN	_	_	30	obj	30:obj	_
+30	ਪਾਇਆ	_	VERB	_	_	18	conj	18:conj	SpaceAfter=No
+31	।	_	PUNCT	_	_	3	punct	3:punct	_
+
+# sent_id = nonfiction_diamonds_4
+# text = ਜ਼ਬਾਨ ਦਾ ਆਰੰਭ
+1	ਜ਼ਬਾਨ	_	NOUN	_	_	3	nmod	3:nmod	_
+2	ਦਾ	_	ADP	_	_	1	case	1:case	_
+3	ਆਰੰਭ	_	NOUN	_	_	0	root	0:root	_
+
+# sent_id = nonfiction_diamonds_5
+# text = ਹਿੰਦੁਸਤਾਨ ਦੀ ਪਰਮ ਪੁਰਾਤਨ ਬੋਲੀ ਜੋ ਲਿਖਣ ਤੇ ਬੋਲਣ ਵਿਚ ਆਈ, ਵੇਦਾਂ ਦੀ ਭਾਸ਼ਾ ਹੈ, ਇਸ ਤੋਂ ਅਗੇ ਉਪਨਿਸ਼ਦਾਂ ਦੀ ਬੋਲੀ ਹੈ ਤੇ ਇਸ ਦੇ ਬਾਦ ਰਾਮਾਇਣ।
+1	ਹਿੰਦੁਸਤਾਨ	_	PROPN	_	_	5	nmod	5:nmod	_
+2	ਦੀ	_	ADP	_	_	1	case	1:case	_
+3	ਪਰਮ	_	ADV	_	_	5	advmod	5:advmod	_
+4	ਪੁਰਾਤਨ	_	ADJ	_	_	5	amod	5:amod	_
+5	ਬੋਲੀ	_	NOUN	_	_	15	nsubj	15:nsubj	_
+6	ਜੋ	_	PRON	_	_	11	nsubj	5:ref|11:nsubj	_
+7	ਲਿਖਣ	_	VERB	_	_	11	advcl	11:advcl	_
+8	ਤੇ	_	CCONJ	_	_	9	cc	9:cc	_
+9	ਬੋਲਣ	_	VERB	_	_	7	conj	7:conj|11:advcl	_
+10	ਵਿਚ	_	ADP	_	_	7	mark	7:mark|9:mark	_
+11	ਆਈ	_	VERB	_	_	5	acl:relcl	5:acl:relcl	SpaceAfter=No
+12	,	_	PUNCT	_	_	15	punct	15:punct	_
+13	ਵੇਦਾਂ	_	PROPN	_	_	15	nmod	15:nmod	_
+14	ਦੀ	_	ADP	_	_	13	case	13:case	_
+15	ਭਾਸ਼ਾ	_	NOUN	_	_	0	root	0:root	_
+16	ਹੈ	_	AUX	_	_	15	cop	15:cop	SpaceAfter=No
+17	,	_	PUNCT	_	_	23	punct	23:punct	_
+18	ਇਸ	_	PRON	_	_	23	nsubj	23:nsubj	_
+19	ਤੋਂ	_	ADP	_	_	18	case	18:case	_
+20	ਅਗੇ	_	ADP	_	_	19	fixed	19:fixed	_
+21	ਉਪਨਿਸ਼ਦਾਂ	_	PROPN	_	_	23	nmod	23:nmod	_
+22	ਦੀ	_	ADP	_	_	21	case	21:case	_
+23	ਬੋਲੀ	_	NOUN	_	_	15	conj	15:conj	_
+24	ਹੈ	_	AUX	_	_	23	cop	23:cop	_
+25	ਤੇ	_	CCONJ	_	_	29	cc	29:cc	_
+26	ਇਸ	_	PRON	_	_	29	nsubj	29:nsubj	_
+27	ਦੇ	_	ADP	_	_	26	case	26:case	_
+28	ਬਾਦ	_	ADP	_	_	27	fixed	27:fixed	_
+29	ਰਾਮਾਇਣ	_	PROPN	_	_	15	conj	15:conj	SpaceAfter=No
+30	।	_	PUNCT	_	_	15	punct	15:punct	_
