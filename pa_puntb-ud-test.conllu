@@ -335,13 +335,13 @@
 4	ਕਿ	_	SCONJ	_	_	15	mark	15:mark	_
 5	ਮੁੰਡੇ	_	NOUN	_	_	7	nmod	7:nmod	_
 6	ਦੀ	_	ADP	_	_	5	case	5:case	_
-7	ਪ੍ਰੇਮਿਕਾ	_	NOUN	_	_	15	obl:agent	15:nsubj:pass	_
+7	ਪ੍ਰੇਮਿਕਾ	_	NOUN	_	_	15	obl:agent	15:obl:agent	_
 8	ਵਲੋਂ	_	ADP	_	_	7	case	7:case	_
 9	ਮੁੰਡੇ	_	NOUN	_	_	15	obl	15:obl	_
 10	'ਤੇ	_	ADP	_	_	9	case	9:case	_
 11	ਬਲਾਤਕਾਰ	_	NOUN	_	_	13	nmod	13:nmod	_
 12	ਦਾ	_	ADP	_	_	11	case	11:case	_
-13	ਪਰਚਾ	_	NOUN	_	_	15	obl:agent	15:obj	_
+13	ਪਰਚਾ	_	NOUN	_	_	15	nsubj:pass	15:nsubj:pass	_
 14	ਦਰਜ	_	ADJ	_	_	15	compound:lvc	15:compound:lvc	_
 15	ਕਰਵਾਇਆ	_	VERB	_	_	3	ccomp	3:ccomp	_
 16	ਗਿਆ	_	AUX	_	_	15	aux:pass	15:aux:pass	_
@@ -553,7 +553,7 @@
 # sent_id = misc_indiccorp_30_2
 # text = ਟੈਕਸੀ ਯੂਨੀਅਨ ਤੇ ਦੁਕਾਨਦਾਰਾਂ ਵਲੋਂ ਸਾਂਝੇ ਤੌਰ 'ਤੇ ਪਿੰਡ ਟੁੱਟ ਕਲਾਂ ਜਲੰਧਰ ਵਿਖੇ ਸਰਬੱਤ ਦੇ ਭਲੇ ਵਾਸਤੇ ਧਾਰਮਿਕ ਸਮਾਗਮ ਮਿਤੀ 21 ਸਤੰਬਰ ਨੰੂ ਬਹੁਤ ਹੀ ਸ਼ਰਧਾ ਭਾਵਨਾ ਨਾਲ ਮਨਾਇਆ ਜਾ ਰਿਹਾ ਹੈ |
 1	ਟੈਕਸੀ	_	NOUN	_	_	2	compound	2:compound	_
-2	ਯੂਨੀਅਨ	_	NOUN	_	_	29	obl:agent	29:nsubj:pass	_
+2	ਯੂਨੀਅਨ	_	NOUN	_	_	29	obl:agent	29:obl:agent	_
 3	ਤੇ	_	CCONJ	_	_	4	cc	4:cc	_
 4	ਦੁਕਾਨਦਾਰਾਂ	_	NOUN	_	_	2	conj	2:conj|29:nsubj	_
 5	ਵਲੋਂ	_	ADP	_	_	2	case	2:case|4:case	_
@@ -763,7 +763,7 @@
 14	ਸਕਣਗੇ	_	VERB	_	_	13	compound:svc	13:compound:svc	_
 15	ਜਿਨ੍ਹਾਂ	_	PRON	_	_	17	nmod	17:nmod	_
 16	ਦਾ	_	ADP	_	_	15	case	15:case	_
-17	ਨਾਂ	_	NOUN	_	_	23	obl:agent	23:obj	_
+17	ਨਾਂ	_	NOUN	_	_	23	nsubj:pass	23:nsubj:pass	_
 18	ਅਣਜਾਣੇ	_	NOUN	_	_	23	obl	23:obl	_
 19	ਵਿੱਚ	_	ADP	_	_	18	case	18:case	_
 20	ਐਪਲੀਕੇਸ਼ਨ	_	NOUN	_	_	23	obl	23:obl	_
@@ -924,13 +924,13 @@
 7	ਵਿਭਾਗਾਂ	_	NOUN	_	_	12	obl	12:obl	_
 8	ਵਿੱਚ	_	ADP	_	_	7	case	7:case	_
 9	ਖਾਲੀ	_	ADJ	_	_	10	amod	10:amod	_
-10	ਅਸਾਮੀਆਂ	_	NOUN	_	_	12	obl:agent	12:obj	_
+10	ਅਸਾਮੀਆਂ	_	NOUN	_	_	12	nsubj:pass	12:nsubj:pass	_
 11	ਤੁਰੰਤ	_	ADV	_	_	12	advmod	12:advmod	_
 12	ਭਰੀਆ	_	VERB	_	_	3	acl:relcl	3:acl:relcl	_
 13	ਜਾਣ	_	AUX	_	_	12	aux:pass	12:aux:pass	SpaceAfter=No
 14	,	_	PUNCT	_	_	19	punct	19:punct	_
 15	ਕੱਚੇ	_	ADJ	_	_	16	amod	16:amod	_
-16	ਮੁਲਾਜ਼ਮਾਂ	_	NOUN	_	_	19	obl:agent	19:obj	_
+16	ਮੁਲਾਜ਼ਮਾਂ	_	NOUN	_	_	19	nsubj:pass	19:nsubj:pass	_
 17	ਨੂੰ	_	ADP	_	_	16	case	16:case	_
 18	ਪੱਕਾ	_	ADJ	_	_	19	compound:lvc	19:compound:lvc	_
 19	ਕੀਤਾ	_	VERB	_	_	12	conj	12:conj	_
@@ -938,7 +938,7 @@
 21	,	_	PUNCT	_	_	26	punct	26:punct	_
 22	ਪੁਰਾਣੀ	_	ADJ	_	_	24	amod	24:amod	_
 23	ਪੈਨਸ਼ਨ	_	NOUN	_	_	24	compound	24:compound	_
-24	ਸਕੀਮ	_	NOUN	_	_	26	obl:agent	26:obj	_
+24	ਸਕੀਮ	_	NOUN	_	_	26	nsubj:pass	26:nsubj:pass	_
 25	ਲਾਗੂ	_	ADJ	_	_	26	compound:lvc	26:compound:lvc	_
 26	ਕੀਤੀ	_	VERB	_	_	12	conj	12:conj	_
 27	ਜਾਵੇ	_	AUX	_	_	26	aux:pass	26:aux:pass	SpaceAfter=No
@@ -949,7 +949,7 @@
 32	ਬਕਾਇਆ	_	ADJ	_	_	33	amod	33:amod	_
 33	ਕਿਸ਼ਤਾਂ	_	NOUN	_	_	35	nmod	35:nmod	_
 34	ਦੀ	_	ADP	_	_	33	case	33:case	_
-35	ਅਦਾਇਗੀ	_	NOUN	_	_	37	obl:agent	37:obj	_
+35	ਅਦਾਇਗੀ	_	NOUN	_	_	37	nsubj:pass	37:nsubj:pass	_
 36	ਯਕੀਨੀ	_	ADJ	_	_	37	compound:lvc	37:compound:lvc	_
 37	ਬਣਾਈ	_	VERB	_	_	12	conj	12:conj	_
 38	ਜਾਵੇ	_	AUX	_	_	37	aux:pass	37:aux:pass	SpaceAfter=No
@@ -1109,7 +1109,7 @@
 11	ਪਰ	_	CCONJ	_	_	17	cc	17:cc	_
 12	ਫਿਰ	_	ADV	_	_	17	advmod	17:advmod	_
 13	ਵੀ	_	PART	_	_	12	discourse	12:discourse	_
-14	ਜਵਾਬ	_	NOUN	_	_	17	obl:agent	17:obj	_
+14	ਜਵਾਬ	_	NOUN	_	_	17	nsubj:pass	17:nsubj:pass	_
 15	ਪੇਸ਼	_	ADJ	_	_	17	compound:lvc	17:compound:lvc	_
 16	ਨਹੀਂ	_	ADV	_	_	17	advmod	17:advmod	_
 17	ਕੀਤਾ	_	VERB	_	_	7	conj	7:conj	_
@@ -1162,7 +1162,7 @@
 6	ਯੋਗ	_	ADP	_	_	5	mark	5:mark	_
 7	ਚਿੱਪ	_	NOUN	_	_	0	root	0:root	_
 8	ਜਿਸਦਾ	_	PRON	_	_	9	nmod	9:nmod	_
-9	ਨਿਰਮਾਣ	_	NOUN	_	_	27	obl:agent	27:obj	_
+9	ਨਿਰਮਾਣ	_	NOUN	_	_	27	nsubj:pass	27:nsubj:pass	_
 10	ਸਟੈਂਡਰਡ	_	ADJ	_	_	12	amod	12:amod	_
 11	ਇੰਕਜੈੱਟ	_	NOUN	_	_	12	compound	12:compound	_
 12	ਪ੍ਰਿੰਟਰਾਂ	_	NOUN	_	_	15	obj	15:obj	_
@@ -1271,7 +1271,7 @@
 27	ਉਡਾਣਾਂ	_	NOUN	_	_	33	obl	33:obl	_
 28	ਲਈ	_	ADP	_	_	27	case	27:case	_
 29	ਹਵਾਈ	_	ADJ	_	_	30	amod	30:amod	_
-30	ਅੱਡੇ	_	NOUN	_	_	33	obl:agent	33:obj	_
+30	ਅੱਡੇ	_	NOUN	_	_	33	nsubj:pass	33:nsubj:pass	_
 31	ਨੂੰ	_	ADP	_	_	30	case	30:case	_
 32	ਬੰਦ	_	ADJ	_	_	33	compound:lvc	33:compound:lvc	_
 33	ਕਰ	_	VERB	_	_	18	parataxis	18:parataxis	_
@@ -1284,7 +1284,7 @@
 # text = ਪਾਇਲਟ ਦੀ ਪਛਾਣ ਸਕੁਐਡਰੋਨ ਲੀਡਰ ਦਿਲੋਕ੍ਰਿਤ ਪੱਤਵੀ ਵਜੋਂ ਕੀਤੀ ਗਈ।
 1	ਪਾਇਲਟ	_	NOUN	_	_	3	nmod	3:nmod	_
 2	ਦੀ	_	ADP	_	_	1	case	1:case	_
-3	ਪਛਾਣ	_	NOUN	_	_	9	obl:agent	9:obj	_
+3	ਪਛਾਣ	_	NOUN	_	_	9	nsubj:pass	9:nsubj:pass	_
 4	ਸਕੁਐਡਰੋਨ	_	PROPN	_	_	5	compound	5:compound	_
 5	ਲੀਡਰ	_	PROPN	_	_	6	compound	6:compound	_
 6	ਦਿਲੋਕ੍ਰਿਤ	_	PROPN	_	_	9	obl	9:obl	_
@@ -1895,13 +1895,13 @@
 3	ਰਾਤ	_	NOUN	_	_	6	nmod	6:nmod	_
 4	ਦੀ	_	ADP	_	_	3	case	3:case	_
 5	ਪਹਿਲੀ	_	ADJ	_	_	6	amod	6:amod	_
-6	ਸਹਾਇਤਾ	_	NOUN	_	_	16	obl:agent	16:obj	_
+6	ਸਹਾਇਤਾ	_	NOUN	_	_	16	nsubj:pass	16:nsubj:pass	_
 7	ਖੇਡ	_	NOUN	_	_	10	nmod	10:nmod	_
 8	ਦੇ	_	ADP	_	_	7	case	7:case	_
 9	ਜੇਤੂ	_	ADJ	_	_	10	amod	10:amod	_
 10	ਟੀਚੇ	_	NOUN	_	_	16	obl	16:obl	_
 11	‘ਤੇ	_	ADP	_	_	10	case	10:case	_
-12	ਰੂਕੀ	_	NOUN	_	_	16	obl:agent	16:nsubj:pass	_
+12	ਰੂਕੀ	_	NOUN	_	_	16	obl:agent	16:obl:agent	_
 13	ਨਿਕਲਾਸ	_	PROPN	_	_	12	appos	12:appos	_
 14	ਬੈਕਸਟਰੋਮ	_	PROPN	_	_	13	flat	13:flat	_
 15	ਦੁਆਰਾ	_	ADP	_	_	12	case	12:case	_
@@ -2432,7 +2432,7 @@
 13	ਤੋਂ	_	ADP	_	_	12	case	12:case	_
 14	ਬਾਅਦ	_	ADP	_	_	13	fixed	13:fixed	_
 15	ਵੀ	_	PART	_	_	12	discourse	12:discourse	_
-16	ਸੱਸ	_	NOUN	_	_	23	obl:agent	23:nsubj:pass	_
+16	ਸੱਸ	_	NOUN	_	_	23	obl:agent	23:obl:agent	_
 17	ਬਿਮਲਾ	_	PROPN	_	_	16	appos	16:appos	_
 18	ਦੇਵੀ	_	PROPN	_	_	17	flat	17:flat	_
 19	ਵੱਲੋਂ	_	ADP	_	_	16	case	16:case	_
@@ -3180,7 +3180,7 @@
 
 # sent_id = news_bbc_rajnikanth_25
 # text = ਰਜਨੀਕਾਂਤ ਨੂੰ ਥਲਾਈਵਾ ਕਿਹਾ ਜਾਂਦਾ ਹੈ।
-1	ਰਜਨੀਕਾਂਤ	_	PRON	_	_	4	obl:agent	4:obj	_
+1	ਰਜਨੀਕਾਂਤ	_	PRON	_	_	4	nsubj:pass	4:nsubj:pass	_
 2	ਨੂੰ	_	ADP	_	_	1	case	1:case	_
 3	ਥਲਾਈਵਾ	_	PROPN	_	_	4	ccomp	4:ccomp	_
 4	ਕਿਹਾ	_	VERB	_	_	0	root	0:root	_
@@ -3230,7 +3230,7 @@
 4	ਲੁਧਿਆਣਾ	_	PROPN	_	_	7	nmod	7:nmod	_
 5	ਦੇ	_	ADP	_	_	4	case	4:case	_
 6	ਇਕ	_	NUM	_	_	7	nummod	7:nummod	_
-7	ਯਾਤਰੀ	_	NOUN	_	_	20	obl:agent	20:obj	_
+7	ਯਾਤਰੀ	_	NOUN	_	_	20	nsubj:pass	20:nsubj:pass	_
 8	ਨੂੰ	_	ADP	_	_	7	case	7:case	_
 9	ਏਅਰਪੋਰਟ	_	NOUN	_	_	15	obl	15:obl	_
 10	’ਤੇ	_	ADP	_	_	9	case	9:case	_
@@ -3356,14 +3356,14 @@
 15	ਦਾ	_	ADP	_	_	14	case	14:case	_
 16	ਇਕ	_	NUM	_	_	18	nummod	18:nummod	_
 17	ਵ੍ਹਟਸਐਪ	_	PROPN	_	_	18	compound	18:compound	_
-18	ਗਰੁੱਪ	_	NOUN	_	_	19	obl:agent	19:obj	_
+18	ਗਰੁੱਪ	_	NOUN	_	_	19	nsubj:pass	19:nsubj:pass	_
 19	ਬਣਾਇਆ	_	VERB	_	_	0	root	0:root	_
 20	ਗਿਆ	_	AUX	_	_	19	aux:pass	19:aux:pass	_
 21	ਹੈ	_	AUX	_	_	19	aux	19:aux	SpaceAfter=No
 22	,	_	PUNCT	_	_	19	punct	19:punct	_
 23	ਜਿਸ	_	PRON	_	_	37	obl	37:obl	_
 24	’ਚ	_	ADP	_	_	23	case	23:case	_
-25	ਸਰਕਾਰ	_	NOUN	_	_	27	obl:agent	27:nsubj:pass	_
+25	ਸਰਕਾਰ	_	NOUN	_	_	27	obl:agent	27:obl:agent	_
 26	ਵੱਲੋਂ	_	ADP	_	_	25	case	25:case	_
 27	ਭੇਜੀ	_	VERB	_	_	35	acl	35:acl	_
 28	ਗਈ	_	AUX	_	_	27	aux:pass	27:aux:pass	_
@@ -3373,7 +3373,7 @@
 32	ਆਉਣ	_	VERB	_	_	35	acl	35:acl	_
 33	ਵਾਲਿਆਂ	_	ADP	_	_	32	mark	32:mark	_
 34	ਦੀ	_	ADP	_	_	32	mark	32:mark	_
-35	ਸੂਚੀ	_	NOUN	_	_	37	obl:agent	37:obj	_
+35	ਸੂਚੀ	_	NOUN	_	_	37	nsubj:pass	37:nsubj:pass	_
 36	ਸਾਂਝੀ	_	ADJ	_	_	37	compound:lvc	37:compound:lvc	_
 37	ਕੀਤੀ	_	VERB	_	_	18	acl:relcl	18:acl:relcl	_
 38	ਜਾਵੇਗੀ	_	AUX	_	_	37	aux:pass	37:aux:pass	_
@@ -3387,7 +3387,7 @@
 46	ਕਿ	_	SCONJ	_	_	63	mark	63:mark	_
 47	ਕੀ	_	PART	_	_	63	discourse	63:discourse	_
 48	ਵਿਦੇਸ਼ੀ	_	ADJ	_	_	49	amod	49:amod	_
-49	ਯਾਤਰੀ	_	NOUN	_	_	63	obl:agent	63:obj	_
+49	ਯਾਤਰੀ	_	NOUN	_	_	63	nsubj:pass	63:nsubj:pass	_
 50	ਜੋ	_	PRON	_	_	56	obj	56:obj	_
 51	ਸਿਹਤ	_	PROPN	_	_	52	compound	52:compound	_
 52	ਵਿਭਾਗ	_	PROPN	_	_	54	nmod	54:nmod	_
@@ -3501,7 +3501,7 @@
 43	ਜਗਾਂ	_	NOUN	_	_	47	obl	47:obl	_
 44	ਤੇ	_	ADP	_	_	43	case	43:case	_
 45	ਇਹ	_	DET	_	_	46	det	46:det	_
-46	ਡਰਾਮਾ	_	NOUN	_	_	47	obl:agent	47:obj	_
+46	ਡਰਾਮਾ	_	NOUN	_	_	47	nsubj:pass	47:nsubj:pass	_
 47	ਵਿਖਾਇਆ	_	VERB	_	_	37	acl:relcl	37:acl:relcl	_
 48	ਜਾਵੇਗਾ	_	AUX	_	_	47	aux:pass	47:aux:pass	SpaceAfter=No
 49	।	_	PUNCT	_	_	18	punct	18:punct	_
@@ -4352,7 +4352,7 @@
 1	ਜਿੰਨੀ	_	DET	_	_	2	det	2:det	_
 2	ਤਰ੍ਹਾਂ	_	PRON	_	_	4	nmod	4:nmod	_
 3	ਦੇ	_	ADP	_	_	2	case	2:case	_
-4	ਫੁੱਲ	_	NOUN	_	_	10	obl:agent	10:obj	SpaceAfter=No
+4	ਫੁੱਲ	_	NOUN	_	_	10	nsubj:pass	10:nsubj:pass	SpaceAfter=No
 5	,	_	PUNCT	_	_	6	punct	6:punct	_
 6	ਫਲ਼	_	NOUN	_	_	4	conj	4:conj	_
 7	ਅਤੇ	_	CCONJ	_	_	8	cc	8:cc	_
@@ -4362,7 +4362,7 @@
 11	ਜਾ	_	AUX	_	_	10	aux:pass	10:aux:pass	_
 12	ਸਕਦੀਆਂ	_	AUX	_	_	10	aux	10:aux	_
 13	ਹਨ	_	AUX	_	_	10	aux	10:aux	_
-14	ਓਨੀਆਂ	_	PRON	_	_	22	obl:agent	22:obj	_
+14	ਓਨੀਆਂ	_	PRON	_	_	22	nsubj:pass	22:nsubj:pass	_
 15	ਦੁਨੀਆਂ	_	NOUN	_	_	19	nmod	19:nmod	_
 16	ਦੀ	_	ADP	_	_	15	case	15:case	_
 17	ਹੋਰ	_	DET	_	_	19	det	19:det	_
@@ -5021,7 +5021,7 @@
 
 # sent_id = editorial_trolley_punjab_32
 # text = ਇਹ ਸਿਰਫ ਸਾਡੇ ਜਾਂ ਸਾਡੇ ਤੋਂ ਪਛੜੇ ਮੁਲਕਾਂ ਵਿਚ ਹੀ ਪਾਏ ਜਾਂਦੇ ਹਨ।
-1	ਇਹ	_	PRON	_	_	11	obl:agent	11:obj	_
+1	ਇਹ	_	PRON	_	_	11	nsubj:pass	11:nsubj:pass	_
 2	ਸਿਰਫ	_	ADV	_	_	11	advmod	11:advmod	_
 3	ਸਾਡੇ	_	PRON	_	_	8	nmod	8:nmod	_
 4	ਜਾਂ	_	CCONJ	_	_	7	cc	7:cc	_
@@ -5248,12 +5248,12 @@
 3	ਆਰਥਿਕ	_	ADJ	_	_	4	amod	4:amod	_
 4	ਤੰਗੀ	_	NOUN	_	_	6	nmod	6:nmod	_
 5	ਦੀ	_	ADP	_	_	4	case	4:case	_
-6	ਦੁਹਾਈ	_	NOUN	_	_	7	obl:agent	7:obj	_
+6	ਦੁਹਾਈ	_	NOUN	_	_	7	nsubj:pass	7:nsubj:pass	_
 7	ਦਿੱਤੀ	_	VERB	_	_	0	root	0:root	_
 8	ਜਾਂਦੀ	_	AUX	_	_	7	aux:pass	7:aux:pass	_
 9	ਹੈ	_	AUX	_	_	7	aux	7:aux	_
 10	ਅਤੇ	_	CCONJ	_	_	14	cc	14:cc	_
-11	ਲੋਕਾਂ	_	NOUN	_	_	14	obl:agent	14:obj	_
+11	ਲੋਕਾਂ	_	NOUN	_	_	14	nsubj:pass	14:nsubj:pass	_
 12	ਨੂੰ	_	ADP	_	_	11	case	11:case	_
 13	ਅਹਿਸਾਸ	_	NOUN	_	_	14	compound:lvc	14:compound:lvc	_
 14	ਕਰਾਇਆ	_	VERB	_	_	7	conj	7:conj	_
@@ -5296,7 +5296,7 @@
 1	ਚੋਣਾਂ	_	NOUN	_	_	2	obj	2:obj	_
 2	ਲੜ	_	VERB	_	_	4	acl	4:acl|6:acl	_
 3	ਰਹੇ	_	AUX	_	_	2	aux	2:aux	_
-4	ਉਮੀਦਵਾਰਾਂ	_	NOUN	_	_	19	obl:agent	19:nsubj:pass	_
+4	ਉਮੀਦਵਾਰਾਂ	_	NOUN	_	_	19	obl:agent	19:obl:agent	_
 5	ਅਤੇ	_	CCONJ	_	_	6	cc	6:cc	_
 6	ਪਾਰਟੀਆਂ	_	NOUN	_	_	4	conj	4:conj|19:nsubj	_
 7	ਵਲੋਂ	_	ADP	_	_	4	case	4:case|6:case	_
@@ -5310,7 +5310,7 @@
 15	-	_	PUNCT	_	_	16	punct	16:punct	SpaceAfter=No
 16	ਇਕ	_	NUM	_	_	14	compound:redup	14:compound:redup	_
 17	ਅਰਬ	_	NUM	_	_	18	nummod	18:nummod	_
-18	ਰੁਪੱਈਆ	_	NOUN	_	_	19	obl:agent	19:obj	_
+18	ਰੁਪੱਈਆ	_	NOUN	_	_	19	nsubj:pass	19:nsubj:pass	_
 19	ਖਰਚਿਆ	_	VERB	_	_	0	root	0:root	_
 20	ਜਾਂਦਾ	_	AUX	_	_	19	aux:pass	19:aux:pass	_
 21	ਹੈ	_	AUX	_	_	19	aux	19:aux	SpaceAfter=No
@@ -5351,7 +5351,7 @@
 7	ਸਰ	_	VERB	_	_	9	acl:relcl	9:acl:relcl	_
 8	ਸਕਦਾ	_	VERB	_	_	7	compound:svc	7:compound:svc	_
 9	ਉਥੇ	_	PRON	_	_	12	obl	7:obl|12:obl	_
-10	ਸੌ	_	NUM	_	_	12	obl:agent	12:obj	_
+10	ਸੌ	_	NUM	_	_	12	nsubj:pass	12:nsubj:pass	_
 11	ਸੌ	_	NUM	_	_	10	compound:redup	10:compound:redup	_
 12	ਲਗਾਏ	_	VERB	_	_	0	root	0:root	_
 13	ਜਾਂਦੇ	_	AUX	_	_	12	aux:pass	12:aux:pass	_
@@ -5366,7 +5366,7 @@
 4	ਸੋਚ	_	NOUN	_	_	7	nmod	7:nmod	_
 5	ਵਾਲੇ	_	ADP	_	_	4	case	4:case	_
 6	ਸਿਆਣੇ	_	ADJ	_	_	7	amod	7:amod	_
-7	ਲੋਕਾਂ	_	NOUN	_	_	10	obl:agent	10:obj	_
+7	ਲੋਕਾਂ	_	NOUN	_	_	10	nsubj:pass	10:nsubj:pass	_
 8	ਨੂੰ	_	ADP	_	_	7	case	7:case	_
 9	ਆਤੰਕਤ	_	ADJ	_	_	10	compound:lvc	10:compound:lvc	_
 10	ਕੀਤਾ	_	VERB	_	_	0	root	0:root	_
@@ -5395,7 +5395,7 @@
 7	ਲਾ	_	VERB	_	_	13	advcl	13:advcl	_
 8	ਕੇ	_	AUX	_	_	7	aux	7:aux	_
 9	ਸਿਆਸੀ	_	ADJ	_	_	10	amod	10:amod	_
-10	ਬਦਮਾਸ਼ੀ	_	NOUN	_	_	13	obl:agent	13:obj	_
+10	ਬਦਮਾਸ਼ੀ	_	NOUN	_	_	13	nsubj:pass	13:nsubj:pass	_
 11	ਦਾ	_	ADP	_	_	10	case	10:case	_
 12	ਪ੍ਰਗਟਾਵਾ	_	NOUN	_	_	13	compound:lvc	13:compound:lvc	_
 13	ਕੀਤਾ	_	VERB	_	_	0	root	0:root	_
@@ -5861,3 +5861,398 @@
 16	ਗਿਆ	_	VERB	_	_	14	compound:svc	14:compound:svc	_
 17	ਹੈ	_	AUX	_	_	14	aux	14:aux	SpaceAfter=No
 18	।	_	PUNCT	_	_	14	punct	14:punct	_
+
+# sent_id = news_tribune_cold_1
+# url = https://www.punjabitribuneonline.com/news/majha/cold-wave-after-rains-shows-intensity-125633
+# text = ਮੀਂਹ ਤੋਂ ਬਾਅਦ ਸੀਤ ਲਹਿਰ ਨੇ ਦਿਖਾਇਆ ਜ਼ੋਰ
+1	ਮੀਂਹ	_	NOUN	_	_	7	obl	7:obl	_
+2	ਤੋਂ	_	ADP	_	_	1	case	1:case	_
+3	ਬਾਅਦ	_	ADP	_	_	2	fixed	2:fixed	_
+4	ਸੀਤ	_	NOUN	_	_	5	compound	5:compound	_
+5	ਲਹਿਰ	_	NOUN	_	_	7	nsubj	7:nsubj	_
+6	ਨੇ	_	ADP	_	_	5	case	5:case	_
+7	ਦਿਖਾਇਆ	_	VERB	_	_	0	root	0:root	_
+8	ਜ਼ੋਰ	_	NOUN	_	_	7	obj	7:obj	_
+
+# sent_id = news_tribune_cold_2
+# text = ਸੰਘਣੀ ਧੁੰਦ ਤੇ ਹੱਡ-ਚੀਰਵੀਂ ਠੰਢ ਕਾਰਨ ਜਨ-ਜੀਵਨ ਪ੍ਰਭਾਵਿਤ
+1	ਸੰਘਣੀ	_	ADJ	_	_	2	amod	2:amod	_
+2	ਧੁੰਦ	_	NOUN	_	_	12	obl	12:obl	_
+3	ਤੇ	_	CCONJ	_	_	7	cc	7:cc	_
+4	ਹੱਡ	_	NOUN	_	_	6	compound	6:compound	SpaceAfter=No
+5	-	_	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
+6	ਚੀਰਵੀਂ	_	ADJ	_	_	7	amod	7:amod	_
+7	ਠੰਢ	_	NOUN	_	_	2	conj	2:conj|12:obl	_
+8	ਕਾਰਨ	_	ADP	_	_	2	case	2:case|7:case	_
+9	ਜਨ	_	NOUN	_	_	11	compound	11:compound	SpaceAfter=No
+10	-	_	PUNCT	_	_	11	punct	11:punct	SpaceAfter=No
+11	ਜੀਵਨ	_	NOUN	_	_	12	nsubj	12:nsubj	_
+12	ਪ੍ਰਭਾਵਿਤ	_	ADJ	_	_	0	root	0:root	_
+
+# sent_id = news_tribune_cold_3
+# text = ਜਗਤਾਰ ਸਿੰਘ ਲਾਂਬਾ
+1	ਜਗਤਾਰ	_	PROPN	_	_	0	root	0:root	_
+2	ਸਿੰਘ	_	PROPN	_	_	1	flat	1:flat	_
+3	ਲਾਂਬਾ	_	PROPN	_	_	1	flat	1:flat	_
+
+# sent_id = news_tribune_cold_4
+# text = ਅੰਮ੍ਰਿਤਸਰ, 11 ਜਨਵਰੀ
+1	ਅੰਮ੍ਰਿਤਸਰ	_	PROPN	_	_	0	root	0:root	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	1:punct	_
+3	11	_	NUM	_	_	4	nummod	4:nummod	_
+4	ਜਨਵਰੀ	_	PROPN	_	_	1	parataxis	1:parataxis	_
+
+# sent_id = news_tribune_cold_5
+# text = ਲਗਾਤਾਰ ਮੀਂਹ ਤੋਂ ਬਾਅਦ ਹੁਣ ਸੰਘਣੀ ਧੁੰਦ ਅਤੇ ਹੱਡ ਚੀਰਵੀਂ ਠੰਢ ਨੇ ਜਨ ਜੀਵਨ ਨੂੰ ਪ੍ਰਭਾਵਿਤ ਕਰ ਦਿੱਤਾ ਹੈ।
+1	ਲਗਾਤਾਰ	_	ADJ	_	_	2	amod	2:amod	_
+2	ਮੀਂਹ	_	NOUN	_	_	17	obl	17:obl	_
+3	ਤੋਂ	_	ADP	_	_	2	case	2:case	_
+4	ਬਾਅਦ	_	ADP	_	_	3	fixed	3:fixed	_
+5	ਹੁਣ	_	NOUN	_	_	17	obl	17:obl	_
+6	ਸੰਘਣੀ	_	ADJ	_	_	7	amod	7:amod	_
+7	ਧੁੰਦ	_	NOUN	_	_	17	nsubj	17:nsubj	_
+8	ਅਤੇ	_	CCONJ	_	_	11	cc	11:cc	_
+9	ਹੱਡ	_	NOUN	_	_	10	compound	10:compound	_
+10	ਚੀਰਵੀਂ	_	ADJ	_	_	11	amod	11:amod	_
+11	ਠੰਢ	_	NOUN	_	_	7	conj	7:conj|17:nsubj	_
+12	ਨੇ	_	ADP	_	_	7	case	7:case|11:case	_
+13	ਜਨ	_	NOUN	_	_	14	compound	14:compound	_
+14	ਜੀਵਨ	_	NOUN	_	_	17	obj	17:obj	_
+15	ਨੂੰ	_	ADP	_	_	14	case	14:case	_
+16	ਪ੍ਰਭਾਵਿਤ	_	ADJ	_	_	17	compound:lvc	17:compound:lvc	_
+17	ਕਰ	_	VERB	_	_	0	root	0:root	_
+18	ਦਿੱਤਾ	_	VERB	_	_	17	compound:svc	17:compound:svc	_
+19	ਹੈ	_	AUX	_	_	17	aux	17:aux	SpaceAfter=No
+20	।	_	PUNCT	_	_	17	punct	17:punct	_
+
+# sent_id = news_tribune_cold_6
+# text = ਪਿਛਲਾ ਪੂਰਾ ਹਫਤਾ ਭਾਰੀ ਮੀਂਹ ਅਤੇ ਬੱਦਲਵਾਈ ਵਿਚ ਬੀਤਿਆ ਹੈ ਅਤੇ ਮੌਸਮ ਵਿਭਾਗ ਦੀ ਭਵਿੱਖਬਾਣੀ ਮੁਤਾਬਕ ਇਹ ਸਾਰਾ ਹਫਤਾ ਇਸੇ ਤਰ੍ਹਾਂ ਧੁੰਦ ਅਤੇ ਹੱਡ ਚੀਰਵੀਂ ਠੰਢ ਨਾਲ ਬੀਤੇਗਾ।
+1	ਪਿਛਲਾ	_	ADJ	_	_	3	amod	3:amod	_
+2	ਪੂਰਾ	_	ADJ	_	_	3	amod	3:amod	_
+3	ਹਫਤਾ	_	NOUN	_	_	9	nsubj	9:nsubj	_
+4	ਭਾਰੀ	_	ADJ	_	_	5	amod	5:amod	_
+5	ਮੀਂਹ	_	NOUN	_	_	9	obl	9:obl	_
+6	ਅਤੇ	_	CCONJ	_	_	7	cc	7:cc	_
+7	ਬੱਦਲਵਾਈ	_	NOUN	_	_	5	conj	5:conj	_
+8	ਵਿਚ	_	ADP	_	_	5	case	5:case|7:case	_
+9	ਬੀਤਿਆ	_	VERB	_	_	0	root	0:root	_
+10	ਹੈ	_	AUX	_	_	9	aux	9:aux	_
+11	ਅਤੇ	_	CCONJ	_	_	28	cc	28:cc	_
+12	ਮੌਸਮ	_	NOUN	_	_	13	compound	13:compound	_
+13	ਵਿਭਾਗ	_	NOUN	_	_	15	nmod	15:nmod	_
+14	ਦੀ	_	ADP	_	_	13	case	13:case	_
+15	ਭਵਿੱਖਬਾਣੀ	_	NOUN	_	_	28	obl	28:obl	_
+16	ਮੁਤਾਬਕ	_	ADP	_	_	15	case	15:case	_
+17	ਇਹ	_	DET	_	_	19	det	19:det	_
+18	ਸਾਰਾ	_	DET	_	_	19	det	19:det	_
+19	ਹਫਤਾ	_	NOUN	_	_	28	nsubj	28:nsubj	_
+20	ਇਸੇ	_	DET	_	_	21	det	21:det	_
+21	ਤਰ੍ਹਾਂ	_	NOUN	_	_	28	obl	28:obl	_
+22	ਧੁੰਦ	_	NOUN	_	_	28	obl	28:obl	_
+23	ਅਤੇ	_	CCONJ	_	_	26	cc	26:cc	_
+24	ਹੱਡ	_	NOUN	_	_	25	compound	25:compound	_
+25	ਚੀਰਵੀਂ	_	ADJ	_	_	26	amod	26:amod	_
+26	ਠੰਢ	_	NOUN	_	_	22	conj	22:conj|28:obl	_
+27	ਨਾਲ	_	ADP	_	_	22	case	22:case|26:case	_
+28	ਬੀਤੇਗਾ	_	VERB	_	_	9	conj	9:conj	SpaceAfter=No
+29	।	_	PUNCT	_	_	9	punct	9:punct	_
+
+# sent_id = news_tribune_cold_7
+# text = ਅੱਜ ਵੀ ਇਥੇ ਘਟੋ-ਘੱਟ ਤਾਪਮਾਨ 6 ਡਿਗਰੀ ਦਰਜ ਕੀਤਾ ਗਿਆ, ਜੋ ਰਾਤ ਨੂੰ ਹੋਰ ਹੇਠਾਂ ਡਿੱਗਣ ਦੀ ਸੰਭਾਵਨਾ ਹੈ।
+1	ਅੱਜ	_	NOUN	_	_	11	obl	11:obl	_
+2	ਵੀ	_	PART	_	_	1	discourse	1:discourse	_
+3	ਇਥੇ	_	PRON	_	_	11	obl	11:obl	_
+4	ਘਟੋ	_	ADJ	_	_	6	obl	6:obl	_
+5	-	_	PUNCT	_	_	6	punct	6:punct	_
+6	ਘੱਟ	_	ADJ	_	_	7	amod	7:amod	_
+7	ਤਾਪਮਾਨ	_	NOUN	_	_	11	nsubj:pass	11:nsubj:pass	_
+8	6	_	NUM	_	_	9	nummod	9:nummod	_
+9	ਡਿਗਰੀ	_	NOUN	_	_	11	xcomp	11:xcomp	_
+10	ਦਰਜ	_	ADJ	_	_	11	compound:lvc	11:compound:lvc	_
+11	ਕੀਤਾ	_	VERB	_	_	0	root	0:root	_
+12	ਗਿਆ	_	AUX	_	_	11	aux:pass	11:aux:pass	_
+13	,	_	PUNCT	_	_	11	punct	11:punct	_
+14	ਜੋ	_	PRON	_	_	19	nsubj	19:nsubj	_
+15	ਰਾਤ	_	NOUN	_	_	19	obl	19:obl	_
+16	ਨੂੰ	_	ADP	_	_	15	case	15:case	_
+17	ਹੋਰ	_	ADV	_	_	18	advmod	18:advmod	_
+18	ਹੇਠਾਂ	_	ADV	_	_	19	advmod	19:advmod	_
+19	ਡਿੱਗਣ	_	VERB	_	_	21	acl	21:acl	_
+20	ਦੀ	_	ADP	_	_	19	mark	19:mark	_
+21	ਸੰਭਾਵਨਾ	_	NOUN	_	_	22	nsubj	22:nsubj	_
+22	ਹੈ	_	VERB	_	_	7	acl:relcl	7:acl:relcl	_
+23	।	_	PUNCT	_	_	11	punct	11:punct	_
+
+# sent_id = news_tribune_cold_8
+# text = ਅੱਜ ਸਵੇਰੇ ਸੰਘਣੀ ਧੁੰਦ ਸੀ, ਜਿਸ ਕਾਰਨ ਦੂਰ ਦੂਰ ਤਕ ਸਪੱਸ਼ਟ ਦਿਖਾਈ ਨਹੀਂ ਸੀ ਦੇ ਰਿਹਾ।
+1	ਅੱਜ	_	NOUN	_	_	5	obl	5:obl	_
+2	ਸਵੇਰੇ	_	NOUN	_	_	5	obl	5:obl	_
+3	ਸੰਘਣੀ	_	ADJ	_	_	4	amod	4:amod	_
+4	ਧੁੰਦ	_	NOUN	_	_	5	nsubj	5:nsubj	_
+5	ਸੀ	_	VERB	_	_	0	root	0:root	SpaceAfter=No
+6	,	_	PUNCT	_	_	5	punct	5:punct	_
+7	ਜਿਸ	_	PRON	_	_	16	obl	16:obl	_
+8	ਕਾਰਨ	_	ADP	_	_	7	case	7:case	_
+9	ਦੂਰ	_	ADV	_	_	16	obl	16:obl	_
+10	ਦੂਰ	_	ADV	_	_	9	compound:redup	9:compound:redup	_
+11	ਤਕ	_	ADP	_	_	9	case	9:case	_
+12	ਸਪੱਸ਼ਟ	_	ADJ	_	_	16	obl	16:obl	_
+13	ਦਿਖਾਈ	_	NOUN	_	_	16	compound:lvc	16:compound:lvc	_
+14	ਨਹੀਂ	_	ADV	_	_	16	advmod	16:advmod	_
+15	ਸੀ	_	AUX	_	_	16	aux	16:aux	_
+16	ਦੇ	_	VERB	_	_	5	advcl	5:advcl	_
+17	ਰਿਹਾ	_	AUX	_	_	16	aux	16:aux	SpaceAfter=No
+18	।	_	PUNCT	_	_	5	punct	5:punct	_
+
+# sent_id = news_tribune_cold_9
+# text = ਧੁੰਦ ਕਾਰਨ ਆਵਾਜਾਈ ਵੀ ਪ੍ਰਭਾਵਿਤ ਹੋਈ ਹੈ।
+1	ਧੁੰਦ	_	NOUN	_	_	6	obl	6:obl	_
+2	ਕਾਰਨ	_	ADP	_	_	1	case	1:case	_
+3	ਆਵਾਜਾਈ	_	NOUN	_	_	6	nsubj	6:nsubj	_
+4	ਵੀ	_	PART	_	_	3	discourse	3:discourse	_
+5	ਪ੍ਰਭਾਵਿਤ	_	ADJ	_	_	6	compound:lvc	6:compound:lvc	_
+6	ਹੋਈ	_	VERB	_	_	0	root	0:root	_
+7	ਹੈ	_	AUX	_	_	6	aux	6:aux	SpaceAfter=No
+8	।	_	PUNCT	_	_	6	punct	6:punct	_
+
+# sent_id = news_tribune_cold_10
+# text = ਦੁਪਹਿਰ ਵੇਲੇ ਕੁਝ ਧੁੱਪ ਵੀ ਨਿਕਲੀ, ਜਿਸ ਨਾਲ ਲੋਕਾਂ ਨੇ ਕੁਝ ਰਾਹਤ ਮਹਿਸੂਸ ਕੀਤੀ ਪਰ ਸੂਰਜ ਢਲਦਿਆਂ ਹੀ ਮੁੜ ਸੀਤ ਲਹਿਰ ਨੇ ਜ਼ੋਰ ਫੜ ਲਿਆ ਹੈ।
+1	ਦੁਪਹਿਰ	_	NOUN	_	_	6	obl	6:obl	_
+2	ਵੇਲੇ	_	ADP	_	_	1	case	1:case	_
+3	ਕੁਝ	_	DET	_	_	4	det	4:det	_
+4	ਧੁੱਪ	_	NOUN	_	_	6	nsubj	6:nsubj	_
+5	ਵੀ	_	PART	_	_	4	discourse	4:discourse	_
+6	ਨਿਕਲੀ	_	VERB	_	_	0	root	0:root	SpaceAfter=No
+7	,	_	PUNCT	_	_	6	punct	6:punct	_
+8	ਜਿਸ	_	PRON	_	_	15	obl	15:obl	_
+9	ਨਾਲ	_	ADP	_	_	8	case	8:case	_
+10	ਲੋਕਾਂ	_	NOUN	_	_	15	nsubj	15:nsubj	_
+11	ਨੇ	_	ADP	_	_	10	case	10:case	_
+12	ਕੁਝ	_	DET	_	_	13	det	13:det	_
+13	ਰਾਹਤ	_	NOUN	_	_	15	obj	15:obj	_
+14	ਮਹਿਸੂਸ	_	ADJ	_	_	15	compound:lvc	15:compound:lvc	_
+15	ਕੀਤੀ	_	VERB	_	_	6	acl:relcl	6:acl:relcl	_
+16	ਪਰ	_	CCONJ	_	_	25	cc	25:cc	_
+17	ਸੂਰਜ	_	NOUN	_	_	18	nsubj	18:nsubj	_
+18	ਢਲਦਿਆਂ	_	VERB	_	_	25	advcl	25:advcl	_
+19	ਹੀ	_	PART	_	_	18	discourse	18:discourse	_
+20	ਮੁੜ	_	ADV	_	_	25	advmod	25:advmod	_
+21	ਸੀਤ	_	NOUN	_	_	22	compound	22:compound	_
+22	ਲਹਿਰ	_	NOUN	_	_	25	nsubj	25:nsubj	_
+23	ਨੇ	_	ADP	_	_	22	case	22:case	_
+24	ਜ਼ੋਰ	_	NOUN	_	_	25	obj	25:obj	_
+25	ਫੜ	_	VERB	_	_	6	conj	6:conj	_
+26	ਲਿਆ	_	VERB	_	_	25	compound:svc	25:compound:svc	_
+27	ਹੈ	_	AUX	_	_	25	aux	25:aux	SpaceAfter=No
+28	।	_	PUNCT	_	_	6	punct	6:punct	_
+
+# sent_id = news_tribune_cold_11
+# text = ਮੌਸਮ ਮਾਹਿਰਾਂ ਮੁਤਾਬਕ ਇਹ ਧੁੰਦ ਅਤੇ ਹੱਡ ਚੀਰਵੀਂ ਠੰਢ ਦਾ ਸਿਲਸਿਲਾ ਕੁਝ ਦਿਨ ਹੋਰ ਜਾਰੀ ਰਹੇਗਾ।
+1	ਮੌਸਮ	_	NOUN	_	_	2	compound	2:compound	_
+2	ਮਾਹਿਰਾਂ	_	NOUN	_	_	16	obl	16:obl	_
+3	ਮੁਤਾਬਕ	_	ADP	_	_	2	case	2:case	_
+4	ਇਹ	_	DET	_	_	5	det	5:det	_
+5	ਧੁੰਦ	_	NOUN	_	_	11	nmod	11:nmod	_
+6	ਅਤੇ	_	CCONJ	_	_	9	cc	9:cc	_
+7	ਹੱਡ	_	NOUN	_	_	8	compound	8:compound	_
+8	ਚੀਰਵੀਂ	_	ADJ	_	_	9	amod	9:amod	_
+9	ਠੰਢ	_	NOUN	_	_	5	conj	5:conj|11:nmod	_
+10	ਦਾ	_	ADP	_	_	5	case	5:case|9:case	_
+11	ਸਿਲਸਿਲਾ	_	NOUN	_	_	16	nsubj	16:nsubj	_
+12	ਕੁਝ	_	DET	_	_	13	det	13:det	_
+13	ਦਿਨ	_	NOUN	_	_	14	obl	14:obl	_
+14	ਹੋਰ	_	ADV	_	_	16	advmod	16:advmod	_
+15	ਜਾਰੀ	_	ADJ	_	_	16	xcomp	16:xcomp	_
+16	ਰਹੇਗਾ	_	VERB	_	_	0	root	0:root	SpaceAfter=No
+17	।	_	PUNCT	_	_	16	punct	16:punct	_
+
+# sent_id = news_tribune_cold_12
+# text = ਮੌਸਮ ਵਿਭਾਗ ਵਲੋਂ ਇਕ ਹਫਤੇ ਦੇ ਦੱਸੇ ਜਾ ਰਹੇ ਮੌਸਮ ਦੇ ਰੁਝਾਨ ਵਿਚ ਸਿਰਫ ਇਕ ਦਿਨ ਹੀ ਪੂਰੀ ਤਰ੍ਹਾਂ ਧੁੱਪ ਲੱਗਣ ਦੀ ਸੰਭਾਵਨਾ ਦੱਸੀ ਗਈ ਹੈ।
+1	ਮੌਸਮ	_	NOUN	_	_	2	compound	2:compound	_
+2	ਵਿਭਾਗ	_	NOUN	_	_	24	obl:agent	24:obl:agent	_
+3	ਵਲੋਂ	_	ADP	_	_	2	case	2:case	_
+4	ਇਕ	_	NUM	_	_	5	nummod	5:nummod	_
+5	ਹਫਤੇ	_	NOUN	_	_	10	nmod	10:nmod	_
+6	ਦੇ	_	ADP	_	_	5	case	5:case	_
+7	ਦੱਸੇ	_	VERB	_	_	10	acl	10:acl	_
+8	ਜਾ	_	AUX	_	_	7	aux:pass	7:aux:pass	_
+9	ਰਹੇ	_	AUX	_	_	7	aux	7:aux	_
+10	ਮੌਸਮ	_	NOUN	_	_	12	nmod	7:nsubj|12:nmod	_
+11	ਦੇ	_	ADP	_	_	10	case	10:case	_
+12	ਰੁਝਾਨ	_	NOUN	_	_	24	obl	24:obl	_
+13	ਵਿਚ	_	ADP	_	_	12	case	12:case	_
+14	ਸਿਰਫ	_	ADV	_	_	15	advmod	15:advmod	_
+15	ਇਕ	_	NUM	_	_	16	nummod	16:nummod	_
+16	ਦਿਨ	_	NOUN	_	_	21	obl	21:obl	_
+17	ਹੀ	_	PART	_	_	16	discourse	16:discourse	_
+18	ਪੂਰੀ	_	ADJ	_	_	19	amod	19:amod	_
+19	ਤਰ੍ਹਾਂ	_	NOUN	_	_	21	obl	21:obl	_
+20	ਧੁੱਪ	_	NOUN	_	_	21	nsubj	21:nsubj	_
+21	ਲੱਗਣ	_	VERB	_	_	23	acl	23:acl	_
+22	ਦੀ	_	ADP	_	_	21	case	21:case	_
+23	ਸੰਭਾਵਨਾ	_	NOUN	_	_	24	nsubj:pass	24:nsubj:pass	_
+24	ਦੱਸੀ	_	VERB	_	_	0	root	0:root	_
+25	ਗਈ	_	AUX	_	_	24	aux:pass	24:aux:pass	_
+26	ਹੈ	_	AUX	_	_	24	aux	24:aux	SpaceAfter=No
+27	।	_	PUNCT	_	_	24	punct	24:punct	_
+
+# sent_id = news_tribune_cold_13
+# text = ਜਦੋਂਕਿ ਬਾਕੀ ਦੇ ਦਿਨ ਅੰਸ਼ਕ ਬੱਦਲਵਾਈ ਤੇ ਧੁੱਪ ਦੱਸੀ ਗਈ ਹੈ।
+1	ਜਦੋਂਕਿ	_	SCONJ	_	_	9	mark	9:mark	_
+2	ਬਾਕੀ	_	NOUN	_	_	4	nmod	4:nmod	_
+3	ਦੇ	_	ADP	_	_	2	case	2:case	_
+4	ਦਿਨ	_	NOUN	_	_	9	nsubj:pass	9:nsubj:pass	_
+5	ਅੰਸ਼ਕ	_	ADJ	_	_	6	amod	6:amod|8:amod	_
+6	ਬੱਦਲਵਾਈ	_	NOUN	_	_	9	xcomp	9:xcomp	_
+7	ਤੇ	_	CCONJ	_	_	8	cc	8:cc	_
+8	ਧੁੱਪ	_	NOUN	_	_	6	conj	6:conj|9:xcomp	_
+9	ਦੱਸੀ	_	VERB	_	_	0	root	0:root	_
+10	ਗਈ	_	AUX	_	_	9	aux:pass	9:aux:pass	_
+11	ਹੈ	_	AUX	_	_	9	aux	9:aux	SpaceAfter=No
+12	।	_	PUNCT	_	_	9	punct	9:punct	_
+
+# sent_id = news_tribune_cold_14
+# text = ਇਸ ਦੌਰਾਨ ਅੱਜ ਕਈ ਥਾਵਾਂ ’ਤੇ ਲੋਕਾਂ ਨੇ ਅੱਗ ਬਾਲ ਕੇ ਠੰਢ ਤੋਂ ਬਚਣ ਦਾ ਵੀ ਯਤਨ ਕੀਤਾ।
+1	ਇਸ	_	PRON	_	_	18	obl	18:obl	_
+2	ਦੌਰਾਨ	_	ADP	_	_	1	case	1:case	_
+3	ਅੱਜ	_	NOUN	_	_	18	obl	18:obl	_
+4	ਕਈ	_	DET	_	_	5	det	5:det	_
+5	ਥਾਵਾਂ	_	NOUN	_	_	18	obl	18:obl	_
+6	’ਤੇ	_	ADP	_	_	5	case	5:case	_
+7	ਲੋਕਾਂ	_	NOUN	_	_	18	nsubj	10:nsubj|14:nsubj|18:nsubj	_
+8	ਨੇ	_	ADP	_	_	7	case	7:case	_
+9	ਅੱਗ	_	NOUN	_	_	10	obj	10:obj	_
+10	ਬਾਲ	_	VERB	_	_	18	advcl	18:advcl	_
+11	ਕੇ	_	AUX	_	_	10	aux	10:aux	_
+12	ਠੰਢ	_	NOUN	_	_	14	obl	14:obl	_
+13	ਤੋਂ	_	ADP	_	_	12	case	12:case	_
+14	ਬਚਣ	_	VERB	_	_	18	xcomp	18:xcomp	_
+15	ਦਾ	_	ADP	_	_	14	mark	14:mark	_
+16	ਵੀ	_	PART	_	_	14	discourse	14:discourse	_
+17	ਯਤਨ	_	NOUN	_	_	18	compound:lvc	18:compound:lvc	_
+18	ਕੀਤਾ	_	VERB	_	_	0	root	0:root	SpaceAfter=No
+19	।	_	PUNCT	_	_	18	punct	18:punct	_
+
+# sent_id = news_tribune_cold_15
+# text = ਲੋਹੜੀ ਦਾ ਤਿਓਹਾਰ ਨੇੜੇ ਹੋਣ ਕਾਰਨ ਗੁੱਡੀਆਂ ਤੇ ਪਤੰਗਾਂ ਉਡਾਉਣ ਦੇ ਸ਼ੌਕੀਨ ਅਰਦਾਸਾਂ ਕਰ ਰਹੇ ਹਨ ਕਿ ਲੋਹੜੀ ਵਾਲੇ ਦਿਨ ਧੁੰਦ ਨਾ ਪਵੇ ਅਤੇ ਮੌਸਮ ਸਾਫ ਰਹੇ।
+1	ਲੋਹੜੀ	_	PROPN	_	_	3	nmod	3:nmod	_
+2	ਦਾ	_	ADP	_	_	1	case	1:case	_
+3	ਤਿਓਹਾਰ	_	NOUN	_	_	5	nsubj	5:nsubj	_
+4	ਨੇੜੇ	_	ADV	_	_	5	compound:lvc	5:compound:lvc	_
+5	ਹੋਣ	_	VERB	_	_	14	advcl	14:advcl	_
+6	ਕਾਰਨ	_	ADP	_	_	5	mark	5:mark	_
+7	ਗੁੱਡੀਆਂ	_	NOUN	_	_	10	obj	10:obj	_
+8	ਤੇ	_	CCONJ	_	_	9	cc	9:cc	_
+9	ਪਤੰਗਾਂ	_	NOUN	_	_	7	conj	7:conj|10:obj	_
+10	ਉਡਾਉਣ	_	VERB	_	_	12	acl	12:acl	_
+11	ਦੇ	_	ADP	_	_	10	mark	10:mark	_
+12	ਸ਼ੌਕੀਨ	_	NOUN	_	_	14	nsubj	10:nsubj|14:nsubj	_
+13	ਅਰਦਾਸਾਂ	_	NOUN	_	_	14	compound:lvc	14:compound:lvc	_
+14	ਕਰ	_	VERB	_	_	0	root	0:root	_
+15	ਰਹੇ	_	AUX	_	_	14	aux	14:aux	_
+16	ਹਨ	_	AUX	_	_	14	aux	14:aux	_
+17	ਕਿ	_	SCONJ	_	_	23	mark	23:mark|27:mark	_
+18	ਲੋਹੜੀ	_	PROPN	_	_	20	nmod	20:nmod	_
+19	ਵਾਲੇ	_	ADP	_	_	18	case	18:case	_
+20	ਦਿਨ	_	NOUN	_	_	23	obl	23:obl|27:obl	_
+21	ਧੁੰਦ	_	NOUN	_	_	23	nsubj	23:nsubj	_
+22	ਨਾ	_	ADV	_	_	23	advmod	23:advmod	_
+23	ਪਵੇ	_	VERB	_	_	14	ccomp	14:ccomp	_
+24	ਅਤੇ	_	CCONJ	_	_	27	cc	27:cc	_
+25	ਮੌਸਮ	_	NOUN	_	_	27	nsubj	27:nsubj	_
+26	ਸਾਫ	_	ADJ	_	_	27	xcomp	27:xcomp	_
+27	ਰਹੇ	_	VERB	_	_	23	conj	14:ccomp|23:conj	SpaceAfter=No
+28	।	_	PUNCT	_	_	14	punct	14:punct	_
+
+# sent_id = news_tribune_cold_16
+# text = ਸੀਤ ਲਹਿਰ ਦੇ ਇਸ ਪ੍ਰਕੋਪ ਦੌਰਾਨ ਪੈ ਰਹੀ ਸੰਘਣੀ ਧੁੰਦ ਅਤੇ ਕੋਹਰਾ ਹਰੀਆਂ ਸਬਜ਼ੀਆਂ  ਅਤੇ ਚਾਰੇ ਲਈ ਨੁਕਸਾਨਦਾਇਕ ਹੈ।
+1	ਸੀਤ	_	NOUN	_	_	2	compound	2:compound	_
+2	ਲਹਿਰ	_	NOUN	_	_	5	nmod	5:nmod	_
+3	ਦੇ	_	ADP	_	_	2	case	2:case	_
+4	ਇਸ	_	DET	_	_	5	det	5:det	_
+5	ਪ੍ਰਕੋਪ	_	NOUN	_	_	7	obl	7:obl	_
+6	ਦੌਰਾਨ	_	ADP	_	_	5	case	5:case	_
+7	ਪੈ	_	VERB	_	_	10	acl	10:acl|12:acl	_
+8	ਰਹੀ	_	AUX	_	_	7	aux	7:aux	_
+9	ਸੰਘਣੀ	_	ADJ	_	_	10	amod	10:amod|12:amod	_
+10	ਧੁੰਦ	_	NOUN	_	_	18	nsubj	7:nsubj|18:nsubj	_
+11	ਅਤੇ	_	CCONJ	_	_	12	cc	12:cc	_
+12	ਕੋਹਰਾ	_	NOUN	_	_	10	conj	7:nsubj|10:conj|18:nsubj	_
+13	ਹਰੀਆਂ	_	ADJ	_	_	14	amod	14:amod	_
+14	ਸਬਜ਼ੀਆਂ	_	NOUN	_	_	18	obl	18:obl	_
+15	ਅਤੇ	_	CCONJ	_	_	16	cc	16:cc	_
+16	ਚਾਰੇ	_	NOUN	_	_	14	conj	14:conj|18:obl	_
+17	ਲਈ	_	ADP	_	_	14	case	14:case|16:case	_
+18	ਨੁਕਸਾਨਦਾਇਕ	_	ADJ	_	_	0	root	0:root	_
+19	ਹੈ	_	AUX	_	_	18	cop	18:cop	SpaceAfter=No
+20	।	_	PUNCT	_	_	18	punct	18:punct	_
+
+# sent_id = news_tribune_cold_17
+# text = ਖੇਤੀਬਾੜੀ ਵਿਭਾਗ ਦੇ ਏਡੀਓ ਪਰਜੀਤ ਸਿੰਘ ਨੇ ਆਖ਼ਿਆ ਕਿ ਇਹ ਮੌਸਮ ਕਣਕ ਦੀ ਫਸਲ ਲਈ ਤਾਂ ਲਾਹੇਵੰਦ ਹੈ ਪਰ ਸਬਜ਼ੀਆਂ ਅਤੇ ਹਰੇ ਚਾਰੇ ਨੂੰ ਨੁਕਸਾਨ ਹੋ ਸਕਦਾ ਹੈ।
+1	ਖੇਤੀਬਾੜੀ	_	NOUN	_	_	2	compound	2:compound	_
+2	ਵਿਭਾਗ	_	NOUN	_	_	4	nmod	4:nmod	_
+3	ਦੇ	_	ADP	_	_	2	case	2:case	_
+4	ਏਡੀਓ	_	NOUN	_	_	8	nsubj	8:nsubj	_
+5	ਪਰਜੀਤ	_	PROPN	_	_	4	appos	4:appos	_
+6	ਸਿੰਘ	_	PROPN	_	_	5	flat	5:flat	_
+7	ਨੇ	_	ADP	_	_	4	case	4:case	_
+8	ਆਖ਼ਿਆ	_	VERB	_	_	0	root	0:root	_
+9	ਕਿ	_	SCONJ	_	_	17	mark	17:mark	_
+10	ਇਹ	_	DET	_	_	11	det	11:det	_
+11	ਮੌਸਮ	_	NOUN	_	_	17	nsubj	17:nsubj	_
+12	ਕਣਕ	_	NOUN	_	_	14	nmod	14:nmod	_
+13	ਦੀ	_	ADP	_	_	12	case	12:case	_
+14	ਫਸਲ	_	NOUN	_	_	17	obl	17:obl	_
+15	ਲਈ	_	ADP	_	_	14	case	14:case	_
+16	ਤਾਂ	_	PART	_	_	14	discourse	14:discourse	_
+17	ਲਾਹੇਵੰਦ	_	ADJ	_	_	8	ccomp	8:ccomp	_
+18	ਹੈ	_	AUX	_	_	17	cop	17:cop	_
+19	ਪਰ	_	CCONJ	_	_	26	cc	26:cc	_
+20	ਸਬਜ਼ੀਆਂ	_	NOUN	_	_	26	nsubj	26:nsubj	_
+21	ਅਤੇ	_	CCONJ	_	_	23	cc	23:cc	_
+22	ਹਰੇ	_	ADJ	_	_	23	amod	23:amod	_
+23	ਚਾਰੇ	_	NOUN	_	_	20	conj	20:conj|26:nsubj	_
+24	ਨੂੰ	_	ADP	_	_	20	case	20:case|23:case	_
+25	ਨੁਕਸਾਨ	_	NOUN	_	_	26	compound:lvc	26:compound:lvc	_
+26	ਹੋ	_	VERB	_	_	17	conj	8:ccomp|17:conj	_
+27	ਸਕਦਾ	_	VERB	_	_	26	compound:svc	26:compound:svc	_
+28	ਹੈ	_	AUX	_	_	26	aux	26:aux	_
+29	।	_	PUNCT	_	_	8	punct	8:punct	_
+
+# sent_id = news_tribune_cold_18
+# text = ਉਨ੍ਹਾਂ ਕਿਹਾ ਕਿ ਪਿਛਲੇ ਦਿਨੀ ਲਗਾਤਾਰ ਪਏ ਮੀਂਹ ਕਾਰਨ ਖੇਤਾਂ ’ਚ ਪਾਣੀ ਖੜ੍ਹਾ ਹੋ ਗਿਆ ਹੈ ਜੇ ਹੋਰ ਮੀਂਹ ਹੋਰ ਪਿਆ ਤਾਂ ਇਸ ਨਾਲ ਹਰੇ ਚਾਰੇ ਅਤੇ ਸਬਜ਼ੀਆਂ ਨੂੰ ਜ਼ਿਆਦਾ ਨੁਕਸਾਨ ਹੋ ਸਕਦਾ ਹੈ।
+1	ਉਨ੍ਹਾਂ	_	PRON	_	_	2	nsubj	2:nsubj	_
+2	ਕਿਹਾ	_	VERB	_	_	0	root	0:root	_
+3	ਕਿ	_	SCONJ	_	_	14	mark	14:mark	_
+4	ਪਿਛਲੇ	_	ADJ	_	_	5	amod	5:amod	_
+5	ਦਿਨੀ	_	NOUN	_	_	7	obl	7:obl	_
+6	ਲਗਾਤਾਰ	_	ADV	_	_	7	advmod	7:advmod	_
+7	ਪਏ	_	VERB	_	_	8	acl	8:acl	_
+8	ਮੀਂਹ	_	NOUN	_	_	14	obl	7:nsubj|14:obl	_
+9	ਕਾਰਨ	_	ADP	_	_	8	case	8:case	_
+10	ਖੇਤਾਂ	_	NOUN	_	_	14	obl	14:obl	_
+11	’ਚ	_	ADP	_	_	10	case	10:case	_
+12	ਪਾਣੀ	_	NOUN	_	_	14	nsubj	14:nsubj	_
+13	ਖੜ੍ਹਾ	_	ADJ	_	_	14	compound:lvc	14:compound:lvc	_
+14	ਹੋ	_	VERB	_	_	2	ccomp	2:ccomp	_
+15	ਗਿਆ	_	VERB	_	_	14	compound:svc	14:compound:svc	_
+16	ਹੈ	_	AUX	_	_	14	aux	14:aux	_
+17	ਜੇ	_	SCONJ	_	_	21	mark	21:mark	_
+18	ਹੋਰ	_	DET	_	_	19	det	19:det	_
+19	ਮੀਂਹ	_	NOUN	_	_	21	nsubj	21:nsubj	_
+20	ਹੋਰ	_	ADV	_	_	21	advmod	21:advmod	_
+21	ਪਿਆ	_	VERB	_	_	32	advcl	32:advcl	_
+22	ਤਾਂ	_	ADV	_	_	32	advmod	32:advmod	_
+23	ਇਸ	_	PRON	_	_	32	obl	32:obl	_
+24	ਨਾਲ	_	ADP	_	_	23	case	23:case	_
+25	ਹਰੇ	_	ADJ	_	_	26	amod	26:amod	_
+26	ਚਾਰੇ	_	NOUN	_	_	32	nsubj	32:nsubj	_
+27	ਅਤੇ	_	CCONJ	_	_	28	cc	28:cc	_
+28	ਸਬਜ਼ੀਆਂ	_	NOUN	_	_	26	conj	26:conj	_
+29	ਨੂੰ	_	ADP	_	_	26	case	26:case	_
+30	ਜ਼ਿਆਦਾ	_	DET	_	_	31	det	31:det	_
+31	ਨੁਕਸਾਨ	_	NOUN	_	_	32	compound:lvc	32:compound:lvc	_
+32	ਹੋ	_	VERB	_	_	14	parataxis	14:parataxis	_
+33	ਸਕਦਾ	_	VERB	_	_	32	compound:svc	32:compound:svc	_
+34	ਹੈ	_	AUX	_	_	32	aux	32:aux	SpaceAfter=No
+35	।	_	PUNCT	_	_	2	punct	2:punct	_
