@@ -102,9 +102,9 @@
 2	ਵਿੱਚ	_	ADP	_	_	1	case	1:case	_
 3	ਤਾਂ	_	PART	_	_	1	discourse	1:discourse	_
 4	ਇਹ	_	DET	_	_	22	nsubj	22:nsubj	_
-5-6	ਕੀੜੇ-ਮਕੌੜੇ	_	_	_	_	_	_	_	_
+5-6	ਕੀੜੇ-ਮਕੌੜੇ	_	_	_	_	_	_	_	SpaceAfter=No
 5	ਕੀੜੇ	_	NOUN	_	_	22	obj	22:obj	_
-6	ਮਕੌੜੇ	_	NOUN	_	_	5	compound	5:compound	SpaceAfter=No
+6	ਮਕੌੜੇ	_	NOUN	_	_	5	compound	5:compound	_
 7	,	_	PUNCT	_	_	8	punct	8:punct	_
 8	ਸੁੰਡੀਆਂ	_	NOUN	_	_	5	conj	5:conj|22:obj	_
 9	ਅਤੇ	_	CCONJ	_	_	12	cc	12:cc	_
@@ -183,7 +183,7 @@
 2	ਆਪ	_	PRON	_	_	5	obj	5:obj	_
 3	ਨੂੰ	_	ADP	_	_	2	case	2:case	_
 4	ਚੈੱਕ	_	ADJ	_	_	5	compound:lvc	5:compound:lvc	_
-5	ਕਰੋ	_	VERB	_	_	0	root	0:root	_
+5	ਕਰੋ	_	VERB	_	_	0	root	0:root	SpaceAfter=No
 6	:	_	PUNCT	_	_	15	punct	15:punct	_
 7	ਪੇਟ	_	NOUN	_	_	15	obl	15:obl	_
 8	ਦੇ	_	ADP	_	_	7	case	7:case	_
@@ -6407,3 +6407,81 @@
 28	ਬਾਦ	_	ADP	_	_	27	fixed	27:fixed	_
 29	ਰਾਮਾਇਣ	_	PROPN	_	_	15	conj	15:conj	SpaceAfter=No
 30	।	_	PUNCT	_	_	15	punct	15:punct	_
+
+# sent_id = nonfiction_diamonds_6
+# text = ਬਾਲਮੀਕ ਦੀ ਸੰਸਕ੍ਰਿਤ ਸਮੇਂ ਦੇ ਹੇਰ ਫੇਰ ਅਤੇ ਘਟਨਾਵਾਂ ਦੀ ਅਦਲਾ ਬਦਲੀ ਦੇ ਨਾਲ ਨਾਲ ਬੋਲੀ ਵਿਚ ਭੀ ਵਟਾ ਸਟਾ ਹੁੰਦਾ ਰਿਹਾ।
+1	ਬਾਲਮੀਕ	_	PROPN	_	_	3	nmod	3:nmod	_
+2	ਦੀ	_	ADP	_	_	1	case	1:case	_
+3	ਸੰਸਕ੍ਰਿਤ	_	PROPN	_	_	4	nmod	4:nmod	_
+4	ਸਮੇਂ	_	NOUN	_	_	6	nmod	6:nmod	_
+5	ਦੇ	_	ADP	_	_	4	case	4:case	_
+6	ਹੇਰ	_	NOUN	_	_	19	obl	19:obl	_
+7	ਫੇਰ	_	NOUN	_	_	6	compound:redup	6:compound:redup	_
+8	ਅਤੇ	_	CCONJ	_	_	11	cc	11:cc	_
+9	ਘਟਨਾਵਾਂ	_	NOUN	_	_	11	nmod	11:nmod	_
+10	ਦੀ	_	ADP	_	_	9	case	9:case	_
+11	ਅਦਲਾ	_	NOUN	_	_	6	conj	6:conj|19:obl	_
+12	ਬਦਲੀ	_	NOUN	_	_	11	compound:redup	11:compound:redup	_
+13	ਦੇ	_	ADP	_	_	6	case	6:case|11:case	_
+14	ਨਾਲ	_	ADP	_	_	13	fixed	13:fixed	_
+15	ਨਾਲ	_	ADP	_	_	14	compound:redup	14:compound:redup	_
+16	ਬੋਲੀ	_	NOUN	_	_	19	nsubj	19:nsubj	_
+17	ਵਿਚ	_	ADP	_	_	16	case	16:case	_
+18	ਭੀ	_	PART	_	_	16	discourse	16:discourse	_
+19	ਵਟਾ	_	NOUN	_	_	0	root	0:root	_
+20	ਸਟਾ	_	NOUN	_	_	19	compound:redup	19:compound:redup	_
+21	ਹੁੰਦਾ	_	AUX	_	_	19	cop	19:cop	_
+22	ਰਿਹਾ	_	AUX	_	_	19	aux	19:aux	SpaceAfter=No
+23	।	_	PUNCT	_	_	19	punct	19:punct	_
+
+# sent_id = nonfiction_diamonds_7
+# text = ਸਮਾਂ ਜਿਉਂ ਜਿਉਂ ਉੱਨਤੀ ਕਰਦਾ ਗਿਆ, ਜ਼ਬਾਨ ਵਧਦੀ ਤੇ ਸਾਫ ਹੁੰਦੀ ਗਈ।
+1	ਸਮਾਂ	_	NOUN	_	_	5	nsubj	5:nsubj	_
+2	ਜਿਉਂ	_	PRON	_	_	5	obl	5:obl	_
+3	ਜਿਉਂ	_	PRON	_	_	2	compound:redup	2:compound:redup	_
+4	ਉੱਨਤੀ	_	NOUN	_	_	5	compound:lvc	5:compound:lvc	_
+5	ਕਰਦਾ	_	VERB	_	_	9	advcl	9:advcl	_
+6	ਗਿਆ	_	VERB	_	_	5	compound:svc	5:compound:svc	SpaceAfter=No
+7	,	_	PUNCT	_	_	9	punct	9:punct	_
+8	ਜ਼ਬਾਨ	_	NOUN	_	_	9	nsubj	9:nsubj|12:nsubj	_
+9	ਵਧਦੀ	_	VERB	_	_	0	root	0:root	_
+10	ਤੇ	_	CCONJ	_	_	12	cc	12:cc	_
+11	ਸਾਫ	_	ADJ	_	_	12	compound:lvc	12:compound:lvc	_
+12	ਹੁੰਦੀ	_	VERB	_	_	9	conj	9:conj	_
+13	ਗਈ	_	VERB	_	_	9	compound:svc	9:compound:svc|12:compound	SpaceAfter=No
+14	।	_	PUNCT	_	_	9	punct	9:punct	_
+
+# sent_id = nonfiction_diamonds_8
+# text = ਅਸ਼ੋਕ ਅਤੇ ਬੁਧ ਮਹਾਰਾਜ ਦੇ ਕਾਲ ਵਿਚ ਪਾਲੀ ਜ਼ਬਾਨ ਨੇ ਜ਼ੋਰ ਫੜਿਆ ਅਤੇ ਸੰਸਕ੍ਰਿਤ ਦੇ ਬਾਦ ਪਾਕ੍ਰਿਤ ਦਾ ਦੌਰ ਹੋਇਆ।
+1	ਅਸ਼ੋਕ	_	PROPN	_	_	6	nmod	6:nmod	_
+2	ਅਤੇ	_	CCONJ	_	_	3	cc	3:cc	_
+3	ਬੁਧ	_	PROPN	_	_	1	conj	1:conj|6:nmod	_
+4	ਮਹਾਰਾਜ	_	PROPN	_	_	3	flat	3:flat	_
+5	ਦੇ	_	ADP	_	_	1	case	1:case|3:case	_
+6	ਕਾਲ	_	NOUN	_	_	12	obl	12:obl	_
+7	ਵਿਚ	_	ADP	_	_	6	case	6:case	_
+8	ਪਾਲੀ	_	PROPN	_	_	9	compound	9:compound	_
+9	ਜ਼ਬਾਨ	_	NOUN	_	_	12	nsubj	12:nsubj	_
+10	ਨੇ	_	ADP	_	_	9	case	9:case	_
+11	ਜ਼ੋਰ	_	NOUN	_	_	12	obj	12:obj	_
+12	ਫੜਿਆ	_	VERB	_	_	0	root	0:root	_
+13	ਅਤੇ	_	CCONJ	_	_	19	cc	19:cc	_
+14	ਸੰਸਕ੍ਰਿਤ	_	PROPN	_	_	19	obl	19:obl	_
+15	ਦੇ	_	ADP	_	_	14	case	14:case	_
+16	ਬਾਦ	_	ADP	_	_	15	fixed	15:fixed	_
+17	ਪਾਕ੍ਰਿਤ	_	PROPN	_	_	19	nsubj	19:nsubj	_
+18	ਦਾ	_	ADP	_	_	17	case	17:case	_
+19	ਦੌਰ	_	NOUN	_	_	12	conj	12:conj	_
+20	ਹੋਇਆ	_	AUX	_	_	19	cop	19:cop	SpaceAfter=No
+21	।	_	PUNCT	_	_	12	punct	12:punct	_
+
+# sent_id = nonfiction_diamonds_9
+# text = ਪ੍ਰਾਕ੍ਰਿਤ ਸੰਸਕ੍ਰਿਤ ਦਾ ਹੀ ਇਕ ਰੂਪ ਸੀ।
+1	ਪ੍ਰਾਕ੍ਰਿਤ	_	PROPN	_	_	6	nsubj	6:nsubj	_
+2	ਸੰਸਕ੍ਰਿਤ	_	PROPN	_	_	6	nmod	6:nmod	_
+3	ਦਾ	_	ADP	_	_	2	case	2:case	_
+4	ਹੀ	_	PART	_	_	_	_	_	_
+5	ਇਕ	_	NUM	_	_	6	nummod	6:nummod	_
+6	ਰੂਪ	_	NOUN	_	_	0	root	0:root	_
+7	ਸੀ	_	AUX	_	_	6	cop	6:cop	SpaceAfter=No
+8	।	_	PUNCT	_	_	6	punct	6:punct	_
