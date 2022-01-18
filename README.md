@@ -3,7 +3,7 @@
 
 
 # Introduction
-Currently the treebank is comprised of 266 sentences, broken down into:
+Currently the treebank is comprised of 280 sentences, broken down into:
 
 - 43 sentences from [IndicCorp](https://indicnlp.ai4bharat.org/corpora/) [source dataset found to be of variable quality, no more will be annotated]
 - 28 sentences from the Facebook [FLoRes](https://ai.facebook.com/tools/flores/) low-resource machine translation dataset (with English translations)
@@ -15,8 +15,8 @@ Currently the treebank is comprised of 266 sentences, broken down into:
   - [Punjabi Galbaat](http://punjabigalbaat.blogspot.com/): 1 article, 33 sentences
 - 68 sentences from editorials.
   - [Trolley Times](https://www.trolleytimes.online/): 1 article, 68 sentences
-- 5 sentences from non-fiction books.
-  - [ਪੰਜਾਬ ਦੇ ਹੀਰੇ](https://pa.wikisource.org/wiki/%E0%A8%AA%E0%A9%B0%E0%A8%9C%E0%A8%BE%E0%A8%AC_%E0%A8%A6%E0%A9%87_%E0%A8%B9%E0%A9%80%E0%A8%B0%E0%A9%87): 5 sentences
+- 18 sentences from non-fiction books.
+  - [ਪੰਜਾਬ ਦੇ ਹੀਰੇ (Diamonds of Punjab)](https://pa.wikisource.org/wiki/%E0%A8%AA%E0%A9%B0%E0%A8%9C%E0%A8%BE%E0%A8%AC_%E0%A8%A6%E0%A9%87_%E0%A8%B9%E0%A9%80%E0%A8%B0%E0%A9%87): 18 sentences
 
 Only POS tags and dependency relations have been annotated so far. Automatic or semi-automatic methods will eventually be employed for morphological analysis and lemmatisation.
 
@@ -43,7 +43,7 @@ Genre: nonfiction news blog
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
-Features: manual native
+Features: not available
 Relations: manual native
 Contributors: Arora, Aryaman
 Contributing: here
