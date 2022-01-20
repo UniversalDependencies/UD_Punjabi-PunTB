@@ -17,6 +17,7 @@ d = DepEdit()
 
 result = d.run_depedit(infile)
 with open('pa_puntb-ud-test.conllu', 'w') as fout:
-    fout.write(unicodedata.normalize('NFD', result))
+    result = unicodedata.normalize('NFD', result)
+    fout.write(unicodedata.normalize('NFC', result))
 
 infile.close()

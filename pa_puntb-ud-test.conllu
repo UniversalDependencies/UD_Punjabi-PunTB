@@ -102,9 +102,9 @@
 2	ਵਿੱਚ	_	ADP	_	_	1	case	1:case	_
 3	ਤਾਂ	_	PART	_	_	1	discourse	1:discourse	_
 4	ਇਹ	_	DET	_	_	22	nsubj	22:nsubj	_
-5-6	ਕੀੜੇ-ਮਕੌੜੇ	_	_	_	_	_	_	_	_
+5-6	ਕੀੜੇ-ਮਕੌੜੇ	_	_	_	_	_	_	_	SpaceAfter=No
 5	ਕੀੜੇ	_	NOUN	_	_	22	obj	22:obj	_
-6	ਮਕੌੜੇ	_	NOUN	_	_	5	compound	5:compound	SpaceAfter=No
+6	ਮਕੌੜੇ	_	NOUN	_	_	5	compound	5:compound	_
 7	,	_	PUNCT	_	_	8	punct	8:punct	_
 8	ਸੁੰਡੀਆਂ	_	NOUN	_	_	5	conj	5:conj|22:obj	_
 9	ਅਤੇ	_	CCONJ	_	_	12	cc	12:cc	_
@@ -183,7 +183,7 @@
 2	ਆਪ	_	PRON	_	_	5	obj	5:obj	_
 3	ਨੂੰ	_	ADP	_	_	2	case	2:case	_
 4	ਚੈੱਕ	_	ADJ	_	_	5	compound:lvc	5:compound:lvc	_
-5	ਕਰੋ	_	VERB	_	_	0	root	0:root	_
+5	ਕਰੋ	_	VERB	_	_	0	root	0:root	SpaceAfter=No
 6	:	_	PUNCT	_	_	15	punct	15:punct	_
 7	ਪੇਟ	_	NOUN	_	_	15	obl	15:obl	_
 8	ਦੇ	_	ADP	_	_	7	case	7:case	_
@@ -1320,7 +1320,7 @@
 21	।	_	PUNCT	_	_	5	punct	5:punct	_
 
 # sent_id = misc_flores_6
-# trans = 28-year-old Vidal had joined Barça three seasons ago, from Sevilla.
+# trans = 28-year-old Vidal had joined Barça three seasons ago, from Sevilla.
 # text = 28 ਸਾਲਾ ਵਿਡਾਲ, ਸੇਵਿਲਾ ਤੋਂ ਤਿੰਨ ਸੀਜ਼ਨ ਪਹਿਲਾਂ ਬਰਾਕਾ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਈ।
 1	28	_	NUM	_	_	2	nummod	2:nummod	_
 2	ਸਾਲਾ	_	NOUN	_	_	3	nmod	3:nmod	_
@@ -5984,7 +5984,7 @@
 23	।	_	PUNCT	_	_	11	punct	11:punct	_
 
 # sent_id = news_tribune_cold_8
-# text = ਅੱਜ ਸਵੇਰੇ ਸੰਘਣੀ ਧੁੰਦ ਸੀ, ਜਿਸ ਕਾਰਨ ਦੂਰ ਦੂਰ ਤਕ ਸਪੱਸ਼ਟ ਦਿਖਾਈ ਨਹੀਂ ਸੀ ਦੇ ਰਿਹਾ।
+# text = ਅੱਜ ਸਵੇਰੇ ਸੰਘਣੀ ਧੁੰਦ ਸੀ, ਜਿਸ ਕਾਰਨ ਦੂਰ ਦੂਰ ਤਕ ਸਪੱਸ਼ਟ ਦਿਖਾਈ ਨਹੀਂ ਸੀ ਦੇ ਰਿਹਾ।
 1	ਅੱਜ	_	NOUN	_	_	5	obl	5:obl	_
 2	ਸਵੇਰੇ	_	NOUN	_	_	5	obl	5:obl	_
 3	ਸੰਘਣੀ	_	ADJ	_	_	4	amod	4:amod	_
@@ -5996,7 +5996,7 @@
 9	ਦੂਰ	_	ADV	_	_	16	obl	16:obl	_
 10	ਦੂਰ	_	ADV	_	_	9	compound:redup	9:compound:redup	_
 11	ਤਕ	_	ADP	_	_	9	case	9:case	_
-12	ਸਪੱਸ਼ਟ	_	ADJ	_	_	16	obl	16:obl	_
+12	ਸਪੱਸ਼ਟ	_	ADJ	_	_	16	obl	16:obl	_
 13	ਦਿਖਾਈ	_	NOUN	_	_	16	compound:lvc	16:compound:lvc	_
 14	ਨਹੀਂ	_	ADV	_	_	16	advmod	16:advmod	_
 15	ਸੀ	_	AUX	_	_	16	aux	16:aux	_
@@ -6016,7 +6016,7 @@
 8	।	_	PUNCT	_	_	6	punct	6:punct	_
 
 # sent_id = news_tribune_cold_10
-# text = ਦੁਪਹਿਰ ਵੇਲੇ ਕੁਝ ਧੁੱਪ ਵੀ ਨਿਕਲੀ, ਜਿਸ ਨਾਲ ਲੋਕਾਂ ਨੇ ਕੁਝ ਰਾਹਤ ਮਹਿਸੂਸ ਕੀਤੀ ਪਰ ਸੂਰਜ ਢਲਦਿਆਂ ਹੀ ਮੁੜ ਸੀਤ ਲਹਿਰ ਨੇ ਜ਼ੋਰ ਫੜ ਲਿਆ ਹੈ।
+# text = ਦੁਪਹਿਰ ਵੇਲੇ ਕੁਝ ਧੁੱਪ ਵੀ ਨਿਕਲੀ, ਜਿਸ ਨਾਲ ਲੋਕਾਂ ਨੇ ਕੁਝ ਰਾਹਤ ਮਹਿਸੂਸ ਕੀਤੀ ਪਰ ਸੂਰਜ ਢਲਦਿਆਂ ਹੀ ਮੁੜ ਸੀਤ ਲਹਿਰ ਨੇ ਜ਼ੋਰ ਫੜ ਲਿਆ ਹੈ।
 1	ਦੁਪਹਿਰ	_	NOUN	_	_	6	obl	6:obl	_
 2	ਵੇਲੇ	_	ADP	_	_	1	case	1:case	_
 3	ਕੁਝ	_	DET	_	_	4	det	4:det	_
@@ -6040,7 +6040,7 @@
 21	ਸੀਤ	_	NOUN	_	_	22	compound	22:compound	_
 22	ਲਹਿਰ	_	NOUN	_	_	25	nsubj	25:nsubj	_
 23	ਨੇ	_	ADP	_	_	22	case	22:case	_
-24	ਜ਼ੋਰ	_	NOUN	_	_	25	obj	25:obj	_
+24	ਜ਼ੋਰ	_	NOUN	_	_	25	obj	25:obj	_
 25	ਫੜ	_	VERB	_	_	6	conj	6:conj	_
 26	ਲਿਆ	_	VERB	_	_	25	compound:svc	25:compound:svc	_
 27	ਹੈ	_	AUX	_	_	25	aux	25:aux	SpaceAfter=No
@@ -6097,12 +6097,12 @@
 27	।	_	PUNCT	_	_	24	punct	24:punct	_
 
 # sent_id = news_tribune_cold_13
-# text = ਜਦੋਂਕਿ ਬਾਕੀ ਦੇ ਦਿਨ ਅੰਸ਼ਕ ਬੱਦਲਵਾਈ ਤੇ ਧੁੱਪ ਦੱਸੀ ਗਈ ਹੈ।
+# text = ਜਦੋਂਕਿ ਬਾਕੀ ਦੇ ਦਿਨ ਅੰਸ਼ਕ ਬੱਦਲਵਾਈ ਤੇ ਧੁੱਪ ਦੱਸੀ ਗਈ ਹੈ।
 1	ਜਦੋਂਕਿ	_	SCONJ	_	_	9	mark	9:mark	_
 2	ਬਾਕੀ	_	NOUN	_	_	4	nmod	4:nmod	_
 3	ਦੇ	_	ADP	_	_	2	case	2:case	_
 4	ਦਿਨ	_	NOUN	_	_	9	nsubj:pass	9:nsubj:pass	_
-5	ਅੰਸ਼ਕ	_	ADJ	_	_	6	amod	6:amod|8:amod	_
+5	ਅੰਸ਼ਕ	_	ADJ	_	_	6	amod	6:amod|8:amod	_
 6	ਬੱਦਲਵਾਈ	_	NOUN	_	_	9	xcomp	9:xcomp	_
 7	ਤੇ	_	CCONJ	_	_	8	cc	8:cc	_
 8	ਧੁੱਪ	_	NOUN	_	_	6	conj	6:conj|9:xcomp	_
@@ -6134,7 +6134,7 @@
 19	।	_	PUNCT	_	_	18	punct	18:punct	_
 
 # sent_id = news_tribune_cold_15
-# text = ਲੋਹੜੀ ਦਾ ਤਿਓਹਾਰ ਨੇੜੇ ਹੋਣ ਕਾਰਨ ਗੁੱਡੀਆਂ ਤੇ ਪਤੰਗਾਂ ਉਡਾਉਣ ਦੇ ਸ਼ੌਕੀਨ ਅਰਦਾਸਾਂ ਕਰ ਰਹੇ ਹਨ ਕਿ ਲੋਹੜੀ ਵਾਲੇ ਦਿਨ ਧੁੰਦ ਨਾ ਪਵੇ ਅਤੇ ਮੌਸਮ ਸਾਫ ਰਹੇ।
+# text = ਲੋਹੜੀ ਦਾ ਤਿਓਹਾਰ ਨੇੜੇ ਹੋਣ ਕਾਰਨ ਗੁੱਡੀਆਂ ਤੇ ਪਤੰਗਾਂ ਉਡਾਉਣ ਦੇ ਸ਼ੌਕੀਨ ਅਰਦਾਸਾਂ ਕਰ ਰਹੇ ਹਨ ਕਿ ਲੋਹੜੀ ਵਾਲੇ ਦਿਨ ਧੁੰਦ ਨਾ ਪਵੇ ਅਤੇ ਮੌਸਮ ਸਾਫ ਰਹੇ।
 1	ਲੋਹੜੀ	_	PROPN	_	_	3	nmod	3:nmod	_
 2	ਦਾ	_	ADP	_	_	1	case	1:case	_
 3	ਤਿਓਹਾਰ	_	NOUN	_	_	5	nsubj	5:nsubj	_
@@ -6146,7 +6146,7 @@
 9	ਪਤੰਗਾਂ	_	NOUN	_	_	7	conj	7:conj|10:obj	_
 10	ਉਡਾਉਣ	_	VERB	_	_	12	acl	12:acl	_
 11	ਦੇ	_	ADP	_	_	10	mark	10:mark	_
-12	ਸ਼ੌਕੀਨ	_	NOUN	_	_	14	nsubj	10:nsubj|14:nsubj	_
+12	ਸ਼ੌਕੀਨ	_	NOUN	_	_	14	nsubj	10:nsubj|14:nsubj	_
 13	ਅਰਦਾਸਾਂ	_	NOUN	_	_	14	compound:lvc	14:compound:lvc	_
 14	ਕਰ	_	VERB	_	_	0	root	0:root	_
 15	ਰਹੇ	_	AUX	_	_	14	aux	14:aux	_
