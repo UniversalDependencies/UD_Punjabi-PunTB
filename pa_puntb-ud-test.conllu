@@ -6943,3 +6943,225 @@
 23	ਮੌਜੂਦ	_	ADJ	_	_	9	conj	9:conj	_
 24	ਹਨ	_	AUX	_	_	23	cop	23:cop	SpaceAfter=No
 25	।	_	PUNCT	_	_	9	punct	9:punct	_
+
+# sent_id = editorial_rationalism_4
+# text = ਫਿਰ ਵੀ ਦੁਨੀਆਂ ਦੀਆਂ 99% ਠੱਗੀਆਂ, ਚੋਰੀਆਂ, ਡਾਕੇ ਬਿਮਾਰੀਆਂ ਅਤੇ ਬਲਾਤਕਾਰ ਇਸ ਦੇਸ਼ ਵਿੱਚ ਹੀ ਹੁੰਦੇ ਹਨ।
+1	ਫਿਰ	_	ADV	_	_	15	advmod	_	_
+2	ਵੀ	_	PART	_	_	1	discourse	_	_
+3	ਦੁਨੀਆਂ	_	NOUN	_	_	6	nmod	_	_
+4	ਦੀਆਂ	_	ADP	_	_	3	case	_	_
+5	99%	99	NUM	_	_	6	nummod	_	_
+6	ਠੱਗੀਆਂ	_	NOUN	_	_	15	nsubj	_	SpaceAfter=No
+7	,	_	PUNCT	_	_	8	punct	_	_
+8	ਚੋਰੀਆਂ	_	NOUN	_	_	6	conj	_	SpaceAfter=No
+9	,	_	PUNCT	_	_	11	punct	_	_
+10	ਡਾਕੇ	_	ADJ	_	_	11	amod	_	_
+11	ਬਿਮਾਰੀਆਂ	_	NOUN	_	_	6	conj	_	_
+12	ਅਤੇ	_	CCONJ	_	_	13	cc	_	_
+13	ਬਲਾਤਕਾਰ	_	NOUN	_	_	6	conj	_	_
+14	ਇਸ	_	DET	_	_	15	det	_	_
+15	ਦੇਸ਼	ਦੇਸ਼	NOUN	_	_	0	root	_	_
+16	ਵਿੱਚ	_	ADP	_	_	15	case	_	_
+17	ਹੀ	_	PART	_	_	15	discourse	_	_
+18	ਹੁੰਦੇ	_	AUX	_	_	15	cop	_	_
+19	ਹਨ	_	AUX	_	_	15	aux	_	SpaceAfter=No
+20	।	_	PUNCT	_	_	15	punct	_	_
+
+# sent_id = editorial_rationalism_5
+# text = ਜਿਸਦਾ ਸਿੱਟਾ ਇਹ ਹੈ ਕਿ ਧਾਰਮਿਕ ਵਿਅਕਤੀ ਕਦੇ ਵੀ ਸਾਫ ਸੁਥਰੀ ਦਿੱਖ ਵਾਲੇ ਨਹੀਂ ਹੋ ਸਕਦੇ।
+1	ਜਿਸਦਾ	_	PRON	_	_	2	nsubj	2:nsubj	_
+2	ਸਿੱਟਾ	_	NOUN	_	_	3	nsubj	3:nsubj	_
+3	ਇਹ	_	PRON	_	_	0	root	0:root	_
+4	ਹੈ	_	AUX	_	_	3	cop	3:cop	_
+5	ਕਿ	_	SCONJ	_	_	12	mark	12:mark	_
+6	ਧਾਰਮਿਕ	_	ADJ	_	_	7	amod	7:amod	_
+7	ਵਿਅਕਤੀ	_	NOUN	_	_	12	nsubj	12:nsubj	_
+8	ਕਦੇ	_	ADV	_	_	12	advmod	12:advmod	_
+9	ਵੀ	_	PART	_	_	8	discourse	8:discourse	_
+10	ਸਾਫ	_	ADJ	_	_	11	amod	11:amod	_
+11	ਸੁਥਰੀ	_	NOUN	_	_	12	obj	12:obj	_
+12	ਦਿੱਖ	_	VERB	_	_	3	acl	3:acl	_
+13	ਵਾਲੇ	_	ADP	_	_	12	mark	12:mark	_
+14	ਨਹੀਂ	_	ADV	_	_	12	advmod	12:advmod	_
+15	ਹੋ	_	AUX	_	_	12	cop	12:cop	_
+16	ਸਕਦੇ	_	VERB	_	_	12	compound:svc	12:compound:svc	SpaceAfter=No
+17	।	_	PUNCT	_	_	3	punct	3:punct	_
+
+# sent_id = editorial_rationalism_6
+# text = ਪਰ ਅਫਸੋਸ ਇਸ ਗੱਲ ਦਾ ਹੁੰਦਾ ਹੈ ਕਿ ਉਹਨਾਂ ਧਾਰਮਿਕ ਵਿਅਕਤੀਆਂ ਦੀਆਂ ਪ੍ਰਛਾਈਆਂ ਤਰਕਸ਼ੀਲਾਂ ਤੇ ਵੀ ਪੈ ਰਹੀਆਂ ਹਨ।
+1	ਪਰ	_	CCONJ	_	_	4	cc	4:cc	_
+2	ਅਫਸੋਸ	_	NOUN	_	_	4	nsubj	4:nsubj	_
+3	ਇਸ	_	DET	_	_	4	det	4:det	_
+4	ਗੱਲ	_	NOUN	_	_	0	root	0:root	_
+5	ਦਾ	_	ADP	_	_	4	case	4:case	_
+6	ਹੁੰਦਾ	_	AUX	_	_	4	cop	4:cop	_
+7	ਹੈ	_	AUX	_	_	4	aux	4:aux	_
+8	ਕਿ	_	SCONJ	_	_	17	mark	17:mark	_
+9	ਉਹਨਾਂ	_	DET	_	_	11	det	11:det	_
+10	ਧਾਰਮਿਕ	_	ADJ	_	_	11	amod	11:amod	_
+11	ਵਿਅਕਤੀਆਂ	_	NOUN	_	_	13	nmod	13:nmod	_
+12	ਦੀਆਂ	_	ADP	_	_	11	case	11:case	_
+13	ਪ੍ਰਛਾਈਆਂ	_	NOUN	_	_	17	nsubj	17:nsubj	_
+14	ਤਰਕਸ਼ੀਲਾਂ	_	NOUN	_	_	17	obl	17:obl	_
+15	ਤੇ	_	ADP	_	_	14	case	14:case	_
+16	ਵੀ	_	PART	_	_	14	discourse	14:discourse	_
+17	ਪੈ	_	VERB	_	_	4	acl	4:acl	_
+18	ਰਹੀਆਂ	_	AUX	_	_	17	aux	17:aux	_
+19	ਹਨ	_	AUX	_	_	17	aux	17:aux	SpaceAfter=No
+20	।	_	PUNCT	_	_	4	punct	4:punct	_
+
+# sent_id = editorial_rationalism_7
+# text = ਜੇ ਧਾਰਮਿਕ ਵਿਅਕਤੀਆਂ ਵਾਗੂੰ ਹੀ ਤਰਕਸ਼ੀਲ ਵੀ ਬੇਈਮਾਨ, ਝੂਠੇ, ਧੋਖੇਬਾਜ਼ ਅਤੇ ਪਾਖੰਡੀ ਹੋਣਗੇ ਤਾਂ ਕੀ ਉਹ ਇੱਕ ਸਮਾਜਿਕ ਤਬਦੀਲੀ ਦੇ ਦੌਰ ਵਿੱਚ ਕੋਈ ਯੋਗਦਾਨ ਪਾ ਸਕਣਗੇ ?
+1	ਜੇ	_	SCONJ	_	_	8	nsubj	8:nsubj	_
+2	ਧਾਰਮਿਕ	_	ADJ	_	_	3	amod	3:amod	_
+3	ਵਿਅਕਤੀਆਂ	_	NOUN	_	_	8	nsubj	8:nsubj	_
+4	ਵਾਗੂੰ	_	DET	_	_	6	det	6:det	_
+5	ਹੀ	_	PART	_	_	4	discourse	4:discourse	_
+6	ਤਰਕਸ਼ੀਲ	_	NOUN	_	_	8	obl	8:obl	_
+7	ਵੀ	_	PART	_	_	6	discourse	6:discourse	_
+8	ਬੇਈਮਾਨ	_	NOUN	_	_	27	advcl	27:advcl	SpaceAfter=No
+9	,	_	PUNCT	_	_	10	punct	10:punct	_
+10	ਝੂਠੇ	_	NOUN	_	_	8	conj	8:conj	SpaceAfter=No
+11	,	_	PUNCT	_	_	12	punct	12:punct	_
+12	ਧੋਖੇਬਾਜ਼	_	NOUN	_	_	8	conj	8:conj	_
+13	ਅਤੇ	_	CCONJ	_	_	14	cc	14:cc	_
+14	ਪਾਖੰਡੀ	_	VERB	_	_	8	conj	8:conj	_
+15	ਹੋਣਗੇ	_	AUX	_	_	8	cop	8:cop	_
+16	ਤਾਂ	_	ADV	_	_	27	advmod	27:advmod	_
+17	ਕੀ	_	PART	_	_	27	discourse	27:discourse	_
+18	ਉਹ	_	PRON	_	_	27	nsubj	27:nsubj	_
+19	ਇੱਕ	_	NUM	_	_	21	nummod	21:nummod	_
+20	ਸਮਾਜਿਕ	_	ADJ	_	_	21	amod	21:amod	_
+21	ਤਬਦੀਲੀ	_	NOUN	_	_	23	nmod	23:nmod	_
+22	ਦੇ	_	ADP	_	_	21	case	21:case	_
+23	ਦੌਰ	_	NOUN	_	_	27	obl	27:obl	_
+24	ਵਿੱਚ	_	ADP	_	_	23	case	23:case	_
+25	ਕੋਈ	_	DET	_	_	26	det	26:det	_
+26	ਯੋਗਦਾਨ	_	NOUN	_	_	27	obj	27:obj	_
+27	ਪਾ	_	VERB	_	_	0	root	0:root	_
+28	ਸਕਣਗੇ	_	VERB	_	_	27	compound:svc	27:compound:svc	_
+29	?	_	PUNCT	_	_	27	punct	27:punct	SpacesAfter=\n
+
+# sent_id = editorial_rationalism_8
+# text = ਨਹੀਂ ਅਜਿਹਾ ਨਹੀਂ ਹੋਵੇਗਾ।
+1	ਨਹੀਂ	_	INTJ	_	_	4	discourse	4:discourse	_
+2	ਅਜਿਹਾ	_	PRON	_	_	4	nsubj	4:nsubj	_
+3	ਨਹੀਂ	_	ADV	_	_	4	advmod	4:advmod	_
+4	ਹੋਵੇਗਾ	_	VERB	_	_	0	root	0:root	SpaceAfter=No
+5	।	_	PUNCT	_	_	4	punct	4:punct	_
+
+# sent_id = editorial_rationalism_9
+# text = ਸੋ ਜੇ ਅਸੀਂ ਤਰਕਸ਼ੀਲ ਇਸ ਸਮਾਜ ਨੂੰ ਬਦਲਣਾ ਲੋਚਦੇ ਹਾਂ ਤਾਂ ਇਸ ਲਈ ਸਾਨੂੰ ਬਹੁਤ ਸਾਰੇ ਆਦਰਸ਼ ਅਜਿਹੇ ਅਪਣਾਉਣੇ ਪੈਣਗੇ ਜਿਹੜੇ ਸਮਾਜ ਨੂੰ ਬਦਲਣ ਲਈ ਅਤੀ ਜ਼ਰੂਰੀ ਹਨ।
+1	ਸੋ	_	ADJ	_	_	20	advmod	20:advmod	_
+2	ਜੇ	_	SCONJ	_	_	9	mark	9:mark	_
+3	ਅਸੀਂ	_	PRON	_	_	9	nsubj	9:nsubj	_
+4	ਤਰਕਸ਼ੀਲ	_	NOUN	_	_	3	appos	3:appos	_
+5	ਇਸ	_	DET	_	_	6	det	6:det	_
+6	ਸਮਾਜ	_	NOUN	_	_	8	obj	8:obj	_
+7	ਨੂੰ	_	ADP	_	_	6	case	6:case	_
+8	ਬਦਲਣਾ	_	VERB	_	_	9	xcomp	9:xcomp	_
+9	ਲੋਚਦੇ	_	VERB	_	_	20	advcl	20:advcl	_
+10	ਹਾਂ	_	AUX	_	_	9	aux	9:aux	_
+11	ਤਾਂ	_	ADV	_	_	20	advmod	20:advmod	_
+12	ਇਸ	_	PRON	_	_	20	obl	20:obl	_
+13	ਲਈ	_	ADP	_	_	12	case	12:case	_
+14	ਸਾਨੂੰ	_	PRON	_	_	20	nsubj	20:nsubj	_
+15	ਬਹੁਤ	_	DET	_	_	17	det	17:det	_
+16	ਸਾਰੇ	_	DET	_	_	17	det	17:det	_
+17	ਆਦਰਸ਼	ਆਦਰਸ਼	NOUN	_	_	19	obj	19:obj	_
+18	ਅਜਿਹੇ	_	DET	_	_	17	det	17:det	_
+19	ਅਪਣਾਉਣੇ	_	VERB	_	_	20	xcomp	20:xcomp	_
+20	ਪੈਣਗੇ	_	VERB	_	_	0	root	0:root	_
+21	ਜਿਹੜੇ	_	PRON	_	_	27	nsubj	17:ref|27:nsubj	_
+22	ਸਮਾਜ	_	NOUN	_	_	24	obj	24:obj	_
+23	ਨੂੰ	_	ADP	_	_	22	case	22:case	_
+24	ਬਦਲਣ	_	VERB	_	_	27	advcl	27:advcl	_
+25	ਲਈ	_	ADP	_	_	24	mark	24:mark	_
+26	ਅਤੀ	_	ADV	_	_	27	advmod	27:advmod	_
+27	ਜ਼ਰੂਰੀ	_	ADJ	_	_	17	acl:relcl	17:acl:relcl	_
+28	ਹਨ	_	AUX	_	_	27	cop	27:cop	SpaceAfter=No
+29	।	_	PUNCT	_	_	20	punct	20:punct	_
+
+# sent_id = editorial_rationalism_10
+# text = ਸੋ ਮੇਰੀ ਤਰਕਸ਼ੀਲ ਵੀਰਾਂ ਨੂੰ ਸਲਾਹ ਹੈ ਕਿ ਤਰਕਸ਼ੀਲ ਲਹਿਰ ਵਿੱਚ ਅਜਿਹੇ ਅਨਸਰਾਂ ਨੂੰ ਛੇਕ ਦੇਣਾ ਚਾਹੀਦਾ ਹੈ ਜਿਹੜੇ ਆਪਣੀ ਨਿੱਤ ਜੀਵਨ ਵਿੱਚ ਵਧੀਆਂ ਕਦਰਾਂ ਕੀਮਤਾਂ ਨਹੀਂ ਅਪਣਾਉਂਦੇ।
+1	ਸੋ	_	ADV	_	_	6	advmod	6:advmod	_
+2	ਮੇਰੀ	_	PRON	_	_	4	nmod	4:nmod	_
+3	ਤਰਕਸ਼ੀਲ	_	ADJ	_	_	4	amod	4:amod	_
+4	ਵੀਰਾਂ	_	NOUN	_	_	6	nsubj	6:nsubj	_
+5	ਨੂੰ	_	ADP	_	_	4	case	4:case	_
+6	ਸਲਾਹ	_	NOUN	_	_	0	root	0:root	_
+7	ਹੈ	_	AUX	_	_	6	cop	6:cop	_
+8	ਕਿ	_	SCONJ	_	_	16	mark	16:mark	_
+9	ਤਰਕਸ਼ੀਲ	_	ADJ	_	_	10	amod	10:amod	_
+10	ਲਹਿਰ	_	NOUN	_	_	16	obl	16:obl	_
+11	ਵਿੱਚ	_	ADP	_	_	10	case	10:case	_
+12	ਅਜਿਹੇ	_	DET	_	_	13	det	13:det	_
+13	ਅਨਸਰਾਂ	_	NOUN	_	_	16	obj	16:obj	_
+14	ਨੂੰ	_	ADP	_	_	13	case	13:case	_
+15	ਛੇਕ	_	NOUN	_	_	16	compound:lvc	16:compound:lvc	_
+16	ਦੇਣਾ	_	VERB	_	_	6	acl	6:acl	_
+17	ਚਾਹੀਦਾ	_	VERB	_	_	16	compound:svc	16:compound:svc	_
+18	ਹੈ	_	AUX	_	_	16	aux	16:aux	_
+19	ਜਿਹੜੇ	_	PRON	_	_	28	nsubj	13:ref|28:nsubj	_
+20	ਆਪਣੀ	_	PRON	_	_	22	nmod	22:nmod	_
+21	ਨਿੱਤ	_	ADJ	_	_	22	amod	22:amod	_
+22	ਜੀਵਨ	_	NOUN	_	_	28	obl	28:obl	_
+23	ਵਿੱਚ	_	ADP	_	_	22	case	22:case	_
+24	ਵਧੀਆਂ	_	ADJ	_	_	26	amod	26:amod	_
+25	ਕਦਰਾਂ	_	NOUN	_	_	26	compound	26:compound	_
+26	ਕੀਮਤਾਂ	_	NOUN	_	_	28	obj	28:obj	_
+27	ਨਹੀਂ	_	ADV	_	_	28	advmod	28:advmod	_
+28	ਅਪਣਾਉਂਦੇ	_	VERB	_	_	13	acl:relcl	13:acl:relcl	SpaceAfter=No
+29	।	_	PUNCT	_	_	6	punct	6:punct	_
+
+# sent_id = editorial_rationalism_11
+# text = ਜੇ ਸਾਡੇ ਕੋਲ ਵਧੀਆ ਕਦਰਾਂ ਕੀਮਤਾਂ ਵਾਲੇ ਘੱਟ ਵਿਅਕਤੀਆਂ ਦੀ ਟੀਮ ਵੀ ਹੋਵੇਗੀ ਤਾਂ ਵੀ ਅਸੀਂ ਆਪਣੀ ਲੜਾਈ ਨੂੰ ਜਿੱਤ ਤੱਕ ਲਿਜਾ ਸਕਾਂਗੇ।
+1	ਜੇ	_	SCONJ	_	_	11	mark	11:mark	_
+2	ਸਾਡੇ	_	PRON	_	_	11	nsubj	11:nsubj	_
+3	ਕੋਲ	_	ADP	_	_	2	case	2:case	_
+4	ਵਧੀਆ	_	ADJ	_	_	6	amod	6:amod	_
+5	ਕਦਰਾਂ	_	NOUN	_	_	6	compound	6:compound	_
+6	ਕੀਮਤਾਂ	_	NOUN	_	_	9	nmod	9:nmod	_
+7	ਵਾਲੇ	_	ADP	_	_	6	case	6:case	_
+8	ਘੱਟ	_	ADJ	_	_	9	amod	9:amod	_
+9	ਵਿਅਕਤੀਆਂ	_	NOUN	_	_	11	nmod	11:nmod	_
+10	ਦੀ	_	ADP	_	_	9	case	9:case	_
+11	ਟੀਮ	_	NOUN	_	_	22	advcl	22:advcl	_
+12	ਵੀ	_	PART	_	_	11	discourse	11:discourse	_
+13	ਹੋਵੇਗੀ	_	VERB	_	_	11	cop	11:cop	_
+14	ਤਾਂ	_	ADV	_	_	22	advmod	22:advmod	_
+15	ਵੀ	_	PART	_	_	14	discourse	14:discourse	_
+16	ਅਸੀਂ	_	PRON	_	_	22	nsubj	22:nsubj	_
+17	ਆਪਣੀ	_	PRON	_	_	18	nmod	18:nmod	_
+18	ਲੜਾਈ	_	NOUN	_	_	22	obj	22:obj	_
+19	ਨੂੰ	_	ADP	_	_	18	case	18:case	_
+20	ਜਿੱਤ	_	NOUN	_	_	22	obl	22:obl	_
+21	ਤੱਕ	_	ADP	_	_	20	case	20:case	_
+22	ਲਿਜਾ	_	VERB	_	_	0	root	0:root	_
+23	ਸਕਾਂਗੇ	_	VERB	_	_	22	compound:svc	22:compound:svc	SpaceAfter=No
+24	।	_	PUNCT	_	_	22	punct	22:punct	SpacesAfter=\n
+
+# sent_id = editorial_rationalism_12
+# text = ਪਰ ਜੇ ਸਾਡੇ ਕੋਲ ਵੱਡੀ ਫੌਜ ਵੀ ਹੋਵੇਗੀ ਪਰ ਉਹ ਵਧੀਆ ਕਦਰਾਂ ਕੀਮਤਾਂ ਵਾਲੀ ਨਹੀਂ ਹੋਵੇਗੀ ਤਾਂ ਸਾਡੀ ਹਾਰ ਲਾਜ਼ਮੀ ਹੈ।
+1	ਪਰ	_	CCONJ	_	_	6	cc	6:cc	_
+2	ਜੇ	_	SCONJ	_	_	6	mark	6:mark	_
+3	ਸਾਡੇ	_	PRON	_	_	6	nsubj	6:nsubj	_
+4	ਕੋਲ	_	ADP	_	_	3	case	3:case	_
+5	ਵੱਡੀ	_	ADJ	_	_	6	amod	6:amod	_
+6	ਫੌਜ	_	NOUN	_	_	20	advcl	20:advcl	_
+7	ਵੀ	_	PART	_	_	6	discourse	6:discourse	_
+8	ਹੋਵੇਗੀ	_	AUX	_	_	6	cop	6:cop	_
+9	ਪਰ	_	CCONJ	_	_	13	cc	13:cc	_
+10	ਉਹ	_	DET	_	_	13	nsubj	13:nsubj	_
+11	ਵਧੀਆ	_	ADJ	_	_	13	amod	13:amod	_
+12	ਕਦਰਾਂ	_	NOUN	_	_	13	compound	13:compound	_
+13	ਕੀਮਤਾਂ	_	NOUN	_	_	6	conj	6:conj	_
+14	ਵਾਲੀ	_	ADP	_	_	13	case	13:case	_
+15	ਨਹੀਂ	_	ADV	_	_	13	advmod	13:advmod	_
+16	ਹੋਵੇਗੀ	_	AUX	_	_	13	cop	13:cop	_
+17	ਤਾਂ	_	ADV	_	_	20	advmod	20:advmod	_
+18	ਸਾਡੀ	_	PRON	_	_	19	nmod	19:nmod	_
+19	ਹਾਰ	_	NOUN	_	_	20	nsubj	20:nsubj	_
+20	ਲਾਜ਼ਮੀ	_	VERB	_	_	0	root	0:root	_
+21	ਹੈ	_	AUX	_	_	20	cop	20:cop	SpaceAfter=No
+22	।	_	PUNCT	_	_	20	punct	20:punct	SpacesAfter=\n

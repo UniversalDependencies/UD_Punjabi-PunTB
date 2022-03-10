@@ -13,10 +13,11 @@ Currently the treebank is comprised of 280 sentences, broken down into:
   - [Punjabi Tribune](https://www.punjabitribuneonline.com/): 1 article, 18 sentences
 - 33 sentences from blogs.
   - [Punjabi Galbaat](http://punjabigalbaat.blogspot.com/): 1 article, 33 sentences
-- 68 sentences from editorials.
+- 80 sentences from editorials.
   - [Trolley Times](https://www.trolleytimes.online/): 1 article, 68 sentences
-- 18 sentences from non-fiction books.
-  - [ਪੰਜਾਬ ਦੇ ਹੀਰੇ (Diamonds of Punjab)](https://pa.wikisource.org/wiki/%E0%A8%AA%E0%A9%B0%E0%A8%9C%E0%A8%BE%E0%A8%AC_%E0%A8%A6%E0%A9%87_%E0%A8%B9%E0%A9%80%E0%A8%B0%E0%A9%87): 18 sentences
+  - [Vigiyan Joti](http://www7.50megs.com/punjabi/): 1 article, 12 sentences
+- 26 sentences from non-fiction books.
+  - [ਪੰਜਾਬ ਦੇ ਹੀਰੇ (Diamonds of Punjab)](https://pa.wikisource.org/wiki/%E0%A8%AA%E0%A9%B0%E0%A8%9C%E0%A8%BE%E0%A8%AC_%E0%A8%A6%E0%A9%87_%E0%A8%B9%E0%A9%80%E0%A8%B0%E0%A9%87): 26 sentences
 
 Only POS tags and dependency relations have been annotated so far. Automatic or semi-automatic methods will eventually be employed for morphological analysis and lemmatisation.
 
