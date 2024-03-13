@@ -6908,8 +6908,8 @@
 1	ਸੰਪਾਦਕੀ	_	NOUN	_	_	0	root	0:root	_
 
 # sent_id = editorial_rationalism_2
-# text = ਤਰਕਸ਼ੀਲਾਂ ਦਾ ਕਿਰਦਾਰ ਕਿਹੋ ਜਿਹਾ ਹੋਵੇ
-1	ਤਰਕਸ਼ੀਲਾਂ	_	NOUN	_	_	3	nmod	3:nmod	_
+# text = ਤਰਕਸ਼ੀਲਾਂ ਦਾ ਕਿਰਦਾਰ ਕਿਹੋ ਜਿਹਾ ਹੋਵੇ
+1	ਤਰਕਸ਼ੀਲਾਂ	_	NOUN	_	_	3	nmod	3:nmod	_
 2	ਦਾ	_	ADP	_	_	1	case	1:case	_
 3	ਕਿਰਦਾਰ	_	NOUN	_	_	4	nsubj	4:nsubj	_
 4	ਕਿਹੋ	_	PRON	_	_	0	root	0:root	_
@@ -6917,7 +6917,7 @@
 6	ਹੋਵੇ	_	VERB	_	_	4	cop	4:cop	_
 
 # sent_id = editorial_rationalism_3
-# text = ਅੱਜ ਪੂਰੇ ਭਾਰਤ ਵਿੱਚ ਧਾਰਮਿਕ ਵਿਅਕਤੀਆਂ ਦੀ ਗਿਣਤੀ 99% ਹੈ ਅਤੇ ਦੁਨੀਆਂ ਦੇ ਬਹੁਤੇ ਧਰਮ ਅਤੇ ਦੇਵੀ ਦੇਵਤੇ ਇਸ ਦੇਸ਼ ਵਿੱਚ ਹੀ ਮੌਜੂਦ ਹਨ।
+# text = ਅੱਜ ਪੂਰੇ ਭਾਰਤ ਵਿੱਚ ਧਾਰਮਿਕ ਵਿਅਕਤੀਆਂ ਦੀ ਗਿਣਤੀ 99% ਹੈ ਅਤੇ ਦੁਨੀਆਂ ਦੇ ਬਹੁਤੇ ਧਰਮ ਅਤੇ ਦੇਵੀ ਦੇਵਤੇ ਇਸ ਦੇਸ਼ ਵਿੱਚ ਹੀ ਮੌਜੂਦ ਹਨ।
 1	ਅੱਜ	_	NOUN	_	_	9	obl	9:obl	_
 2	ਪੂਰੇ	_	ADJ	_	_	3	amod	3:amod	_
 3	ਭਾਰਤ	_	NOUN	_	_	9	obl	9:obl	_
@@ -6945,7 +6945,7 @@
 25	।	_	PUNCT	_	_	9	punct	9:punct	_
 
 # sent_id = editorial_rationalism_4
-# text = ਫਿਰ ਵੀ ਦੁਨੀਆਂ ਦੀਆਂ 99% ਠੱਗੀਆਂ, ਚੋਰੀਆਂ, ਡਾਕੇ ਬਿਮਾਰੀਆਂ ਅਤੇ ਬਲਾਤਕਾਰ ਇਸ ਦੇਸ਼ ਵਿੱਚ ਹੀ ਹੁੰਦੇ ਹਨ।
+# text = ਫਿਰ ਵੀ ਦੁਨੀਆਂ ਦੀਆਂ 99% ਠੱਗੀਆਂ, ਚੋਰੀਆਂ, ਡਾਕੇ ਬਿਮਾਰੀਆਂ ਅਤੇ ਬਲਾਤਕਾਰ ਇਸ ਦੇਸ਼ ਵਿੱਚ ਹੀ ਹੁੰਦੇ ਹਨ।
 1	ਫਿਰ	_	ADV	_	_	15	advmod	_	_
 2	ਵੀ	_	PART	_	_	1	discourse	_	_
 3	ਦੁਨੀਆਂ	_	NOUN	_	_	6	nmod	_	_
@@ -6960,7 +6960,7 @@
 12	ਅਤੇ	_	CCONJ	_	_	13	cc	_	_
 13	ਬਲਾਤਕਾਰ	_	NOUN	_	_	6	conj	_	_
 14	ਇਸ	_	DET	_	_	15	det	_	_
-15	ਦੇਸ਼	ਦੇਸ਼	NOUN	_	_	0	root	_	_
+15	ਦੇਸ਼	ਦੇਸ਼	NOUN	_	_	0	root	_	_
 16	ਵਿੱਚ	_	ADP	_	_	15	case	_	_
 17	ਹੀ	_	PART	_	_	15	discourse	_	_
 18	ਹੁੰਦੇ	_	AUX	_	_	15	cop	_	_
@@ -6988,7 +6988,7 @@
 17	।	_	PUNCT	_	_	3	punct	3:punct	_
 
 # sent_id = editorial_rationalism_6
-# text = ਪਰ ਅਫਸੋਸ ਇਸ ਗੱਲ ਦਾ ਹੁੰਦਾ ਹੈ ਕਿ ਉਹਨਾਂ ਧਾਰਮਿਕ ਵਿਅਕਤੀਆਂ ਦੀਆਂ ਪ੍ਰਛਾਈਆਂ ਤਰਕਸ਼ੀਲਾਂ ਤੇ ਵੀ ਪੈ ਰਹੀਆਂ ਹਨ।
+# text = ਪਰ ਅਫਸੋਸ ਇਸ ਗੱਲ ਦਾ ਹੁੰਦਾ ਹੈ ਕਿ ਉਹਨਾਂ ਧਾਰਮਿਕ ਵਿਅਕਤੀਆਂ ਦੀਆਂ ਪ੍ਰਛਾਈਆਂ ਤਰਕਸ਼ੀਲਾਂ ਤੇ ਵੀ ਪੈ ਰਹੀਆਂ ਹਨ।
 1	ਪਰ	_	CCONJ	_	_	4	cc	4:cc	_
 2	ਅਫਸੋਸ	_	NOUN	_	_	4	nsubj	4:nsubj	_
 3	ਇਸ	_	DET	_	_	4	det	4:det	_
@@ -7002,7 +7002,7 @@
 11	ਵਿਅਕਤੀਆਂ	_	NOUN	_	_	13	nmod	13:nmod	_
 12	ਦੀਆਂ	_	ADP	_	_	11	case	11:case	_
 13	ਪ੍ਰਛਾਈਆਂ	_	NOUN	_	_	17	nsubj	17:nsubj	_
-14	ਤਰਕਸ਼ੀਲਾਂ	_	NOUN	_	_	17	obl	17:obl	_
+14	ਤਰਕਸ਼ੀਲਾਂ	_	NOUN	_	_	17	obl	17:obl	_
 15	ਤੇ	_	ADP	_	_	14	case	14:case	_
 16	ਵੀ	_	PART	_	_	14	discourse	14:discourse	_
 17	ਪੈ	_	VERB	_	_	4	acl	4:acl	_
@@ -7051,11 +7051,11 @@
 5	।	_	PUNCT	_	_	4	punct	4:punct	_
 
 # sent_id = editorial_rationalism_9
-# text = ਸੋ ਜੇ ਅਸੀਂ ਤਰਕਸ਼ੀਲ ਇਸ ਸਮਾਜ ਨੂੰ ਬਦਲਣਾ ਲੋਚਦੇ ਹਾਂ ਤਾਂ ਇਸ ਲਈ ਸਾਨੂੰ ਬਹੁਤ ਸਾਰੇ ਆਦਰਸ਼ ਅਜਿਹੇ ਅਪਣਾਉਣੇ ਪੈਣਗੇ ਜਿਹੜੇ ਸਮਾਜ ਨੂੰ ਬਦਲਣ ਲਈ ਅਤੀ ਜ਼ਰੂਰੀ ਹਨ।
+# text = ਸੋ ਜੇ ਅਸੀਂ ਤਰਕਸ਼ੀਲ ਇਸ ਸਮਾਜ ਨੂੰ ਬਦਲਣਾ ਲੋਚਦੇ ਹਾਂ ਤਾਂ ਇਸ ਲਈ ਸਾਨੂੰ ਬਹੁਤ ਸਾਰੇ ਆਦਰਸ਼ ਅਜਿਹੇ ਅਪਣਾਉਣੇ ਪੈਣਗੇ ਜਿਹੜੇ ਸਮਾਜ ਨੂੰ ਬਦਲਣ ਲਈ ਅਤੀ ਜ਼ਰੂਰੀ ਹਨ।
 1	ਸੋ	_	ADJ	_	_	20	advmod	20:advmod	_
 2	ਜੇ	_	SCONJ	_	_	9	mark	9:mark	_
 3	ਅਸੀਂ	_	PRON	_	_	9	nsubj	9:nsubj	_
-4	ਤਰਕਸ਼ੀਲ	_	NOUN	_	_	3	appos	3:appos	_
+4	ਤਰਕਸ਼ੀਲ	_	NOUN	_	_	3	appos	3:appos	_
 5	ਇਸ	_	DET	_	_	6	det	6:det	_
 6	ਸਮਾਜ	_	NOUN	_	_	8	obj	8:obj	_
 7	ਨੂੰ	_	ADP	_	_	6	case	6:case	_
@@ -7068,7 +7068,7 @@
 14	ਸਾਨੂੰ	_	PRON	_	_	20	nsubj	20:nsubj	_
 15	ਬਹੁਤ	_	DET	_	_	17	det	17:det	_
 16	ਸਾਰੇ	_	DET	_	_	17	det	17:det	_
-17	ਆਦਰਸ਼	ਆਦਰਸ਼	NOUN	_	_	19	obj	19:obj	_
+17	ਆਦਰਸ਼	ਆਦਰਸ਼	NOUN	_	_	19	obj	19:obj	_
 18	ਅਜਿਹੇ	_	DET	_	_	17	det	17:det	_
 19	ਅਪਣਾਉਣੇ	_	VERB	_	_	20	xcomp	20:xcomp	_
 20	ਪੈਣਗੇ	_	VERB	_	_	0	root	0:root	_
@@ -7078,21 +7078,21 @@
 24	ਬਦਲਣ	_	VERB	_	_	27	advcl	27:advcl	_
 25	ਲਈ	_	ADP	_	_	24	mark	24:mark	_
 26	ਅਤੀ	_	ADV	_	_	27	advmod	27:advmod	_
-27	ਜ਼ਰੂਰੀ	_	ADJ	_	_	17	acl:relcl	17:acl:relcl	_
+27	ਜ਼ਰੂਰੀ	_	ADJ	_	_	17	acl:relcl	17:acl:relcl	_
 28	ਹਨ	_	AUX	_	_	27	cop	27:cop	SpaceAfter=No
 29	।	_	PUNCT	_	_	20	punct	20:punct	_
 
 # sent_id = editorial_rationalism_10
-# text = ਸੋ ਮੇਰੀ ਤਰਕਸ਼ੀਲ ਵੀਰਾਂ ਨੂੰ ਸਲਾਹ ਹੈ ਕਿ ਤਰਕਸ਼ੀਲ ਲਹਿਰ ਵਿੱਚ ਅਜਿਹੇ ਅਨਸਰਾਂ ਨੂੰ ਛੇਕ ਦੇਣਾ ਚਾਹੀਦਾ ਹੈ ਜਿਹੜੇ ਆਪਣੀ ਨਿੱਤ ਜੀਵਨ ਵਿੱਚ ਵਧੀਆਂ ਕਦਰਾਂ ਕੀਮਤਾਂ ਨਹੀਂ ਅਪਣਾਉਂਦੇ।
+# text = ਸੋ ਮੇਰੀ ਤਰਕਸ਼ੀਲ ਵੀਰਾਂ ਨੂੰ ਸਲਾਹ ਹੈ ਕਿ ਤਰਕਸ਼ੀਲ ਲਹਿਰ ਵਿੱਚ ਅਜਿਹੇ ਅਨਸਰਾਂ ਨੂੰ ਛੇਕ ਦੇਣਾ ਚਾਹੀਦਾ ਹੈ ਜਿਹੜੇ ਆਪਣੀ ਨਿੱਤ ਜੀਵਨ ਵਿੱਚ ਵਧੀਆਂ ਕਦਰਾਂ ਕੀਮਤਾਂ ਨਹੀਂ ਅਪਣਾਉਂਦੇ।
 1	ਸੋ	_	ADV	_	_	6	advmod	6:advmod	_
 2	ਮੇਰੀ	_	PRON	_	_	4	nmod	4:nmod	_
-3	ਤਰਕਸ਼ੀਲ	_	ADJ	_	_	4	amod	4:amod	_
+3	ਤਰਕਸ਼ੀਲ	_	ADJ	_	_	4	amod	4:amod	_
 4	ਵੀਰਾਂ	_	NOUN	_	_	6	nsubj	6:nsubj	_
 5	ਨੂੰ	_	ADP	_	_	4	case	4:case	_
 6	ਸਲਾਹ	_	NOUN	_	_	0	root	0:root	_
 7	ਹੈ	_	AUX	_	_	6	cop	6:cop	_
 8	ਕਿ	_	SCONJ	_	_	16	mark	16:mark	_
-9	ਤਰਕਸ਼ੀਲ	_	ADJ	_	_	10	amod	10:amod	_
+9	ਤਰਕਸ਼ੀਲ	_	ADJ	_	_	10	amod	10:amod	_
 10	ਲਹਿਰ	_	NOUN	_	_	16	obl	16:obl	_
 11	ਵਿੱਚ	_	ADP	_	_	10	case	10:case	_
 12	ਅਜਿਹੇ	_	DET	_	_	13	det	13:det	_
@@ -7142,7 +7142,7 @@
 24	।	_	PUNCT	_	_	22	punct	22:punct	SpacesAfter=\n
 
 # sent_id = editorial_rationalism_12
-# text = ਪਰ ਜੇ ਸਾਡੇ ਕੋਲ ਵੱਡੀ ਫੌਜ ਵੀ ਹੋਵੇਗੀ ਪਰ ਉਹ ਵਧੀਆ ਕਦਰਾਂ ਕੀਮਤਾਂ ਵਾਲੀ ਨਹੀਂ ਹੋਵੇਗੀ ਤਾਂ ਸਾਡੀ ਹਾਰ ਲਾਜ਼ਮੀ ਹੈ।
+# text = ਪਰ ਜੇ ਸਾਡੇ ਕੋਲ ਵੱਡੀ ਫੌਜ ਵੀ ਹੋਵੇਗੀ ਪਰ ਉਹ ਵਧੀਆ ਕਦਰਾਂ ਕੀਮਤਾਂ ਵਾਲੀ ਨਹੀਂ ਹੋਵੇਗੀ ਤਾਂ ਸਾਡੀ ਹਾਰ ਲਾਜ਼ਮੀ ਹੈ।
 1	ਪਰ	_	CCONJ	_	_	6	cc	6:cc	_
 2	ਜੇ	_	SCONJ	_	_	6	mark	6:mark	_
 3	ਸਾਡੇ	_	PRON	_	_	6	nsubj	6:nsubj	_
@@ -7162,6 +7162,6 @@
 17	ਤਾਂ	_	ADV	_	_	20	advmod	20:advmod	_
 18	ਸਾਡੀ	_	PRON	_	_	19	nmod	19:nmod	_
 19	ਹਾਰ	_	NOUN	_	_	20	nsubj	20:nsubj	_
-20	ਲਾਜ਼ਮੀ	_	VERB	_	_	0	root	0:root	_
+20	ਲਾਜ਼ਮੀ	_	VERB	_	_	0	root	0:root	_
 21	ਹੈ	_	AUX	_	_	20	cop	20:cop	SpaceAfter=No
 22	।	_	PUNCT	_	_	20	punct	20:punct	SpacesAfter=\n
