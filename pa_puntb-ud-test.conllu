@@ -322,7 +322,7 @@
 18	ਪ੍ਰਧਾਨ	_	NOUN	_	_	20	xcomp	20:xcomp	Translit=pradhāna
 19	ਨਿਯੁਕਤ	_	ADJ	_	_	20	compound:lvc	20:compound:lvc	Translit=niyukata
 20	ਕੀਤਾ	_	VERB	_	_	0	root	0:root	Translit=kītā
-21	ਹੈ	_	AUX	_	_	20	aux	20:aux	SpaceAfter=No|Translit=hai
+21	ਹੈ	_	AUX	_	_	20	aux	20:aux	Translit=hai
 22	|	_	PUNCT	_	_	20	punct	20:punct	_
 
 # sent_id = misc_indiccorp_14_3
@@ -518,7 +518,7 @@
 7	ਫਾਇਬਰ	_	NOUN	_	_	3	conj	3:conj|9:orphan	Translit=phāibara
 8	ਭਰਪੂਰ	_	ADJ	_	_	9	amod	9:amod	Translit=bharapūra
 9	ਮਾਤਰਾ	_	NOUN	_	_	0	root	0:root	Translit=mātarā
-10	ਵਿਚ	_	ADP	_	_	9	case	9:case	Translit=vica
+10	ਵਿਚ	_	ADP	_	_	9	case	9:case	SpaceAfter=No|Translit=vica
 11	…	_	PUNCT	_	_	9	punct	9:punct	Translit=…
 
 # sent_id = misc_indiccorp_25
