@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>299</sentences><tokens>6195</tokens><words>6220</words><fused>16</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>299</sentences><tokens>6195</tokens><words>6220</words><fused>16</fused></test>
+  </size>
+  <lemmas unique="55" /><!-- ਦਾ, ਕਰ, ਖੇਡ, ਨੂੰ, ।, ਅਤੇ, 99, 99%, ਅਧਿਕਾਰੀ, ਅਪ, ਅਸਫਲ, ਆਗੂ, ਆਦਰਸ਼, ਇਕ, ਇਤਿਹਾਸ -->
+  <forms unique="2076" /><!-- ।, ,, ਹੈ, ਦੇ, ਨੂੰ, ਦੀ, ਨੇ, ਦਾ, ਅਤੇ, ਵਿੱਚ, ਕਿ, ਤੋਂ, ਹਨ, ਤੇ, ਇਸ -->
+  <fusions unique="12" /><!-- ਨੂੰਹ-ਸੱਸ, ਇਸਨੂੰ, ਆਹਮੋ-ਸਾਹਮਣੇ, ਇਸਦਾ, ਕਰਨਯੋਗ, ਕੀੜੇ-ਮਕੌੜੇ, ਕੈਟਲਾਨ-ਰਾਜਧਾਨੀ, ਦਰਾਣੀਆਂ-ਜਠਾਣੀਆਂ, ਦੇਵੀ-ਦੇਵਤਿਆਂ, ਭੱਜਦੌੜ, ਰਸਮ-ਰਿਵਾਜ, ਵਾਰ-ਵਾਰ -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="17">
+    <tag name="ADJ">422</tag><!-- _, ਅਸਫਲ, ਉਚ, ਤਹਿ, ਨਵਾਂ, ਪਹਿਲਾ -->
+    <tag name="ADP">1064</tag><!-- _, ਦਾ, ਨੂੰ, ਨੇ, ਲਈ, ਵਿੱਚ, ਸਦਕਾ -->
+    <tag name="ADV">145</tag><!-- _ -->
+    <tag name="AUX">441</tag><!-- _, ਕੇ, ਹੋ -->
+    <tag name="CCONJ">162</tag><!-- _, ਅਤੇ -->
+    <tag name="DET">187</tag><!-- _ -->
+    <tag name="INTJ">4</tag><!-- _ -->
+    <tag name="NOUN">1362</tag><!-- _, ਖੇਡ, ਅਧਿਕਾਰੀ, ਆਗੂ, ਆਦਰਸ਼, ਇਤਿਹਾਸ, ਕਤਲ, ਕਬੱਡੀ, ਕੋਸ਼ਿਸ਼, ਖਿਡਾਰਨ -->
+    <tag name="NUM">116</tag><!-- _, 99, 99%, ਇਕ -->
+    <tag name="PART">96</tag><!-- _ -->
+    <tag name="PRON">332</tag><!-- _, ਉਹ, ਜੋ -->
+    <tag name="PROPN">554</tag><!-- _, ਕੌਰ, ਖੰਨਾ, ਚੰਦ, ਨਿਊਜ਼ੀਲੈਂਡ, ਪੰਜਾਬੀ, ਮਲੂਕਾ, ਮਾਤਾ, ਸ਼ਿਵ, ਸਿਕੰਦਰ -->
+    <tag name="PUNCT">522</tag><!-- _, । -->
+    <tag name="SCONJ">93</tag><!-- _ -->
+    <tag name="SYM">3</tag><!-- _ -->
+    <tag name="VERB">713</tag><!-- _, ਕਰ, ਖੇਡ, ਘਟਾਉ, ਰਚ -->
+    <tag name="X">4</tag><!-- _, ਅਪ, ਕਵਰ -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="14">
+    <feat name="Aspect" value="Perf" upos="VERB">2</feat><!-- ਕੀਤਾ, ਕੀਤੀ -->
+    <feat name="Case" value="Abl" upos="NOUN">1</feat><!-- ਦਿਲੋਂ -->
+    <feat name="Case" value="Acc" upos="ADP,NOUN,PRON,PROPN,VERB">18</feat><!-- ਦੇ, ਅਧਿਕਾਰੀਆਂ, ਆਗੂ, ਉਨਾਂ, ਕਤਲਾਂ, ਕਬੱਡੀ, ਕਰਨ, ਖੇਡ, ਘਟਾਉਣ, ਜਿਨ੍ਹਾਂ -->
+    <feat name="Case" value="Nom" upos="ADJ,ADP,NOUN,PROPN">23</feat><!-- ਇਤਿਹਾਸ, ਕੋਸ਼ਿਸ਼, ਕੌਰ, ਖਿਡਾਰਨਾਂ, ਖੇਡ, ਖੰਨਾ, ਚੰਦ, ਦਾ, ਦੀ, ਦੀਆਂ -->
+    <feat name="Gender" value="Fem" upos="ADJ,ADP,NOUN,PROPN,VERB">15</feat><!-- ਕਬੱਡੀ, ਕੀਤੀ, ਕੋਸ਼ਿਸ਼, ਕੌਰ, ਖਿਡਾਰਨਾਂ, ਚੰਦ, ਦੀ, ਦੀਆਂ, ਪਹਿਲੀ, ਮਾਂ -->
+    <feat name="Gender" value="Masc" upos="ADJ,ADP,NOUN,PROPN,VERB">26</feat><!-- ਦੇ, ਖੇਡ, ਅਧਿਕਾਰੀਆਂ, ਆਗੂ, ਇਤਿਹਾਸ, ਕਤਲਾਂ, ਕੀਤਾ, ਖੰਨਾ, ਦਾ, ਦਿਲੋਂ -->
+    <feat name="Mood" value="Ind" upos="VERB">3</feat><!-- ਕੀਤਾ, ਕੀਤੀ, ਰਚਣਗੀਆਂ -->
+    <feat name="Number" value="Plur" upos="ADP,NOUN,PRON,PROPN,VERB">9</feat><!-- ਦੇ, ਅਧਿਕਾਰੀਆਂ, ਉਨਾਂ, ਖਿਡਾਰਨਾਂ, ਜਿਨ੍ਹਾਂ, ਦੀਆਂ, ਪੰਜਾਬੀਆਂ, ਰਚਣਗੀਆਂ -->
+    <feat name="Number" value="Sing" upos="ADJ,ADP,NOUN,PROPN,VERB">34</feat><!-- ਖੇਡ, ਦੇ, ਆਗੂ, ਇਤਿਹਾਸ, ਕਤਲਾਂ, ਕਬੱਡੀ, ਕੀਤਾ, ਕੀਤੀ, ਕੋਸ਼ਿਸ਼, ਕੌਰ -->
+    <feat name="Person" value="3" upos="PRON,VERB">2</feat><!-- ਉਨਾਂ, ਰਚਣਗੀਆਂ -->
+    <feat name="Tense" value="Fut" upos="VERB">1</feat><!-- ਰਚਣਗੀਆਂ -->
+    <feat name="VerbForm" value="Conv" upos="AUX">1</feat><!-- ਕੇ -->
+    <feat name="VerbForm" value="Fin" upos="VERB">3</feat><!-- ਕੀਤਾ, ਕੀਤੀ, ਰਚਣਗੀਆਂ -->
+    <feat name="VerbForm" value="Inf" upos="VERB">2</feat><!-- ਕਰਨ, ਘਟਾਉਣ -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="39">
+    <dep name="acl">78</dep>
+    <dep name="acl:relcl">48</dep>
+    <dep name="advcl">136</dep>
+    <dep name="advmod">126</dep>
+    <dep name="amod">270</dep>
+    <dep name="appos">58</dep>
+    <dep name="aux">310</dep>
+    <dep name="aux:pass">40</dep>
+    <dep name="case">928</dep>
+    <dep name="cc">174</dep>
+    <dep name="ccomp">57</dep>
+    <dep name="compound">131</dep>
+    <dep name="compound:lvc">165</dep>
+    <dep name="compound:redup">27</dep>
+    <dep name="compound:svc">97</dep>
+    <dep name="conj">247</dep>
+    <dep name="cop">96</dep>
+    <dep name="csubj">1</dep>
+    <dep name="dep">6</dep>
+    <dep name="det">178</dep>
+    <dep name="discourse">96</dep>
+    <dep name="dislocated">1</dep>
+    <dep name="fixed">60</dep>
+    <dep name="flat">150</dep>
+    <dep name="iobj">15</dep>
+    <dep name="mark">177</dep>
+    <dep name="nmod">379</dep>
+    <dep name="nsubj">410</dep>
+    <dep name="nsubj:pass">31</dep>
+    <dep name="nummod">91</dep>
+    <dep name="obj">250</dep>
+    <dep name="obl">451</dep>
+    <dep name="obl:agent">7</dep>
+    <dep name="orphan">3</dep>
+    <dep name="parataxis">49</dep>
+    <dep name="punct">512</dep>
+    <dep name="reparandum">3</dep>
+    <dep name="root">299</dep>
+    <dep name="xcomp">63</dep>
+  </deps>
+</treebank>
