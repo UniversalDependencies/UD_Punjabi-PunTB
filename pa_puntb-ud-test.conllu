@@ -323,7 +323,7 @@
 19	ਨਿਯੁਕਤ	_	ADJ	_	_	20	compound:lvc	20:compound:lvc	Translit=niyukata
 20	ਕੀਤਾ	_	VERB	_	_	0	root	0:root	Translit=kītā
 21	ਹੈ	_	AUX	_	_	20	aux	20:aux	SpaceAfter=No|Translit=hai
-22	।	_	PUNCT	_	_	20	punct	20:punct	Translit=.
+22	|	_	PUNCT	_	_	20	punct	20:punct	_
 
 # sent_id = misc_indiccorp_14_3
 # text = ਇਸ ਮੌਕੇ ਕੌਮੀ ਪ੍ਰਧਾਨ ਨਰੇਂਦਰ ਅਰੋੜਾ ਨੇ ਨਿਯੁਕਤੀ ਪਤਰ ਦਿੰਦੇ ਹੋਏ ਸ਼੍ਰੀ .
@@ -339,12 +339,12 @@
 9	ਪਤਰ	_	NOUN	_	_	10	obj	10:obj	Translit=patara
 10	ਦਿੰਦੇ	_	VERB	_	_	0	root	0:root	Translit=diṁde
 11	ਹੋਏ	_	AUX	_	_	10	aux	10:aux	Translit=hoe
-12	ਸ਼੍ਰੀ	_	NOUN	_	_	10	orphan	10:orphan	SpaceAfter=No|Translit=šrī
+12	ਸ਼੍ਰੀ	_	NOUN	_	_	10	orphan	10:orphan	Translit=šrī
 13	.	_	PUNCT	_	_	12	punct	12:punct	Translit=.
 
 # sent_id = misc_indiccorp_16
-# text = . . . ਉਨ੍ਹਾਂ ਦੱਸਿਆ ਕਿ ਮੁੰਡੇ ਦੀ ਪ੍ਰੇਮਿਕਾ ਵਲੋਂ ਮੁੰਡੇ 'ਤੇ ਬਲਾਤਕਾਰ ਦਾ ਪਰਚਾ ਦਰਜ ਕਰਵਾਇਆ ਗਿਆ ਤੇ ਮਾਮਲਾ ਰਫਾ-ਦਫਾ ਕਰਨ ਲਈ 10 ਲੱਖ 'ਚ ਸੌਦਾ ਤੈਅ ਹੋਇਆ.
-# translit = . . . unhāṁ dassiā ki muṁḍe dī premikā valoṁ muṁḍe 'te balātakāra dā paracā daraja karavāiā giā te māmalā raphā-daphā karana laī 10 lakhkha 'ca saudā taia hoiā.
+# text = ... ਉਨ੍ਹਾਂ ਦੱਸਿਆ ਕਿ ਮੁੰਡੇ ਦੀ ਪ੍ਰੇਮਿਕਾ ਵਲੋਂ ਮੁੰਡੇ 'ਤੇ ਬਲਾਤਕਾਰ ਦਾ ਪਰਚਾ ਦਰਜ ਕਰਵਾਇਆ ਗਿਆ ਤੇ ਮਾਮਲਾ ਰਫਾ-ਦਫਾ ਕਰਨ ਲਈ 10 ਲੱਖ 'ਚ ਸੌਦਾ ਤੈਅ ਹੋਇਆ.
+# translit = ... unhāṁ dassiā ki muṁḍe dī premikā valoṁ muṁḍe 'te balātakāra dā paracā daraja karavāiā giā te māmalā raphā-daphā karana laī 10 lakhkha 'ca saudā taia hoiā.
 1	...	_	PUNCT	_	_	3	punct	3:punct	Translit=...
 2	ਉਨ੍ਹਾਂ	_	PRON	_	_	3	nsubj	3:nsubj	Translit=unhāṁ
 3	ਦੱਸਿਆ	_	VERB	_	_	0	root	0:root	Translit=dassiā
