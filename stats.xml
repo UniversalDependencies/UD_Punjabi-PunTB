@@ -15,26 +15,26 @@
   <fusions unique="12" /><!-- ਨੂੰਹ-ਸੱਸ, ਇਸਨੂੰ, ਆਹਮੋ-ਸਾਹਮਣੇ, ਇਸਦਾ, ਕਰਨਯੋਗ, ਕੀੜੇ-ਮਕੌੜੇ, ਕੈਟਲਾਨ-ਰਾਜਧਾਨੀ, ਦਰਾਣੀਆਂ-ਜਠਾਣੀਆਂ, ਦੇਵੀ-ਦੇਵਤਿਆਂ, ਭੱਜਦੌੜ, ਰਸਮ-ਰਿਵਾਜ, ਵਾਰ-ਵਾਰ -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="17">
-    <tag name="ADJ">422</tag><!-- _, ਅਸਫਲ, ਉਚ, ਤਹਿ, ਨਵਾਂ, ਪਹਿਲਾ -->
-    <tag name="ADP">1064</tag><!-- _, ਦਾ, ਨੂੰ, ਨੇ, ਲਈ, ਵਿੱਚ, ਸਦਕਾ -->
-    <tag name="ADV">145</tag><!-- _ -->
-    <tag name="AUX">441</tag><!-- _, ਕੇ, ਹੋ -->
+    <tag name="ADJ">420</tag><!-- _, ਅਸਫਲ, ਉਚ, ਤਹਿ, ਨਵਾਂ, ਪਹਿਲਾ -->
+    <tag name="ADP">1066</tag><!-- _, ਦਾ, ਨੂੰ, ਨੇ, ਲਈ, ਵਿੱਚ, ਸਦਕਾ -->
+    <tag name="ADV">146</tag><!-- _ -->
+    <tag name="AUX">446</tag><!-- _, ਹੈ -->
     <tag name="CCONJ">162</tag><!-- _, ਅਤੇ -->
     <tag name="DET">187</tag><!-- _ -->
     <tag name="INTJ">4</tag><!-- _ -->
     <tag name="NOUN">1362</tag><!-- _, ਖੇਡ, ਅਧਿਕਾਰੀ, ਆਗੂ, ਆਦਰਸ਼, ਇਤਿਹਾਸ, ਕਤਲ, ਕਬੱਡੀ, ਕੋਸ਼ਿਸ਼, ਖਿਡਾਰਨ -->
     <tag name="NUM">116</tag><!-- _, 99, 99%, ਇਕ -->
-    <tag name="PART">96</tag><!-- _ -->
+    <tag name="PART">96</tag><!-- _, ਕੇ -->
     <tag name="PRON">332</tag><!-- _, ਉਹ, ਜੋ -->
     <tag name="PROPN">554</tag><!-- _, ਕੌਰ, ਖੰਨਾ, ਚੰਦ, ਨਿਊਜ਼ੀਲੈਂਡ, ਪੰਜਾਬੀ, ਮਲੂਕਾ, ਮਾਤਾ, ਸ਼ਿਵ, ਸਿਕੰਦਰ -->
-    <tag name="PUNCT">522</tag><!-- _, । -->
-    <tag name="SCONJ">93</tag><!-- _ -->
+    <tag name="PUNCT">523</tag><!-- _, । -->
+    <tag name="SCONJ">94</tag><!-- _ -->
     <tag name="SYM">3</tag><!-- _ -->
-    <tag name="VERB">713</tag><!-- _, ਕਰ, ਖੇਡ, ਘਟਾਉ, ਰਚ -->
+    <tag name="VERB">705</tag><!-- _, ਕਰ, ਖੇਡ, ਘਟਾਉ, ਰਚ -->
     <tag name="X">4</tag><!-- _, ਅਪ, ਕਵਰ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="14">
+  <feats unique="13">
     <feat name="Aspect" value="Perf" upos="VERB">2</feat><!-- ਕੀਤਾ, ਕੀਤੀ -->
     <feat name="Case" value="Abl" upos="NOUN">1</feat><!-- ਦਿਲੋਂ -->
     <feat name="Case" value="Acc" upos="ADP,NOUN,PRON,PROPN,VERB">18</feat><!-- ਦੇ, ਅਧਿਕਾਰੀਆਂ, ਆਗੂ, ਉਨਾਂ, ਕਤਲਾਂ, ਕਬੱਡੀ, ਕਰਨ, ਖੇਡ, ਘਟਾਉਣ, ਜਿਨ੍ਹਾਂ -->
@@ -46,7 +46,6 @@
     <feat name="Number" value="Sing" upos="ADJ,ADP,NOUN,PROPN,VERB">34</feat><!-- ਖੇਡ, ਦੇ, ਆਗੂ, ਇਤਿਹਾਸ, ਕਤਲਾਂ, ਕਬੱਡੀ, ਕੀਤਾ, ਕੀਤੀ, ਕੋਸ਼ਿਸ਼, ਕੌਰ -->
     <feat name="Person" value="3" upos="PRON,VERB">2</feat><!-- ਉਨਾਂ, ਰਚਣਗੀਆਂ -->
     <feat name="Tense" value="Fut" upos="VERB">1</feat><!-- ਰਚਣਗੀਆਂ -->
-    <feat name="VerbForm" value="Conv" upos="AUX">1</feat><!-- ਕੇ -->
     <feat name="VerbForm" value="Fin" upos="VERB">3</feat><!-- ਕੀਤਾ, ਕੀਤੀ, ਰਚਣਗੀਆਂ -->
     <feat name="VerbForm" value="Inf" upos="VERB">2</feat><!-- ਕਰਨ, ਘਟਾਉਣ -->
   </feats>
@@ -55,39 +54,39 @@
     <dep name="acl">78</dep>
     <dep name="acl:relcl">48</dep>
     <dep name="advcl">136</dep>
-    <dep name="advmod">126</dep>
+    <dep name="advmod">123</dep>
     <dep name="amod">270</dep>
     <dep name="appos">58</dep>
-    <dep name="aux">310</dep>
+    <dep name="aux">309</dep>
     <dep name="aux:pass">40</dep>
     <dep name="case">928</dep>
-    <dep name="cc">174</dep>
+    <dep name="cc">162</dep>
     <dep name="ccomp">57</dep>
     <dep name="compound">131</dep>
     <dep name="compound:lvc">165</dep>
-    <dep name="compound:redup">27</dep>
+    <dep name="compound:redup">24</dep>
     <dep name="compound:svc">97</dep>
-    <dep name="conj">247</dep>
+    <dep name="conj">248</dep>
     <dep name="cop">96</dep>
     <dep name="csubj">1</dep>
     <dep name="dep">6</dep>
     <dep name="det">178</dep>
     <dep name="discourse">96</dep>
     <dep name="dislocated">1</dep>
-    <dep name="fixed">60</dep>
+    <dep name="fixed">61</dep>
     <dep name="flat">150</dep>
     <dep name="iobj">15</dep>
-    <dep name="mark">177</dep>
-    <dep name="nmod">383</dep>
-    <dep name="nsubj">410</dep>
+    <dep name="mark">179</dep>
+    <dep name="nmod">385</dep>
+    <dep name="nsubj">408</dep>
     <dep name="nsubj:pass">31</dep>
-    <dep name="nummod">91</dep>
+    <dep name="nummod">92</dep>
     <dep name="obj">250</dep>
-    <dep name="obl">447</dep>
+    <dep name="obl">450</dep>
     <dep name="obl:agent">7</dep>
     <dep name="orphan">3</dep>
     <dep name="parataxis">49</dep>
-    <dep name="punct">512</dep>
+    <dep name="punct">523</dep>
     <dep name="reparandum">3</dep>
     <dep name="root">299</dep>
     <dep name="xcomp">63</dep>

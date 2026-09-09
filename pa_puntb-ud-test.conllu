@@ -728,7 +728,7 @@
 1	ਜਲਾਲਾਬਾਦ	_	PROPN	_	_	0	root	0:root	Translit=jalālābāda
 2	(	_	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No|Translit=(
 3	ਨਿਖੰਜ	_	PROPN	_	_	1	parataxis	1:parataxis	SpaceAfter=No|Translit=nikhaṁja
-4	,	_	PUNCT	_	_	3	punct	3:punct	Translit=,
+4	,	_	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No|Translit=,
 5	ਜਤਿੰਦਰ	_	PROPN	_	_	3	flat	3:flat	SpaceAfter=No|Translit=jatiṁdara
 6	)	_	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No|Translit=)
 7	-	_	PUNCT	_	_	1	punct	1:punct	Translit=-
@@ -825,17 +825,17 @@
 3	ਇਲਾਵਾ	_	ADP	_	_	2	fixed	2:fixed	Translit=ilāvā
 4	ਕਰੀਨਾ	_	PROPN	_	_	7	nsubj	7:nsubj|13:nsubj	Translit=karīnā
 5	ਕੋਲ	_	ADP	_	_	4	case	4:case	Translit=kola
-6	'	_	PUNCT	_	_	7	punct	7:punct	Translit='
-7	ਤਖਤ	_	PROPN	_	_	0	root	0:root	Translit=takhata
+6	'	_	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No|Translit='
+7	ਤਖਤ	_	PROPN	_	_	0	root	0:root	SpaceAfter=No|Translit=takhata
 8	'	_	PUNCT	_	_	7	punct	7:punct	Translit='
 9	ਤੇ	_	CCONJ	_	_	13	cc	13:cc	Translit=te
 10	ਅਕਸ਼ੈ	_	PROPN	_	_	13	nmod	13:nmod	Translit=akašai
 11	ਕੁਮਾਰ	_	PROPN	_	_	10	flat	10:flat	Translit=kumāra
 12	ਨਾਲ	_	ADP	_	_	10	case	10:case	Translit=nāla
 13	ਫਿਲਮ	_	NOUN	_	_	7	conj	7:conj	Translit=philama
-14	'	_	PUNCT	_	_	15	punct	15:punct	Translit='
+14	'	_	PUNCT	_	_	15	punct	15:punct	SpaceAfter=No|Translit='
 15	ਗੁੱਡ	_	PROPN	_	_	13	appos	13:appos	Translit=guḍḍa
-16	ਨਿਊਜ਼	_	PROPN	_	_	15	flat	15:flat	Translit=niūza
+16	ਨਿਊਜ਼	_	PROPN	_	_	15	flat	15:flat	SpaceAfter=No|Translit=niūza
 17	'	_	PUNCT	_	_	15	punct	15:punct	Translit='
 18	ਹੈ	_	AUX	_	_	7	cop	7:cop	SpaceAfter=No|Translit=hai
 19	।	_	PUNCT	_	_	7	punct	7:punct	Translit=.
@@ -914,7 +914,7 @@
 8	ਦਿੱਲੀ	_	PROPN	_	_	10	obl	10:obl	Translit=dillī
 9	ਤੋਂ	_	ADP	_	_	8	case	8:case	Translit=toṁ
 10	ਆਈਆਂ	_	VERB	_	_	1	ccomp	1:ccomp	Translit=āīāṁ
-11	ਹਨ	_	AUX	_	_	10	aux	10:aux	SpaceAfter=No|Translit=hana
+11	ਹਨ	_	AUX	_	_	10	aux	10:aux	Translit=hana
 12	,	_	PUNCT	_	_	21	punct	21:punct	Translit=,
 13	ਜਿਸ	_	PRON	_	_	21	obl	21:obl	Translit=jisa
 14	ਵਿੱਚ	_	ADP	_	_	13	case	13:case	Translit=vicca
@@ -1192,7 +1192,7 @@
 26	ਛਾਂਟੀ	_	NOUN	_	_	27	compound:lvc	27:compound:lvc	Translit=chāṁṭī
 27	ਕਰ	_	VERB	_	_	15	acl:relcl	15:acl:relcl	Translit=kara
 28	ਸਕਦਾ	_	VERB	_	_	27	compound:svc	27:compound:svc	Translit=sakadā
-29	ਹੈ	_	AUX	_	_	27	aux	27:aux	Translit=hai
+29	ਹੈ	_	AUX	_	_	27	aux	27:aux	SpaceAfter=No|Translit=hai
 30	:	_	PUNCT	_	_	20	punct	20:punct	Translit=:
 
 # sent_id = misc_flores_1_2
@@ -1220,7 +1220,7 @@
 18	‘ਤੇ	_	ADP	_	_	17	case	17:case	Translit=‘te
 19	ਲਗਭਗ	_	ADV	_	_	20	advmod	20:advmod	Translit=lagabhaga
 20	ਇੱਕ	_	NUM	_	_	23	nummod	23:nummod	Translit=ikka
-21	ਯੂ.	_	PROPN	_	_	23	compound	23:compound	Translit=yū.
+21	ਯੂ.	_	PROPN	_	_	23	compound	23:compound	SpaceAfter=No|Translit=yū.
 22	ਐਸ.	_	PROPN	_	_	21	flat	21:flat	Translit=aisa.
 23	ਸੈਂਟ	_	NOUN	_	_	25	nmod	25:nmod	Translit=saiṁṭa
 24	ਦੇ	_	ADP	_	_	23	case	23:case	Translit=de
@@ -1629,7 +1629,7 @@
 8	ਨੇ	_	ADP	_	_	5	case	5:case	Translit=ne
 9	ਕਿਹਾ	_	VERB	_	_	0	root	0:root	SpaceAfter=No|Translit=kihā
 10	,	_	PUNCT	_	_	9	punct	9:punct	Translit=,
-11	"	_	PUNCT	_	_	21	punct	21:punct	Translit="
+11	"	_	PUNCT	_	_	21	punct	21:punct	SpaceAfter=No|Translit="
 12	ਮੈਂ	_	PRON	_	_	21	nsubj	21:nsubj	Translit=maiṁ
 13	ਮਹੱਤਵਪੂਰਨ	_	ADJ	_	_	14	amod	14:amod	Translit=mahattavapūrana
 14	ਘਟਨਾਵਾਂ	_	NOUN	_	_	17	nmod	17:nmod	Translit=ghaṭanāvāṁ
@@ -1659,16 +1659,16 @@
 9	ਲਈ	_	ADP	_	_	8	mark	8:mark	Translit=laī
 10	ਆਇਆ	_	VERB	_	_	0	root	0:root	Translit=āiā
 11	ਹਾਂ	_	AUX	_	_	10	aux	10:aux	SpaceAfter=No|Translit=hāṁ
-12	।	_	PUNCT	_	_	10	punct	10:punct	Translit=.
+12	।	_	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No|Translit=.
 13	"	_	PUNCT	_	_	10	punct	10:punct	Translit="
 
 # sent_id = misc_flores_16
 # trans = "Panama Papers" is an umbrella term for roughly ten million documents from Panamanian law firm Mossack Fonseca, leaked to the press in spring 2016.
 # text = "ਪਨਾਮਾ ਪੇਪਰ", ਪਨਾਮੀਅਨ ਲਾਅ ਫਰਮ ਮੋਸੈਕ ਫੋਨਸੈਕਾ ਤੋਂ ਲਗਭਗ ਦਸ ਮਿਲੀਅਨ ਦਸਤਾਵੇਜ਼ਾਂ ਲਈ ਇੱਕ ਛਤਰ ਸ਼ਬਦ ਹੈ, ਜੋ 2016 ਬਸੰਤ ਵਿੱਚ ਪ੍ਰੈੱਸ ਵਿੱਚ ਲੀਕ ਹੋ ਗਿਆ ਸੀ।
 # translit = "panāmā pepara", panāmīana lāa pharama mosaika phonasaikā toṁ lagabhaga dasa milīana dasatāvezāṁ laī ikka chatara šabada hai, jo 2016 basaṁta vicca praissa vicca līka ho giā sī.
-1	"	_	PUNCT	_	_	3	punct	3:punct	Translit="
+1	"	_	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No|Translit="
 2	ਪਨਾਮਾ	_	PROPN	_	_	3	compound	3:compound	Translit=panāmā
-3	ਪੇਪਰ	_	PROPN	_	_	19	nsubj	19:nsubj	Translit=pepara
+3	ਪੇਪਰ	_	PROPN	_	_	19	nsubj	19:nsubj	SpaceAfter=No|Translit=pepara
 4	"	_	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No|Translit="
 5	,	_	PUNCT	_	_	19	punct	19:punct	Translit=,
 6	ਪਨਾਮੀਅਨ	_	ADJ	_	_	8	amod	8:amod	Translit=panāmīana
@@ -1830,9 +1830,9 @@
 23	ਅਮਰੀਕੀ	_	ADJ	_	_	25	amod	25:amod	Translit=amarīkī
 24	ਸਥਾਈ	_	ADJ	_	_	25	amod	25:amod	Translit=sathāī
 25	ਰਿਹਾਇਸ਼	_	NOUN	_	_	31	obj	31:obj	Translit=rihāiša
-26	“	_	PUNCT	_	_	28	punct	28:punct	Translit=“
+26	“	_	PUNCT	_	_	28	punct	28:punct	SpaceAfter=No|Translit=“
 27	ਗ੍ਰੀਨ	_	ADJ	_	_	28	amod	28:amod	Translit=grīna
-28	ਕਾਰਡ	_	PROPN	_	_	25	appos	25:appos	Translit=kāraḍa
+28	ਕਾਰਡ	_	PROPN	_	_	25	appos	25:appos	SpaceAfter=No|Translit=kāraḍa
 29	”	_	PUNCT	_	_	28	punct	28:punct	Translit=”
 30	ਹਾਸਲ	_	ADJ	_	_	31	compound:lvc	31:compound:lvc	Translit=hāsala
 31	ਕੀਤਾ	_	VERB	_	_	7	conj	7:conj	SpaceAfter=No|Translit=kītā
@@ -1978,7 +1978,7 @@
 14	ਬੈਕਸਟਰੋਮ	_	PROPN	_	_	13	flat	13:flat	Translit=baikasaṭaroma
 15	ਦੁਆਰਾ	_	ADP	_	_	12	case	12:case	Translit=duārā
 16	ਕੀਤੀ	_	VERB	_	_	0	root	0:root	Translit=kītī
-17	ਗਈ	_	AUX	_	_	16	aux:pass	16:aux:pass	Translit=gaī
+17	ਗਈ	_	AUX	_	_	16	aux:pass	16:aux:pass	SpaceAfter=No|Translit=gaī
 18	;	_	PUNCT	_	_	16	punct	16:punct	Translit=;
 
 # sent_id = news_bbc_inlaw_1
@@ -2028,7 +2028,7 @@
 22	ਤੇ	_	CCONJ	_	_	25	cc	25:cc	Translit=te
 23	ਅੱਜ	_	NOUN	_	_	25	obl	25:obl	Translit=ajja
 24	ਇਹ	_	DET	_	_	25	dep	25:dep	Translit=iha
-25	ਵੇਲਾ	_	NOUN	_	_	3	conj	3:conj	Translit=velā
+25	ਵੇਲਾ	_	NOUN	_	_	3	conj	3:conj	SpaceAfter=No|Translit=velā
 26	...	_	PUNCT	_	_	25	punct	25:punct	Translit=...
 27	ਜਦੋਂ	_	SCONJ	_	_	40	mark	40:mark	Translit=jadoṁ
 28	ਸਰਪੰਚੀ	_	NOUN	_	_	40	obl	40:obl	Translit=sarapaṁcī
@@ -2243,7 +2243,7 @@
 # sent_id = news_bbc_inlaw_12
 # text = 'ਮੀਡੀਆ ਨੇ ਬਣਾਈ ਸੀ ਨੂੰਹ-ਸੱਸ ਦੀ ਲੜਾਈ'
 # translit = 'mīḍīā ne baṇāī sī nūṁha-sassa dī laṛāī'
-1	'	_	PUNCT	_	_	4	punct	4:punct	Translit='
+1	'	_	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No|Translit='
 2	ਮੀਡੀਆ	_	NOUN	_	_	4	nsubj	4:nsubj	Translit=mīḍīā
 3	ਨੇ	_	ADP	_	_	2	case	2:case	Translit=ne
 4	ਬਣਾਈ	_	VERB	_	_	0	root	0:root	Translit=baṇāī
@@ -2253,7 +2253,7 @@
 7	-	_	PUNCT	_	_	8	punct	8:punct	Translit=-
 8	ਸੱਸ	_	NOUN	_	_	6	conj	6:conj	Translit=sassa
 9	ਦੀ	_	ADP	_	_	6	case	6:case	Translit=dī
-10	ਲੜਾਈ	_	NOUN	_	_	4	obj	4:obj	Translit=laṛāī
+10	ਲੜਾਈ	_	NOUN	_	_	4	obj	4:obj	SpaceAfter=No|Translit=laṛāī
 11	'	_	PUNCT	_	_	4	punct	4:punct	Translit='
 
 # sent_id = news_bbc_inlaw_13
@@ -2290,7 +2290,7 @@
 # sent_id = news_bbc_inlaw_14
 # text = ''ਮੀਡੀਆ ਨੇ ਵਾਰ-ਵਾਰ ਕਹਿ ਕੇ ਇਸ ਨੂੰ ਰਿਸ਼ਤਿਆਂ ਦੀ ਲੜਾਈ ਬਣਾ ਦਿੱਤਾ ਸੀ ਜਦਕਿ ਅਸਲ ਵਿੱਚ ਇਹ ਲੜਾਈ ਪੜ੍ਹਿਆਂ ਲਿਖਿਆਂ ਅਤੇ ਅਨਪੜ੍ਹਾਂ ਵਿੱਚ ਸੀ।
 # translit = ''mīḍīā ne vāra-vāra kahi ke isa nūṁ rišatiāṁ dī laṛāī baṇā dittā sī jadaki asala vicca iha laṛāī paṛhiāṁ likhiāṁ ate anapaṛhāṁ vicca sī.
-1	''	_	PUNCT	_	_	14	punct	14:punct	Translit=''
+1	''	_	PUNCT	_	_	14	punct	14:punct	SpaceAfter=No|Translit=''
 2	ਮੀਡੀਆ	_	NOUN	_	_	14	nsubj	14:nsubj	Translit=mīḍīā
 3	ਨੇ	_	ADP	_	_	2	case	2:case	Translit=ne
 4-6	ਵਾਰ-ਵਾਰ	_	_	_	_	_	_	_	Translit=vāra-vāra
@@ -2337,7 +2337,7 @@
 12	ਹਨ	_	AUX	_	_	11	aux	11:aux	Translit=hana
 13	ਜਾਂ	_	CCONJ	_	_	14	cc	14:cc	Translit=jāṁ
 14	ਨਹੀਂ	_	ADV	_	_	11	conj	11:conj	SpaceAfter=No|Translit=nahīṁ
-15	।	_	PUNCT	_	_	3	punct	3:punct	Translit=.
+15	।	_	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No|Translit=.
 16	''	_	PUNCT	_	_	3	punct	3:punct	Translit=''
 
 # sent_id = news_bbc_inlaw_16
@@ -2678,7 +2678,7 @@
 4	ਕਹਿਣਾ	_	NOUN	_	_	5	nsubj	5:nsubj	Translit=kahiṇā
 5	ਸੀ	_	VERB	_	_	0	root	0:root	SpaceAfter=No|Translit=sī
 6	,	_	PUNCT	_	_	5	punct	5:punct	Translit=,
-7	''	_	PUNCT	_	_	5	punct	5:punct	Translit=''
+7	''	_	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No|Translit=''
 8	ਇਹ	_	DET	_	_	9	det	9:det	Translit=iha
 9	ਜਿੱਤ	_	NOUN	_	_	14	nsubj	14:nsubj	Translit=jitta
 10	ਰਿਸ਼ਤਿਆਂ	_	NOUN	_	_	14	obj	14:obj	Translit=rišatiāṁ
@@ -2730,7 +2730,7 @@
 11	ਇਸੇ	_	DET	_	_	12	det	12:det	Translit=ise
 12	ਤਰ੍ਹਾਂ	_	NOUN	_	_	13	obl	13:obl	Translit=tarhāṁ
 13	ਰਹਾਂਗੀਆਂ	_	VERB	_	_	6	conj	6:conj	SpaceAfter=No|Translit=rahāṁgīāṁ
-14	।	_	PUNCT	_	_	6	punct	6:punct	Translit=.
+14	।	_	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No|Translit=.
 15	''	_	PUNCT	_	_	6	punct	6:punct	Translit=''
 
 # sent_id = news_bbc_inlaw_34
@@ -2922,7 +2922,7 @@
 2	ਨੇ	_	ADP	_	_	1	case	1:case	Translit=ne
 3	ਕਿਹਾ	_	VERB	_	_	0	root	0:root	SpaceAfter=No|Translit=kihā
 4	,	_	PUNCT	_	_	3	punct	3:punct	Translit=,
-5	'	_	PUNCT	_	_	7	punct	7:punct	Translit='
+5	'	_	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No|Translit='
 6	ਉਹ	_	PRON	_	_	7	nsubj	7:nsubj	Translit=uha
 7	ਬੁਜ਼ਦਿਲ	_	ADJ	_	_	3	ccomp	3:ccomp	Translit=buzadila
 8	ਨਹੀਂ	_	ADV	_	_	7	advmod	7:advmod	Translit=nahīṁ
@@ -2933,7 +2933,7 @@
 13	ਪਿੱਛੇ	_	ADV	_	_	15	advmod	15:advmod	Translit=pichche
 14	ਨਹੀਂ	_	ADV	_	_	15	advmod	15:advmod	Translit=nahīṁ
 15	ਹਟਣਗੇ	_	VERB	_	_	7	parataxis	7:parataxis	SpaceAfter=No|Translit=haṭaṇage
-16	।	_	PUNCT	_	_	7	punct	7:punct	Translit=.
+16	।	_	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No|Translit=.
 17	'	_	PUNCT	_	_	7	punct	7:punct	Translit='
 
 # sent_id = news_bbc_rajnikanth_5
@@ -2955,7 +2955,7 @@
 14	ਨੇ	_	ADP	_	_	13	case	13:case	Translit=ne
 15	ਕਿਹਾ	_	VERB	_	_	0	root	0:root	SpaceAfter=No|Translit=kihā
 16	,	_	PUNCT	_	_	15	punct	15:punct	Translit=,
-17	"	_	PUNCT	_	_	30	punct	30:punct	Translit="
+17	"	_	PUNCT	_	_	30	punct	30:punct	SpaceAfter=No|Translit="
 18	ਸੂਬੇ	_	NOUN	_	_	23	nmod	23:nmod	Translit=sūbe
 19	ਦੀਆਂ	_	ADP	_	_	18	case	18:case	Translit=dīāṁ
 20	ਅਗਲੀਆਂ	_	ADJ	_	_	23	amod	23:amod	Translit=agalīāṁ
@@ -2986,7 +2986,7 @@
 9	'ਤੇ	_	ADP	_	_	8	case	8:case	Translit='te
 10	ਚੋਣ	_	NOUN	_	_	11	obj	11:obj	Translit=coṇa
 11	ਲੜਾਂਗੇ	_	VERB	_	_	0	root	0:root	SpaceAfter=No|Translit=laṛāṁge
-12	।	_	PUNCT	_	_	11	punct	11:punct	Translit=.
+12	।	_	PUNCT	_	_	11	punct	11:punct	SpaceAfter=No|Translit=.
 13	"	_	PUNCT	_	_	11	punct	11:punct	Translit="
 
 # sent_id = news_bbc_rajnikanth_7
@@ -3056,7 +3056,7 @@
 1	ਉਨ੍ਹਾਂ	_	PRON	_	_	2	nsubj	2:nsubj	Translit=unhāṁ
 2	ਲਿਖਿਆ	_	VERB	_	_	0	root	0:root	SpaceAfter=No|Translit=likhiā
 3	,	_	PUNCT	_	_	2	punct	2:punct	Translit=,
-4	''	_	PUNCT	_	_	13	punct	13:punct	Translit=''
+4	''	_	PUNCT	_	_	13	punct	13:punct	SpaceAfter=No|Translit=''
 5	ਮੇਰੇ	_	PRON	_	_	7	nmod	7:nmod	Translit=mere
 6	ਪਰਮ	_	NOUN	_	_	7	compound	7:compound	Translit=parama
 7	ਮਿੱਤਰ	_	NOUN	_	_	13	nmod	13:nmod	Translit=mittara
@@ -3066,7 +3066,7 @@
 11	ਰਜਨੀਕਾਂਤ	_	PROPN	_	_	7	appos	7:appos	Translit=rajanīkāṁta
 12	ਨੂੰ	_	ADP	_	_	7	case	7:case	Translit=nūṁ
 13	ਸ਼ੁਭਇੱਛਾਵਾਂ	_	NOUN	_	_	2	ccomp	2:ccomp	SpaceAfter=No|Translit=šubhaichchāvāṁ
-14	।	_	PUNCT	_	_	13	punct	13:punct	Translit=.
+14	।	_	PUNCT	_	_	13	punct	13:punct	SpaceAfter=No|Translit=.
 15	''	_	PUNCT	_	_	13	punct	13:punct	Translit=''
 
 # sent_id = news_bbc_rajnikanth_11
@@ -3667,7 +3667,7 @@
 10	ਦਾ	_	ADP	_	_	9	mark	9:mark	Translit=dā
 11	ਮੌਕਾ	_	NOUN	_	_	12	obj	12:obj	Translit=maukā
 12	ਮਿਲ	_	VERB	_	_	0	root	0:root	Translit=mila
-13	ਗਯਾ	_	VERB	_	_	12	compound:svc	12:compound:svc	Translit=gayā
+13	ਗਯਾ	_	VERB	_	_	12	compound:svc	12:compound:svc	SpaceAfter=No|Translit=gayā
 14	..	_	PUNCT	_	_	12	punct	12:punct	Translit=..
 15	ਬਹੁਤ	_	ADV	_	_	16	advmod	16:advmod	Translit=bahuta
 16	ਚੰਗਾ	_	ADJ	_	_	17	ccomp	17:ccomp	Translit=caṁgā
@@ -4070,7 +4070,7 @@
 13	ਉਹ	_	DET	_	_	7	det	7:det	Translit=uha
 14	ਠੰਡਾ	_	ADJ	_	_	15	xcomp	15:xcomp	Translit=ṭhaṁḍā
 15	ਪੈ	_	VERB	_	_	0	root	0:root	Translit=pai
-16	ਜਾਂਦੈ	_	VERB	_	_	15	compound:svc	15:compound:svc	SpaceAfter=No|Translit=jāṁdai
+16	ਜਾਂਦੈ	_	VERB	_	_	15	compound:svc	15:compound:svc	Translit=jāṁdai
 17	,	_	PUNCT	_	_	15	punct	15:punct	Translit=,
 18	ਉੰਨਾ	_	PRON	_	_	20	nsubj	20:nsubj	Translit=uṁnā
 19	ਨੂੰ	_	ADP	_	_	18	case	18:case	Translit=nūṁ
@@ -4398,7 +4398,7 @@
 14	ਭੇਂਟ	_	NOUN	_	_	15	compound:lvc	15:compound:lvc	Translit=bheṁṭa
 15	ਚੜ	_	VERB	_	_	0	root	0:root	Translit=caṛa
 16	ਗਿਆ	_	VERB	_	_	15	compound:svc	15:compound:svc	Translit=giā
-17	ਸੀ	_	AUX	_	_	15	aux	15:aux	Translit=sī
+17	ਸੀ	_	AUX	_	_	15	aux	15:aux	SpaceAfter=No|Translit=sī
 18	...	_	PUNCT	_	_	15	punct	15:punct	Translit=...
 
 # sent_id = blog_lahore_29
@@ -5707,18 +5707,18 @@
 5	ਛੱਡਦੇ	_	VERB	_	_	4	compound:svc	4:compound:svc	Translit=chaḍḍade
 6	ਹਨ	_	AUX	_	_	4	aux	4:aux	SpaceAfter=No|Translit=hana
 7	,	_	PUNCT	_	_	4	punct	4:punct	Translit=,
-8	‘	_	PUNCT	_	_	10	punct	10:punct	Translit=‘
+8	‘	_	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No|Translit=‘
 9	ਸਾਰੇ	_	PRON	_	_	10	nsubj	10:nsubj	Translit=sāre
 10	ਇਕੋ	_	NUM	_	_	4	ccomp	4:ccomp	Translit=iko
 11	ਜਿਹੇ	_	ADP	_	_	10	case	10:case	Translit=jihe
-12	ਹਨ	_	AUX	_	_	10	cop	10:cop	Translit=hana
+12	ਹਨ	_	AUX	_	_	10	cop	10:cop	SpaceAfter=No|Translit=hana
 13	’	_	PUNCT	_	_	10	punct	10:punct	Translit=’
 14	ਜਾਂ	_	CCONJ	_	_	17	cc	17:cc	Translit=jāṁ
-15	‘	_	PUNCT	_	_	17	punct	17:punct	Translit=‘
+15	‘	_	PUNCT	_	_	17	punct	17:punct	SpaceAfter=No|Translit=‘
 16	ਸਭ	_	PRON	_	_	17	nsubj	17:nsubj	Translit=sabha
 17	ਰਲੇ	_	VERB	_	_	10	conj	4:ccomp|10:conj	Translit=rale
 18	ਹੋਏ	_	AUX	_	_	17	aux	17:aux	Translit=hoe
-19	ਹਨ	_	AUX	_	_	17	aux	17:aux	Translit=hana
+19	ਹਨ	_	AUX	_	_	17	aux	17:aux	SpaceAfter=No|Translit=hana
 20	’	_	PUNCT	_	_	17	punct	17:punct	SpaceAfter=No|Translit=’
 21	।	_	PUNCT	_	_	4	punct	4:punct	Translit=.
 
@@ -5995,8 +5995,8 @@
 # translit = voṭāṁ dī ‘majabūrī’  kārana iha rājanītī janataka prabaṁdha nūṁ sucārū rakhkhaṇa vāle sāre niyamā kānūṁnāṁ dī pālaṇā laī aṛikā baṇadī hai.
 1	ਵੋਟਾਂ	_	NOUN	_	_	4	nmod	4:nmod	Translit=voṭāṁ
 2	ਦੀ	_	ADP	_	_	1	case	1:case	Translit=dī
-3	‘	_	PUNCT	_	_	4	punct	4:punct	Translit=‘
-4	ਮਜਬੂਰੀ	_	NOUN	_	_	22	obl	22:obl	Translit=majabūrī
+3	‘	_	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No|Translit=‘
+4	ਮਜਬੂਰੀ	_	NOUN	_	_	22	obl	22:obl	SpaceAfter=No|Translit=majabūrī
 5	’	_	PUNCT	_	_	4	punct	4:punct	Translit=’
 6	ਕਾਰਨ	_	ADP	_	_	4	case	4:case	Translit=kārana
 7	ਇਹ	_	DET	_	_	8	det	8:det	Translit=iha
@@ -6213,15 +6213,15 @@
 1	ਅੱਜ	_	NOUN	_	_	11	obl	11:obl	Translit=ajja
 2	ਵੀ	_	PART	_	_	1	discourse	1:discourse	Translit=vī
 3	ਇਥੇ	_	PRON	_	_	11	obl	11:obl	Translit=ithe
-4	ਘਟੋ	_	ADJ	_	_	6	obl	6:obl	Translit=ghaṭo
-5	-	_	PUNCT	_	_	6	punct	6:punct	Translit=-
+4	ਘਟੋ	_	ADJ	_	_	6	obl	6:obl	SpaceAfter=No|Translit=ghaṭo
+5	-	_	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No|Translit=-
 6	ਘੱਟ	_	ADJ	_	_	7	amod	7:amod	Translit=ghaṭṭa
 7	ਤਾਪਮਾਨ	_	NOUN	_	_	11	nsubj:pass	11:nsubj:pass	Translit=tāpamāna
 8	6	_	NUM	_	_	9	nummod	9:nummod	Translit=6
 9	ਡਿਗਰੀ	_	NOUN	_	_	11	xcomp	11:xcomp	Translit=ḍigarī
 10	ਦਰਜ	_	ADJ	_	_	11	compound:lvc	11:compound:lvc	Translit=daraja
 11	ਕੀਤਾ	_	VERB	_	_	0	root	0:root	Translit=kītā
-12	ਗਿਆ	_	AUX	_	_	11	aux:pass	11:aux:pass	Translit=giā
+12	ਗਿਆ	_	AUX	_	_	11	aux:pass	11:aux:pass	SpaceAfter=No|Translit=giā
 13	,	_	PUNCT	_	_	11	punct	11:punct	Translit=,
 14	ਜੋ	_	PRON	_	_	19	nsubj	19:nsubj	Translit=jo
 15	ਰਾਤ	_	NOUN	_	_	19	obl	19:obl	Translit=rāta
@@ -6231,7 +6231,7 @@
 19	ਡਿੱਗਣ	_	VERB	_	_	21	acl	21:acl	Translit=ḍiggaṇa
 20	ਦੀ	_	ADP	_	_	19	mark	19:mark	Translit=dī
 21	ਸੰਭਾਵਨਾ	_	NOUN	_	_	22	nsubj	22:nsubj	Translit=saṁbhāvanā
-22	ਹੈ	_	VERB	_	_	7	acl:relcl	7:acl:relcl	Translit=hai
+22	ਹੈ	_	VERB	_	_	7	acl:relcl	7:acl:relcl	SpaceAfter=No|Translit=hai
 23	।	_	PUNCT	_	_	11	punct	11:punct	Translit=.
 
 # sent_id = news_tribune_cold_8
@@ -6477,7 +6477,7 @@
 25	ਨੁਕਸਾਨ	_	NOUN	_	_	26	compound:lvc	26:compound:lvc	Translit=nukasāna
 26	ਹੋ	_	VERB	_	_	17	conj	8:ccomp|17:conj	Translit=ho
 27	ਸਕਦਾ	_	VERB	_	_	26	compound:svc	26:compound:svc	Translit=sakadā
-28	ਹੈ	_	AUX	_	_	26	aux	26:aux	Translit=hai
+28	ਹੈ	_	AUX	_	_	26	aux	26:aux	SpaceAfter=No|Translit=hai
 29	।	_	PUNCT	_	_	8	punct	8:punct	Translit=.
 
 # sent_id = news_tribune_cold_18
