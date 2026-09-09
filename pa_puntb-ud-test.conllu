@@ -463,7 +463,7 @@
 # text = ਜਪਾਨ ਵਿਚ, ਕਲਾਸੀਕਲ ਚੀਨੀ ਤੱਤਾਂ, ਵੁ ਜ਼ਿੰਗ, ਪ੍ਰਮੁੱਖ ਹਨ.
 # translit = japāna vica, kalāsīkala cīnī tattāṁ, vu ziṁga, pramukhkha hana.
 1	ਜਪਾਨ	_	PROPN	_	_	11	obl	11:obl	Translit=japāna
-2	ਵਿਚ	_	ADJ	_	_	1	case	1:case	SpaceAfter=No|Translit=vica
+2	ਵਿਚ	_	ADP	_	_	1	case	1:case	SpaceAfter=No|Translit=vica
 3	,	_	PUNCT	_	_	11	punct	11:punct	Translit=,
 4	ਕਲਾਸੀਕਲ	_	ADJ	_	_	6	amod	6:amod	Translit=kalāsīkala
 5	ਚੀਨੀ	_	ADJ	_	_	6	amod	6:amod	Translit=cīnī
@@ -1538,7 +1538,7 @@
 25	ਹੋਲੋਬਰਨ	_	PROPN	_	_	27	obl	27:obl	Translit=holobarana
 26	ਵੱਲ	_	ADP	_	_	25	case	25:case	Translit=valla
 27	ਗਿਆ	_	VERB	_	_	21	conj	21:conj	Translit=giā
-28	ਜਿੱਥੇ	_	PRON	_	_	42	advmod	42:advmod	Translit=jiththe
+28	ਜਿੱਥੇ	_	PRON	_	_	42	obl	42:obl	Translit=jiththe
 29	ਕੰਜ਼ਰਵੇਟਿਵ	_	ADJ	_	_	30	amod	30:amod	Translit=kaṁzaraveṭiva
 30	ਪਾਰਟੀ	_	PROPN	_	_	42	nsubj	42:nsubj	Translit=pāraṭī
 31	ਗ੍ਰੈਂਡ	_	ADJ	_	_	32	amod	32:amod	Translit=graiṁḍa
@@ -2880,7 +2880,7 @@
 15	ਐਲਾਨ	_	NOUN	_	_	16	compound:lvc	16:compound:lvc	Translit=ailāna
 16	ਕਰ	_	VERB	_	_	0	root	0:root	Translit=kara
 17	ਦਿੱਤਾ	_	VERB	_	_	16	compound:svc	16:compound:svc	Translit=dittā
-18	ਹੈ	_	VERB	_	_	16	aux	16:aux	SpaceAfter=No|Translit=hai
+18	ਹੈ	_	AUX	_	_	16	aux	16:aux	SpaceAfter=No|Translit=hai
 19	।	_	PUNCT	_	_	16	punct	16:punct	Translit=.
 
 # sent_id = news_bbc_rajnikanth_3
@@ -3377,7 +3377,7 @@
 13	ਕੋਰੋਨਾ	_	NOUN	_	_	14	compound	14:compound	Translit=koronā
 14	ਪਾਜ਼ੇਟਿਵ	_	ADJ	_	_	15	xcomp	15:xcomp	Translit=pāzeṭiva
 15	ਪਾਏ	_	VERB	_	_	20	advcl	20:advcl	Translit=pāe
-16	ਜਾਣ	_	VERB	_	_	15	aux:pass	15:aux:pass	Translit=jāṇa
+16	ਜਾਣ	_	AUX	_	_	15	aux:pass	15:aux:pass	Translit=jāṇa
 17	ਤੋਂ	_	ADP	_	_	15	mark	15:mark	Translit=toṁ
 18	ਬਾਅਦ	_	ADP	_	_	17	fixed	17:fixed	Translit=bāada
 19	ਆਈਸੋਲੇਟ	_	ADJ	_	_	20	compound:lvc	20:compound:lvc	Translit=āīsoleṭa
@@ -3561,7 +3561,7 @@
 5	ਉਹ	_	PRON	_	_	6	nsubj	6:nsubj	Translit=uha
 6	ਜੰਮਿਆ	_	VERB	_	_	0	root	0:root	Translit=jaṁmiā
 7	ਹੀ	_	PART	_	_	6	discourse	6:discourse	Translit=hī
-8	ਨਹੀਂ	_	VERB	_	_	6	advmod	6:advmod	Translit=nahīṁ
+8	ਨਹੀਂ	_	ADV	_	_	6	advmod	6:advmod	Translit=nahīṁ
 
 # sent_id = blog_lahore_2
 # text = ਮੈਂ ਬਚਪਨ ਤੋਂ ਹੀ ਇਹ ਕਹਾਵਤ ਸੁਣਦਾ ਸੀ, ਕਦੇ ਖਾਸ ਧਿਆਨ ਕੀਤਾ ਨਹੀਂ ਜ਼ਿਆਦਾ, ਬਸ ਮੈਨੂੰ ਇੰਝ ਹੀ ਲੱਗਦਾ ਸੀ ਕਿ ਲਾਹੌਰ ਸ਼ਹਿਰ ਦੀ ਤਾਰੀਫ ਹੋ ਰਹੀ ਹੈ.
@@ -3626,7 +3626,7 @@
 23	ਕੋਈ	_	DET	_	_	24	det	24:det	Translit=koī
 24	ਡਰਾਮਾ	_	NOUN	_	_	18	ccomp	18:ccomp	Translit=ḍarāmā
 25	ਵੀ	_	PART	_	_	24	discourse	24:discourse	Translit=vī
-26	ਹੈ	_	VERB	_	_	24	cop	24:cop	SpaceAfter=No|Translit=hai
+26	ਹੈ	_	AUX	_	_	24	cop	24:cop	SpaceAfter=No|Translit=hai
 27	,	_	PUNCT	_	_	18	punct	18:punct	Translit=,
 28	ਚੰਡੀਗੜ੍ਹ	_	PROPN	_	_	35	parataxis	35:parataxis	SpaceAfter=No|Translit=caṁḍīgaṛha
 29	,	_	PUNCT	_	_	30	punct	30:punct	Translit=,
@@ -4120,7 +4120,7 @@
 9	ਜਾ	_	VERB	_	_	11	advcl	11:advcl	Translit=jā
 10	ਕੇ	_	AUX	_	_	9	aux	9:aux	Translit=ke
 11	ਦੱਸੋ	_	VERB	_	_	2	acl	2:acl	Translit=dasso
-12	ਕਿ	_	AUX	_	_	26	mark	26:mark	Translit=ki
+12	ਕਿ	_	SCONJ	_	_	26	mark	26:mark	Translit=ki
 13	ਇੰਝ	_	PRON	_	_	21	dislocated	21:dislocated	Translit=iṁjha
 14	ਉੰਨਾ	_	PRON	_	_	19	nsubj	19:nsubj	Translit=uṁnā
 15	ਨੇ	_	ADP	_	_	14	case	14:case	Translit=ne
@@ -4132,9 +4132,9 @@
 21	ਉਸ	_	PRON	_	_	26	obl	26:obl	Translit=usa
 22	ਵਿਚ	_	ADP	_	_	21	case	21:case	Translit=vica
 23	ਤੇ	_	PART	_	_	21	discourse	21:discourse	Translit=te
-24	ਇਕ	_	NUM	_	_	25	det	25:det	Translit=ika
+24	ਇਕ	_	NUM	_	_	25	nummod	25:nummod	Translit=ika
 25	ਬੁੱਢੀ	_	NOUN	_	_	26	nsubj	26:nsubj	Translit=buḍhḍhī
-26	ਰਹਿ	_	VERB	_	_	11	cc	11:cc	Translit=rahi
+26	ਰਹਿ	_	VERB	_	_	11	conj	11:conj	Translit=rahi
 27	ਰਹੀ	_	AUX	_	_	26	aux	26:aux	Translit=rahī
 28	ਏ	_	AUX	_	_	26	aux	26:aux	SpaceAfter=No|Translit=e
 29	.	_	PUNCT	_	_	3	punct	3:punct	Translit=.
@@ -4363,7 +4363,7 @@
 42	ਜਿਵੇਂ	_	ADV	_	_	44	advmod	44:advmod	Translit=jiveṁ
 43	ਉਹ	_	PRON	_	_	44	nsubj	44:nsubj	Translit=uha
 44	ਜ਼ਿੰਦਾ	_	ADJ	_	_	39	acl:relcl	39:acl:relcl	Translit=ziṁdā
-45	ਹੋਵੇ	_	VERB	_	_	44	cop	44:cop	SpaceAfter=No|Translit=hove
+45	ਹੋਵੇ	_	AUX	_	_	44	cop	44:cop	SpaceAfter=No|Translit=hove
 46	।	_	PUNCT	_	_	2	punct	2:punct	Translit=.
 
 # sent_id = blog_lahore_27
@@ -4737,7 +4737,7 @@
 9	ਪੰਜਾਬ	_	PROPN	_	_	21	nsubj	21:nsubj	Translit=paṁjāba
 10	ਦੁਨੀਆਂ	_	NOUN	_	_	19	nmod	19:nmod	Translit=dunīāṁ
 11	ਦਾ	_	ADP	_	_	10	case	10:case	Translit=dā
-12	ਸਭ	_	PRON	_	_	14	advmod	14:advmod	Translit=sabha
+12	ਸਭ	_	PRON	_	_	14	obl	14:obl	Translit=sabha
 13	ਤੋਂ	_	ADP	_	_	12	fixed	12:fixed	Translit=toṁ
 14	ਸੋਹਣਾ	_	ADJ	_	_	19	amod	19:amod	SpaceAfter=No|Translit=sohaṇā
 15	,	_	PUNCT	_	_	16	punct	16:punct	Translit=,
@@ -5051,7 +5051,7 @@
 11	ਨੂੰ	_	ADP	_	_	10	case	10:case	Translit=nūṁ
 12	ਦੁਨੀਆਂ	_	NOUN	_	_	17	nmod	17:nmod	Translit=dunīāṁ
 13	ਦਾ	_	ADP	_	_	12	case	12:case	Translit=dā
-14	ਸਭ	_	PRON	_	_	16	advmod	16:advmod	Translit=sabha
+14	ਸਭ	_	PRON	_	_	16	obl	16:obl	Translit=sabha
 15	ਤੋਂ	_	ADP	_	_	14	fixed	14:fixed	Translit=toṁ
 16	ਵਿਕਸਤ	_	ADJ	_	_	17	amod	17:amod	Translit=vikasata
 17	ਖਿੱਤਾ	_	NOUN	_	_	18	xcomp	18:xcomp	Translit=khittā
@@ -5236,7 +5236,7 @@
 6	ਤੋਂ	_	ADP	_	_	5	case	5:case	Translit=toṁ
 7	ਪਛੜੇ	_	ADJ	_	_	3	conj	3:conj	Translit=pachaṛe
 8	ਮੁਲਕਾਂ	_	NOUN	_	_	11	obl	11:obl	Translit=mulakāṁ
-9	ਵਿਚ	_	ADJ	_	_	8	case	8:case	Translit=vica
+9	ਵਿਚ	_	ADP	_	_	8	case	8:case	Translit=vica
 10	ਹੀ	_	PART	_	_	8	discourse	8:discourse	Translit=hī
 11	ਪਾਏ	_	VERB	_	_	0	root	0:root	Translit=pāe
 12	ਜਾਂਦੇ	_	AUX	_	_	11	aux:pass	11:aux:pass	Translit=jāṁde
@@ -7103,11 +7103,12 @@
 # sent_id = nonfiction_diamonds_24
 # text = ਮੁਸਲਮਾਨਾਂ ਦੀ ਆਉਂਦ ਤੋਂ ਪਹਿਲੇ ਪੰਜਾਬ ਸਗੋਂ ਹਿੰਦੁਸਤਾਨ ਭਰ ਦੀ ਜ਼ਬਾਨ ਹਿੰਦੀ ਸੀ ।
 # translit = musalamānāṁ dī āuṁda toṁ pahile paṁjāba sagoṁ hiṁdusatāna bhara dī zabāna hiṁdī sī .
+# text_en = Before the arrival of Muslims, Hindi was the language of Punjab and indeed of all of India.
 1	ਮੁਸਲਮਾਨਾਂ	_	PROPN	_	_	3	nsubj	3:nsubj	Translit=musalamānāṁ
 2	ਦੀ	_	ADP	_	_	1	case	1:case	Translit=dī
 3	ਆਉਂਦ	_	VERB	_	_	12	advcl	12:advcl	Translit=āuṁda
 4	ਤੋਂ	_	ADP	_	_	3	mark	3:mark	Translit=toṁ
-5	ਪਹਿਲੇ	_	PROPN	_	_	4	fixed	4:fixed	Translit=pahile
+5	ਪਹਿਲੇ	_	PROPN	_	_	6	nmod	6:nmod	Translit=pahile
 6	ਪੰਜਾਬ	_	PROPN	_	_	8	nmod	8:nmod	Translit=paṁjāba
 7	ਸਗੋਂ	_	CCONJ	_	_	6	case	6:case	Translit=sagoṁ
 8	ਹਿੰਦੁਸਤਾਨ	_	PROPN	_	_	9	compound	9:compound	Translit=hiṁdusatāna
@@ -7187,7 +7188,7 @@
 18	ਰਸਮ	_	NOUN	_	_	19	compound	19:compound	Translit=rasama
 19	ਰਿਵਾਜ	_	NOUN	_	_	13	conj	13:conj	Translit=rivāja
 20	ਆਦਿਕ	_	PART	_	_	13	conj	13:conj	Translit=ādika
-21	ਸਨ	_	VERB	_	_	13	cop	13:cop	Translit=sana
+21	ਸਨ	_	AUX	_	_	13	cop	13:cop	Translit=sana
 22	।	_	PUNCT	_	_	6	punct	6:punct	Translit=.
 
 # sent_id = editorial_rationalism_1
@@ -7203,7 +7204,7 @@
 3	ਕਿਰਦਾਰ	_	NOUN	_	_	4	nsubj	4:nsubj	Translit=kiradāra
 4	ਕਿਹੋ	_	PRON	_	_	0	root	0:root	Translit=kiho
 5	ਜਿਹਾ	_	ADP	_	_	4	case	4:case	Translit=jihā
-6	ਹੋਵੇ	_	VERB	_	_	4	cop	4:cop	Translit=hove
+6	ਹੋਵੇ	_	AUX	_	_	4	cop	4:cop	Translit=hove
 
 # sent_id = editorial_rationalism_3
 # text = ਅੱਜ ਪੂਰੇ ਭਾਰਤ ਵਿੱਚ ਧਾਰਮਿਕ ਵਿਅਕਤੀਆਂ ਦੀ ਗਿਣਤੀ 99% ਹੈ ਅਤੇ ਦੁਨੀਆਂ ਦੇ ਬਹੁਤੇ ਧਰਮ ਅਤੇ ਦੇਵੀ ਦੇਵਤੇ ਇਸ ਦੇਸ਼ ਵਿੱਚ ਹੀ ਮੌਜੂਦ ਹਨ।
@@ -7426,7 +7427,7 @@
 10	ਦੀ	_	ADP	_	_	9	case	9:case	Translit=dī
 11	ਟੀਮ	_	NOUN	_	_	22	advcl	22:advcl	Translit=ṭīma
 12	ਵੀ	_	PART	_	_	11	discourse	11:discourse	Translit=vī
-13	ਹੋਵੇਗੀ	_	VERB	_	_	11	cop	11:cop	Translit=hovegī
+13	ਹੋਵੇਗੀ	_	AUX	_	_	11	cop	11:cop	Translit=hovegī
 14	ਤਾਂ	_	ADV	_	_	22	advmod	22:advmod	Translit=tāṁ
 15	ਵੀ	_	PART	_	_	14	discourse	14:discourse	Translit=vī
 16	ਅਸੀਂ	_	PRON	_	_	22	nsubj	22:nsubj	Translit=asīṁ
