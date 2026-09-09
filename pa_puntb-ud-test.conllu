@@ -2060,7 +2060,7 @@
 5	ਵਿੱਚ	_	ADP	_	_	3	case	3:case	Translit=vicca
 6-8	ਨੂੰਹ-ਸੱਸ	_	_	_	_	_	_	_	Translit=nūṁha-sassa
 6	ਨੂੰਹ	_	NOUN	_	_	10	nmod	10:nmod	Translit=nūṁha
-7	-	_	PUNCT	_	_	8	cc	8:cc	Translit=-
+7	-	_	PUNCT	_	_	8	punct	8:punct	Translit=-
 8	ਸੱਸ	_	NOUN	_	_	6	conj	6:conj	Translit=sassa
 9	ਦੀ	_	ADP	_	_	6	case	6:case	Translit=dī
 10	ਸਰਪੰਚੀ	_	NOUN	_	_	12	nmod	12:nmod	Translit=sarapaṁcī
@@ -2178,7 +2178,7 @@
 13	ਮੁਕਾਬਲਾ	_	NOUN	_	_	19	nsubj	19:nsubj	Translit=mukābalā
 14-16	ਨੂੰਹ-ਸੱਸ	_	_	_	_	_	_	_	Translit=nūṁha-sassa
 14	ਨੂੰਹ	_	NOUN	_	_	19	obl	19:obl	Translit=nūṁha
-15	-	_	PUNCT	_	_	16	cc	16:cc	Translit=-
+15	-	_	PUNCT	_	_	16	punct	16:punct	Translit=-
 16	ਸੱਸ	_	NOUN	_	_	14	conj	14:conj	Translit=sassa
 17	ਵਿੱਚ	_	ADP	_	_	14	case	14:case	Translit=vicca
 18	ਹੀ	_	PART	_	_	14	discourse	14:discourse	Translit=hī
@@ -2249,7 +2249,7 @@
 5	ਸੀ	_	AUX	_	_	4	aux	4:aux	Translit=sī
 6-8	ਨੂੰਹ-ਸੱਸ	_	_	_	_	_	_	_	Translit=nūṁha-sassa
 6	ਨੂੰਹ	_	NOUN	_	_	10	nmod	10:nmod	Translit=nūṁha
-7	-	_	PUNCT	_	_	8	cc	8:cc	Translit=-
+7	-	_	PUNCT	_	_	8	punct	8:punct	Translit=-
 8	ਸੱਸ	_	NOUN	_	_	6	conj	6:conj	Translit=sassa
 9	ਦੀ	_	ADP	_	_	6	case	6:case	Translit=dī
 10	ਲੜਾਈ	_	NOUN	_	_	4	obj	4:obj	Translit=laṛāī
@@ -2271,7 +2271,7 @@
 11	ਕੋਈ	_	DET	_	_	16	det	16:det	Translit=koī
 12-14	ਨੂੰਹ-ਸੱਸ	_	_	_	_	_	_	_	Translit=nūṁha-sassa
 12	ਨੂੰਹ	_	NOUN	_	_	16	nmod	16:nmod	Translit=nūṁha
-13	-	_	PUNCT	_	_	14	cc	14:cc	Translit=-
+13	-	_	PUNCT	_	_	14	punct	14:punct	Translit=-
 14	ਸੱਸ	_	NOUN	_	_	12	conj	12:conj	Translit=sassa
 15	ਦੀ	_	ADP	_	_	12	case	12:case	Translit=dī
 16	ਲੜਾਈ	_	NOUN	_	_	5	ccomp	5:ccomp	Translit=laṛāī
@@ -2550,7 +2550,7 @@
 # text = ਦਰਾਣੀ-ਜਠਾਣੀ ਦੀ ਲੜਾਈ
 # translit = darāṇī-jaṭhāṇī dī laṛāī
 1	ਦਰਾਣੀ	_	NOUN	_	_	5	nmod	5:nmod	SpaceAfter=No|Translit=darāṇī
-2	-	_	PUNCT	_	_	3	cc	3:cc	SpaceAfter=No|Translit=-
+2	-	_	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No|Translit=-
 3	ਜਠਾਣੀ	_	NOUN	_	_	1	conj	1:conj	Translit=jaṭhāṇī
 4	ਦੀ	_	ADP	_	_	1	case	1:case	Translit=dī
 5	ਲੜਾਈ	_	NOUN	_	_	0	root	0:root	Translit=laṛāī
@@ -2573,7 +2573,7 @@
 13	ਲਈ	_	ADP	_	_	12	case	12:case	Translit=laī
 14-16	ਦਰਾਣੀਆਂ-ਜਠਾਣੀਆਂ	_	_	_	_	_	_	_	Translit=darāṇīāṁ-jaṭhāṇīāṁ
 14	ਦਰਾਣੀਆਂ	_	NOUN	_	_	19	nsubj	19:nsubj	Translit=darāṇīāṁ
-15	-	_	PUNCT	_	_	16	cc	16:cc	Translit=-
+15	-	_	PUNCT	_	_	16	punct	16:punct	Translit=-
 16	ਜਠਾਣੀਆਂ	_	NOUN	_	_	14	conj	14:conj	Translit=jaṭhāṇīāṁ
 17-19	ਆਹਮੋ-ਸਾਹਮਣੇ	_	_	_	_	_	_	_	Translit=āhamo-sāhamaṇe
 17	ਆਹਮੋ	_	ADJ	_	_	19	compound:redup	19:compound:redup	Translit=āhamo
@@ -3218,15 +3218,15 @@
 11	ਜਿੰਨ੍ਹਾਂ	_	PRON	_	_	28	obl	28:obl	Translit=jiṁnhāṁ
 12	ਵਿੱਚ	_	ADP	_	_	11	case	11:case	Translit=vicca
 13	ਤਾਮਿਲ	_	PROPN	_	_	26	compound	26:compound	SpaceAfter=No|Translit=tāmila
-14	,	_	PUNCT	_	_	15	cc	15:cc	Translit=,
+14	,	_	PUNCT	_	_	15	punct	15:punct	Translit=,
 15	ਕੰਨੜ	_	PROPN	_	_	13	conj	13:conj	SpaceAfter=No|Translit=kaṁnaṛa
-16	,	_	PUNCT	_	_	17	cc	17:cc	Translit=,
+16	,	_	PUNCT	_	_	17	punct	17:punct	Translit=,
 17	ਤੇਲਗੂ	_	PROPN	_	_	13	conj	13:conj	SpaceAfter=No|Translit=telagū
-18	,	_	PUNCT	_	_	19	cc	19:cc	Translit=,
+18	,	_	PUNCT	_	_	19	punct	19:punct	Translit=,
 19	ਮਲਿਆਲਮ	_	PROPN	_	_	13	conj	13:conj	SpaceAfter=No|Translit=maliālama
-20	,	_	PUNCT	_	_	21	cc	21:cc	Translit=,
+20	,	_	PUNCT	_	_	21	punct	21:punct	Translit=,
 21	ਹਿੰਦੀ	_	PROPN	_	_	13	conj	13:conj	SpaceAfter=No|Translit=hiṁdī
-22	,	_	PUNCT	_	_	23	cc	23:cc	Translit=,
+22	,	_	PUNCT	_	_	23	punct	23:punct	Translit=,
 23	ਬੰਗਾਲੀ	_	PROPN	_	_	13	conj	13:conj	Translit=baṁgālī
 24	ਤੇ	_	CCONJ	_	_	25	cc	25:cc	Translit=te
 25	ਅੰਗਰੇਜ਼ੀ	_	PROPN	_	_	13	conj	13:conj	Translit=aṁgarezī
