@@ -1,80 +1,80 @@
 # sent_id = misc_indiccorp_1
 # text = ਰਾਸ਼ਟਰਪਤੀ ਰਿਟਾਇਰਮੈਂਟ ਨੂੰ ਘਟਾਉਣ ਲਈ ਅਸਫਲ ਕੋਸ਼ਿਸ਼
 # translit = rāšaṭarapatī riṭāiramaiṁṭa nūṁ ghaṭāuṇa laī asaphala košiša
-1	ਰਾਸ਼ਟਰਪਤੀ	ਰਾਸ਼ਟਰਪਤੀ	NOUN	n_msn	Case=Nom|Gender=Masc|Number=Sing	2	nmod	2:nmod	Translit=rāšaṭarapatī|LTranslit=rāšaṭarapatī
-2	ਰਿਟਾਇਰਮੈਂਟ	ਰਿਟਾਇਰਮੈਂਟ	NOUN	n_fsn	Case=Nom|Gender=Fem|Number=Sing	4	obj	4:obj	Translit=riṭāiramaiṁṭa|LTranslit=riṭāiramaiṁṭa
-3	ਨੂੰ	ਨੂੰ	ADP	c	_	2	case	2:case	Translit=nūṁ|LTranslit=nūṁ
-4	ਘਟਾਉਣ	ਘਟਾਉ	VERB	v_in_o	Case=Acc|VerbForm=Inf	7	acl	7:acl	Translit=ghaṭāuṇa|LTranslit=ghaṭāu
-5	ਲਈ	ਲਈ	ADP	c	_	4	mark	4:mark	Translit=laī|LTranslit=laī
-6	ਅਸਫਲ	ਅਸਫਲ	ADJ	j	_	7	amod	7:amod	Translit=asaphala|LTranslit=asaphala
-7	ਕੋਸ਼ਿਸ਼	ਕੋਸ਼ਿਸ਼	NOUN	n_nfs	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Translit=košiša|LTranslit=košiša
+1	ਰਾਸ਼ਟਰਪਤੀ	ਰਾਸ਼ਟਰਪਤੀ	NOUN	n_msn	Case=Nom|Gender=Masc|Number=Sing	2	nmod	2:nmod	LTranslit=rāšaṭarapatī|Translit=rāšaṭarapatī
+2	ਰਿਟਾਇਰਮੈਂਟ	ਰਿਟਾਇਰਮੈਂਟ	NOUN	n_fsn	Case=Nom|Gender=Fem|Number=Sing	4	obj	4:obj	LTranslit=riṭāiramaiṁṭa|Translit=riṭāiramaiṁṭa
+3	ਨੂੰ	ਨੂੰ	ADP	c	_	2	case	2:case	LTranslit=nūṁ|Translit=nūṁ
+4	ਘਟਾਉਣ	ਘਟਾਉ	VERB	v_in_o	Case=Acc|VerbForm=Inf	7	acl	7:acl	LTranslit=ghaṭāu|Translit=ghaṭāuṇa
+5	ਲਈ	ਲਈ	ADP	c	_	4	mark	4:mark	LTranslit=laī|Translit=laī
+6	ਅਸਫਲ	ਅਸਫਲ	ADJ	j	_	7	amod	7:amod	LTranslit=asaphala|Translit=asaphala
+7	ਕੋਸ਼ਿਸ਼	ਕੋਸ਼ਿਸ਼	NOUN	n_nfs	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	LTranslit=košiša|Translit=košiša
 
 # sent_id = misc_indiccorp_2
 # text = ਸਿਕੰਦਰ ਸਿੰਘ ਮਲੂਕਾ ਅਤੇ ਖੇਡ ਵਿਭਾਗ ਦੇ ਉਚ ਅਧਿਕਾਰੀਆਂ ਦਾ ਤਹਿ ਦਿਲੋਂ ਧੰਨਵਾਦ ਕੀਤਾ ਹੈ ਜਿਨ੍ਹਾਂ ਦੇ ਸਹਿਯੋਗ ਸਦਕਾ ਨਿਊਜ਼ੀਲੈਂਡ ਦੀਆਂ ਖਿਡਾਰਨਾਂ ਪਹਿਲੀ ਵਾਰ ਪੰਜਾਬੀਆਂ ਦੀ ਮਾਂ ਖੇਡ ਕਬੱਡੀ ਨੂੰ ਖੇਡ ਕੇ ਇਕ ਨਵਾਂ ਇਤਿਹਾਸ ਰਚਣਗੀਆਂ।
 # translit = sikaṁdara siṁgha malūkā ate kheḍa vibhāga de uca adhikārīāṁ dā tahi diloṁ dhaṁnavāda kītā hai jinhāṁ de sahiyoga sadakā niūzīlaiṁḍa dīāṁ khiḍāranāṁ pahilī vāra paṁjābīāṁ dī māṁ kheḍa kabaḍḍī nūṁ kheḍa ke ika navāṁ itihāsa racaṇagīāṁ.
 # text_en = I sincerely thank Sikander Singh Maluka and the senior officials of the Sports Department, due to whose support, New Zealand players will create a new history by playing Kabaddi, the mother sport of Punjabis, for the first time.
-1	ਸਿਕੰਦਰ	ਸਿਕੰਦਰ	PROPN	np_msn	Case=Nom|Gender=Masc|Number=Sing	14	obj	14:obj	Translit=sikaṁdara|LTranslit=sikaṁdara
-2	ਸਿੰਘ	ਸਿੰਘ	PROPN	np_msn	Case=Nom|Gender=Masc|Number=Sing	1	flat	1:flat	Translit=siṁgha|LTranslit=siṁgha
-3	ਮਲੂਕਾ	ਮਲੂਕਾ	PROPN	np_msn	Case=Nom|Gender=Masc|Number=Sing	1	flat	1:flat	Translit=malūkā|LTranslit=malūkā
-4	ਅਤੇ	ਅਤੇ	CCONJ	cc	_	9	cc	9:cc	Translit=ate|LTranslit=ate
-5	ਖੇਡ	ਖੇਡ	NOUN	n_msn	Case=Nom|Gender=Masc|Number=Sing	6	nmod	6:nmod	Translit=kheḍa|LTranslit=kheḍa
-6	ਵਿਭਾਗ	ਵਿਭਾਗ	NOUN	n_mso	Case=Acc|Gender=Masc|Number=Sing	9	nmod	9:nmod	Translit=vibhāga|LTranslit=vibhāga
-7	ਦੇ	ਦਾ	ADP	c_mpo	Case=Acc|Gender=Masc|Number=Plur	6	case	6:case	Translit=de|LTranslit=dā
-8	ਉਚ	ਉਚ	ADJ	j	_	9	amod	9:amod	Translit=uca|LTranslit=uca
-9	ਅਧਿਕਾਰੀਆਂ	ਅਧਿਕਾਰੀ	NOUN	n_mpo	Case=Acc|Gender=Masc|Number=Plur	1	conj	1:conj|14:obj	Translit=adhikārīāṁ|LTranslit=adhikārī
-10	ਦਾ	ਦਾ	ADP	c_msn	Case=Nom|Gender=Masc|Number=Sing	1	case	1:case|9:case	Translit=dā|LTranslit=dā
-11	ਤਹਿ	ਤਹਿ	ADJ	j	_	12	amod	12:amod	Translit=tahi|LTranslit=tahi
-12	ਦਿਲੋਂ	ਦਿਲ	NOUN	n_msa	Case=Abl|Gender=Masc|Number=Sing	13	obl	13:obl	Translit=diloṁ|LTranslit=dila
-13	ਧੰਨਵਾਦ	ਧੰਨਵਾਦ	NOUN	n_msn	Case=Nom|Gender=Masc|Number=Sing	14	compound:lvc	14:compound:lvc	Translit=dhaṁnavāda|LTranslit=dhaṁnavāda
-14	ਕੀਤਾ	ਕਰ	VERB	v_p_ms	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|VerbForm=Fin	0	root	0:root	Translit=kītā|LTranslit=kara
-15	ਹੈ	ਹੈ	AUX	a_n_3s	_	14	aux	14:aux	Translit=hai|LTranslit=hai
-16	ਜਿਨ੍ਹਾਂ	ਜੋ	PRON	p_po	Case=Acc|Number=Plur	18	nmod	18:nmod	Translit=jinhāṁ|LTranslit=jo
-17	ਦੇ	ਦਾ	ADP	c_mso	Case=Acc|Gender=Masc|Number=Sing	16	case	16:case	Translit=de|LTranslit=dā
-18	ਸਹਿਯੋਗ	ਸਹਿਯੋਗ	NOUN	n_mso	Case=Acc|Gender=Masc|Number=Sing	36	obl	36:obl	Translit=sahiyoga|LTranslit=sahiyoga
-19	ਸਦਕਾ	ਸਦਕਾ	ADP	c	_	18	case	18:case	Translit=sadakā|LTranslit=sadakā
-20	ਨਿਊਜ਼ੀਲੈਂਡ	ਨਿਊਜ਼ੀਲੈਂਡ	PROPN	np_mso	Case=Acc|Gender=Masc|Number=Sing	22	nmod	22:nmod	Translit=niūzīlaiṁḍa|LTranslit=niūzīlaiṁḍa
-21	ਦੀਆਂ	ਦਾ	ADP	c_fpn	Case=Nom|Gender=Fem|Number=Plur	20	case	20:case	Translit=dīāṁ|LTranslit=dā
-22	ਖਿਡਾਰਨਾਂ	ਖਿਡਾਰਨ	NOUN	n_fpn	Case=Nom|Gender=Fem|Number=Plur	36	nsubj	36:nsubj	Translit=khiḍāranāṁ|LTranslit=khiḍārana
-23	ਪਹਿਲੀ	ਪਹਿਲਾ	ADJ	j_fsn	Case=Nom|Gender=Fem|Number=Sing	24	amod	24:amod	Translit=pahilī|LTranslit=pahilā
-24	ਵਾਰ	ਵਾਰ	NOUN	n_mso	Case=Acc|Gender=Masc|Number=Sing	31	obl	31:obl	Translit=vāra|LTranslit=vāra
-25	ਪੰਜਾਬੀਆਂ	ਪੰਜਾਬੀ	PROPN	n_mpo	Case=Acc|Gender=Masc|Number=Plur	28	nmod	28:nmod	Translit=paṁjābīāṁ|LTranslit=paṁjābī
-26	ਦੀ	ਦਾ	ADP	c_fsn	Case=Nom|Gender=Fem|Number=Sing	25	case	25:case	Translit=dī|LTranslit=dā
-27	ਮਾਂ	ਮਾਂ	NOUN	n_fsn	Case=Nom|Gender=Fem|Number=Sing	28	compound	28:compound	Translit=māṁ|LTranslit=māṁ
-28	ਖੇਡ	ਖੇਡ	NOUN	n_mso	Case=Acc|Gender=Masc|Number=Sing	31	obj	31:obj	Translit=kheḍa|LTranslit=kheḍa
-29	ਕਬੱਡੀ	ਕਬੱਡੀ	NOUN	n_fso	Case=Acc|Gender=Fem|Number=Sing	28	appos	28:appos	Translit=kabaḍḍī|LTranslit=kabaḍḍī
-30	ਨੂੰ	ਨੂੰ	ADP	c	_	29	case	29:case	Translit=nūṁ|LTranslit=nūṁ
-31	ਖੇਡ	ਖੇਡ	VERB	v	_	36	advcl	36:advcl	Translit=kheḍa|LTranslit=kheḍa
-32	ਕੇ	ਕੇ	PART	v_c	_	31	mark	31:mark	Translit=ke|LTranslit=ke
-33	ਇਕ	ਇਕ	NUM	num	_	35	nummod	35:nummod	Translit=ika|LTranslit=ika
-34	ਨਵਾਂ	ਨਵਾਂ	ADJ	j_msn	Case=Nom|Gender=Masc|Number=Sing	35	amod	35:amod	Translit=navāṁ|LTranslit=navāṁ
-35	ਇਤਿਹਾਸ	ਇਤਿਹਾਸ	NOUN	n_msn	Case=Nom|Gender=Masc|Number=Sing	36	obj	36:obj	Translit=itihāsa|LTranslit=itihāsa
-36	ਰਚਣਗੀਆਂ	ਰਚ	VERB	v_f_3fp	Gender=Fem|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	1	acl:relcl	1:acl:relcl	SpaceAfter=No|Translit=racaṇagīāṁ|LTranslit=raca
-37	।	।	PUNCT	punct	_	14	punct	14:punct	Translit=.|LTranslit=.
+1	ਸਿਕੰਦਰ	ਸਿਕੰਦਰ	PROPN	np_msn	Case=Nom|Gender=Masc|Number=Sing	14	obj	14:obj	LTranslit=sikaṁdara|Translit=sikaṁdara
+2	ਸਿੰਘ	ਸਿੰਘ	PROPN	np_msn	Case=Nom|Gender=Masc|Number=Sing	1	flat	1:flat	LTranslit=siṁgha|Translit=siṁgha
+3	ਮਲੂਕਾ	ਮਲੂਕਾ	PROPN	np_msn	Case=Nom|Gender=Masc|Number=Sing	1	flat	1:flat	LTranslit=malūkā|Translit=malūkā
+4	ਅਤੇ	ਅਤੇ	CCONJ	cc	_	9	cc	9:cc	LTranslit=ate|Translit=ate
+5	ਖੇਡ	ਖੇਡ	NOUN	n_msn	Case=Nom|Gender=Masc|Number=Sing	6	nmod	6:nmod	LTranslit=kheḍa|Translit=kheḍa
+6	ਵਿਭਾਗ	ਵਿਭਾਗ	NOUN	n_mso	Case=Acc|Gender=Masc|Number=Sing	9	nmod	9:nmod	LTranslit=vibhāga|Translit=vibhāga
+7	ਦੇ	ਦਾ	ADP	c_mpo	Case=Acc|Gender=Masc|Number=Plur	6	case	6:case	LTranslit=dā|Translit=de
+8	ਉਚ	ਉਚ	ADJ	j	_	9	amod	9:amod	LTranslit=uca|Translit=uca
+9	ਅਧਿਕਾਰੀਆਂ	ਅਧਿਕਾਰੀ	NOUN	n_mpo	Case=Acc|Gender=Masc|Number=Plur	1	conj	1:conj|14:obj	LTranslit=adhikārī|Translit=adhikārīāṁ
+10	ਦਾ	ਦਾ	ADP	c_msn	Case=Nom|Gender=Masc|Number=Sing	1	case	1:case|9:case	LTranslit=dā|Translit=dā
+11	ਤਹਿ	ਤਹਿ	ADJ	j	_	12	amod	12:amod	LTranslit=tahi|Translit=tahi
+12	ਦਿਲੋਂ	ਦਿਲ	NOUN	n_msa	Case=Abl|Gender=Masc|Number=Sing	13	obl	13:obl	LTranslit=dila|Translit=diloṁ
+13	ਧੰਨਵਾਦ	ਧੰਨਵਾਦ	NOUN	n_msn	Case=Nom|Gender=Masc|Number=Sing	14	compound:lvc	14:compound:lvc	LTranslit=dhaṁnavāda|Translit=dhaṁnavāda
+14	ਕੀਤਾ	ਕਰ	VERB	v_p_ms	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|VerbForm=Fin	0	root	0:root	LTranslit=kara|Translit=kītā
+15	ਹੈ	ਹੈ	AUX	a_n_3s	_	14	aux	14:aux	LTranslit=hai|Translit=hai
+16	ਜਿਨ੍ਹਾਂ	ਜੋ	PRON	p_po	Case=Acc|Number=Plur	18	nmod	18:nmod	LTranslit=jo|Translit=jinhāṁ
+17	ਦੇ	ਦਾ	ADP	c_mso	Case=Acc|Gender=Masc|Number=Sing	16	case	16:case	LTranslit=dā|Translit=de
+18	ਸਹਿਯੋਗ	ਸਹਿਯੋਗ	NOUN	n_mso	Case=Acc|Gender=Masc|Number=Sing	36	obl	36:obl	LTranslit=sahiyoga|Translit=sahiyoga
+19	ਸਦਕਾ	ਸਦਕਾ	ADP	c	_	18	case	18:case	LTranslit=sadakā|Translit=sadakā
+20	ਨਿਊਜ਼ੀਲੈਂਡ	ਨਿਊਜ਼ੀਲੈਂਡ	PROPN	np_mso	Case=Acc|Gender=Masc|Number=Sing	22	nmod	22:nmod	LTranslit=niūzīlaiṁḍa|Translit=niūzīlaiṁḍa
+21	ਦੀਆਂ	ਦਾ	ADP	c_fpn	Case=Nom|Gender=Fem|Number=Plur	20	case	20:case	LTranslit=dā|Translit=dīāṁ
+22	ਖਿਡਾਰਨਾਂ	ਖਿਡਾਰਨ	NOUN	n_fpn	Case=Nom|Gender=Fem|Number=Plur	36	nsubj	36:nsubj	LTranslit=khiḍārana|Translit=khiḍāranāṁ
+23	ਪਹਿਲੀ	ਪਹਿਲਾ	ADJ	j_fsn	Case=Nom|Gender=Fem|Number=Sing	24	amod	24:amod	LTranslit=pahilā|Translit=pahilī
+24	ਵਾਰ	ਵਾਰ	NOUN	n_mso	Case=Acc|Gender=Masc|Number=Sing	31	obl	31:obl	LTranslit=vāra|Translit=vāra
+25	ਪੰਜਾਬੀਆਂ	ਪੰਜਾਬੀ	PROPN	n_mpo	Case=Acc|Gender=Masc|Number=Plur	28	nmod	28:nmod	LTranslit=paṁjābī|Translit=paṁjābīāṁ
+26	ਦੀ	ਦਾ	ADP	c_fsn	Case=Nom|Gender=Fem|Number=Sing	25	case	25:case	LTranslit=dā|Translit=dī
+27	ਮਾਂ	ਮਾਂ	NOUN	n_fsn	Case=Nom|Gender=Fem|Number=Sing	28	compound	28:compound	LTranslit=māṁ|Translit=māṁ
+28	ਖੇਡ	ਖੇਡ	NOUN	n_mso	Case=Acc|Gender=Masc|Number=Sing	31	obj	31:obj	LTranslit=kheḍa|Translit=kheḍa
+29	ਕਬੱਡੀ	ਕਬੱਡੀ	NOUN	n_fso	Case=Acc|Gender=Fem|Number=Sing	28	appos	28:appos	LTranslit=kabaḍḍī|Translit=kabaḍḍī
+30	ਨੂੰ	ਨੂੰ	ADP	c	_	29	case	29:case	LTranslit=nūṁ|Translit=nūṁ
+31	ਖੇਡ	ਖੇਡ	VERB	v	_	36	advcl	36:advcl	LTranslit=kheḍa|Translit=kheḍa
+32	ਕੇ	ਕੇ	PART	v_c	_	31	mark	31:mark	LTranslit=ke|Translit=ke
+33	ਇਕ	ਇਕ	NUM	num	_	35	nummod	35:nummod	LTranslit=ika|Translit=ika
+34	ਨਵਾਂ	ਨਵਾਂ	ADJ	j_msn	Case=Nom|Gender=Masc|Number=Sing	35	amod	35:amod	LTranslit=navāṁ|Translit=navāṁ
+35	ਇਤਿਹਾਸ	ਇਤਿਹਾਸ	NOUN	n_msn	Case=Nom|Gender=Masc|Number=Sing	36	obj	36:obj	LTranslit=itihāsa|Translit=itihāsa
+36	ਰਚਣਗੀਆਂ	ਰਚ	VERB	v_f_3fp	Gender=Fem|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	1	acl:relcl	1:acl:relcl	LTranslit=raca|SpaceAfter=No|Translit=racaṇagīāṁ
+37	।	।	PUNCT	punct	_	14	punct	14:punct	LTranslit=.|Translit=.
 
 # sent_id = misc_indiccorp_4
 # text = ਉਨਾਂ ਨੇ ਮਾਤਾ ਚੰਦ ਕੌਰ ਅਤੇ ਖੰਨਾ ਦੇ ਸ਼ਿਵ ਸੈਨਾ ਆਗੂ ਦੇ ਕਤਲਾਂ ਨੂੰ ਕਵਰ ਅਪ ਕਰਨ ਵਿੱਚ ਸਹਾਇਤਾ ਕੀਤੀ।
 # translit = unāṁ ne mātā caṁda kaura ate khaṁnā de šiva sainā āgū de katalāṁ nūṁ kavara apa karana vicca sahāitā kītī.
-1	ਉਨਾਂ	ਉਹ	PRON	p_3po	Case=Acc|Number=Plur|Person=3	19	nsubj	19:nsubj	Translit=unāṁ|LTranslit=uha
-2	ਨੇ	ਨੇ	ADP	c	_	1	case	1:case	Translit=ne|LTranslit=ne
-3	ਮਾਤਾ	ਮਾਤਾ	PROPN	n_fsn	Case=Nom|Gender=Fem|Number=Sing	13	nmod	13:nmod	Translit=mātā|LTranslit=mātā
-4	ਚੰਦ	ਚੰਦ	PROPN	n_fsn	Case=Nom|Gender=Fem|Number=Sing	3	flat	3:flat	Translit=caṁda|LTranslit=caṁda
-5	ਕੌਰ	ਕੌਰ	PROPN	n_fsn	Case=Nom|Gender=Fem|Number=Sing	3	flat	3:flat	Translit=kaura|LTranslit=kaura
-6	ਅਤੇ	ਅਤੇ	CCONJ	cc	_	7	cc	7:cc	Translit=ate|LTranslit=ate
-7	ਖੰਨਾ	ਖੰਨਾ	PROPN	n_msn	Case=Nom|Gender=Masc|Number=Sing	3	conj	3:conj|13:nmod	Translit=khaṁnā|LTranslit=khaṁnā
-8	ਦੇ	ਦਾ	ADP	c_mso	Case=Acc|Gender=Masc|Number=Sing	3	case	3:case|7:case	Translit=de|LTranslit=dā
-9	ਸ਼ਿਵ	ਸ਼ਿਵ	PROPN	np_msn	Case=Nom|Gender=Masc|Number=Sing	10	compound	10:compound	Translit=šiva|LTranslit=šiva
-10	ਸੈਨਾ	ਸੈਨਾ	PROPN	n_fsn	Case=Nom|Gender=Fem|Number=Sing	11	nmod	11:nmod	Translit=sainā|LTranslit=sainā
-11	ਆਗੂ	ਆਗੂ	NOUN	n_mso	Case=Acc|Gender=Masc|Number=Sing	13	nmod	13:nmod	Translit=āgū|LTranslit=āgū
-12	ਦੇ	ਦਾ	ADP	c_mpo	Case=Acc|Gender=Masc|Number=Plur	11	case	11:case	Translit=de|LTranslit=dā
-13	ਕਤਲਾਂ	ਕਤਲ	NOUN	n_mso	Case=Acc|Gender=Masc|Number=Sing	17	obj	17:obj	Translit=katalāṁ|LTranslit=katala
-14	ਨੂੰ	ਨੂੰ	ADP	c	_	13	case	13:case	Translit=nūṁ|LTranslit=nūṁ
-15	ਕਵਰ	ਕਵਰ	X	x	_	17	compound:lvc	17:compound:lvc	Translit=kavara|LTranslit=kavara
-16	ਅਪ	ਅਪ	X	x	_	15	flat	15:flat	Translit=apa|LTranslit=apa
-17	ਕਰਨ	ਕਰ	VERB	v_in_o	Case=Acc|VerbForm=Inf	19	advcl	19:advcl	Translit=karana|LTranslit=kara
-18	ਵਿੱਚ	ਵਿੱਚ	ADP	c	_	17	mark	17:mark	Translit=vicca|LTranslit=vicca
-19	ਸਹਾਇਤਾ	ਸਹਾਇਤਾ	NOUN	n_fsn	Case=Nom|Gender=Fem|Number=Sing	20	compound:lvc	20:compound:lvc	Translit=sahāitā|LTranslit=sahāitā
-20	ਕੀਤੀ	ਕਰ	VERB	v_p_fs	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|VerbForm=Fin	0	root	0:root	SpaceAfter=No|Translit=kītī|LTranslit=kara
-21	।	।	PUNCT	punct	_	20	punct	20:punct	Translit=.|LTranslit=.
+1	ਉਨਾਂ	ਉਹ	PRON	p_3po	Case=Acc|Number=Plur|Person=3	19	nsubj	19:nsubj	LTranslit=uha|Translit=unāṁ
+2	ਨੇ	ਨੇ	ADP	c	_	1	case	1:case	LTranslit=ne|Translit=ne
+3	ਮਾਤਾ	ਮਾਤਾ	PROPN	n_fsn	Case=Nom|Gender=Fem|Number=Sing	13	nmod	13:nmod	LTranslit=mātā|Translit=mātā
+4	ਚੰਦ	ਚੰਦ	PROPN	n_fsn	Case=Nom|Gender=Fem|Number=Sing	3	flat	3:flat	LTranslit=caṁda|Translit=caṁda
+5	ਕੌਰ	ਕੌਰ	PROPN	n_fsn	Case=Nom|Gender=Fem|Number=Sing	3	flat	3:flat	LTranslit=kaura|Translit=kaura
+6	ਅਤੇ	ਅਤੇ	CCONJ	cc	_	7	cc	7:cc	LTranslit=ate|Translit=ate
+7	ਖੰਨਾ	ਖੰਨਾ	PROPN	n_msn	Case=Nom|Gender=Masc|Number=Sing	3	conj	3:conj|13:nmod	LTranslit=khaṁnā|Translit=khaṁnā
+8	ਦੇ	ਦਾ	ADP	c_mso	Case=Acc|Gender=Masc|Number=Sing	3	case	3:case|7:case	LTranslit=dā|Translit=de
+9	ਸ਼ਿਵ	ਸ਼ਿਵ	PROPN	np_msn	Case=Nom|Gender=Masc|Number=Sing	10	compound	10:compound	LTranslit=šiva|Translit=šiva
+10	ਸੈਨਾ	ਸੈਨਾ	PROPN	n_fsn	Case=Nom|Gender=Fem|Number=Sing	11	nmod	11:nmod	LTranslit=sainā|Translit=sainā
+11	ਆਗੂ	ਆਗੂ	NOUN	n_mso	Case=Acc|Gender=Masc|Number=Sing	13	nmod	13:nmod	LTranslit=āgū|Translit=āgū
+12	ਦੇ	ਦਾ	ADP	c_mpo	Case=Acc|Gender=Masc|Number=Plur	11	case	11:case	LTranslit=dā|Translit=de
+13	ਕਤਲਾਂ	ਕਤਲ	NOUN	n_mso	Case=Acc|Gender=Masc|Number=Sing	17	obj	17:obj	LTranslit=katala|Translit=katalāṁ
+14	ਨੂੰ	ਨੂੰ	ADP	c	_	13	case	13:case	LTranslit=nūṁ|Translit=nūṁ
+15	ਕਵਰ	ਕਵਰ	X	x	_	17	compound:lvc	17:compound:lvc	LTranslit=kavara|Translit=kavara
+16	ਅਪ	ਅਪ	X	x	_	15	flat	15:flat	LTranslit=apa|Translit=apa
+17	ਕਰਨ	ਕਰ	VERB	v_in_o	Case=Acc|VerbForm=Inf	19	advcl	19:advcl	LTranslit=kara|Translit=karana
+18	ਵਿੱਚ	ਵਿੱਚ	ADP	c	_	17	mark	17:mark	LTranslit=vicca|Translit=vicca
+19	ਸਹਾਇਤਾ	ਸਹਾਇਤਾ	NOUN	n_fsn	Case=Nom|Gender=Fem|Number=Sing	20	compound:lvc	20:compound:lvc	LTranslit=sahāitā|Translit=sahāitā
+20	ਕੀਤੀ	ਕਰ	VERB	v_p_fs	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|VerbForm=Fin	0	root	0:root	LTranslit=kara|SpaceAfter=No|Translit=kītī
+21	।	।	PUNCT	punct	_	20	punct	20:punct	LTranslit=.|Translit=.
 
 # sent_id = misc_indiccorp_5
 # text = ਰਾਹੁਲ ਗਾਂਧੀ ਲੋਕ ਸਭਾ ਚੋਣਾਂ ਨੂੰ ਧਿਆਨ ਵਿੱਚ ਰੱਖਦੇ ਹੋਏ ਆਪਣੇ ਆਪ ਨੂੰ ਕਿਸਾਨਾਂ ਦਾ ਵੱਡਾ ਹਮਦਰਦ ਦੱਸ ਰਹੇ ਹਨ।
@@ -301,8 +301,8 @@
 10	-	_	PUNCT	_	_	1	punct	1:punct	Translit=-
 
 # sent_id = misc_indiccorp_14_2
-# text = ਪ੍ਰਤਿਮਾ ਸਨਮਾਨ ਸਮਿਤੀ ਦੇ ਕੌਮੀ ਪ੍ਰਧਾਨ ਨੇ ਸਮਾਜਸੇਵੀ ਪੰਕਜ ਗਾਬਾ ਨੂੰ  ਸਮਿਤੀ ਦੀ ਯੂਥ ਇਕਾਈ ਦਾ ਕੌਮੀ ਪ੍ਰਧਾਨ ਨਿਯੁਕਤ ਕੀਤਾ ਹੈ |
-# translit = pratimā sanamāna samitī de kaumī pradhāna ne samājasevī paṁkaja gābā nūṁ  samitī dī yūtha ikāī dā kaumī pradhāna niyukata kītā hai |
+# text = ਪ੍ਰਤਿਮਾ ਸਨਮਾਨ ਸਮਿਤੀ ਦੇ ਕੌਮੀ ਪ੍ਰਧਾਨ ਨੇ ਸਮਾਜਸੇਵੀ ਪੰਕਜ ਗਾਬਾ ਨੂੰ ਸਮਿਤੀ ਦੀ ਯੂਥ ਇਕਾਈ ਦਾ ਕੌਮੀ ਪ੍ਰਧਾਨ ਨਿਯੁਕਤ ਕੀਤਾ ਹੈ |
+# translit = pratimā sanamāna samitī de kaumī pradhāna ne samājasevī paṁkaja gābā nūṁ samitī dī yūtha ikāī dā kaumī pradhāna niyukata kītā hai |
 1	ਪ੍ਰਤਿਮਾ	_	PROPN	_	_	2	compound	2:compound	Translit=pratimā
 2	ਸਨਮਾਨ	_	PROPN	_	_	3	compound	3:compound	Translit=sanamāna
 3	ਸਮਿਤੀ	_	PROPN	_	_	6	nmod	6:nmod	Translit=samitī
@@ -3033,8 +3033,8 @@
 15	।	_	PUNCT	_	_	13	punct	13:punct	Translit=.
 
 # sent_id = news_bbc_rajnikanth_9
-# text = ਨਵੀਂ ਪਾਰਟੀ ਦੇ ਐਲਾਨ ਤੋਂ ਬਾਅਦ ਹੀ ਸੋਸ਼ਲ ਮੀਡੀਆ 'ਤੇ ਰਜਨੀਕਾਂਤ ਟਰੈਂਡ ਕਰਨ ਲੱਗੇ।
-# translit = navīṁ pāraṭī de ailāna toṁ bāada hī sošala mīḍīā 'te rajanīkāṁta ṭaraiṁḍa karana lagge.
+# text = ਉਨ੍ਹਾਂ ਨੂੰ ਟਵੀਟ ਕਰਕੇ ਬਾਲੀਵੁੱਡ ਸਟਾਰ ਅਮਿਤਾਭ ਬੱਚਨ ਨੇ ਵੀ ਵਧਾਈ ਦਿੱਤੀ ਹੈ।
+# translit = unhāṁ nūṁ ṭavīṭa karake bālīvuḍḍa saṭāra amitābha baccana ne vī vadhāī dittī hai.
 1	ਉਨ੍ਹਾਂ	_	PRON	_	_	12	iobj	12:iobj	Translit=unhāṁ
 2	ਨੂੰ	_	ADP	_	_	1	case	1:case	Translit=nūṁ
 3	ਟਵੀਟ	_	NOUN	_	_	4	compound:lvc	4:compound:lvc	Translit=ṭavīṭa
@@ -3268,8 +3268,8 @@
 9	।	_	PUNCT	_	_	5	punct	5:punct	Translit=.
 
 # sent_id = news_bbc_rajnikanth_22
-# text = ਉਨ੍ਹਾਂ ਦੀਆਂ ਦੋ ਧੀਆਂ ਐਸ਼ਵਰਿਆ ਤੇ ਸੌਂਦਰਿਆ ਹਨ।
-# translit = unhāṁ dīāṁ do dhīāṁ aišavariā te sauṁdariā hana.
+# text = ਆਪਣੇ ਪਰਿਵਾਰ ਨਾਲ ਅਦਾਕਾਰ ਰਜਨੀਕਾਂਤ
+# translit = āpaṇe parivāra nāla adākāra rajanīkāṁta
 1	ਆਪਣੇ	_	PRON	_	_	2	nmod	2:nmod	Translit=āpaṇe
 2	ਪਰਿਵਾਰ	_	NOUN	_	_	4	nmod	4:nmod	Translit=parivāra
 3	ਨਾਲ	_	ADP	_	_	2	case	2:case	Translit=nāla
@@ -3553,8 +3553,8 @@
 
 # sent_id = blog_lahore_1
 # url = http://punjabigalbaat.blogspot.com/2018/02/blog-post_27.html
-# text = ਥਲਾਈਵਾ ਦਾ ਮਤਲਬ ਹੈ ਲੀਡਰ ਜਾਂ ਬੌਸ।
-# translit = thalāīvā dā matalaba hai līḍara jāṁ bausa.
+# text = ਜਿਸ ਲਾਹੌਰ ਨਹੀਂ ਵੇਖਿਆ ਉਹ ਜੰਮਿਆ ਹੀ ਨਹੀਂ
+# translit = jisa lāhaura nahīṁ vekhiā uha jaṁmiā hī nahīṁ
 1	ਜਿਸ	_	PRON	_	_	4	nsubj	4:nsubj	Translit=jisa
 2	ਲਾਹੌਰ	_	PROPN	_	_	4	obj	4:obj	Translit=lāhaura
 3	ਨਹੀਂ	_	ADV	_	_	4	advmod	4:advmod	Translit=nahīṁ
@@ -3600,8 +3600,8 @@
 31	.	_	PUNCT	_	_	7	punct	7:punct	Translit=.
 
 # sent_id = blog_lahore_3
-# text = ਫੇਰ ਜਦੋਂ ਵੱਡਾ ਹੋਇਆ, ਉਹ ਕਹਿੰਦੇ ਨੇ ਨਾ ਕਿ ਘਾਟ ਘਾਟ ਦਾ ਪਾਣੀ ਪੀਂਦੇ ਪੀਂਦੇ ਪਤਾ ਚਲਿਆ ਕਿ ਇਸ ਨਾਂ  ਦਾ ਕੋਈ ਡਰਾਮਾ ਵੀ ਹੈ, ਚੰਡੀਗੜ੍ਹ, ਦਿੱਲੀ, ਬੰਬਈ  .. ਕਈ ਜਗਾ ਤੇ ਇਸ਼ਤਿਹਾਰ ਵਿਖਦੇ ਰਹੇ ਕਿ ਫਲਾਣੀ 2 ਜਗਾਂ ਤੇ ਇਹ ਡਰਾਮਾ ਵਿਖਾਇਆ ਜਾਵੇਗਾ।
-# translit = phera jadoṁ vaḍḍā hoiā, uha kahiṁde ne nā ki ghāṭa ghāṭa dā pāṇī pīṁde pīṁde patā caliā ki isa nāṁ  dā koī ḍarāmā vī hai, caṁḍīgaṛha, dillī, baṁbaī  .. kaī jagā te išatihāra vikhade rahe ki phalāṇī 2 jagāṁ te iha ḍarāmā vikhāiā jāvegā.
+# text = ਫੇਰ ਜਦੋਂ ਵੱਡਾ ਹੋਇਆ, ਉਹ ਕਹਿੰਦੇ ਨੇ ਨਾ ਕਿ ਘਾਟ ਘਾਟ ਦਾ ਪਾਣੀ ਪੀਂਦੇ ਪੀਂਦੇ ਪਤਾ ਚਲਿਆ ਕਿ ਇਸ ਨਾਂ ਦਾ ਕੋਈ ਡਰਾਮਾ ਵੀ ਹੈ, ਚੰਡੀਗੜ੍ਹ, ਦਿੱਲੀ, ਬੰਬਈ .. ਕਈ ਜਗਾ ਤੇ ਇਸ਼ਤਿਹਾਰ ਵਿਖਦੇ ਰਹੇ ਕਿ ਫਲਾਣੀ 2 ਜਗਾਂ ਤੇ ਇਹ ਡਰਾਮਾ ਵਿਖਾਇਆ ਜਾਵੇਗਾ।
+# translit = phera jadoṁ vaḍḍā hoiā, uha kahiṁde ne nā ki ghāṭa ghāṭa dā pāṇī pīṁde pīṁde patā caliā ki isa nāṁ dā koī ḍarāmā vī hai, caṁḍīgaṛha, dillī, baṁbaī .. kaī jagā te išatihāra vikhade rahe ki phalāṇī 2 jagāṁ te iha ḍarāmā vikhāiā jāvegā.
 1	ਫੇਰ	_	ADV	_	_	18	advmod	18:advmod	Translit=phera
 2	ਜਦੋਂ	_	SCONJ	_	_	3	mark	3:mark	Translit=jadoṁ
 3	ਵੱਡਾ	_	ADJ	_	_	18	advcl	18:advcl	Translit=vaḍḍā
@@ -4087,8 +4087,8 @@
 30	.	_	PUNCT	_	_	15	punct	15:punct	Translit=.
 
 # sent_id = blog_lahore_17
-# text = ਮਿਰਜਿਆਂ ਦਾ ਹਵੇਲੀ ਮਿਲਣ ਦਾ ਸਾਰਾ ਜੋਸ਼ ਜਿਹੜਾ ਠਾਠਾਂ ਮਾਰ ਰਿਹਾ ਸੀ ਉਹ ਠੰਡਾ ਪੈ ਜਾਂਦੈ , ਉੰਨਾ ਨੂੰ ਲੱਗਦਾ ਹੈ ਕਿ ਇਹ ਬੇਬੇ ਵਾਲੀ ਸਿਰਦਰਦੀ ਪੱਲੇ ਪੈ ਗਈ.
-# translit = mirajiāṁ dā havelī milaṇa dā sārā joša jihaṛā ṭhāṭhāṁ māra rihā sī uha ṭhaṁḍā pai jāṁdai , uṁnā nūṁ laggadā hai ki iha bebe vālī siradaradī palle pai gaī.
+# text = ਬੱਸ ਐਵੇਂ ਹੀ ਹਵੇਲੀ ਵਿਚ ਉੰਨਾ ਦੀ ਆਪਸ ਵਿਚ ਖਿੱਚ ਤਾਨ ਕੁਛ ਚਿਰ ਲੱਗੀ ਰਹਿੰਦੀ ਏ.
+# translit = bassa aiveṁ hī havelī vica uṁnā dī āpasa vica khicca tāna kucha cira laggī rahiṁdī e.
 1	ਬੱਸ	_	ADV	_	_	14	discourse	14:discourse	Translit=bassa
 2	ਐਵੇਂ	_	PRON	_	_	14	obl	14:obl	Translit=aiveṁ
 3	ਹੀ	_	PART	_	_	2	discourse	2:discourse	Translit=hī
@@ -4291,8 +4291,8 @@
 12	.	_	PUNCT	_	_	9	punct	9:punct	Translit=.
 
 # sent_id = blog_lahore_25
-# text = ਇਨਾਂ ਦਿਨਾਂ ਚ ਹੀ ਘਰ ਵਿਚ ਅਲੱਗ ਮਾਹੌਲ ਬਣ ਜਾਂਦਾ ਹੈ.
-# translit = ināṁ dināṁ ca hī ghara vica alagga māhaula baṇa jāṁdā hai.
+# text = ਮਿਰਜ਼ਾ ਸਾਬ ਦੀ ਧੀ ਉਸ ਬਜ਼ੁਰਗ ਬੀਬੀ ਨੂੰ ਦਾਦੀ ਕਹਿ ਕੇ ਜਦੋਂ ਆਵਾਜ਼ ਦੇਂਦੀ ਹੈ ਤੇ ਉਸ ਬੇਬੇ ਨੂੰ ਚੜ ਜਾਂਦਾ ਹੈ.
+# translit = mirazā sāba dī dhī usa bazuraga bībī nūṁ dādī kahi ke jadoṁ āvāza deṁdī hai te usa bebe nūṁ caṛa jāṁdā hai.
 1	ਮਿਰਜ਼ਾ	_	PROPN	_	_	4	nmod	4:nmod	Translit=mirazā
 2	ਸਾਬ	_	PROPN	_	_	1	flat	1:flat	Translit=sāba
 3	ਦੀ	_	ADP	_	_	1	case	1:case	Translit=dī
@@ -4427,8 +4427,8 @@
 21	।	_	PUNCT	_	_	6	punct	6:punct	Translit=.
 
 # sent_id = blog_lahore_30
-# text = ਇਹ ਕਹਾਣੀ ਇਥੇ ਖਤਮ ਨਹੀਂ ਹੁੰਦੀ, ਇਹ ਤੇ ਸਮਝੋ ਇੰਟਰਵਲ ਹੈ, ਬਾਕੀ ਦੀ ਕਹਾਣੀ ਤੁਹਾਨੂੰ ਸ਼ਾਮ ਵੇਲੇ ਸੁਨਾਵਾਂਗਾਂ।
-# translit = iha kahāṇī ithe khatama nahīṁ huṁdī, iha te samajho iṁṭaravala hai, bākī dī kahāṇī tuhānūṁ šāma vele sunāvāṁgāṁ.
+# text = ਲਿਖਣ ਚ ਸਮਾਂ ਲੱਗਦਾ ਏ, ਬੰਦਾ ਥਕ ਜਾਂਦੈ।
+# translit = likhaṇa ca samāṁ laggadā e, baṁdā thaka jāṁdai.
 1	ਲਿਖਣ	_	VERB	_	_	4	advcl	4:advcl	Translit=likhaṇa
 2	ਚ	_	ADP	_	_	1	mark	1:mark	Translit=ca
 3	ਸਮਾਂ	_	NOUN	_	_	4	obj	4:obj	Translit=samāṁ
@@ -4575,8 +4575,8 @@
 15	।	_	PUNCT	_	_	14	punct	14:punct	Translit=.
 
 # sent_id = editorial_trolley_punjab_6
-# text = ਏਨਾ ਖੁੱਲ੍ਹਾ ਪਾਣੀ ਵੀ ਸ਼ਾਇਦ ਹੀ ਧਰਤੀ ਦੇ ਕਿਸੇ ਹੋਰ ਖਿੱਤੇ ਨੂੰ ਨਸੀਬ ਹੋਵੇ।
-# translit = enā khullhā pāṇī vī šāida hī dharatī de kise hora khitte nūṁ nasība hove.
+# text = ਹਿਮਾਲਾ ਪਰਬਤ ਤੋਂ ਪੰਜਾਬ ਵਿਚ ਦਾਖਲ ਹੋਣ ਸਮੇਂ ਦਰਿਆਵਾਂ ਦਾ ਪਾਣੀ ਹੁੰਦਾ ਵੀ ਬਿਲਕੁਲ ਸਾਫ਼ ਅਤੇ ਸ਼ੁੱਧ ਹੈ।
+# translit = himālā parabata toṁ paṁjāba vica dākhala hoṇa sameṁ dariāvāṁ dā pāṇī huṁdā vī bilakula sāfa ate šudhdha hai.
 1	ਹਿਮਾਲਾ	_	PROPN	_	_	2	compound	2:compound	Translit=himālā
 2	ਪਰਬਤ	_	NOUN	_	_	7	obl	7:obl	Translit=parabata
 3	ਤੋਂ	_	ADP	_	_	2	case	2:case	Translit=toṁ
@@ -4752,8 +4752,8 @@
 23	?	_	PUNCT	_	_	5	punct	5:punct	Translit=?
 
 # sent_id = editorial_trolley_punjab_14
-# text = ਫਿਰ ਪੰਜਾਬ ਨੂੰ ਕਿਹੜਾ ਰੋਗ ਹੈ ਜਿਸ ਕਰਕੇ ਪੰਜਾਬ ਦੁਨੀਆਂ ਦਾ ਸਭ ਤੋਂ ਸੋਹਣਾ, ਅਮੀਰ ਅਤੇ ਖੁਸ਼ਹਾਲ ਖਿੱਤਾ ਨਹੀਂ ਬਣ ਸਕਿਆ?
-# translit = phira paṁjāba nūṁ kihaṛā roga hai jisa karake paṁjāba dunīāṁ dā sabha toṁ sohaṇā, amīra ate khušahāla khittā nahīṁ baṇa sakiā?
+# text = ਸਾਰਾ ਕੁਝ ਵਧੀਆ ਹੋਣ ਦੇ ਬਾਵਜੂਦ ਇਹ ਏਨਾ ਨਿਘਾਰ ਮੁਖੀ ਕਿਉਂ ਹੈ?
+# translit = sārā kujha vadhīā hoṇa de bāvajūda iha enā nighāra mukhī kiuṁ hai?
 1	ਸਾਰਾ	_	DET	_	_	2	det	2:det	Translit=sārā
 2	ਕੁਝ	_	PRON	_	_	3	nsubj	3:nsubj	Translit=kujha
 3	ਵਧੀਆ	_	ADJ	_	_	10	advcl	10:advcl	Translit=vadhīā
@@ -4769,8 +4769,8 @@
 13	?	_	PUNCT	_	_	10	punct	10:punct	Translit=?
 
 # sent_id = editorial_trolley_punjab_15
-# text = ਫਿਰ ਪੰਜਾਬ ਨੂੰ ਕਿਹੜਾ ਰੋਗ ਹੈ ਜਿਸ ਕਰਕੇ ਪੰਜਾਬ ਦੁਨੀਆਂ ਦਾ ਸਭ ਤੋਂ ਸੋਹਣਾ, ਅਮੀਰ ਅਤੇ ਖੁਸ਼ਹਾਲ ਖਿੱਤਾ ਨਹੀਂ ਬਣ ਸਕਿਆ?
-# translit = phira paṁjāba nūṁ kihaṛā roga hai jisa karake paṁjāba dunīāṁ dā sabha toṁ sohaṇā, amīra ate khušahāla khittā nahīṁ baṇa sakiā?
+# text = ਇਸ ਦੇ ਬਾਸ਼ਿੰਦੇ ਆਪਣੀ ਧਰਤੀ ਨੂੰ ਏਨੀ ਤੇਜ਼ੀ ਨਾਲ ਛੱਡ ਕੇ ਦੌੜੀ ਕਿਉਂ ਜਾ ਰਹੇ ਹਨ?
+# translit = isa de bāšiṁde āpaṇī dharatī nūṁ enī tezī nāla chaḍḍa ke dauṛī kiuṁ jā rahe hana?
 1	ਇਸ	_	PRON	_	_	3	nmod	3:nmod	Translit=isa
 2	ਦੇ	_	ADP	_	_	1	case	1:case	Translit=de
 3	ਬਾਸ਼ਿੰਦੇ	_	NOUN	_	_	12	nsubj	12:nsubj	Translit=bāšiṁde
@@ -4790,8 +4790,8 @@
 17	?	_	PUNCT	_	_	12	punct	12:punct	Translit=?
 
 # sent_id = editorial_trolley_punjab_16
-# text = ਫਿਰ ਪੰਜਾਬ ਨੂੰ ਕਿਹੜਾ ਰੋਗ ਹੈ ਜਿਸ ਕਰਕੇ ਪੰਜਾਬ ਦੁਨੀਆਂ ਦਾ ਸਭ ਤੋਂ ਸੋਹਣਾ, ਅਮੀਰ ਅਤੇ ਖੁਸ਼ਹਾਲ ਖਿੱਤਾ ਨਹੀਂ ਬਣ ਸਕਿਆ?
-# translit = phira paṁjāba nūṁ kihaṛā roga hai jisa karake paṁjāba dunīāṁ dā sabha toṁ sohaṇā, amīra ate khušahāla khittā nahīṁ baṇa sakiā?
+# text = ਪੰਜਾਬ ਨੂੰ ਅੱਗੇ ਵਧਾਉਣ ਦੀ ਬਜਾਏ ਪੰਜਾਬੀ ਸਿਰਫ ਖੁਦਕੁਸ਼ੀ ਜਾਂ ਹਿਜਰਤ ਕਰਨ ਦੀ ਸੋਚਣ ਜੋਗੇ ਕਿਉਂ ਰਹਿ ਗਏ ਹਨ?
+# translit = paṁjāba nūṁ agge vadhāuṇa dī bajāe paṁjābī sirapha khudakušī jāṁ hijarata karana dī socaṇa joge kiuṁ rahi gae hana?
 1	ਪੰਜਾਬ	_	PROPN	_	_	4	obj	4:obj	Translit=paṁjāba
 2	ਨੂੰ	_	ADP	_	_	1	case	1:case	Translit=nūṁ
 3	ਅੱਗੇ	_	ADV	_	_	4	advmod	4:advmod	Translit=agge
@@ -4852,8 +4852,8 @@
 34	।	_	PUNCT	_	_	7	punct	7:punct	Translit=.
 
 # sent_id = editorial_trolley_punjab_18
-# text = ਮੈਂ ਪੰਜਾਬ ਦੇ ਸੈਂਕੜੇ ਇੰਜਨੀਅਰਾਂ ਨੂੰ ਜਾਣਦਾ ਹੋਵਾਂਗਾ ਜੋ ਇਧਰੋਂ ਇੰਜਨੀਰਿੰਗ ਦੀਆਂ ਸਰਕਾਰੀ ਜਾਂ ਪ੍ਰਾਈਵੇਟ ਨੌਕਰੀਆਂ ਛੱਡ ਕੇ ਅਮਰੀਕਾ, ਕੈਨੇਡਾ, ਅਸਟ੍ਰੇਲੀਆ ਜਾਂ ਹੋਰ ਵਿਕਸਤ ਦੇਸ਼ਾਂ ਵਿਚ ਬਤੌਰ ਇੰਜਨੀਅਰ ਕੰਮ ਕਰਦੇ ਹਨ।
-# translit = maiṁ paṁjāba de saiṁkaṛe iṁjanīarāṁ nūṁ jāṇadā hovāṁgā jo idharoṁ iṁjanīriṁga dīāṁ sarakārī jāṁ prāīveṭa naukarīāṁ chaḍḍa ke amarīkā, kaineḍā, asaṭrelīā jāṁ hora vikasata dešāṁ vica bataura iṁjanīara kaṁma karade hana.
+# text = ਬਹੁਤ ਸਾਰੇ ਡਾਕਟਰ ਇਧਰੋਂ ਡਾਕਟਰੀ ਛੱਡ ਬਾਹਰਲੇ ਮੁਲਕਾਂ ਦੇ ਕਾਮਯਾਬ ਡਾਕਟਰ ਬਣੇ ਹੋਏ ਹਨ।
+# translit = bahuta sāre ḍākaṭara idharoṁ ḍākaṭarī chaḍḍa bāharale mulakāṁ de kāmayāba ḍākaṭara baṇe hoe hana.
 1	ਬਹੁਤ	_	DET	_	_	3	det	3:det	Translit=bahuta
 2	ਸਾਰੇ	_	DET	_	_	3	det	3:det	Translit=sāre
 3	ਡਾਕਟਰ	_	NOUN	_	_	12	nsubj	12:nsubj	Translit=ḍākaṭara
@@ -4871,8 +4871,8 @@
 15	।	_	PUNCT	_	_	12	punct	12:punct	Translit=.
 
 # sent_id = editorial_trolley_punjab_19
-# text = ਮੈਂ ਪੰਜਾਬ ਦੇ ਸੈਂਕੜੇ ਇੰਜਨੀਅਰਾਂ ਨੂੰ ਜਾਣਦਾ ਹੋਵਾਂਗਾ ਜੋ ਇਧਰੋਂ ਇੰਜਨੀਰਿੰਗ ਦੀਆਂ ਸਰਕਾਰੀ ਜਾਂ ਪ੍ਰਾਈਵੇਟ ਨੌਕਰੀਆਂ ਛੱਡ ਕੇ ਅਮਰੀਕਾ, ਕੈਨੇਡਾ, ਅਸਟ੍ਰੇਲੀਆ ਜਾਂ ਹੋਰ ਵਿਕਸਤ ਦੇਸ਼ਾਂ ਵਿਚ ਬਤੌਰ ਇੰਜਨੀਅਰ ਕੰਮ ਕਰਦੇ ਹਨ।
-# translit = maiṁ paṁjāba de saiṁkaṛe iṁjanīarāṁ nūṁ jāṇadā hovāṁgā jo idharoṁ iṁjanīriṁga dīāṁ sarakārī jāṁ prāīveṭa naukarīāṁ chaḍḍa ke amarīkā, kaineḍā, asaṭrelīā jāṁ hora vikasata dešāṁ vica bataura iṁjanīara kaṁma karade hana.
+# text = ਪੰਜਾਬੀ ਵਿਗਿਆਨੀਆਂ ਨੇ ਬਾਹਰਲੇ ਦੇਸ਼ਾਂ ਵਿਚ ਜਾ ਕੇ ਆਪਣੇ ਖੇਤਰਾਂ ਵਿਚ ਨਾਮਣਾ ਖੱਟਿਆ ਹੈ।
+# translit = paṁjābī vigiānīāṁ ne bāharale dešāṁ vica jā ke āpaṇe khetarāṁ vica nāmaṇā khaṭṭiā hai.
 1	ਪੰਜਾਬੀ	_	ADJ	_	_	2	amod	2:amod	Translit=paṁjābī
 2	ਵਿਗਿਆਨੀਆਂ	_	NOUN	_	_	13	nsubj	13:nsubj	Translit=vigiānīāṁ
 3	ਨੇ	_	ADP	_	_	2	case	2:case	Translit=ne
@@ -5064,8 +5064,8 @@
 23	।	_	PUNCT	_	_	21	punct	21:punct	Translit=.
 
 # sent_id = editorial_trolley_punjab_26
-# text = ਦੂਜੇ ਸ਼ਬਦਾਂ ਵਿਚ ਪੰਜਾਬ ਦੇ ਗੁਣੀ ਕਿੱਤਾਕਾਰ ਅਤੇ ਹੁਨਰਮੰਦ ਪੰਜਾਬ ਨੂੰ ਦੁਨੀਆਂ ਦਾ ਸਭ ਤੋਂ ਵਿਕਸਤ ਖਿੱਤਾ ਬਣਾਉਣ ਦੀ ਯੋਗਤਾ ਰੱਖਦੇ ਹਨ।
-# translit = dūje šabadāṁ vica paṁjāba de guṇī kittākāra ate hunaramaṁda paṁjāba nūṁ dunīāṁ dā sabha toṁ vikasata khittā baṇāuṇa dī yogatā rakhkhade hana.
+# text = ਪਰ ਉਹਨਾਂ ਦੇ ਅਜਿਹਾ ਕਰਨ ਲਈ ਪੰਜਾਬ ਅੰਦਰ ਲੋੜੀਂਦਾ ਮਹੌਲ ਗੈਰਹਾਜ਼ਰ ਹੈ।
+# translit = para uhanāṁ de ajihā karana laī paṁjāba aṁdara loṛīṁdā mahaula gairahāzara hai.
 1	ਪਰ	_	CCONJ	_	_	11	cc	11:cc	Translit=para
 2	ਉਹਨਾਂ	_	PRON	_	_	5	nsubj	5:nsubj	Translit=uhanāṁ
 3	ਦੇ	_	ADP	_	_	2	case	2:case	Translit=de
@@ -5285,8 +5285,8 @@
 10	।	_	PUNCT	_	_	8	punct	8:punct	Translit=.
 
 # sent_id = editorial_trolley_punjab_35
-# text = ਫਿਰ ਵੀ ਪੰਜਾਬ ਵਿਚ ਇਹਨਾਂ ਦਾ ਪੂਰਾ ਦਬਦਬਾ ਹੈ।
-# translit = phira vī paṁjāba vica ihanāṁ dā pūrā dabadabā hai.
+# text = ਇਹਨਾਂ ਦੀ ਹਰ ਖੇਤਰ ਵਿਚ ਦਖਲ ਅੰਦਾਜ਼ੀ ਅਤੇ ਚੌਧਰ ਹੈ।
+# translit = ihanāṁ dī hara khetara vica dakhala aṁdāzī ate caudhara hai.
 1	ਇਹਨਾਂ	_	PRON	_	_	7	nsubj	7:nsubj	Translit=ihanāṁ
 2	ਦੀ	_	ADP	_	_	1	case	1:case	Translit=dī
 3	ਹਰ	_	DET	_	_	4	det	4:det	Translit=hara
@@ -5956,8 +5956,8 @@
 52	।	_	PUNCT	_	_	49	punct	49:punct	Translit=.
 
 # sent_id = editorial_trolley_punjab_63
-# text = ਸਾਡੇ ਸਥਾਪਤ ਸਿਆਸਤਦਾਨ ਔਸਤਨ ਹਰ ਸਵਾ ਸਾਲ ਬਾਅਦ ਆਉਣ ਵਾਲੀ ਕਿਸੇ ਨਾ ਕਿਸੇ ਚੋਣ ਲਈ ਜਿੰਨਾ ਪੈਸਾ, ਸਮਾਂ, ਸ਼ਕਤੀ, ਰਸੂਖ ਅਤੇ ਦਿਮਾਗ ਵਰਤਦੇ ਹਨ ਜੇ ਓਨਾ ਲੋਕਾਂ ਦੀਆਂ ਸਮੱਸਿਆਂ ਨੂੰ ਨਜਿੱਠਣ ਲਈ ਲਾਉਣ ਤਾਂ ਸਵਾ ਸਾਲ ਦੇ ਅੰਦਰ ਪੰਜਾਬ ਮੋਟੀਆਂ ਮੋਟੀਆਂ ਸਾਰੀਆਂ ਸਮੱਸਿਆ ਤੋਂ ਮੁਕਤ ਹੋ ਸਕਦਾ ਹੈ।
-# translit = sāḍe sathāpata siāsatadāna ausatana hara savā sāla bāada āuṇa vālī kise nā kise coṇa laī jiṁnā paisā, samāṁ, šakatī, rasūkha ate dimāga varatade hana je onā lokāṁ dīāṁ samassiāṁ nūṁ najiṭhṭhaṇa laī lāuṇa tāṁ savā sāla de aṁdara paṁjāba moṭīāṁ moṭīāṁ sārīāṁ samassiā toṁ mukata ho sakadā hai.
+# text = ਪਰ ਜਿਸ ਭਾਂਤ ਦੀ ਰਾਜਨੀਤੀ ਨੂੰ ਪੰਜਾਬ ਨੇ ਹੁਣ ਤੱਕ ਵਧਣ ਫੁੱਲਣ ਦਿੱਤਾ ਅਤੇ ਆਪਣੇ ਗਲ਼ ਪਾ ਲਿਆ ਹੈ ਇਹ ਆਪਣੇ ਆਪ ਵਿਚ ਸਭ ਤੋਂ ਵੱਡੀ ਸਮੱਸਿਆ ਬਣ ਗਈ ਹੈ।
+# translit = para jisa bhāṁta dī rājanītī nūṁ paṁjāba ne huṇa takka vadhaṇa phullaṇa dittā ate āpaṇe gala਼ pā liā hai iha āpaṇe āpa vica sabha toṁ vaḍḍī samassiā baṇa gaī hai.
 1	ਪਰ	_	CCONJ	_	_	28	cc	28:cc	Translit=para
 2	ਜਿਸ	_	DET	_	_	3	det	3:det|20:ref	Translit=jisa
 3	ਭਾਂਤ	_	NOUN	_	_	5	nmod	5:nmod	Translit=bhāṁta
@@ -5991,8 +5991,8 @@
 31	।	_	PUNCT	_	_	28	punct	28:punct	Translit=.
 
 # sent_id = editorial_trolley_punjab_64
-# text = ਵੋਟਾਂ ਦੀ ‘ਮਜਬੂਰੀ’  ਕਾਰਨ ਇਹ ਰਾਜਨੀਤੀ ਜਨਤਕ ਪ੍ਰਬੰਧ ਨੂੰ ਸੁਚਾਰੂ ਰੱਖਣ ਵਾਲੇ ਸਾਰੇ ਨਿਯਮਾ ਕਾਨੂੰਨਾਂ ਦੀ ਪਾਲਣਾ ਲਈ ਅੜਿਕਾ ਬਣਦੀ ਹੈ।
-# translit = voṭāṁ dī ‘majabūrī’  kārana iha rājanītī janataka prabaṁdha nūṁ sucārū rakhkhaṇa vāle sāre niyamā kānūṁnāṁ dī pālaṇā laī aṛikā baṇadī hai.
+# text = ਵੋਟਾਂ ਦੀ ‘ਮਜਬੂਰੀ’ ਕਾਰਨ ਇਹ ਰਾਜਨੀਤੀ ਜਨਤਕ ਪ੍ਰਬੰਧ ਨੂੰ ਸੁਚਾਰੂ ਰੱਖਣ ਵਾਲੇ ਸਾਰੇ ਨਿਯਮਾ ਕਾਨੂੰਨਾਂ ਦੀ ਪਾਲਣਾ ਲਈ ਅੜਿਕਾ ਬਣਦੀ ਹੈ।
+# translit = voṭāṁ dī ‘majabūrī’ kārana iha rājanītī janataka prabaṁdha nūṁ sucārū rakhkhaṇa vāle sāre niyamā kānūṁnāṁ dī pālaṇā laī aṛikā baṇadī hai.
 1	ਵੋਟਾਂ	_	NOUN	_	_	4	nmod	4:nmod	Translit=voṭāṁ
 2	ਦੀ	_	ADP	_	_	1	case	1:case	Translit=dī
 3	‘	_	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No|Translit=‘
@@ -6424,8 +6424,8 @@
 28	।	_	PUNCT	_	_	14	punct	14:punct	Translit=.
 
 # sent_id = news_tribune_cold_16
-# text = ਸੀਤ ਲਹਿਰ ਦੇ ਇਸ ਪ੍ਰਕੋਪ ਦੌਰਾਨ ਪੈ ਰਹੀ ਸੰਘਣੀ ਧੁੰਦ ਅਤੇ ਕੋਹਰਾ ਹਰੀਆਂ ਸਬਜ਼ੀਆਂ  ਅਤੇ ਚਾਰੇ ਲਈ ਨੁਕਸਾਨਦਾਇਕ ਹੈ।
-# translit = sīta lahira de isa prakopa daurāna pai rahī saṁghaṇī dhuṁda ate koharā harīāṁ sabazīāṁ  ate cāre laī nukasānadāika hai.
+# text = ਸੀਤ ਲਹਿਰ ਦੇ ਇਸ ਪ੍ਰਕੋਪ ਦੌਰਾਨ ਪੈ ਰਹੀ ਸੰਘਣੀ ਧੁੰਦ ਅਤੇ ਕੋਹਰਾ ਹਰੀਆਂ ਸਬਜ਼ੀਆਂ ਅਤੇ ਚਾਰੇ ਲਈ ਨੁਕਸਾਨਦਾਇਕ ਹੈ।
+# translit = sīta lahira de isa prakopa daurāna pai rahī saṁghaṇī dhuṁda ate koharā harīāṁ sabazīāṁ ate cāre laī nukasānadāika hai.
 1	ਸੀਤ	_	NOUN	_	_	2	compound	2:compound	Translit=sīta
 2	ਲਹਿਰ	_	NOUN	_	_	5	nmod	5:nmod	Translit=lahira
 3	ਦੇ	_	ADP	_	_	2	case	2:case	Translit=de
@@ -6481,8 +6481,8 @@
 29	।	_	PUNCT	_	_	8	punct	8:punct	Translit=.
 
 # sent_id = news_tribune_cold_18
-# text = ਉਨ੍ਹਾਂ ਕਿਹਾ ਕਿ ਪਿਛਲੇ ਦਿਨੀ ਲਗਾਤਾਰ ਪਏ ਮੀਂਹ ਕਾਰਨ ਖੇਤਾਂ ’ਚ ਪਾਣੀ ਖੜ੍ਹਾ ਹੋ ਗਿਆ ਹੈ ਜੇ ਹੋਰ ਮੀਂਹ ਹੋਰ ਪਿਆ ਤਾਂ ਇਸ ਨਾਲ ਹਰੇ ਚਾਰੇ ਅਤੇ ਸਬਜ਼ੀਆਂ ਨੂੰ ਜ਼ਿਆਦਾ ਨੁਕਸਾਨ ਹੋ ਸਕਦਾ ਹੈ।
-# translit = unhāṁ kihā ki pichale dinī lagātāra pae mīṁha kārana khetāṁ ’ca pāṇī khaṛhā ho giā hai je hora mīṁha hora piā tāṁ isa nāla hare cāre ate sabazīāṁ nūṁ ziādā nukasāna ho sakadā hai.
+# text = ਉਨ੍ਹਾਂ ਕਿਹਾ ਕਿ ਪਿਛਲੇ ਦਿਨੀ ਲਗਾਤਾਰ ਪਏ ਮੀਂਹ ਕਾਰਨ ਖੇਤਾਂ ’ਚ ਪਾਣੀ ਖੜ੍ਹਾ ਹੋ ਗਿਆ ਹੈ ਜੇ ਹੋਰ ਮੀਂਹ ਹੋਰ ਪਿਆ ਤਾਂ ਇਸ ਨਾਲ ਹਰੇ ਚਾਰੇ ਅਤੇ ਸਬਜ਼ੀਆਂ ਨੂੰ ਜ਼ਿਆਦਾ ਨੁਕਸਾਨ ਹੋ ਸਕਦਾ ਹੈ।
+# translit = unhāṁ kihā ki pichale dinī lagātāra pae mīṁha kārana khetāṁ ’ca pāṇī khaṛhā ho giā hai je hora mīṁha hora piā tāṁ isa nāla hare cāre ate sabazīāṁ nūṁ ziādā nukasāna ho sakadā hai.
 1	ਉਨ੍ਹਾਂ	_	PRON	_	_	2	nsubj	2:nsubj	Translit=unhāṁ
 2	ਕਿਹਾ	_	VERB	_	_	0	root	0:root	Translit=kihā
 3	ਕਿ	_	SCONJ	_	_	14	mark	14:mark	Translit=ki
@@ -6527,8 +6527,8 @@
 2	ਬੰਧ	_	NOUN	_	_	0	root	0:root	Translit=baṁdha
 
 # sent_id = nonfiction_diamonds_2
-# text = ਉਸ ਕਰਤਾਪੁਰਖ ਦੇ ਨਾਮ ਨਾਲ ਅਰੰਭ ਕਰਦਾ ਹਾਂ, ਜੋ ਜ਼ਬਾਨਾਂ ਨੂੰ ਸਾਜਣ ਵਾਲਾ ਅਤੇ ਆਦਮ ਨੂੰ ਵਾਕ ਸ਼ਕਤੀ ਤੇ ਉਸ ਨੂੰ ਸਮਝਣ ਦਾ ਗਿਆਨ ਦੇਣ ਵਾਲਾ ਹੈ, ਜਿਸ ਨੇ ਸੰਸਾਰ ਨੂੰ ਰੰਗਾ ਰੰਗ ਦੇ ਸੁਹਜ ਦੇ ਕੇ ਸੁਹਾਵਣਾ ਬਣਾਇਆ, ਜਿਵੇਂ ਇਕ ਮਾਲੀ ਆਪਣੇ ਬਾਗ਼ ਦੇ ਗੋਸ਼ੇ ਗੋਸ਼ੇ ਨੂੰ ਦਿਲਫਰੇਬ ਬਣਾਉਣ ਵਾਸਤੇ ਭਾਂਤ ਭਾਂਤ ਦੇ ਰੰਗ ਤੇ ਮਹਿਕਾਂ ਨਾਲ ਭਰਪੂਰ ਫੁੱਲ ਥਾਂ ਥਾਂ ਤੇ ਉਗਾਉਂਦਾ ਹੈ। ਉਹ ਸਿਰਜਣ ਹਾਰ, ਜਿਸ ਨੇ ਆਦਮੀ ਨੂੰ ਦਿਮਾਗ ਦੀ ਸਹਾਇਤਾ ਨਾਲ ਬੋਲਣਾ, ਸੁਣਨਾ ਤੇ ਸਮਝਣਾ ਸਿਖਾਇਆ ਤੇ ਦੂਜੇ ਬੰਦਿਆਂ ਨਾਲ ਮਿਲ ਵਰਤ ਕੇ ਪ੍ਰੇਮ ਕਰਨ ਦੇ ਰਸਤੇ ਪਾਇਆ।
-# translit = usa karatāpurakha de nāma nāla araṁbha karadā hāṁ, jo zabānāṁ nūṁ sājaṇa vālā ate ādama nūṁ vāka šakatī te usa nūṁ samajhaṇa dā giāna deṇa vālā hai, jisa ne saṁsāra nūṁ raṁgā raṁga de suhaja de ke suhāvaṇā baṇāiā, jiveṁ ika mālī āpaṇe bāğa de goše goše nūṁ dilaphareba baṇāuṇa vāsate bhāṁta bhāṁta de raṁga te mahikāṁ nāla bharapūra phulla thāṁ thāṁ te ugāuṁdā hai. uha sirajaṇa hāra, jisa ne ādamī nūṁ dimāga dī sahāitā nāla bolaṇā, suṇanā te samajhaṇā sikhāiā te dūje baṁdiāṁ nāla mila varata ke prema karana de rasate pāiā.
+# text = ਉਸ ਕਤਾਪੁਰਖ ਦੇ ਨਾਮ ਨਾਲ ਅਰੰਭ ਕਰਦਾ ਹਾਂ, ਜੋ ਜ਼ਬਾਨਾਂ ਨੂੰ ਸਾਜਣ ਵਾਲਾ ਅਤੇ ਆਦਮ ਨੂੰ ਵਾਕ ਸ਼ਕਤੀ ਤੇ ਉਸ ਨੂੰ ਸਮਝਣ ਦਾ ਗਿਆਨ ਦੇਣ ਵਾਲਾ ਹੈ, ਜਿਸ ਨੇ ਸੰਸਾਰ ਨੂੰ ਰੰਗਾ ਰੰਗ ਦੇ ਸੁਹਜ ਦੇ ਕੇ ਸੁਹਾਵਣਾ ਬਣਾਇਆ, ਜਿਵੇਂ ਇਕ ਮਾਲੀ ਆਪਣੇ ਬਾਗ਼ ਦੇ ਗੋਸ਼ੇ ਗੋਸ਼ੇ ਨੂੰ ਦਿਲਫਰੇਬ ਬਣਾਉਣ ਵਾਸਤੇ ਭਾਂਤ ਭਾਂਤ ਦੇ ਰੰਗ ਤੇ ਮਹਿਕਾਂ ਨਾਲ ਭਰਪੂਰ ਫੁੱਲ ਥਾਂ ਥਾਂ ਤੇ ਉਗਾਉਂਦਾ ਹੈ।
+# translit = usa katāpurakha de nāma nāla araṁbha karadā hāṁ, jo zabānāṁ nūṁ sājaṇa vālā ate ādama nūṁ vāka šakatī te usa nūṁ samajhaṇa dā giāna deṇa vālā hai, jisa ne saṁsāra nūṁ raṁgā raṁga de suhaja de ke suhāvaṇā baṇāiā, jiveṁ ika mālī āpaṇe bāğa de goše goše nūṁ dilaphareba baṇāuṇa vāsate bhāṁta bhāṁta de raṁga te mahikāṁ nāla bharapūra phulla thāṁ thāṁ te ugāuṁdā hai.
 1	ਉਸ	_	DET	_	_	2	det	2:det	Translit=usa
 2	ਕਤਾਪੁਰਖ	_	NOUN	_	_	4	nmod	4:nmod	Translit=katāpurakha
 3	ਦੇ	_	ADP	_	_	2	case	2:case	Translit=de
@@ -7218,7 +7218,7 @@
 6	ਵਿਅਕਤੀਆਂ	_	NOUN	_	_	8	nmod	8:nmod	Translit=viakatīāṁ
 7	ਦੀ	_	ADP	_	_	6	case	6:case	Translit=dī
 8	ਗਿਣਤੀ	_	NOUN	_	_	9	nsubj	9:nsubj	Translit=giṇatī
-9	99%	99%	NUM	_	_	0	root	0:root	Translit=99%|LTranslit=99%
+9	99%	99%	NUM	_	_	0	root	0:root	LTranslit=99%|Translit=99%
 10	ਹੈ	_	AUX	_	_	9	cop	9:cop	Translit=hai
 11	ਅਤੇ	_	CCONJ	_	_	23	cc	23:cc	Translit=ate
 12	ਦੁਨੀਆਂ	_	NOUN	_	_	15	nmod	15:nmod	Translit=dunīāṁ
@@ -7243,7 +7243,7 @@
 2	ਵੀ	_	PART	_	_	1	discourse	1:discourse	Translit=vī
 3	ਦੁਨੀਆਂ	_	NOUN	_	_	6	nmod	6:nmod	Translit=dunīāṁ
 4	ਦੀਆਂ	_	ADP	_	_	3	case	3:case	Translit=dīāṁ
-5	99%	99	NUM	_	_	6	nummod	6:nummod	Translit=99%|LTranslit=99
+5	99%	99	NUM	_	_	6	nummod	6:nummod	LTranslit=99|Translit=99%
 6	ਠੱਗੀਆਂ	_	NOUN	_	_	15	nsubj	15:nsubj	SpaceAfter=No|Translit=ṭhaggīāṁ
 7	,	_	PUNCT	_	_	8	punct	8:punct	Translit=,
 8	ਚੋਰੀਆਂ	_	NOUN	_	_	6	conj	6:conj	SpaceAfter=No|Translit=corīāṁ
@@ -7253,7 +7253,7 @@
 12	ਅਤੇ	_	CCONJ	_	_	13	cc	13:cc	Translit=ate
 13	ਬਲਾਤਕਾਰ	_	NOUN	_	_	6	conj	6:conj	Translit=balātakāra
 14	ਇਸ	_	DET	_	_	15	det	15:det	Translit=isa
-15	ਦੇਸ਼	ਦੇਸ਼	NOUN	_	_	0	root	0:root	Translit=deša|LTranslit=deša
+15	ਦੇਸ਼	ਦੇਸ਼	NOUN	_	_	0	root	0:root	LTranslit=deša|Translit=deša
 16	ਵਿੱਚ	_	ADP	_	_	15	case	15:case	Translit=vicca
 17	ਹੀ	_	PART	_	_	15	discourse	15:discourse	Translit=hī
 18	ਹੁੰਦੇ	_	AUX	_	_	15	cop	15:cop	Translit=huṁde
@@ -7366,7 +7366,7 @@
 14	ਸਾਨੂੰ	_	PRON	_	_	20	nsubj	20:nsubj	Translit=sānūṁ
 15	ਬਹੁਤ	_	DET	_	_	17	det	17:det	Translit=bahuta
 16	ਸਾਰੇ	_	DET	_	_	17	det	17:det	Translit=sāre
-17	ਆਦਰਸ਼	ਆਦਰਸ਼	NOUN	_	_	19	obj	19:obj	Translit=ādaraša|LTranslit=ādaraša
+17	ਆਦਰਸ਼	ਆਦਰਸ਼	NOUN	_	_	19	obj	19:obj	LTranslit=ādaraša|Translit=ādaraša
 18	ਅਜਿਹੇ	_	DET	_	_	17	det	17:det	Translit=ajihe
 19	ਅਪਣਾਉਣੇ	_	VERB	_	_	20	xcomp	20:xcomp	Translit=apaṇāuṇe
 20	ਪੈਣਗੇ	_	VERB	_	_	0	root	0:root	Translit=paiṇage
