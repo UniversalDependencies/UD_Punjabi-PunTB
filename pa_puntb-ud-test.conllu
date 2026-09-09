@@ -478,8 +478,8 @@
 13	.	_	PUNCT	_	_	11	punct	11:punct	Translit=.
 
 # sent_id = misc_indiccorp_23
-# text = ਸੰਯੁਕਤ ਰਾਸ਼ਟਰ ਮਨੁੱਖੀ ਅਧਿਕਾਰ ਕਮਿਸ਼ਨ ਸਮੇਤ ਦੁਨੀਆ ਦੇ ਕਈ ਸੰਗਠਨਾਂ ਅਤੇ ਆਸਟ੫ੇਲੀਆ ਸਰਕਾਰ ਨੇ ਚੀਨ ਤੋਂ ਲਿਊ ਸ਼ੀਆ ਨੂੰ ਆਜ਼ਾਦ ਕਰਨ ਦੀ ਮੰਗ ਕੀਤੀ ਹੈ।
-# translit = saṁyukata rāšaṭara manukhkhī adhikāra kamišana sameta dunīā de kaī saṁgaṭhanāṁ ate āsaṭa5ੇlīā sarakāra ne cīna toṁ liū šīā nūṁ āzāda karana dī maṁga kītī hai.
+# text = ਸੰਯੁਕਤ ਰਾਸ਼ਟਰ ਮਨੁੱਖੀ ਅਧਿਕਾਰ ਕਮਿਸ਼ਨ ਸਮੇਤ ਦੁਨੀਆ ਦੇ ਕਈ ਸੰਗਠਨਾਂ ਅਤੇ ਆਸਟ੍ਰੇਲੀਆ ਸਰਕਾਰ ਨੇ ਚੀਨ ਤੋਂ ਲਿਊ ਸ਼ੀਆ ਨੂੰ ਆਜ਼ਾਦ ਕਰਨ ਦੀ ਮੰਗ ਕੀਤੀ ਹੈ।
+# translit = saṁyukata rāšaṭara manukhkhī adhikāra kamišana sameta dunīā de kaī saṁgaṭhanāṁ ate āsaṭrelīā sarakāra ne cīna toṁ liū šīā nūṁ āzāda karana dī maṁga kītī hai.
 1	ਸੰਯੁਕਤ	_	ADJ	_	_	2	amod	2:amod	Translit=saṁyukata
 2	ਰਾਸ਼ਟਰ	_	PROPN	_	_	5	compound	5:compound	Translit=rāšaṭara
 3	ਮਨੁੱਖੀ	_	ADJ	_	_	4	amod	4:amod	Translit=manukhkhī
@@ -577,8 +577,8 @@
 10	-	_	PUNCT	_	_	2	punct	2:punct	Translit=-
 
 # sent_id = misc_indiccorp_30_2
-# text = ਟੈਕਸੀ ਯੂਨੀਅਨ ਤੇ ਦੁਕਾਨਦਾਰਾਂ ਵਲੋਂ ਸਾਂਝੇ ਤੌਰ 'ਤੇ ਪਿੰਡ ਟੁੱਟ ਕਲਾਂ ਜਲੰਧਰ ਵਿਖੇ ਸਰਬੱਤ ਦੇ ਭਲੇ ਵਾਸਤੇ ਧਾਰਮਿਕ ਸਮਾਗਮ ਮਿਤੀ 21 ਸਤੰਬਰ ਨੰੂ ਬਹੁਤ ਹੀ ਸ਼ਰਧਾ ਭਾਵਨਾ ਨਾਲ ਮਨਾਇਆ ਜਾ ਰਿਹਾ ਹੈ ।
-# translit = ṭaikasī yūnīana te dukānadārāṁ valoṁ sāṁjhe taura 'te piṁḍa ṭuṭṭa kalāṁ jalaṁdhara vikhe sarabatta de bhale vāsate dhāramika samāgama mitī 21 sataṁbara naṁੂ bahuta hī šaradhā bhāvanā nāla manāiā jā rihā hai .
+# text = ਟੈਕਸੀ ਯੂਨੀਅਨ ਤੇ ਦੁਕਾਨਦਾਰਾਂ ਵਲੋਂ ਸਾਂਝੇ ਤੌਰ 'ਤੇ ਪਿੰਡ ਟੁੱਟ ਕਲਾਂ ਜਲੰਧਰ ਵਿਖੇ ਸਰਬੱਤ ਦੇ ਭਲੇ ਵਾਸਤੇ ਧਾਰਮਿਕ ਸਮਾਗਮ ਮਿਤੀ 21 ਸਤੰਬਰ ਨੂੰ ਬਹੁਤ ਹੀ ਸ਼ਰਧਾ ਭਾਵਨਾ ਨਾਲ ਮਨਾਇਆ ਜਾ ਰਿਹਾ ਹੈ ।
+# translit = ṭaikasī yūnīana te dukānadārāṁ valoṁ sāṁjhe taura 'te piṁḍa ṭuṭṭa kalāṁ jalaṁdhara vikhe sarabatta de bhale vāsate dhāramika samāgama mitī 21 sataṁbara nūṁ bahuta hī šaradhā bhāvanā nāla manāiā jā rihā hai .
 1	ਟੈਕਸੀ	_	NOUN	_	_	2	compound	2:compound	Translit=ṭaikasī
 2	ਯੂਨੀਅਨ	_	NOUN	_	_	29	obl:agent	29:obl:agent	Translit=yūnīana
 3	ਤੇ	_	CCONJ	_	_	4	cc	4:cc	Translit=te
@@ -653,8 +653,8 @@
 35	।	_	PUNCT	_	_	18	punct	18:punct	Translit=.
 
 # sent_id = misc_indiccorp_30_4
-# text = ਉਪਰੰਤ ਪੰਥਕ ਢਾਡੀ ਗਿਆਨੀ ਸੂਬਾ ਸਿੰਘ ਸਾਗਰ ਤੇ ਜੰਡਿਆਲੇ ਵਾਲੀਆਂ ਬੀਬੀਆਂ ਦੇ ਜਥੇ ਸੰਗਤਾਂ ਨੰੂ ਪੰਥਕ ਇਤਿਹਾਸਕ ਵਾਰਾਂ ਰਾਹੀਂ ਨਿਹਾਲ ਕਰਨਗੇ ।
-# translit = uparaṁta paṁthaka ḍhāḍī giānī sūbā siṁgha sāgara te jaṁḍiāle vālīāṁ bībīāṁ de jathe saṁgatāṁ naṁੂ paṁthaka itihāsaka vārāṁ rāhīṁ nihāla karanage .
+# text = ਉਪਰੰਤ ਪੰਥਕ ਢਾਡੀ ਗਿਆਨੀ ਸੂਬਾ ਸਿੰਘ ਸਾਗਰ ਤੇ ਜੰਡਿਆਲੇ ਵਾਲੀਆਂ ਬੀਬੀਆਂ ਦੇ ਜਥੇ ਸੰਗਤਾਂ ਨੂੰ ਪੰਥਕ ਇਤਿਹਾਸਕ ਵਾਰਾਂ ਰਾਹੀਂ ਨਿਹਾਲ ਕਰਨਗੇ ।
+# translit = uparaṁta paṁthaka ḍhāḍī giānī sūbā siṁgha sāgara te jaṁḍiāle vālīāṁ bībīāṁ de jathe saṁgatāṁ nūṁ paṁthaka itihāsaka vārāṁ rāhīṁ nihāla karanage .
 1	ਉਪਰੰਤ	_	ADV	_	_	21	advmod	21:advmod	Translit=uparaṁta
 2	ਪੰਥਕ	_	ADJ	_	_	3	amod	3:amod	Translit=paṁthaka
 3	ਢਾਡੀ	_	NOUN	_	_	21	nsubj	21:nsubj	Translit=ḍhāḍī
@@ -679,8 +679,8 @@
 22	।	_	PUNCT	_	_	21	punct	21:punct	Translit=.
 
 # sent_id = misc_indiccorp_31_1
-# text = ਬਲਦੇਵ ਸਿੰਘ ਭੰਮ, ਸ੫ੀ ਮੁਕਤਸਰ ਸਾਹਿਬ :
-# translit = baladeva siṁgha bhaṁma, sa5ੀ mukatasara sāhiba :
+# text = ਬਲਦੇਵ ਸਿੰਘ ਭੰਮ, ਸ੍ਰੀ ਮੁਕਤਸਰ ਸਾਹਿਬ :
+# translit = baladeva siṁgha bhaṁma, srī mukatasara sāhiba :
 1	ਬਲਦੇਵ	_	PROPN	_	_	0	root	0:root	Translit=baladeva
 2	ਸਿੰਘ	_	PROPN	_	_	1	flat	1:flat	Translit=siṁgha
 3	ਭੰਮ	_	PROPN	_	_	1	flat	1:flat	SpaceAfter=No|Translit=bhaṁma
@@ -691,8 +691,8 @@
 8	:	_	PUNCT	_	_	1	punct	1:punct	Translit=:
 
 # sent_id = misc_indiccorp_31_2
-# text = ਗੁਰੂ ਨਾਨਕ ਕਾਲਜ ਫ਼ਾਰ ਗਰਲਜ਼ ਤੇ ਗੁਰੂ ਨਾਨਕ ਕਾਲਜੀਏਟ ਸ. ਸ. ਸਕੂਲ ਫ਼ਾਰ ਗਰਲਜ਼, ਸ੫ੀ ਮੁਕਤਸਰ ਸਾਹਿਬ ਵਿਖੇ ਕਾਲਜ ਦੀ ਲੋਕਲ ਮੈਨੇਜਿੰਗ ਕਮੇਟੀ ਦੇ ਵਧੀਕ ਸਕੱਤਰ ਸ.
-# translit = gurū nānaka kālaja fāra garalaza te gurū nānaka kālajīeṭa sa. sa. sakūla fāra garalaza, sa5ੀ mukatasara sāhiba vikhe kālaja dī lokala mainejiṁga kameṭī de vadhīka sakattara sa.
+# text = ਗੁਰੂ ਨਾਨਕ ਕਾਲਜ ਫ਼ਾਰ ਗਰਲਜ਼ ਤੇ ਗੁਰੂ ਨਾਨਕ ਕਾਲਜੀਏਟ ਸ. ਸ. ਸਕੂਲ ਫ਼ਾਰ ਗਰਲਜ਼, ਸ੍ਰੀ ਮੁਕਤਸਰ ਸਾਹਿਬ ਵਿਖੇ ਕਾਲਜ ਦੀ ਲੋਕਲ ਮੈਨੇਜਿੰਗ ਕਮੇਟੀ ਦੇ ਵਧੀਕ ਸਕੱਤਰ ਸ.
+# translit = gurū nānaka kālaja fāra garalaza te gurū nānaka kālajīeṭa sa. sa. sakūla fāra garalaza, srī mukatasara sāhiba vikhe kālaja dī lokala mainejiṁga kameṭī de vadhīka sakattara sa.
 1	ਗੁਰੂ	_	PROPN	_	_	0	root	0:root	Translit=gurū
 2	ਨਾਨਕ	_	PROPN	_	_	1	flat	1:flat	Translit=nānaka
 3	ਕਾਲਜ	_	PROPN	_	_	1	flat	1:flat	Translit=kālaja
