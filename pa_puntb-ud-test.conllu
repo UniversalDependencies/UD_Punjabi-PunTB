@@ -1849,7 +1849,7 @@
 6	ਨਿਹਿਤ	_	ADJ	_	_	7	compound:lvc	7:compound:lvc	Translit=nihita
 7	ਹੁੰਦੀਆਂ	_	VERB	_	_	0	root	0:root	Translit=huṁdīāṁ
 8	ਹਨ	_	AUX	_	_	7	aux	7:aux	Translit=hana
-9	ਜੋ	_	PRON	_	_	17	nsubj	17:nsubj	Translit=jo
+9	ਜੋ	_	PRON	_	_	10	det	17:det	Translit=jo
 10	ਮਾ	_	PROPN	_	_	17	nsubj	17:nsubj	Translit=mā
 11	ਮੁਸ਼ਕਿਲ	_	NOUN	_	_	13	nmod	13:nmod	Translit=mušakila
 12	ਦੇ	_	ADP	_	_	11	case	11:case	Translit=de
@@ -7306,7 +7306,7 @@
 # sent_id = editorial_rationalism_7
 # text = ਜੇ ਧਾਰਮਿਕ ਵਿਅਕਤੀਆਂ ਵਾਗੂੰ ਹੀ ਤਰਕਸ਼ੀਲ ਵੀ ਬੇਈਮਾਨ, ਝੂਠੇ, ਧੋਖੇਬਾਜ਼ ਅਤੇ ਪਾਖੰਡੀ ਹੋਣਗੇ ਤਾਂ ਕੀ ਉਹ ਇੱਕ ਸਮਾਜਿਕ ਤਬਦੀਲੀ ਦੇ ਦੌਰ ਵਿੱਚ ਕੋਈ ਯੋਗਦਾਨ ਪਾ ਸਕਣਗੇ ?
 # translit = je dhāramika viakatīāṁ vāgūṁ hī tarakašīla vī beīmāna, jhūṭhe, dhokhebāza ate pākhaṁḍī hoṇage tāṁ kī uha ikka samājika tabadīlī de daura vicca koī yogadāna pā sakaṇage ?
-1	ਜੇ	_	SCONJ	_	_	8	nsubj	8:nsubj	Translit=je
+1	ਜੇ	_	SCONJ	_	_	8	mark	8:mark	Translit=je
 2	ਧਾਰਮਿਕ	_	ADJ	_	_	3	amod	3:amod	Translit=dhāramika
 3	ਵਿਅਕਤੀਆਂ	_	NOUN	_	_	8	nsubj	8:nsubj	Translit=viakatīāṁ
 4	ਵਾਗੂੰ	_	DET	_	_	6	det	6:det	Translit=vāgūṁ
