@@ -78,12 +78,12 @@
     <dep name="flat">150</dep>
     <dep name="iobj">15</dep>
     <dep name="mark">177</dep>
-    <dep name="nmod">379</dep>
+    <dep name="nmod">383</dep>
     <dep name="nsubj">410</dep>
     <dep name="nsubj:pass">31</dep>
     <dep name="nummod">91</dep>
     <dep name="obj">250</dep>
-    <dep name="obl">451</dep>
+    <dep name="obl">447</dep>
     <dep name="obl:agent">7</dep>
     <dep name="orphan">3</dep>
     <dep name="parataxis">49</dep>

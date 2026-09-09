@@ -1877,10 +1877,10 @@
 9	ਮਾ	_	PROPN	_	_	18	nmod	18:nmod	Translit=mā
 10	ਦਾ	_	ADP	_	_	9	case	9:case	Translit=dā
 11	ਕੰਮ	_	NOUN	_	_	12	obj	12:obj	Translit=kaṁma
-12	ਕਰਨ	_	VERB	_	_	18	obl	18:obl	Translit=karana
+12	ਕਰਨ	_	VERB	_	_	18	nmod	18:obl	Translit=karana
 13	ਨਾਲੋਂ	_	ADP	_	_	12	mark	12:mark	Translit=nāloṁ
 14	ਸਟਾਈਲ	_	NOUN	_	_	15	obj	15:obj	Translit=saṭāīla
-15	ਦਿਖਾਉਣ	_	VERB	_	_	18	obl	18:obl	Translit=dikhāuṇa
+15	ਦਿਖਾਉਣ	_	VERB	_	_	18	nmod	18:obl	Translit=dikhāuṇa
 16	ਵਿੱਚ	_	ADP	_	_	15	mark	15:mark	Translit=vicca
 17	ਜ਼ਿਆਦਾ	_	ADJ	_	_	18	amod	18:amod	Translit=ziādā
 18	ਵਿਸ਼ਵਾਸ	_	NOUN	_	_	19	nsubj	19:nsubj	Translit=višavāsa
@@ -2055,7 +2055,7 @@
 # translit = jalaṁdhara de piṁḍa begamapurā vicca nūṁha-sassa dī sarapaṁcī dī laṛāī pūre paṁjāba 'ca caracā dā višā baṇī hoī sī.
 1	ਜਲੰਧਰ	_	PROPN	_	_	3	nmod	3:nmod	Translit=jalaṁdhara
 2	ਦੇ	_	ADP	_	_	1	case	1:case	Translit=de
-3	ਪਿੰਡ	_	NOUN	_	_	10	obl	10:obl	Translit=piṁḍa
+3	ਪਿੰਡ	_	NOUN	_	_	10	nmod	10:obl	Translit=piṁḍa
 4	ਬੇਗਮਪੁਰਾ	_	PROPN	_	_	3	appos	3:appos	Translit=begamapurā
 5	ਵਿੱਚ	_	ADP	_	_	3	case	3:case	Translit=vicca
 6-8	ਨੂੰਹ-ਸੱਸ	_	_	_	_	_	_	_	Translit=nūṁha-sassa
@@ -7027,7 +7027,7 @@
 1	ਉਥੋਂ	_	PRON	_	_	2	obl	2:obl	Translit=uthoṁ
 2	ਪਰਤ	_	VERB	_	_	11	advcl	11:advcl	Translit=parata
 3	ਕੇ	_	AUX	_	_	2	aux	2:aux	Translit=ke
-4	ਕਾਬਲ	_	PROPN	_	_	6	obl	6:obl	Translit=kābala
+4	ਕਾਬਲ	_	PROPN	_	_	6	nmod	6:obl	Translit=kābala
 5	ਤੋਂ	_	ADP	_	_	4	case	4:case	Translit=toṁ
 6	ਮੁਲਤਾਨ	_	PROPN	_	_	10	nmod	10:nmod	Translit=mulatāna
 7	ਦੇ	_	ADP	_	_	6	case	6:case	Translit=de
