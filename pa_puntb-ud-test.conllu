@@ -12,6 +12,7 @@
 # sent_id = misc_indiccorp_2
 # text = ਸਿਕੰਦਰ ਸਿੰਘ ਮਲੂਕਾ ਅਤੇ ਖੇਡ ਵਿਭਾਗ ਦੇ ਉਚ ਅਧਿਕਾਰੀਆਂ ਦਾ ਤਹਿ ਦਿਲੋਂ ਧੰਨਵਾਦ ਕੀਤਾ ਹੈ ਜਿਨ੍ਹਾਂ ਦੇ ਸਹਿਯੋਗ ਸਦਕਾ ਨਿਊਜ਼ੀਲੈਂਡ ਦੀਆਂ ਖਿਡਾਰਨਾਂ ਪਹਿਲੀ ਵਾਰ ਪੰਜਾਬੀਆਂ ਦੀ ਮਾਂ ਖੇਡ ਕਬੱਡੀ ਨੂੰ ਖੇਡ ਕੇ ਇਕ ਨਵਾਂ ਇਤਿਹਾਸ ਰਚਣਗੀਆਂ।
 # translit = sikaṁdara siṁgha malūkā ate kheḍa vibhāga de uca adhikārīāṁ dā tahi diloṁ dhaṁnavāda kītā hai jinhāṁ de sahiyoga sadakā niūzīlaiṁḍa dīāṁ khiḍāranāṁ pahilī vāra paṁjābīāṁ dī māṁ kheḍa kabaḍḍī nūṁ kheḍa ke ika navāṁ itihāsa racaṇagīāṁ.
+# text_en = I sincerely thank Sikander Singh Maluka and the senior officials of the Sports Department, due to whose support, New Zealand players will create a new history by playing Kabaddi, the mother sport of Punjabis, for the first time.
 1	ਸਿਕੰਦਰ	ਸਿਕੰਦਰ	PROPN	np_msn	Case=Nom|Gender=Masc|Number=Sing	14	obj	14:obj	Translit=sikaṁdara|LTranslit=sikaṁdara
 2	ਸਿੰਘ	ਸਿੰਘ	PROPN	np_msn	Case=Nom|Gender=Masc|Number=Sing	1	flat	1:flat	Translit=siṁgha|LTranslit=siṁgha
 3	ਮਲੂਕਾ	ਮਲੂਕਾ	PROPN	np_msn	Case=Nom|Gender=Masc|Number=Sing	1	flat	1:flat	Translit=malūkā|LTranslit=malūkā
@@ -26,7 +27,7 @@
 12	ਦਿਲੋਂ	ਦਿਲ	NOUN	n_msa	Case=Abl|Gender=Masc|Number=Sing	13	obl	13:obl	Translit=diloṁ|LTranslit=dila
 13	ਧੰਨਵਾਦ	ਧੰਨਵਾਦ	NOUN	n_msn	Case=Nom|Gender=Masc|Number=Sing	14	compound:lvc	14:compound:lvc	Translit=dhaṁnavāda|LTranslit=dhaṁnavāda
 14	ਕੀਤਾ	ਕਰ	VERB	v_p_ms	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|VerbForm=Fin	0	root	0:root	Translit=kītā|LTranslit=kara
-15	ਹੈ	ਹੋ	AUX	a_n_3s	_	14	aux	14:aux	Translit=hai|LTranslit=ho
+15	ਹੈ	ਹੈ	AUX	a_n_3s	_	14	aux	14:aux	Translit=hai|LTranslit=hai
 16	ਜਿਨ੍ਹਾਂ	ਜੋ	PRON	p_po	Case=Acc|Number=Plur	18	nmod	18:nmod	Translit=jinhāṁ|LTranslit=jo
 17	ਦੇ	ਦਾ	ADP	c_mso	Case=Acc|Gender=Masc|Number=Sing	16	case	16:case	Translit=de|LTranslit=dā
 18	ਸਹਿਯੋਗ	ਸਹਿਯੋਗ	NOUN	n_mso	Case=Acc|Gender=Masc|Number=Sing	36	obl	36:obl	Translit=sahiyoga|LTranslit=sahiyoga
@@ -43,7 +44,7 @@
 29	ਕਬੱਡੀ	ਕਬੱਡੀ	NOUN	n_fso	Case=Acc|Gender=Fem|Number=Sing	28	appos	28:appos	Translit=kabaḍḍī|LTranslit=kabaḍḍī
 30	ਨੂੰ	ਨੂੰ	ADP	c	_	29	case	29:case	Translit=nūṁ|LTranslit=nūṁ
 31	ਖੇਡ	ਖੇਡ	VERB	v	_	36	advcl	36:advcl	Translit=kheḍa|LTranslit=kheḍa
-32	ਕੇ	ਕੇ	AUX	v_c	VerbForm=Conv	31	aux	31:aux	Translit=ke|LTranslit=ke
+32	ਕੇ	ਕੇ	PART	v_c	_	31	mark	31:mark	Translit=ke|LTranslit=ke
 33	ਇਕ	ਇਕ	NUM	num	_	35	nummod	35:nummod	Translit=ika|LTranslit=ika
 34	ਨਵਾਂ	ਨਵਾਂ	ADJ	j_msn	Case=Nom|Gender=Masc|Number=Sing	35	amod	35:amod	Translit=navāṁ|LTranslit=navāṁ
 35	ਇਤਿਹਾਸ	ਇਤਿਹਾਸ	NOUN	n_msn	Case=Nom|Gender=Masc|Number=Sing	36	obj	36:obj	Translit=itihāsa|LTranslit=itihāsa
