@@ -7237,26 +7237,26 @@
 # sent_id = editorial_rationalism_4
 # text = ਫਿਰ ਵੀ ਦੁਨੀਆਂ ਦੀਆਂ 99% ਠੱਗੀਆਂ, ਚੋਰੀਆਂ, ਡਾਕੇ ਬਿਮਾਰੀਆਂ ਅਤੇ ਬਲਾਤਕਾਰ ਇਸ ਦੇਸ਼ ਵਿੱਚ ਹੀ ਹੁੰਦੇ ਹਨ।
 # translit = phira vī dunīāṁ dīāṁ 99% ṭhaggīāṁ, corīāṁ, ḍāke bimārīāṁ ate balātakāra isa deša vicca hī huṁde hana.
-1	ਫਿਰ	_	ADV	_	_	15	advmod	_	Translit=phira
-2	ਵੀ	_	PART	_	_	1	discourse	_	Translit=vī
-3	ਦੁਨੀਆਂ	_	NOUN	_	_	6	nmod	_	Translit=dunīāṁ
-4	ਦੀਆਂ	_	ADP	_	_	3	case	_	Translit=dīāṁ
-5	99%	99	NUM	_	_	6	nummod	_	Translit=99%|LTranslit=99
-6	ਠੱਗੀਆਂ	_	NOUN	_	_	15	nsubj	_	SpaceAfter=No|Translit=ṭhaggīāṁ
-7	,	_	PUNCT	_	_	8	punct	_	Translit=,
-8	ਚੋਰੀਆਂ	_	NOUN	_	_	6	conj	_	SpaceAfter=No|Translit=corīāṁ
-9	,	_	PUNCT	_	_	11	punct	_	Translit=,
-10	ਡਾਕੇ	_	ADJ	_	_	11	amod	_	Translit=ḍāke
-11	ਬਿਮਾਰੀਆਂ	_	NOUN	_	_	6	conj	_	Translit=bimārīāṁ
-12	ਅਤੇ	_	CCONJ	_	_	13	cc	_	Translit=ate
-13	ਬਲਾਤਕਾਰ	_	NOUN	_	_	6	conj	_	Translit=balātakāra
-14	ਇਸ	_	DET	_	_	15	det	_	Translit=isa
-15	ਦੇਸ਼	ਦੇਸ਼	NOUN	_	_	0	root	_	Translit=deša|LTranslit=deša
-16	ਵਿੱਚ	_	ADP	_	_	15	case	_	Translit=vicca
-17	ਹੀ	_	PART	_	_	15	discourse	_	Translit=hī
-18	ਹੁੰਦੇ	_	AUX	_	_	15	cop	_	Translit=huṁde
-19	ਹਨ	_	AUX	_	_	15	aux	_	SpaceAfter=No|Translit=hana
-20	।	_	PUNCT	_	_	15	punct	_	Translit=.
+1	ਫਿਰ	_	ADV	_	_	15	advmod	15:advmod	Translit=phira
+2	ਵੀ	_	PART	_	_	1	discourse	1:discourse	Translit=vī
+3	ਦੁਨੀਆਂ	_	NOUN	_	_	6	nmod	6:nmod	Translit=dunīāṁ
+4	ਦੀਆਂ	_	ADP	_	_	3	case	3:case	Translit=dīāṁ
+5	99%	99	NUM	_	_	6	nummod	6:nummod	Translit=99%|LTranslit=99
+6	ਠੱਗੀਆਂ	_	NOUN	_	_	15	nsubj	15:nsubj	SpaceAfter=No|Translit=ṭhaggīāṁ
+7	,	_	PUNCT	_	_	8	punct	8:punct	Translit=,
+8	ਚੋਰੀਆਂ	_	NOUN	_	_	6	conj	6:conj	SpaceAfter=No|Translit=corīāṁ
+9	,	_	PUNCT	_	_	11	punct	11:punct	Translit=,
+10	ਡਾਕੇ	_	ADJ	_	_	11	amod	11:amod	Translit=ḍāke
+11	ਬਿਮਾਰੀਆਂ	_	NOUN	_	_	6	conj	6:conj	Translit=bimārīāṁ
+12	ਅਤੇ	_	CCONJ	_	_	13	cc	13:cc	Translit=ate
+13	ਬਲਾਤਕਾਰ	_	NOUN	_	_	6	conj	6:conj	Translit=balātakāra
+14	ਇਸ	_	DET	_	_	15	det	15:det	Translit=isa
+15	ਦੇਸ਼	ਦੇਸ਼	NOUN	_	_	0	root	0:root	Translit=deša|LTranslit=deša
+16	ਵਿੱਚ	_	ADP	_	_	15	case	15:case	Translit=vicca
+17	ਹੀ	_	PART	_	_	15	discourse	15:discourse	Translit=hī
+18	ਹੁੰਦੇ	_	AUX	_	_	15	cop	15:cop	Translit=huṁde
+19	ਹਨ	_	AUX	_	_	15	aux	15:aux	SpaceAfter=No|Translit=hana
+20	।	_	PUNCT	_	_	15	punct	15:punct	Translit=.
 
 # sent_id = editorial_rationalism_5
 # text = ਜਿਸਦਾ ਸਿੱਟਾ ਇਹ ਹੈ ਕਿ ਧਾਰਮਿਕ ਵਿਅਕਤੀ ਕਦੇ ਵੀ ਸਾਫ ਸੁਥਰੀ ਦਿੱਖ ਵਾਲੇ ਨਹੀਂ ਹੋ ਸਕਦੇ।
