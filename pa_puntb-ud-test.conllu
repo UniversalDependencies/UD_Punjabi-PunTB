@@ -187,7 +187,7 @@
 # sent_id = misc_indiccorp_9
 # text = ਆਪਣੇ ਆਪ ਨੂੰ ਚੈੱਕ ਕਰੋ: ਪੇਟ ਦੇ ਅੰਦਰ ਪੱਟੀ ਨੂੰ ਸਹੀ ਢੰਗ ਨਾਲ ਪਾਓ, ਪੱਬਾਂ ਦੀ ਹੱਡੀ ਫੜੋ, ਅਤੇ ਕੁੜੀਆਂ 'ਤੇ ਝੁਕੋ.
 # translit = āpaṇe āpa nūṁ caikka karo: peṭa de aṁdara paṭṭī nūṁ sahī ḍhaṁga nāla pāo, pabbāṁ dī haḍḍī phaṛo, ate kuṛīāṁ 'te jhuko.
-1	ਆਪਣੇ	_	PRON	_	_	2	fixed	2:fixed	Translit=āpaṇe
+1	ਆਪਣੇ	_	PRON	_	_	2	nmod	2:nmod	Translit=āpaṇe
 2	ਆਪ	_	PRON	_	_	5	obj	5:obj	Translit=āpa
 3	ਨੂੰ	_	ADP	_	_	2	case	2:case	Translit=nūṁ
 4	ਚੈੱਕ	_	ADJ	_	_	5	compound:lvc	5:compound:lvc	Translit=caikka
