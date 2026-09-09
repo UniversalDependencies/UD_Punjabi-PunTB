@@ -1736,8 +1736,8 @@
 
 # sent_id = misc_flores_18
 # trans = British newspaper The Guardian suggested Deutsche Bank controlled roughly a third of the 1200 shell companies used to accomplish this.
-# text = ਰਿਟਿਸ਼ ਅਖ਼ਬਾਰ The Guardian ਨੇ ਸੁਝਾਅ ਦਿੱਤਾ ਕਿ ਡਯੂਸ਼ੇ ਬੈਂਕ ਨੇ ਇਸਨੂੰ ਪੂਰਾ ਕਰਨ ਵਿੱਚ ਉਪਯੋਗ ਕੀਤੀਆਂ ਜਾਣ ਵਾਲੀਆਂ 1200 ਸ਼ੈੱਲ ਕੰਪਨੀਆਂ ਵਿੱਚੋਂ ਤਕਰੀਬਨ ਇੱਕ ਤਿਹਾਈ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕੀਤਾ।
-# translit = riṭiša axabāra The Guardian ne sujhāa dittā ki ḍayūše baiṁka ne isanūṁ pūrā karana vicca upayoga kītīāṁ jāṇa vālīāṁ 1200 šailla kaṁpanīāṁ viccoṁ takarībana ikka tihāī nūṁ niyaṁtarita kītā.
+# text = ਬ੍ਰਿਟਿਸ਼ ਅਖ਼ਬਾਰ The Guardian ਨੇ ਸੁਝਾਅ ਦਿੱਤਾ ਕਿ ਡਯੂਸ਼ੇ ਬੈਂਕ ਨੇ ਇਸਨੂੰ ਪੂਰਾ ਕਰਨ ਵਿੱਚ ਉਪਯੋਗ ਕੀਤੀਆਂ ਜਾਣ ਵਾਲੀਆਂ 1200 ਸ਼ੈੱਲ ਕੰਪਨੀਆਂ ਵਿੱਚੋਂ ਤਕਰੀਬਨ ਇੱਕ ਤਿਹਾਈ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕੀਤਾ।
+# translit = briṭiša axabāra The Guardian ne sujhāa dittā ki ḍayūše baiṁka ne isanūṁ pūrā karana vicca upayoga kītīāṁ jāṇa vālīāṁ 1200 šailla kaṁpanīāṁ viccoṁ takarībana ikka tihāī nūṁ niyaṁtarita kītā.
 1	ਬ੍ਰਿਟਿਸ਼	_	ADJ	_	_	2	amod	2:amod	Translit=briṭiša
 2	ਅਖ਼ਬਾਰ	_	NOUN	_	_	7	nsubj	7:nsubj	Translit=axabāra
 3	The	_	PROPN	_	_	2	appos	2:appos	Translit=The
@@ -2105,8 +2105,8 @@
 22	।	_	PUNCT	_	_	20	punct	20:punct	Translit=.
 
 # sent_id = news_bbc_inlaw_5
-# text = ਕਮਲਜੀਤ ਕੌਰ ਨੇ 88 ਵੋਟਾਂ ਹਾਸਲ ਕੀਤੀਆਂ ਜਦਕਿ ਉਸਦੀ ਸੱਸ ਨੂੰ 41 ਵੋਟਾਂ ਹੀ ਮਿਲੀਆਂ ਸਨ।
-# translit = kamalajīta kaura ne 88 voṭāṁ hāsala kītīāṁ jadaki usadī sassa nūṁ 41 voṭāṁ hī milīāṁ sana.
+# text = ਮਲਜੀਤ ਕੌਰ ਨੇ 88 ਵੋਟਾਂ ਹਾਸਲ ਕੀਤੀਆਂ ਜਦਕਿ ਉਸਦੀ ਸੱਸ ਨੂੰ 41 ਵੋਟਾਂ ਹੀ ਮਿਲੀਆਂ ਸਨ।
+# translit = malajīta kaura ne 88 voṭāṁ hāsala kītīāṁ jadaki usadī sassa nūṁ 41 voṭāṁ hī milīāṁ sana.
 1	ਮਲਜੀਤ	_	PROPN	_	_	7	nsubj	7:nsubj	Translit=malajīta
 2	ਕੌਰ	_	PROPN	_	_	1	flat	1:flat	Translit=kaura
 3	ਨੇ	_	ADP	_	_	1	case	1:case	Translit=ne
@@ -2584,8 +2584,8 @@
 21	।	_	PUNCT	_	_	19	punct	19:punct	Translit=.
 
 # sent_id = news_bbc_inlaw_25
-# text = ਜਲੰਧਰ ਦੇ ਪਿੰਡ ਪਤਾਰਾ ਵਿੱਚ ਵਾਰਡ ਨੰਬਰ 4 ਤੋਂ ਪੰਚੀ ਦੀ ਚੋਣ ਲਈ ਦਰਾਣੀਆਂ-ਜਠਾਣੀਆਂ ਆਹਮੋ-ਸਾਹਮਣੇ ਸਨ।
-# translit = jalaṁdhara de piṁḍa patārā vicca vāraḍa naṁbara 4 toṁ paṁcī dī coṇa laī darāṇīāṁ-jaṭhāṇīāṁ āhamo-sāhamaṇe sana.
+# text = ਇਸ ਚੋਣ ਵਿੱਚ ਜਠਾਣੀ ਨੇ ਦਰਾਣੀ ਨੂੰ ਹਰਾਇਆ।
+# translit = isa coṇa vicca jaṭhāṇī ne darāṇī nūṁ harāiā.
 1	ਇਸ	_	DET	_	_	2	det	2:det	Translit=isa
 2	ਚੋਣ	_	NOUN	_	_	8	obl	8:obl	Translit=coṇa
 3	ਵਿੱਚ	_	ADP	_	_	2	case	2:case	Translit=vicca
