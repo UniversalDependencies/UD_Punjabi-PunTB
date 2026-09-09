@@ -5920,7 +5920,7 @@
 17	ਪੈਸਾ	_	NOUN	_	_	26	obj	26:obj	SpaceAfter=No|Translit=paisā
 18	,	_	PUNCT	_	_	19	punct	19:punct	Translit=,
 19	ਸਮਾਂ	_	NOUN	_	_	17	conj	17:conj|26:obj	SpaceAfter=No|Translit=samāṁ
-20	,	_	PART	_	_	21	punct	21:punct	Translit=,
+20	,	_	PUNCT	_	_	21	punct	21:punct	Translit=,
 21	ਸ਼ਕਤੀ	_	NOUN	_	_	17	conj	17:conj|26:obj	SpaceAfter=No|Translit=šakatī
 22	,	_	PUNCT	_	_	23	punct	23:punct	Translit=,
 23	ਰਸੂਖ	_	NOUN	_	_	17	conj	17:conj|26:obj	Translit=rasūkha
